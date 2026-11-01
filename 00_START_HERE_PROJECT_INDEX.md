@@ -131,3 +131,8 @@ An illustrative OpenTrain-oriented HR benchmark: an AI assistant is asked to rev
 ## Project 51 — Enterprise AI & Smart Data | Governance, BI & Analytics
 
 **[Open Project 51 — Enterprise AI & Smart Data | Governance, BI & Analytics](51_Enterprise_AI_and_Smart_Data_Governance_BI_Analytics/)** — Transguard Senior Manager AI & Smart Data JD-aligned fictional UAE insurance use case. **Runnable synthetic Python/scikit-learn claims-review routing demo and data-quality tests**, plus Azure Data Factory/Databricks/Synapse/ADLS/AML/Microsoft Purview reference architecture, data fabric/mesh, master-data and BI examples, AI/BI CoE charter, responsible-AI control register, and a conservative ROI/vetting model. **No live insurer data, Azure deployment, Microsoft Power BI execution, production model results, or certifications are claimed.**
+
+
+## Project 42 — Human–AI Workforce Intelligence Dashboards
+
+**[Open Project 42 dashboards](42_Human-AI_Workforce_Design_and_Agent_Governance/dashboards/README.md)** — Three original executive visuals and a self-contained HTML dashboard: 28 actual local JavaScript rule-engine test records (**26/28 full passes; release HOLD**), an explicitly illustrative human–AI operating-model capacity scenario and an evidence-first recruitment audit framework. Includes [client-pain hypotheses, methodology, tools and results](42_Human-AI_Workforce_Design_and_Agent_Governance/DASHBOARD_METHODOLOGY.md). **Not a client deployment, measured hiring/financial benefit, Copilot Studio, Power BI or LLM test.**
