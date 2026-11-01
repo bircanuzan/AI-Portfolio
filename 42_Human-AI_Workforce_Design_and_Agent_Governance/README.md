@@ -2,6 +2,13 @@
 
 **Bircan Uzan | HumanEvoX | UAE professional-services industry application**
 
+## NEW — Human–AI Workforce Intelligence dashboards
+
+**[Explore three executive dashboards](dashboards/README.md)** — a [downloadable, interactive HTML dashboard](dashboards/human_ai_workforce_dashboard.html), three GitHub-previewable SVG charts and a [methodology / technical stack / business pain points / outcomes report](DASHBOARD_METHODOLOGY.md). Designed for a hypothetical UAE professional-services HR client need. Dashboard 1 uses **actual recorded local JavaScript rule-engine evaluations** from Project 43 (26/28 full passes, 17/17 required human flags, 2/3 correct approval routes, **HOLD**). Dashboard 2 is an editable **illustrative** workforce time model; Dashboard 3 is an **unvalidated** hiring evidence and governance checklist. **None represents a real customer deployment, measured cost reduction, LLM or Power BI implementation.**
+
+![Executive dashboard — rule-based agent quality](dashboards/01_agent_quality_governance.svg)
+
+
 ## Purpose and evidence status
 An original **industry-based HR service design and governance laboratory** built around the challenge of supervising software agents like digital workers. It draws on HR competency design, assessment-centre evaluation, probation, performance review, RACI, process mapping and change management. This is **not a commissioned client project**. The industry setting and sample policies are illustrative; no company is identified or implied as a client.
 
