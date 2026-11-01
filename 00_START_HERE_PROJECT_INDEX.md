@@ -10,6 +10,10 @@ This portfolio brings together **AI-enabled HR transformation, talent intelligen
 
 ---
 
+## NEW — Project 52: Research-to-Practice People Analytics Dashboards
+
+**[Open the HumanEvoX People Analytics Dashboard Library](52_HR_People_Analytics_Research_Dashboard_Library/)** — **60 original visual dashboards and individual business-case methods**, covering AI impact verification, agent governance, workforce design, evidence-first hiring, skills, retention, employee experience, leadership, hybrid work and wellbeing. Topics are grounded in 11 linked Nicolas Behbahani research articles (August–October 2026); **all displayed chart values are explicitly synthetic, not measured client outcomes**. Includes an offline interactive HTML explorer, 60 GitHub-previewable SVG charts and a research methodology and metric catalogue.
+
 ## HR, People Analytics & Workforce Transformation
 
 | No. | Project folder | What it means | What you will find |
