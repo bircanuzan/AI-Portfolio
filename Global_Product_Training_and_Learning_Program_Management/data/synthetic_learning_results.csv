@@ -1,0 +1,13 @@
+learner_id,region,role,assigned,completed,assessment_score,critical_error,manager_observed
+F001,GCC,account_executive,1,1,24,0,1
+F002,EMEA,account_executive,1,1,22,0,1
+F003,APAC,channel_partner,1,1,18,0,0
+F004,GCC,account_executive,1,1,21,1,1
+F005,EMEA,channel_partner,1,0,,,0
+F006,North_America,account_executive,1,1,20,0,0
+F007,GCC,account_executive,1,1,25,0,1
+F008,EMEA,account_executive,1,1,19,0,0
+F009,APAC,channel_partner,1,1,23,0,1
+F010,North_America,account_executive,1,1,21,0,0
+F011,EMEA,channel_partner,1,0,,,0
+F012,GCC,account_executive,1,1,24,0,1
