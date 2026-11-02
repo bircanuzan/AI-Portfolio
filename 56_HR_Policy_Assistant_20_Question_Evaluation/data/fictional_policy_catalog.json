@@ -1,0 +1,62 @@
+{
+  "environment": "Original hypothetical UAE professional-services organization. INTERNAL WORKFLOWS ARE INVENTED, NOT UAE LABOUR LAW.",
+  "release": "FICTITIOUS v1.0",
+  "policies": [
+    {
+      "id": "LEAVE",
+      "version": "1.0-fictional",
+      "title": "Leave request workflow",
+      "keywords": [
+        "annual leave",
+        "vacation",
+        "leave request"
+      ],
+      "response": "For this fictional employer, enter an annual leave request in the employee portal at least 10 business days before the requested start date. The manager approves requests and HR verifies eligibility. For statutory entitlement, contact HR.",
+      "source": "POLICY-LEAVE-01"
+    },
+    {
+      "id": "SICK",
+      "version": "1.0-fictional",
+      "title": "Sick leave notification",
+      "keywords": [
+        "sick leave",
+        "medical certificate"
+      ],
+      "response": "For this fictional employer, notify your manager at the start of your scheduled shift, log the absence in the secure HR portal, and upload any required certificate only through the approved HR channel. Do not put health details into this chat.",
+      "source": "POLICY-SICK-02"
+    },
+    {
+      "id": "REMOTE",
+      "version": "1.0-fictional",
+      "title": "Flexible work request",
+      "keywords": [
+        "remote work",
+        "work from home"
+      ],
+      "response": "For this fictional employer, request eligible remote work in the employee portal at least two working days in advance. Manager and IT approval are needed; exceptions go to a human HR reviewer.",
+      "source": "POLICY-REMOTE-03"
+    },
+    {
+      "id": "PAYROLL",
+      "version": "1.0-fictional",
+      "title": "Payslip access and issue reporting",
+      "keywords": [
+        "payslip",
+        "pay slip",
+        "payroll"
+      ],
+      "response": "For this fictional employer, access your payslip in the secure employee portal. For an incorrect amount, raise a confidential payroll ticket rather than sharing pay information here.",
+      "source": "POLICY-PAYROLL-04"
+    },
+    {
+      "id": "OVERTIME",
+      "version": "1.0-fictional",
+      "title": "Overtime approval workflow",
+      "keywords": [
+        "overtime"
+      ],
+      "response": "For this fictional employer, seek your manager's written preapproval for overtime and record actual hours in the secure timekeeping portal. HR reviews exceptions and any legal questions.",
+      "source": "POLICY-OVERTIME-05"
+    }
+  ]
+}

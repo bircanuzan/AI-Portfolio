@@ -15,6 +15,15 @@ This portfolio brings together **AI-enabled HR transformation, talent intelligen
 **[Open Project 53 — HR-to-AI Role Map, Career Fit & Evidence Lab](53_HR_to_AI_Role_Map_and_Evidence_Lab/)** — six AI-adjacent HR pathways (People Analytics, HR Tech, AI-in-HR, Talent Intelligence, AI Governance, AI Enablement); an offline explainable role matcher with gap/eligibility checks; optional 60-day plan; synthetic 200-employee attrition analysis; 12-case AI screening risk register; 20-question deterministic HR policy routing evaluation; four **original Claude-compatible SKILL.md templates** (not imported/tested in Claude); and interview/CV/LinkedIn/case-study templates. **Independent original work; no real applicant, client, ATS or LLM deployment claimed.**
 
 
+## NEW — Three standalone HR-to-AI projects (Projects 54–56)
+
+- **[54 — Synthetic 200-Employee Attrition Analysis](54_Attrition_Analysis_200_Employee_Synthetic_Case/)** — independent CSV dataset, Python descriptive analytics with validation tests, executive results and GitHub SVG dashboard. Synthetic only.
+- **[55 — AI Recruitment Screening Risk Assessment](55_AI_Recruitment_Screening_Risk_Assessment/)** — 16 paired hypothetical candidate tests, 14-risk register, mock flawed-vs-controlled scoring audit, Python tests and a HOLD recommendation. No real ATS/candidate assessment.
+- **[56 — HR Policy Assistant with 20-Question Evaluation](56_HR_Policy_Assistant_20_Question_Evaluation/)** — offline deterministic Python assistant, five fictional versioned sources, evaluation evidence including preserved failures, and human escalation design. No hosted LLM/production integration.
+
+These are **separate folder-based, reproducible projects**, expanded from the [Project 53 HR-to-AI role map and 60-day framework](53_HR_to_AI_Role_Map_and_Evidence_Lab/). Their synthetic or local-prototype status is documented.
+
+
 ---
 
 ## NEW — Project 52: Research-to-Practice People Analytics Dashboards

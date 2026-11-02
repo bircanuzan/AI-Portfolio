@@ -40,3 +40,13 @@ No APIs, dependencies, personal data, paid Claude subscription or cloud account 
 This is a **cross-project navigator and evidence pack**, not a replacement for existing [Project 03 (people analytics)](../03_People_Analytics_AI/), [Project 43 (policy agent prototype)](../43_Microsoft_Copilot_Studio_HR_Service_Agent_Prototype/), [Project 44 (AI governance)](../44_AI_Ethics_Responsible_AI_and_AI_Governance/), [Project 47 (adoption)](../47_AI_Adoption_Program_Management/), [Project 49 (psychometrics)](../49_Psychometric_Assessment_and_Talent_Evaluation/) or [Project 52 (dashboards)](../52_HR_People_Analytics_Research_Dashboard_Library/).
 
 **No client deployment, attrition prediction, AI bias certification, proprietary Claude skill, actual ATS audit or production HR agent is claimed.** Professionally relevant evidence must be checked role by role against real vacancies before use in a CV or interview.
+
+## Three standalone hands-on projects built from this framework
+
+The original compact case exercises below have been expanded into three complete independent GitHub folders:
+
+1. **[Project 54 — 200-employee attrition analysis](../54_Attrition_Analysis_200_Employee_Synthetic_Case/)** — its own synthetic 200-row dataset, Python metrics, tests and departmental dashboard.
+2. **[Project 55 — AI recruitment screening risk](../55_AI_Recruitment_Screening_Risk_Assessment/)** — paired synthetic candidate test fixtures, flawed vs controlled mock scorer, risk register and release gate.
+3. **[Project 56 — HR policy assistant](../56_HR_Policy_Assistant_20_Question_Evaluation/)** — versioned fictional policies, working local Python router, 20 prompt evaluations, mismatch evidence and human escalation blueprint.
+
+These **extend** the original exercises rather than claiming that a synthetic prototype is a real ATS, deployed cloud model or client success story.

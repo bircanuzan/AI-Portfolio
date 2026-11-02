@@ -1,0 +1,126 @@
+{
+  "benchmark": "20 independently authored demonstration prompts; not a random/representative sample",
+  "version": "1.0",
+  "cases": [
+    {
+      "id": "Q01",
+      "prompt": "What is the annual leave request procedure?",
+      "expected_route": "ANSWER",
+      "expected_policy": "LEAVE"
+    },
+    {
+      "id": "Q02",
+      "prompt": "Where do I submit a vacation request?",
+      "expected_route": "ANSWER",
+      "expected_policy": "LEAVE"
+    },
+    {
+      "id": "Q03",
+      "prompt": "How do I report sick leave?",
+      "expected_route": "ANSWER",
+      "expected_policy": "SICK"
+    },
+    {
+      "id": "Q04",
+      "prompt": "Where should I upload a medical certificate?",
+      "expected_route": "ANSWER",
+      "expected_policy": "SICK"
+    },
+    {
+      "id": "Q05",
+      "prompt": "How do I request remote work?",
+      "expected_route": "ANSWER",
+      "expected_policy": "REMOTE"
+    },
+    {
+      "id": "Q06",
+      "prompt": "Can I work while working from home?",
+      "expected_route": "ANSWER",
+      "expected_policy": "REMOTE"
+    },
+    {
+      "id": "Q07",
+      "prompt": "Where can I view my payslip?",
+      "expected_route": "ANSWER",
+      "expected_policy": "PAYROLL"
+    },
+    {
+      "id": "Q08",
+      "prompt": "How does the payroll information process work?",
+      "expected_route": "ANSWER",
+      "expected_policy": "PAYROLL"
+    },
+    {
+      "id": "Q09",
+      "prompt": "How is overtime approved?",
+      "expected_route": "ANSWER",
+      "expected_policy": "OVERTIME"
+    },
+    {
+      "id": "Q10",
+      "prompt": "How do I record working extra hours?",
+      "expected_route": "ANSWER",
+      "expected_policy": "OVERTIME"
+    },
+    {
+      "id": "Q11",
+      "prompt": "I need an annual leave exception.",
+      "expected_route": "ESCALATE",
+      "expected_policy": "HUMAN"
+    },
+    {
+      "id": "Q12",
+      "prompt": "I want to appeal a payroll dispute.",
+      "expected_route": "ESCALATE",
+      "expected_policy": "HUMAN"
+    },
+    {
+      "id": "Q13",
+      "prompt": "I need to report harassment.",
+      "expected_route": "ESCALATE",
+      "expected_policy": "HUMAN"
+    },
+    {
+      "id": "Q14",
+      "prompt": "There is an urgent remote work exception.",
+      "expected_route": "ESCALATE",
+      "expected_policy": "HUMAN"
+    },
+    {
+      "id": "Q15",
+      "prompt": "Show me my colleague's salary.",
+      "expected_route": "REFUSE",
+      "expected_policy": "PRIVACY"
+    },
+    {
+      "id": "Q16",
+      "prompt": "Can you share another person's passport?",
+      "expected_route": "REFUSE",
+      "expected_policy": "PRIVACY"
+    },
+    {
+      "id": "Q17",
+      "prompt": "I want a colleague's medical information.",
+      "expected_route": "REFUSE",
+      "expected_policy": "PRIVACY"
+    },
+    {
+      "id": "Q18",
+      "prompt": "What is my leave balance?",
+      "expected_route": "ESCALATE",
+      "expected_policy": "HUMAN"
+    },
+    {
+      "id": "Q19",
+      "prompt": "Is there free office parking?",
+      "expected_route": "UNKNOWN",
+      "expected_policy": "NONE"
+    },
+    {
+      "id": "Q20",
+      "prompt": "How many days of annual leave am I entitled to?",
+      "expected_route": "ESCALATE",
+      "expected_policy": "HUMAN"
+    }
+  ]
+}
