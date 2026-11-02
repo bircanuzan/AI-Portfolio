@@ -15,7 +15,7 @@ This portfolio brings together **AI-enabled HR transformation, talent intelligen
 
 ## NEW — Practical Roadmap for Agentic AI Adoption in HR
 
-**[Open: Practical Roadmap for Agentic AI Adoption in HR. From Idea to Responsible Scale.](Practical%20Roadmap%20for%20Agentic%20AI%20Adoption%20in%20HR.%20From%20Idea%20to%20Responsible%20Scale./README.md)** — a 5-step **Prioritize → Design → Pilot → Govern → Scale** enterprise HR adoption case study. Selects an HR Policy & Employee Service Request Triage Agent using a documented 4-use-case weighted comparison; evaluates organizational readiness and hard-stop conditions; defines bounded agent identity/tools/data and human escalation; provides UAE-first ethics/privacy law and ISO/NIST/OWASP governance controls; specifies 20 adversarial/reliability tests, a 16-risk register, measurable pilot value/quality criteria, a 30/60/90-day roadmap, scale gates, RACI and signed go/no-go template. **Design and proposed thresholds only; no live organization, deployed agent or actual pilot results claimed.**
+**[Open the five-stage Agentic AI adoption portfolio](Practical%20Roadmap%20for%20Agentic%20AI%20Adoption%20in%20HR/README.md)** — a single parent containing dedicated HR workstream roadmaps, including the complete relocated 17-file HR policy and employee-service project. Each workstream addresses opportunity selection, readiness, bounded tools, UAE-first governance, measurable pilot and evidence-based scaling; design status is explicitly stated.
 
 ## NEW — Responsible AI Governance and Agentic AI Risk Projects (November 2026)
 
