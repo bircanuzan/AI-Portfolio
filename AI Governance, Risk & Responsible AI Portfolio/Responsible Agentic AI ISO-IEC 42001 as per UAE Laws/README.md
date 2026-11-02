@@ -13,6 +13,15 @@ Agentic recruiting assistants may read HR policies, draft candidate communicatio
 - On **2026-11-02**, local evaluation produced **12/12 matching expected decisions, 0 failed**, and **9/9 passing unit tests**; see `evidence/EXECUTION_NOTE.md`. Those are tests of **our authored rules**, not empirical agent/model performance.
 - A HumanEvoX-oriented **AIMS implementation plan**, UAE legal/guidance applicability matrix, AI risk register, owner/control matrix, incident and policy procedures, sample audit package and blank project-hours log.
 
+## NEW — Evidence-backed Responsible AI assessment and actual career-entry bridge
+
+The **governance gate in this folder remains a deterministic simulation**. Separately, the repository's [working HR-policy LLM experiment](../../Agentic%20AI%20Application%20Testing%20%26%20Evaluation%20for%20HR%20Transformation/README.md) preserves **three genuine Qwen model outputs** from a 2026-11-02 GitHub Actions run (plus three other host-controlled scenarios). Those actual responses revealed omitted annual-leave facts, missing manager-approval conditions, and unsupported onboarding details. All three generated drafts were kept separate from source-backed served answers.
+
+- **[Real LLM assurance and CAPA case study](docs/REAL_LLM_ASSURANCE_CASE_STUDY.md)** — 6 evidence-linked case findings, observed model failures, preliminary impact review, proposed controls, open corrective actions and independent-audit questions. It is an original portfolio *assessment* of observed output, not a client audit or ISO conformity claim.
+- **[Responsible AI entry roadmap and HumanEvoX paid-pilot scope](docs/RESPONSIBLE_AI_CAREER_ENTRY_AND_PAID_PILOT.md)** — four-week work-based learning plan, entry-level governance/assurance roles, client pilot acceptance criteria, honest CV phrasing and certification decision gates.
+
+**Proof boundary:** A model was actually called in the *companion* project, but no HumanEvoX customer pilot, independent audit, enterprise deployment or management-system certification has been performed. No CAPA is marked closed.
+
 ## Repository map
 | Path | Purpose |
 |---|---|
