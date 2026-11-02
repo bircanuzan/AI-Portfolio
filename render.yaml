@@ -1,0 +1,19 @@
+# Optional zero-cost pilot deployment; free services may sleep when idle.
+# No live deployment occurs until the account owner authorizes the host
+# and securely supplies an OpenAI API credential.
+services:
+  - type: web
+    name: humanevox-hr-agent-pilot
+    runtime: python
+    plan: free
+    rootDir: Agentic AI Application Testing & Evaluation for HR Transformation
+    buildCommand: pip install -r requirements-service.txt
+    startCommand: uvicorn service.api:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /health
+    envVars:
+      - key: HUMANEVOX_MODEL_PROVIDER
+        value: openai
+      - key: HUMANEVOX_APP_TOKEN
+        generateValue: true
+      - key: OPENAI_API_KEY
+        sync: false
