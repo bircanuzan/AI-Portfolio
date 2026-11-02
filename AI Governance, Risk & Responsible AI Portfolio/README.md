@@ -13,6 +13,15 @@ HumanEvoX | Five project collections, including a new ISO/IEC 42001 agentic-gove
 
 5. **[Responsible Agentic AI ISO/IEC 42001 as per UAE Laws](Responsible%20Agentic%20AI%20ISO-IEC%2042001%20as%20per%20UAE%20Laws/)** — UAE federal/DIFC/ADGM legal applicability, ISO/IEC 42001 AIMS roadmap, draft policies, 10-risk register, evidence and PECB hours integrity; **executed local deterministic Python prototype** (12/12 synthetic cases, 9 tests). No live LLM or actual HumanEvoX/client deployment claimed.
 
+## NEW — Real-model assurance work and practical employment bridge
+
+The ISO/IEC 42001 learning lab now links to **real (synthetic-data) LLM output evidence** from the separate [HR policy model experiment](../Agentic%20AI%20Application%20Testing%20%26%20Evaluation%20for%20HR%20Transformation/evidence/first_run_qwen_0_5b.json).
+
+- [Evidence-backed Responsible AI assessment and open CAPAs](Responsible%20Agentic%20AI%20ISO-IEC%2042001%20as%20per%20UAE%20Laws/docs/REAL_LLM_ASSURANCE_CASE_STUDY.md) — three observed raw model response defects, three host-only control cases, proposed corrections and a HOLD decision for external release.
+- [Governance career-entry plan + proposed HumanEvoX paid pilot](Responsible%20Agentic%20AI%20ISO-IEC%2042001%20as%20per%20UAE%20Laws/docs/RESPONSIBLE_AI_CAREER_ENTRY_AND_PAID_PILOT.md) — honest practice-to-employment path for AI governance analyst and assurance positions.
+
+**This is a supervised-learning/portfolio assurance exercise, not real client work, production deployment, ISO certification, paid pilot completion, or independent external audit.**
+
 ## How to navigate and run demonstrations
 
 Each project retains its original folder name, file hierarchy and project-specific README. Links between folders within this consolidated portfolio stay at the same relative depth.
