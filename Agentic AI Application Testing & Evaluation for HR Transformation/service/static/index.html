@@ -1,0 +1,9 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>HumanEvoX | HR AI Agent Pilot</title><link rel="stylesheet" href="/style.css"></head>
+<body><main class="frame"><header><div class="brand">HUMAN<span>EVOX</span></div><p>HR Transformation · Policy Agent Pilot</p></header>
+<section class="notice">Synthetic policy demonstration only. Do not enter employee records, names, email addresses or other personal information. The agent cannot approve HR actions.</section>
+<section class="auth"><label for="token">Private access token</label><input id="token" type="password" autocomplete="off" placeholder="Enter authorized pilot token"><span>Kept only in this browser tab's memory; not stored.</span></section>
+<section id="messages" role="log" aria-live="polite" aria-label="Conversation"><div class="message system">Ask about annual leave, remote work, reimbursement, onboarding or HR performance policy.</div></section>
+<form id="chat-form"><label for="question">HR policy question</label><textarea id="question" maxlength="1000" rows="3" placeholder="How many annual leave days can I request?" required></textarea><div class="actions"><button type="submit" id="submit">Send securely</button><span id="status" role="status"></span></div></form>
+<footer>HumanEvoX · Approved synthetic policy sources · No real HRIS integration</footer></main><script src="/app.js" defer></script></body></html>
