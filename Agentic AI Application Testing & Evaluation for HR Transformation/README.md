@@ -78,3 +78,20 @@ The DemoCo policy values and limits are fictional examples **not UAE Labour Law*
 Python; HR workflow mapping; retrieval; agent routing; rule-based policy matching; privacy-by-design; human approvals; automated QA; adversarial cases; traceability; evaluation scoring; failure analysis; CI-ready unittest.
 
 **Not yet implemented:** real LLM orchestration with OpenAI Agents SDK or another provider, retrieval against authenticated enterprise HR documents, verified RBAC, real ticket creation, automated multi-turn red-team tests, monitoring/latency, independent held-out test set and any production deployment.
+
+
+## Next milestone — real OpenAI LLM integration (code added, execution pending)
+
+This repository now includes an **OpenAI Agents SDK** implementation, a paid-API evaluation harness, seven new offline host-side safety tests, private-key configuration examples, and a **manual GitHub Actions workflow**. The model gets a read-only policy-search function tool and a simulated human-review tool; structured outputs and source/approval boundaries are independently validated in application code.
+
+**Execution status:** A real model call has NOT been made in this environment. No OPENAI_API_KEY was available, the Agents SDK was not installed and network access blocked package installation. New offline protection tests passed **7/7**, bringing automated tests to **13/13**. Do not interpret these as real LLM evaluation results.
+
+**[How to connect the live API and verify](LIVE_INTEGRATION.md)** · **[Execution status](evidence/LIVE_RUN_STATUS.md)** · **[Live Python model integration](live_llm_agent.py)** · **[Live evaluation runner](evaluate_live.py)** · **[Offline guardrail tests](tests/test_live_agent.py)**
+
+From an Internet-enabled machine with an API key stored in a private environment variable:
+
+    python -m pip install -r requirements-live.txt
+    python live_llm_agent.py "How many annual leave days can I request?"
+    python evaluate_live.py --limit 4
+
+Alternatively run the repository's manually triggered GitHub Actions workflow after setting the OPENAI_API_KEY Actions secret. No automatic API spending is configured.
