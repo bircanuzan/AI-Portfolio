@@ -8,6 +8,10 @@ This portfolio brings together **AI-enabled HR transformation, talent intelligen
 
 [HumanEvoX website](https://humanevox.com) · [Detailed portfolio overview](PORTFOLIO_DETAILED_OVERVIEW.md)
 
+## NEW — Practical Roadmap for Agentic AI Adoption in HR
+
+**[Open: Practical Roadmap for Agentic AI Adoption in HR. From Idea to Responsible Scale.](Practical%20Roadmap%20for%20Agentic%20AI%20Adoption%20in%20HR.%20From%20Idea%20to%20Responsible%20Scale./README.md)** — a 5-step **Prioritize → Design → Pilot → Govern → Scale** enterprise HR adoption case study. Selects an HR Policy & Employee Service Request Triage Agent using a documented 4-use-case weighted comparison; evaluates organizational readiness and hard-stop conditions; defines bounded agent identity/tools/data and human escalation; provides UAE-first ethics/privacy law and ISO/NIST/OWASP governance controls; specifies 20 adversarial/reliability tests, a 16-risk register, measurable pilot value/quality criteria, a 30/60/90-day roadmap, scale gates, RACI and signed go/no-go template. **Design and proposed thresholds only; no live organization, deployed agent or actual pilot results claimed.**
+
 ## NEW — Responsible AI Governance and Agentic AI Risk Projects (November 2026)
 
 - **[Responsible AI and AI Governance: Standards & Policies as per UAE laws and Global Standards](Responsible%20AI%20and%20AI%20Governance%3A%20Standards%20%26%20Policies%20as%20per%20UAE%20laws%20and%20Global%20Standards./README.md)** — UAE-first local ethics, self-assessment, UAE AI Charter, Dubai Blueprint/AI Seal and actual legal context; global ISO/NIST/EU/OECD/UNESCO mapping; original policy, impact assessment, control register, test plan and fictional HR case study.
