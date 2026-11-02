@@ -22,7 +22,7 @@ Every project includes a tailored README, a portable `SKILL.md`, a fictional JSO
 ### Role and job preparation
 
 - **06. [Hiring Manager Role Intake](../AI-enabled%20Recruitment%20Portfolio/Claude%20AI%20in%20HR%20-%20Hiring%20Manager%20Role%20Intake/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
-- **07. [Competency Architecture Designer](../Claude%20AI%20in%20HR%20-%20Competency%20Architecture%20Designer/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
+- **07. [Competency Architecture Designer](../Instructional%20Design%20and%20Talent%20Development/Claude%20AI%20in%20HR%20-%20Competency%20Architecture%20Designer/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
 - **08. [Inclusive Job Description Builder](../AI-enabled%20Recruitment%20Portfolio/Claude%20AI%20in%20HR%20-%20Inclusive%20Job%20Description%20Builder/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
 - **09. [Objective Selection Criteria Matrix](../AI-enabled%20Recruitment%20Portfolio/Claude%20AI%20in%20HR%20-%20Objective%20Selection%20Criteria%20Matrix/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
 - **10. [Position Requisition Approval Pack](../AI-enabled%20Recruitment%20Portfolio/Claude%20AI%20in%20HR%20-%20Position%20Requisition%20Approval%20Pack/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
@@ -53,8 +53,8 @@ Every project includes a tailored README, a portable `SKILL.md`, a fictional JSO
 
 ### Manager enablement
 
-- **26. [New Manager Enablement](../Claude%20AI%20in%20HR%20-%20New%20Manager%20Enablement/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
-- **27. [One-on-One Coaching Framework](../Claude%20AI%20in%20HR%20-%20One-on-One%20Coaching%20Framework/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
+- **26. [New Manager Enablement](../Instructional%20Design%20and%20Talent%20Development/Claude%20AI%20in%20HR%20-%20New%20Manager%20Enablement/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
+- **27. [One-on-One Coaching Framework](../Instructional%20Design%20and%20Talent%20Development/Claude%20AI%20in%20HR%20-%20One-on-One%20Coaching%20Framework/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
 - **28. [Performance Feedback Drafting](../Claude%20AI%20in%20HR%20-%20Performance%20Feedback%20Drafting/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
 - **29. [Employee Relations Escalation Guide](../Claude%20AI%20in%20HR%20-%20Employee%20Relations%20Escalation%20Guide/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
 - **30. [Manager Self-Service Policy Assistant](../Claude%20AI%20in%20HR%20-%20Manager%20Self-Service%20Policy%20Assistant/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
@@ -69,11 +69,11 @@ Every project includes a tailored README, a portable `SKILL.md`, a fictional JSO
 
 ### Learning and development
 
-- **36. [Training Needs Assessment](../Claude%20AI%20in%20HR%20-%20Training%20Needs%20Assessment/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
-- **37. [Competency-Based Learning Pathways](../Claude%20AI%20in%20HR%20-%20Competency-Based%20Learning%20Pathways/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
-- **38. [Workshop and Activity Designer](../Claude%20AI%20in%20HR%20-%20Workshop%20and%20Activity%20Designer/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
-- **39. [Learning Evaluation and ROI](../Claude%20AI%20in%20HR%20-%20Learning%20Evaluation%20and%20ROI/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
-- **40. [Career and Development Planning](../Claude%20AI%20in%20HR%20-%20Career%20and%20Development%20Planning/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
+- **36. [Training Needs Assessment](../Instructional%20Design%20and%20Talent%20Development/Claude%20AI%20in%20HR%20-%20Training%20Needs%20Assessment/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
+- **37. [Competency-Based Learning Pathways](../Instructional%20Design%20and%20Talent%20Development/Claude%20AI%20in%20HR%20-%20Competency-Based%20Learning%20Pathways/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
+- **38. [Workshop and Activity Designer](../Instructional%20Design%20and%20Talent%20Development/Claude%20AI%20in%20HR%20-%20Workshop%20and%20Activity%20Designer/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
+- **39. [Learning Evaluation and ROI](../Instructional%20Design%20and%20Talent%20Development/Claude%20AI%20in%20HR%20-%20Learning%20Evaluation%20and%20ROI/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
+- **40. [Career and Development Planning](../Instructional%20Design%20and%20Talent%20Development/Claude%20AI%20in%20HR%20-%20Career%20and%20Development%20Planning/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
 
 ### People operations and reporting
 

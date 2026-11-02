@@ -1,9 +1,7 @@
-# AI-Enabled Talent Management & Assessment
+# Project relocated
 
-Part of the HumanEvoX AI in HR portfolio. This folder is the navigation home for the ai-enabled talent management & assessment case-study collection.
+This project was moved to the **Talent Assessment** category. Its original files and evidence have been preserved.
 
-**Portfolio PDF:** [Open the full portfolio](HumanEvoX_AI_Enabled_Talent_Management_Assessment_Portfolio.pdf)
+**[Open the complete project at its new location](../Talent%20Assessment/08_Talent_Management_Assessment/)**
 
-> The PDF is currently stored in the repository root. This link preserves access to the original until GitHub permits file relocation. This is a business-side portfolio; it does not assert hands-on HRIS configuration or systems integration.
-
-[Back to portfolio index](../README.md)
+This is a navigation pointer for links previously shared in applications and correspondence; the working source files, case studies, and outputs are in the new folder.

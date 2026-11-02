@@ -1,5 +1,10 @@
 ## NEW — Agentic AI Application Testing & Evaluation for HR Transformation
 
+## Specialist project portfolios
+
+- **[Talent Assessment](Talent%20Assessment/)** — four assessment and evidence-led evaluation projects, including psychometric interpretation and assessment-centre methods.
+- **[Instructional Design and Talent Development](Instructional%20Design%20and%20Talent%20Development/)** — 16 learning design, learning measurement, capability development and enablement projects.
+
 **[View executed HR policy agent, Python code, 16-scenario evaluation and test evidence](Agentic%20AI%20Application%20Testing%20%26%20Evaluation%20for%20HR%20Transformation/)** — functioning offline tool-using Python HR policy agent, six synthetic HR policies, source-grounded answers, simulated human approval routing, privacy controls, 16/16 passing authored acceptance tests and 6/6 regression tests. **This is a rule-based baseline, not a live LLM or production HRIS deployment.**
 
 ## NEW — Applied JD Evidence (Creatio, MoonTech and Stellar; November 2026)
@@ -22,7 +27,7 @@
 
 ## NEW — Global Product Training & Learning Program Management
 
-**[Open global product training and sales enablement programme case](Global_Product_Training_and_Learning_Program_Management/)** — original fictional B2B technology launch training programme covering TNA, segmented global curriculum, practical workshops, digital lesson storyboard, SME/security approval, project lifecycle, regional stakeholder RACI, quiz and observed-competency rubric, 8-week launch plan, content maintenance/retirement, and a synthetic learner KPI calculator with unit tests. **Portfolio design and synthetic evidence only; no Lenovo or Pickado delivery, published LMS course, live pilot or measured commercial results claimed.**
+**[Open global product training and sales enablement programme case](Instructional%20Design%20and%20Talent%20Development/Global_Product_Training_and_Learning_Program_Management/)** — original fictional B2B technology launch training programme covering TNA, segmented global curriculum, practical workshops, digital lesson storyboard, SME/security approval, project lifecycle, regional stakeholder RACI, quiz and observed-competency rubric, 8-week launch plan, content maintenance/retirement, and a synthetic learner KPI calculator with unit tests. **Portfolio design and synthetic evidence only; no Lenovo or Pickado delivery, published LMS course, live pilot or measured commercial results claimed.**
 
 
 ## AI Governance, Risk & Responsible AI Portfolio
@@ -85,7 +90,7 @@ These are **separate folder-based, reproducible projects**, expanded from the [P
 | **05** | [AI Agents & HR Chatbots](05_AI_Agents_Chatbots_HR_Automation/) | Use AI assistants for everyday HR questions | Chatbot and agent workflows, controls and use cases |
 | **06** | [Workforce Planning](06_Workforce_Planning/) | Forecast the people and skills a business needs | Headcount, demand and capacity planning scenarios |
 | **07** | [Talent & Workforce Intelligence](AI-enabled%20Recruitment%20Portfolio/07_Talent_Workforce_Intelligence/) | Research labour markets and talent availability | Talent pools, skills supply and market mapping |
-| **08** | [Talent Management & Assessment](08_Talent_Management_Assessment/) | Evaluate employee and candidate capabilities | Assessment and talent management examples |
+| **08** | [Talent Management & Assessment](Talent%20Assessment/08_Talent_Management_Assessment/) | Evaluate employee and candidate capabilities | Assessment and talent management examples |
 | **09** | [HR Operations Automation](09_AI_Automation_HR_Operations/) | Automate repeatable HR administration | Workflow controls and service automation examples |
 | **11** | [Data Analytics for AI in HR](11_Data_Analytics_for_AI_in_HR/) | Prepare and analyse HR data for AI | Data and analytics methods applied to HR cases |
 | **12** | [Agentic AI Across the HR Lifecycle](12_Building_Agentic_AI_for_Full_HR_Lifecycle/) | Design multiple AI agents for HR workflows | AI agent coordination and human-approval controls |
@@ -99,7 +104,7 @@ These are **separate folder-based, reproducible projects**, expanded from the [P
 | **15** | [AI DevOps Training: CI/CD & Kubernetes](15_AI_DevOps_Training_CI_CD_and_Kubernetes/) | Teach safer AI-assisted engineering workflows | Build/test failures, CI/CD and Kubernetes training examples |
 | **16** | [AI Voice Agent for Customer Support](16_AI_Voice_Agent_for_Customer_Support/) | Design an AI assistant that answers customer calls | Conversation routing, human handoff and agent testing |
 | **17** | [Voice AI Adoption & Business Analytics](17_Voice_AI_Customer_Adoption_and_Analytics/) | Help customers adopt voice AI and measure impact | Onboarding, adoption metrics, workshops and business value |
-| **18** | [AI Voice Narration for Training Videos](18_AI_Voice_Narration_for_Training_Videos/) | Turn technical lesson scripts into AI narration | Text-to-speech API preview and lesson production process |
+| **18** | [AI Voice Narration for Training Videos](Instructional%20Design%20and%20Talent%20Development/18_AI_Voice_Narration_for_Training_Videos/) | Turn technical lesson scripts into AI narration | Text-to-speech API preview and lesson production process |
 | **19** | [HR Workflow Benchmark Design & AI Answer Grading](19_HR_Workflow_Benchmark_Design_and_AI_Answer_Grading/) | Test how accurately AI handles realistic HR tasks | Five-document payroll case, correct answer, rubric and Python scoring |
 
 ---
@@ -134,9 +139,9 @@ These are **separate folder-based, reproducible projects**, expanded from the [P
 
 ## Projects 31–33 — Skills Assessment and Digital Learning Design
 
-- **[31 — Workforce Skills Assessment & Development](31_Workforce_Skills_Assessment_and_Development/)** — fictional operator skills matrix, practical-observation rubric, individual skill passport, gap analysis and post-training evaluation SOP.
-- **[32 — SCORM Learning Design](32_SCORM_Learning_Design/)** — original microlearning blueprint, interactive storyboard, formative questions and LMS/SCORM acceptance test plan. **No SCORM package is represented as built or tested.**
-- **[33 — Instructional Video Design & QA](33_Instructional_Video_Design_and_QA/)** — fictional software walkthrough storyboard, video production brief, QA checklist and realistic capacity-planning methods. **No final MP4 or high-volume production capacity is claimed.**
+- **[31 — Workforce Skills Assessment & Development](Instructional%20Design%20and%20Talent%20Development/31_Workforce_Skills_Assessment_and_Development/)** — fictional operator skills matrix, practical-observation rubric, individual skill passport, gap analysis and post-training evaluation SOP.
+- **[32 — SCORM Learning Design](Instructional%20Design%20and%20Talent%20Development/32_SCORM_Learning_Design/)** — original microlearning blueprint, interactive storyboard, formative questions and LMS/SCORM acceptance test plan. **No SCORM package is represented as built or tested.**
+- **[33 — Instructional Video Design & QA](Instructional%20Design%20and%20Talent%20Development/33_Instructional_Video_Design_and_QA/)** — fictional software walkthrough storyboard, video production brief, QA checklist and realistic capacity-planning methods. **No final MP4 or high-volume production capacity is claimed.**
 
 ## Project 34 — Business-oriented Microsoft 365 Copilot Adoption & Enablement Consultant
 
@@ -169,9 +174,9 @@ These are **separate folder-based, reproducible projects**, expanded from the [P
 
 ## Project 38 — Assessment Center Assessor
 
-**[Open Project 38 — Assessment Center Assessor](38_Assessment_Center_Assessor/)** — competency framework, three job-relevant exercises, 24 fictional assessor records, 12 integrated ratings, professional English-language sample candidate assessment report, evidence-based feedback/debrief script, post-assessment development coaching, rating calibration and Python QA tests.
+**[Open Project 38 — Assessment Center Assessor](Talent%20Assessment/38_Assessment_Center_Assessor/)** — competency framework, three job-relevant exercises, 24 fictional assessor records, 12 integrated ratings, professional English-language sample candidate assessment report, evidence-based feedback/debrief script, post-assessment development coaching, rating calibration and Python QA tests.
 
-**Different from [Project 08 — Talent Management & Assessment](08_Talent_Management_Assessment/):** Project 38 demonstrates the *assessor's observable workflow* from candidate exercises through assessment report and development feedback. The role's assessor qualification and Arabic reporting requirements are **not implied to be met** by an English-language portfolio case.
+**Different from [Project 08 — Talent Management & Assessment](Talent%20Assessment/08_Talent_Management_Assessment/):** Project 38 demonstrates the *assessor's observable workflow* from candidate exercises through assessment report and development feedback. The role's assessor qualification and Arabic reporting requirements are **not implied to be met** by an English-language portfolio case.
 
 ## Project 38 — AI Portfolio & Governance PMO (ServiceNow, SPM)
 
@@ -195,7 +200,7 @@ An illustrative OpenTrain-oriented HR benchmark: an AI assistant is asked to rev
 
 ## Project 39 — Integrated Talent, Leadership & Organizational Excellence Assessment
 
-**[Open Project 39 — Integrated Talent, Leadership & Organizational Excellence Assessment](39_Integrated_Talent_Leadership_and_Organizational_Excellence_Assessment/)** — three synthetic workstreams: assessment centre candidate evaluation, leadership/graduate/career-transition assessment and coaching, and institutional/organizational excellence diagnostics. Includes rubrics, assessment blueprints, diagnostic criteria and QA/ethical safeguards. No assessor certification or formal award authorization is claimed.
+**[Open Project 39 — Integrated Talent, Leadership & Organizational Excellence Assessment](Talent%20Assessment/39_Integrated_Talent_Leadership_and_Organizational_Excellence_Assessment/)** — three synthetic workstreams: assessment centre candidate evaluation, leadership/graduate/career-transition assessment and coaching, and institutional/organizational excellence diagnostics. Includes rubrics, assessment blueprints, diagnostic criteria and QA/ethical safeguards. No assessor certification or formal award authorization is claimed.
 
 ## Project 40 — Technical Program Management
 
@@ -244,7 +249,7 @@ An illustrative OpenTrain-oriented HR benchmark: an AI assistant is asked to rev
 
 ## Project 49 — Psychometric Assessment & Talent Evaluation
 
-**[Open Project 49 — Psychometric Assessment & Talent Evaluation](49_Psychometric_Assessment_and_Talent_Evaluation/)** — fictional UAE corporate case covering **occupational psychometric-style data interpretation, individual and group assessment reporting, evidence triangulation, hiring/promotion/succession recommendations, virtual/on-site HR feedback, privacy and qualified-review gates**, with 12 synthetic records and a descriptive Python analysis. **No real test instruments or BPS/SHL/Hogan/Saville credentials are claimed.** Distinct from Project 38's behavioural role-play observation.
+**[Open Project 49 — Psychometric Assessment & Talent Evaluation](Talent%20Assessment/49_Psychometric_Assessment_and_Talent_Evaluation/)** — fictional UAE corporate case covering **occupational psychometric-style data interpretation, individual and group assessment reporting, evidence triangulation, hiring/promotion/succession recommendations, virtual/on-site HR feedback, privacy and qualified-review gates**, with 12 synthetic records and a descriptive Python analysis. **No real test instruments or BPS/SHL/Hogan/Saville credentials are claimed.** Distinct from Project 38's behavioural role-play observation.
 
 
 ## Microsoft 365 Copilot Adoption & Enablement — vacancy-aligned application evidence

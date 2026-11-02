@@ -1,5 +1,10 @@
 > **Portfolio navigation:** [START HERE — Return to the GitHub homepage](README.md)
 
+## Specialist project portfolios
+
+- **[Talent Assessment](Talent%20Assessment/)** — four assessment and evidence-led evaluation projects, including psychometric interpretation and assessment-centre methods.
+- **[Instructional Design and Talent Development](Instructional%20Design%20and%20Talent%20Development/)** — 16 learning design, learning measurement, capability development and enablement projects.
+
 ## AI Adoption
 
 **[Explore AI Adoption](AI%20Adoption/)** — three original project folders: business-oriented Microsoft 365 Copilot adoption and user enablement; enterprise AI adoption programme management; and AI-platform client training/onboarding. Fictional cases and synthetic metrics are clearly identified.
@@ -54,7 +59,7 @@ My work focuses on applying AI, automation, analytics and HR technology to real 
 | [15](15_AI_DevOps_Training_CI_CD_and_Kubernetes/) | **Teach engineers to use AI safely in DevOps** | CI/CD failure diagnosis, code review, Kubernetes example, lab design |
 | [16](16_AI_Voice_Agent_for_Customer_Support/) | **Design an AI voice bot that answers customer questions** | FAQ routing, conversation tests, escalation, technical architecture |
 | [17](17_Voice_AI_Customer_Adoption_and_Analytics/) | **Help companies adopt voice AI and track business results** | Onboarding, KPI analysis, success metrics, enterprise training |
-| [18](18_AI_Voice_Narration_for_Training_Videos/) | **Turn a written training lesson into AI narration** | Text-to-speech API demo, scripts, accessibility and audio QA |
+| [18](Instructional%20Design%20and%20Talent%20Development/18_AI_Voice_Narration_for_Training_Videos/) | **Turn a written training lesson into AI narration** | Text-to-speech API demo, scripts, accessibility and audio QA |
 | [19](19_HR_Workflow_Benchmark_Design_and_AI_Answer_Grading/) | **Design HR workflow tests and score AI answers** | Multi-document payroll case, AED 12,000 gold answer and a 10-point rubric |
 
 Projects 14-18 are original portfolio demonstrations, not proof of client deployments or past engineering employment.
@@ -80,7 +85,7 @@ For a plain-English overview of **all** portfolio folders, use [START HERE — p
 - [AI Agents & HR Automation](05_AI_Agents_Chatbots_HR_Automation/)
 - [Strategic Workforce Planning](06_Workforce_Planning/)
 - [Talent & Workforce Intelligence](AI-enabled%20Recruitment%20Portfolio/07_Talent_Workforce_Intelligence/)
-- [Talent Management & Assessment](08_Talent_Management_Assessment/)
+- [Talent Management & Assessment](Talent%20Assessment/08_Talent_Management_Assessment/)
 - [AI Automation in HR Operations](09_AI_Automation_HR_Operations/)
 - [Data & Analytics for AI in HR](11_Data_Analytics_for_AI_in_HR/)
 - [Agentic AI for Full HR Lifecycle](12_Building_Agentic_AI_for_Full_HR_Lifecycle/)
@@ -89,7 +94,7 @@ For a plain-English overview of **all** portfolio folders, use [START HERE — p
 - [15 - Teach DevOps: AI-Supported CI/CD and Kubernetes](15_AI_DevOps_Training_CI_CD_and_Kubernetes/)
 - [16 - Build a Voice AI Customer Support Agent](16_AI_Voice_Agent_for_Customer_Support/)
 - [17 - Measure Voice AI Customer Adoption and Results](17_Voice_AI_Customer_Adoption_and_Analytics/)
-- [18 - Produce Narrated Training Lessons with AI Voice](18_AI_Voice_Narration_for_Training_Videos/)
+- [18 - Produce Narrated Training Lessons with AI Voice](Instructional%20Design%20and%20Talent%20Development/18_AI_Voice_Narration_for_Training_Videos/)
 - [19 - HR Workflow Benchmark Design and AI Answer Grading](19_HR_Workflow_Benchmark_Design_and_AI_Answer_Grading/)
 
 
@@ -99,7 +104,7 @@ Three independent, illustrative learning/solutions case studies inspired by publ
 
 - [16 — Enterprise Voice AI Agent Architecture](16_AI_Voice_Agent_for_Customer_Support/): offline Python intent routing, synthetic conversational QA, human escalation and integration design.
 - [17 — Voice AI Adoption & Enablement](17_Voice_AI_Customer_Adoption_and_Analytics/): synthetic account cohorts, Python adoption metrics, agent audit and customer workshops.
-- [18 — Text-to-Speech Course Narration](18_AI_Voice_Narration_for_Training_Videos/): offline-by-default REST API preparation, opt-in TTS client, testing, course storyboard and localization QA.
+- [18 — Text-to-Speech Course Narration](Instructional%20Design%20and%20Talent%20Development/18_AI_Voice_Narration_for_Training_Videos/): offline-by-default REST API preparation, opt-in TTS client, testing, course storyboard and localization QA.
 
 ### Technical Learning Samples | Projects 14 and 15
 
@@ -303,7 +308,7 @@ AI supports evidence preparation, synthesis, skills intelligence, matching, deve
 
 The approach connects validated evidence and structured assessment with calibration, succession, development, mobility and measurable talent actions.
 
-[VIEW THE FULL AI-ENABLED TALENT MANAGEMENT & ASSESSMENT PORTFOLIO (PDF)](08_Talent_Management_Assessment/HumanEvoX_AI_Enabled_Talent_Management_Assessment_Portfolio.pdf)
+[VIEW THE FULL AI-ENABLED TALENT MANAGEMENT & ASSESSMENT PORTFOLIO (PDF)](Talent%20Assessment/08_Talent_Management_Assessment/HumanEvoX_AI_Enabled_Talent_Management_Assessment_Portfolio.pdf)
 
 ### AI Automation in HR Operations | UAE & KSA
 
