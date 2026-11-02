@@ -1,0 +1,85 @@
+{
+  "name": "HumanEvoX Enterprise Agent - Local Prototype",
+  "nodes": [
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "humanevox-agent",
+        "responseMode": "responseNode",
+        "options": {}
+      },
+      "id": "n1",
+      "name": "Agent Webhook",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 2,
+      "position": [
+        200,
+        200
+      ],
+      "webhookId": "humanevox-agent-local"
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "http://host.docker.internal:8000/run",
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={{ JSON.stringify({question:$json.body.question}) }}",
+        "options": {
+          "timeout": 10000
+        }
+      },
+      "id": "n2",
+      "name": "Call Python Agent",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        460,
+        200
+      ]
+    },
+    {
+      "parameters": {
+        "respondWith": "json",
+        "responseBody": "={{ JSON.stringify($json) }}",
+        "options": {}
+      },
+      "id": "n3",
+      "name": "Return Agent Response",
+      "type": "n8n-nodes-base.respondToWebhook",
+      "typeVersion": 1.1,
+      "position": [
+        720,
+        200
+      ]
+    }
+  ],
+  "connections": {
+    "Agent Webhook": {
+      "main": [
+        [
+          {
+            "node": "Call Python Agent",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Call Python Agent": {
+      "main": [
+        [
+          {
+            "node": "Return Agent Response",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "active": false
+}
