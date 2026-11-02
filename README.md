@@ -1,5 +1,10 @@
 # START HERE — AI, HR & Technology Portfolio
 
+## AI Governance, Risk & Responsible AI Portfolio
+
+**[Explore the four consolidated governance, ethics, assurance and agentic-risk projects](AI%20Governance%2C%20Risk%20%26%20Responsible%20AI%20Portfolio/)** — UAE-focused governance frameworks, risk controls, agent authority, impact assessments, testing/evaluation and policy templates. Original simulations and code are retained; no production deployment or ISO certification is claimed.
+
+
 ## AI-enabled Recruitment Portfolio
 
 **[Browse the 20 consolidated recruitment and selection projects](AI-enabled%20Recruitment%20Portfolio/)** — original files, demonstrations and synthetic exercises retained under one parent folder.
@@ -135,7 +140,7 @@ These are **separate folder-based, reproducible projects**, expanded from the [P
 
 ## Project 37 — AI Risk Management and TEVV (Responsible AI Governance)
 
-**[Open Project 37: AI Risk Management and Testing, Evaluation, Verification and Validation](37_AI_Risk_Management_and_Testing_Evaluation_Verification_and_Validation/)** — NIST AI RMF-aligned simulated HR policy assurance case: governance charter, impact assessment, risk taxonomy, model/source inventory, versioned synthetic policy change, Python TEVV evaluator and unit tests, evidence and freshness dashboard, exception log, agentic control plane design and third-party vendor assurance requirements. **Synthetic demonstration only; no live MOHRE integration, tested model or fairness certification.**
+**[Open Project 37: AI Risk Management and Testing, Evaluation, Verification and Validation](AI%20Governance%2C%20Risk%20%26%20Responsible%20AI%20Portfolio/37_AI_Risk_Management_and_Testing_Evaluation_Verification_and_Validation/)** — NIST AI RMF-aligned simulated HR policy assurance case: governance charter, impact assessment, risk taxonomy, model/source inventory, versioned synthetic policy change, Python TEVV evaluator and unit tests, evidence and freshness dashboard, exception log, agentic control plane design and third-party vendor assurance requirements. **Synthetic demonstration only; no live MOHRE integration, tested model or fairness certification.**
 
 ## Project 38 — Assessment Center Assessor
 
@@ -189,7 +194,7 @@ An illustrative OpenTrain-oriented HR benchmark: an AI assistant is asked to rev
 
 ## Project 44 — AI Ethics, Responsible AI & AI Governance
 
-**[Open Project 44 — AI Ethics, Responsible AI & AI Governance](44_AI_Ethics_Responsible_AI_and_AI_Governance/)** — enterprise-wide responsible AI governance demonstrator integrating four UAE AI ethics/governance vacancy descriptions (Capgemini, Al-Futtaim/Orient, byteSpark.ai client vacancy, Q-REF), plus RTA AI quality assurance requirements. Includes governance office/charter, decision rights, AI inventory, impact assessment, privacy/DPIA, 14 AI risk scenarios, 14 controls, agentic control-plane design, model/system and vendor review, independent TEVV/fairness protocol, audit evidence, C-suite board pack, skills matrix and a runnable **synthetic deterministic Python governance gate** with unit tests. **No live AI model, real applicant data, enterprise deployment, independent audit or compliance certification claimed.**
+**[Open Project 44 — AI Ethics, Responsible AI & AI Governance](AI%20Governance%2C%20Risk%20%26%20Responsible%20AI%20Portfolio/44_AI_Ethics_Responsible_AI_and_AI_Governance/)** — enterprise-wide responsible AI governance demonstrator integrating four UAE AI ethics/governance vacancy descriptions (Capgemini, Al-Futtaim/Orient, byteSpark.ai client vacancy, Q-REF), plus RTA AI quality assurance requirements. Includes governance office/charter, decision rights, AI inventory, impact assessment, privacy/DPIA, 14 AI risk scenarios, 14 controls, agentic control-plane design, model/system and vendor review, independent TEVV/fairness protocol, audit evidence, C-suite board pack, skills matrix and a runnable **synthetic deterministic Python governance gate** with unit tests. **No live AI model, real applicant data, enterprise deployment, independent audit or compliance certification claimed.**
 
 
 ## Project 45 — AI Lead Systems and Process

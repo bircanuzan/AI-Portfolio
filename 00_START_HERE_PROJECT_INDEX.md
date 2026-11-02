@@ -1,5 +1,10 @@
 # START HERE — AI, HR & Technology Portfolio
 
+## AI Governance, Risk & Responsible AI Portfolio
+
+**[Explore the four consolidated governance, ethics, assurance and agentic-risk projects](AI%20Governance%2C%20Risk%20%26%20Responsible%20AI%20Portfolio/)** — UAE-focused governance frameworks, risk controls, agent authority, impact assessments, testing/evaluation and policy templates. Original simulations and code are retained; no production deployment or ISO certification is claimed.
+
+
 ## AI-enabled Recruitment Portfolio
 
 **[Browse the 20 consolidated recruitment and selection projects](AI-enabled%20Recruitment%20Portfolio/)** — original files, demonstrations and synthetic exercises retained under one parent folder.
@@ -23,8 +28,8 @@ This portfolio brings together **AI-enabled HR transformation, talent intelligen
 
 ## NEW — Responsible AI Governance and Agentic AI Risk Projects (November 2026)
 
-- **[Responsible AI and AI Governance: Standards & Policies as per UAE laws and Global Standards](Responsible%20AI%20and%20AI%20Governance%3A%20Standards%20%26%20Policies%20as%20per%20UAE%20laws%20and%20Global%20Standards./README.md)** — UAE-first local ethics, self-assessment, UAE AI Charter, Dubai Blueprint/AI Seal and actual legal context; global ISO/NIST/EU/OECD/UNESCO mapping; original policy, impact assessment, control register, test plan and fictional HR case study.
-- **[Managing Risk, Security, and Ethical Considerations for Agentic AI](Managing%20Risk%2C%20Security%2C%20and%20Ethical%20Considerations%20for%20Agentic%20AI./README.md)** — five practical risk and ethics areas; agent authorization and human oversight, secure integrations, privacy, fair outcomes, monitoring and incidents; complete authority matrix, risk register, agent policy and illustrative HR agent threat tests. No real deployment/test results claimed.
+- **[Responsible AI and AI Governance: Standards & Policies as per UAE laws and Global Standards](AI%20Governance%2C%20Risk%20%26%20Responsible%20AI%20Portfolio/Responsible%20AI%20and%20AI%20Governance%3A%20Standards%20%26%20Policies%20as%20per%20UAE%20laws%20and%20Global%20Standards./README.md)** — UAE-first local ethics, self-assessment, UAE AI Charter, Dubai Blueprint/AI Seal and actual legal context; global ISO/NIST/EU/OECD/UNESCO mapping; original policy, impact assessment, control register, test plan and fictional HR case study.
+- **[Managing Risk, Security, and Ethical Considerations for Agentic AI](AI%20Governance%2C%20Risk%20%26%20Responsible%20AI%20Portfolio/Managing%20Risk%2C%20Security%2C%20and%20Ethical%20Considerations%20for%20Agentic%20AI./README.md)** — five practical risk and ethics areas; agent authorization and human oversight, secure integrations, privacy, fair outcomes, monitoring and incidents; complete authority matrix, risk register, agent policy and illustrative HR agent threat tests. No real deployment/test results claimed.
 
 ## NEW — Project 53: HR-to-AI Role Map & Evidence Lab
 

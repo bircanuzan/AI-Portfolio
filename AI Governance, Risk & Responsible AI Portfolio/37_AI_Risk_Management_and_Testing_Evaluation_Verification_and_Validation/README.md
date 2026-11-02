@@ -33,8 +33,8 @@ HR and employment-compliance AI tools may receive an updated policy notice while
 ## Try the evidence dashboard
 Run from the repository root:
 ```bash
-python 37_AI_Risk_Management_and_Testing_Evaluation_Verification_and_Validation/src/assurance_dashboard.py
-python -m unittest discover -s 37_AI_Risk_Management_and_Testing_Evaluation_Verification_and_Validation/tests -v
+python "AI Governance, Risk & Responsible AI Portfolio/37_AI_Risk_Management_and_Testing_Evaluation_Verification_and_Validation/src/assurance_dashboard.py"
+python -m unittest discover -s "AI Governance, Risk & Responsible AI Portfolio/37_AI_Risk_Management_and_Testing_Evaluation_Verification_and_Validation/tests" -v
 ```
 The script generates `reports/dashboard.md` relative to the project folder. **No external dependencies, API keys, candidate data or LLM API calls required.** See the checked-in illustrative dashboard [here](reports/dashboard.md).
 

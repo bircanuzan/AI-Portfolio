@@ -1,5 +1,10 @@
 > **Portfolio navigation:** [START HERE — Return to the GitHub homepage](README.md)
 
+## AI Governance, Risk & Responsible AI Portfolio
+
+**[Explore the four consolidated governance, ethics, assurance and agentic-risk projects](AI%20Governance%2C%20Risk%20%26%20Responsible%20AI%20Portfolio/)** — UAE-focused governance frameworks, risk controls, agent authority, impact assessments, testing/evaluation and policy templates. Original simulations and code are retained; no production deployment or ISO certification is claimed.
+
+
 ## AI-enabled Recruitment Portfolio
 
 **[Browse the 20 consolidated recruitment and selection projects](AI-enabled%20Recruitment%20Portfolio/)** — original files, demonstrations and synthetic exercises retained under one parent folder.

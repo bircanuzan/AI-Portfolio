@@ -3,7 +3,7 @@
 This is a deterministic rule-checking demo that uses completely fictional JSON records to show what an AI governance-office prelaunch checklist could **flag**, not to approve a real AI deployment.
 
 ```bash
-cd 44_AI_Ethics_Responsible_AI_and_AI_Governance
+cd "AI Governance, Risk & Responsible AI Portfolio/44_AI_Ethics_Responsible_AI_and_AI_Governance"
 python governance_gate.py synthetic_gate_cases.json --output synthetic_gate_results.json
 python -m unittest test_governance_gate.py -v
 ```
