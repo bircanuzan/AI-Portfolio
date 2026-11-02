@@ -1,0 +1,15 @@
+risk_id,risk_title,severity,failure_mode,proposed_control,responsible_owner
+R01,Non-standard formatting,HIGH,Candidate parsing creates false negative,Switch to accessible parsing/manual review,HRIS owner
+R02,Career history gaps,HIGH,Unjustified exclusion proxy,Remove unsupported penalty; assess verified competencies,Talent Acquisition
+R03,Name/identity-derived inference,CRITICAL,Inappropriate non-job proxy,Block personal-name inputs and proxy tests; independent audit,Responsible AI
+R04,Keyword stuffing,HIGH,False positive without evidence,Use authenticated work sample and competency rubric,Hiring Manager
+R05,Language accents/transliteration,HIGH,Input normalization bias,Paraphrase and accessible-format checks,QA Lead
+R06,Optional document penalty,MEDIUM,Hidden missing-cover-letter score,Limit to disclosed job-related requirements,TA Operations
+R07,External profile requirement,MEDIUM,Unequal access to profile data,Disable optional profile penalties,TA Operations
+R08,Section order and typography,HIGH,Unjustified parse volatility,Resilience and fallback test suite,HR Tech
+R09,Mandatory professional licence,LOW,Legitimate exclusion can be wrong if rule outdated,Version required credential and verify externally,Compliance
+R10,Undocumented screening threshold,HIGH,Review route becomes automatic rejection,Document threshold and appeal process,Governance PMO
+R11,Consent and retention,HIGH,Excessive CV retention,"Limit data fields, access and retention window",Privacy Officer
+R12,Human review and appeals,CRITICAL,No explanation or recourse,"Mandatory signed-off escalation, appeals, logs",HR Director
+R13,Dataset drift,HIGH,Performance changes across recruitment cohorts,"Monitor errors, evaluate before version upgrades",Data QA
+R14,Vendor accountability,HIGH,Cannot reproduce ranking,"Require model/source version, logs and supplier assurance",Procurement

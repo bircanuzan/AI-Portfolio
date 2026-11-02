@@ -1,0 +1,413 @@
+{
+  "system_under_test": "Illustrative intentionally flawed deterministic screening function",
+  "is_real_ats": false,
+  "private_candidate_data_processed": false,
+  "pairs": 16,
+  "irrelevant_pairs": 13,
+  "job_relevant_pairs": 3,
+  "unjustified_decision_flips_flawed": 9,
+  "unjustified_decision_flips_controlled": 0,
+  "release_gate": "HOLD intentionally flawed mock screener; controlled demo is still NOT production-approved",
+  "results": [
+    {
+      "id": "T01",
+      "category": "irrelevant",
+      "expect_stable": true,
+      "baseline_flawed": {
+        "score": 64,
+        "decision": "ADVANCE"
+      },
+      "variation_flawed": {
+        "score": 50,
+        "decision": "REVIEW"
+      },
+      "flawed_flip": true,
+      "baseline_controlled": {
+        "score": 64,
+        "decision": "ADVANCE"
+      },
+      "variation_controlled": {
+        "score": 64,
+        "decision": "ADVANCE"
+      },
+      "controlled_flip": false,
+      "unjustified_flawed_flip": true,
+      "unjustified_controlled_flip": false
+    },
+    {
+      "id": "T02",
+      "category": "irrelevant",
+      "expect_stable": true,
+      "baseline_flawed": {
+        "score": 64,
+        "decision": "ADVANCE"
+      },
+      "variation_flawed": {
+        "score": 52,
+        "decision": "REVIEW"
+      },
+      "flawed_flip": true,
+      "baseline_controlled": {
+        "score": 64,
+        "decision": "ADVANCE"
+      },
+      "variation_controlled": {
+        "score": 64,
+        "decision": "ADVANCE"
+      },
+      "controlled_flip": false,
+      "unjustified_flawed_flip": true,
+      "unjustified_controlled_flip": false
+    },
+    {
+      "id": "T03",
+      "category": "irrelevant",
+      "expect_stable": true,
+      "baseline_flawed": {
+        "score": 64,
+        "decision": "ADVANCE"
+      },
+      "variation_flawed": {
+        "score": 56,
+        "decision": "REVIEW"
+      },
+      "flawed_flip": true,
+      "baseline_controlled": {
+        "score": 64,
+        "decision": "ADVANCE"
+      },
+      "variation_controlled": {
+        "score": 64,
+        "decision": "ADVANCE"
+      },
+      "controlled_flip": false,
+      "unjustified_flawed_flip": true,
+      "unjustified_controlled_flip": false
+    },
+    {
+      "id": "T04",
+      "category": "irrelevant",
+      "expect_stable": true,
+      "baseline_flawed": {
+        "score": 52,
+        "decision": "REVIEW"
+      },
+      "variation_flawed": {
+        "score": 62,
+        "decision": "ADVANCE"
+      },
+      "flawed_flip": true,
+      "baseline_controlled": {
+        "score": 52,
+        "decision": "REVIEW"
+      },
+      "variation_controlled": {
+        "score": 52,
+        "decision": "REVIEW"
+      },
+      "controlled_flip": false,
+      "unjustified_flawed_flip": true,
+      "unjustified_controlled_flip": false
+    },
+    {
+      "id": "T05",
+      "category": "irrelevant",
+      "expect_stable": true,
+      "baseline_flawed": {
+        "score": 64,
+        "decision": "ADVANCE"
+      },
+      "variation_flawed": {
+        "score": 56,
+        "decision": "REVIEW"
+      },
+      "flawed_flip": true,
+      "baseline_controlled": {
+        "score": 64,
+        "decision": "ADVANCE"
+      },
+      "variation_controlled": {
+        "score": 64,
+        "decision": "ADVANCE"
+      },
+      "controlled_flip": false,
+      "unjustified_flawed_flip": true,
+      "unjustified_controlled_flip": false
+    },
+    {
+      "id": "T06",
+      "category": "irrelevant",
+      "expect_stable": true,
+      "baseline_flawed": {
+        "score": 64,
+        "decision": "ADVANCE"
+      },
+      "variation_flawed": {
+        "score": 57,
+        "decision": "REVIEW"
+      },
+      "flawed_flip": true,
+      "baseline_controlled": {
+        "score": 64,
+        "decision": "ADVANCE"
+      },
+      "variation_controlled": {
+        "score": 64,
+        "decision": "ADVANCE"
+      },
+      "controlled_flip": false,
+      "unjustified_flawed_flip": true,
+      "unjustified_controlled_flip": false
+    },
+    {
+      "id": "T07",
+      "category": "irrelevant",
+      "expect_stable": true,
+      "baseline_flawed": {
+        "score": 64,
+        "decision": "ADVANCE"
+      },
+      "variation_flawed": {
+        "score": 57,
+        "decision": "REVIEW"
+      },
+      "flawed_flip": true,
+      "baseline_controlled": {
+        "score": 64,
+        "decision": "ADVANCE"
+      },
+      "variation_controlled": {
+        "score": 64,
+        "decision": "ADVANCE"
+      },
+      "controlled_flip": false,
+      "unjustified_flawed_flip": true,
+      "unjustified_controlled_flip": false
+    },
+    {
+      "id": "T08",
+      "category": "irrelevant",
+      "expect_stable": true,
+      "baseline_flawed": {
+        "score": 64,
+        "decision": "ADVANCE"
+      },
+      "variation_flawed": {
+        "score": 55,
+        "decision": "REVIEW"
+      },
+      "flawed_flip": true,
+      "baseline_controlled": {
+        "score": 64,
+        "decision": "ADVANCE"
+      },
+      "variation_controlled": {
+        "score": 64,
+        "decision": "ADVANCE"
+      },
+      "controlled_flip": false,
+      "unjustified_flawed_flip": true,
+      "unjustified_controlled_flip": false
+    },
+    {
+      "id": "T09",
+      "category": "irrelevant",
+      "expect_stable": true,
+      "baseline_flawed": {
+        "score": 64,
+        "decision": "ADVANCE"
+      },
+      "variation_flawed": {
+        "score": 54,
+        "decision": "REVIEW"
+      },
+      "flawed_flip": true,
+      "baseline_controlled": {
+        "score": 64,
+        "decision": "ADVANCE"
+      },
+      "variation_controlled": {
+        "score": 64,
+        "decision": "ADVANCE"
+      },
+      "controlled_flip": false,
+      "unjustified_flawed_flip": true,
+      "unjustified_controlled_flip": false
+    },
+    {
+      "id": "T10",
+      "category": "irrelevant",
+      "expect_stable": true,
+      "baseline_flawed": {
+        "score": 64,
+        "decision": "ADVANCE"
+      },
+      "variation_flawed": {
+        "score": 64,
+        "decision": "ADVANCE"
+      },
+      "flawed_flip": false,
+      "baseline_controlled": {
+        "score": 64,
+        "decision": "ADVANCE"
+      },
+      "variation_controlled": {
+        "score": 64,
+        "decision": "ADVANCE"
+      },
+      "controlled_flip": false,
+      "unjustified_flawed_flip": false,
+      "unjustified_controlled_flip": false
+    },
+    {
+      "id": "T11",
+      "category": "irrelevant",
+      "expect_stable": true,
+      "baseline_flawed": {
+        "score": 40,
+        "decision": "REVIEW"
+      },
+      "variation_flawed": {
+        "score": 26,
+        "decision": "REVIEW"
+      },
+      "flawed_flip": false,
+      "baseline_controlled": {
+        "score": 40,
+        "decision": "REVIEW"
+      },
+      "variation_controlled": {
+        "score": 40,
+        "decision": "REVIEW"
+      },
+      "controlled_flip": false,
+      "unjustified_flawed_flip": false,
+      "unjustified_controlled_flip": false
+    },
+    {
+      "id": "T12",
+      "category": "irrelevant",
+      "expect_stable": true,
+      "baseline_flawed": {
+        "score": 92,
+        "decision": "ADVANCE"
+      },
+      "variation_flawed": {
+        "score": 78,
+        "decision": "ADVANCE"
+      },
+      "flawed_flip": false,
+      "baseline_controlled": {
+        "score": 92,
+        "decision": "ADVANCE"
+      },
+      "variation_controlled": {
+        "score": 92,
+        "decision": "ADVANCE"
+      },
+      "controlled_flip": false,
+      "unjustified_flawed_flip": false,
+      "unjustified_controlled_flip": false
+    },
+    {
+      "id": "T13",
+      "category": "job_relevant",
+      "expect_stable": false,
+      "baseline_flawed": {
+        "score": 64,
+        "decision": "ADVANCE"
+      },
+      "variation_flawed": {
+        "score": 52,
+        "decision": "REVIEW"
+      },
+      "flawed_flip": true,
+      "baseline_controlled": {
+        "score": 64,
+        "decision": "ADVANCE"
+      },
+      "variation_controlled": {
+        "score": 52,
+        "decision": "REVIEW"
+      },
+      "controlled_flip": true,
+      "unjustified_flawed_flip": false,
+      "unjustified_controlled_flip": false
+    },
+    {
+      "id": "T14",
+      "category": "job_relevant",
+      "expect_stable": false,
+      "baseline_flawed": {
+        "score": 52,
+        "decision": "REVIEW"
+      },
+      "variation_flawed": {
+        "score": 68,
+        "decision": "ADVANCE"
+      },
+      "flawed_flip": true,
+      "baseline_controlled": {
+        "score": 52,
+        "decision": "REVIEW"
+      },
+      "variation_controlled": {
+        "score": 68,
+        "decision": "ADVANCE"
+      },
+      "controlled_flip": true,
+      "unjustified_flawed_flip": false,
+      "unjustified_controlled_flip": false
+    },
+    {
+      "id": "T15",
+      "category": "job_relevant",
+      "expect_stable": false,
+      "baseline_flawed": {
+        "score": 64,
+        "decision": "ADVANCE"
+      },
+      "variation_flawed": {
+        "score": 64,
+        "decision": "REVIEW"
+      },
+      "flawed_flip": true,
+      "baseline_controlled": {
+        "score": 64,
+        "decision": "ADVANCE"
+      },
+      "variation_controlled": {
+        "score": 64,
+        "decision": "REVIEW"
+      },
+      "controlled_flip": true,
+      "unjustified_flawed_flip": false,
+      "unjustified_controlled_flip": false
+    },
+    {
+      "id": "T16",
+      "category": "irrelevant",
+      "expect_stable": true,
+      "baseline_flawed": {
+        "score": 40,
+        "decision": "REVIEW"
+      },
+      "variation_flawed": {
+        "score": 40,
+        "decision": "REVIEW"
+      },
+      "flawed_flip": false,
+      "baseline_controlled": {
+        "score": 40,
+        "decision": "REVIEW"
+      },
+      "variation_controlled": {
+        "score": 40,
+        "decision": "REVIEW"
+      },
+      "controlled_flip": false,
+      "unjustified_flawed_flip": false,
+      "unjustified_controlled_flip": false
+    }
+  ]
+}
