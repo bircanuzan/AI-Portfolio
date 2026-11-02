@@ -1,0 +1,7 @@
+campaign_id,status,validated,approved,minutes_before,minutes_after
+SYN001,complete,true,true,60,35
+SYN002,complete,true,true,45,30
+SYN003,pending,false,false,50,50
+SYN004,complete,true,true,80,50
+SYN005,awaiting_approval,true,false,55,40
+SYN006,complete,true,true,70,45
