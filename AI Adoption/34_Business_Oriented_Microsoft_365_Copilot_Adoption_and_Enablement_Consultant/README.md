@@ -47,4 +47,4 @@ All names, metrics, business documents, results, delivery plans and workshop sch
 
 ## New vacancy-aligned companion folder
 
-For recruiter form answers (dedicated Microsoft 365 Copilot years vs. transferable learning/enablement years), a direct mapping to BlackStone eIT-type responsibilities, new HR/Finance/Operations/Executive scenarios, and workshop/measurement designs, see **[Microsoft 365 Copilot Adoption & Enablement](../Microsoft%20365%20Copilot%20Adoption%20%26%20Enablement/)**. This is a companion evidence pack, not a claim of a second delivered commercial project.
+For recruiter form answers (dedicated Microsoft 365 Copilot years vs. transferable learning/enablement years), a direct mapping to BlackStone eIT-type responsibilities, new HR/Finance/Operations/Executive scenarios, and workshop/measurement designs, see **[Microsoft 365 Copilot Adoption & Enablement](../../Microsoft%20365%20Copilot%20Adoption%20%26%20Enablement/)**. This is a companion evidence pack, not a claim of a second delivered commercial project.

@@ -1,5 +1,14 @@
 > **Portfolio navigation:** [START HERE — Return to the GitHub homepage](README.md)
 
+## AI Adoption
+
+**[Explore AI Adoption](AI%20Adoption/)** — three original project folders: business-oriented Microsoft 365 Copilot adoption and user enablement; enterprise AI adoption programme management; and AI-platform client training/onboarding. Fictional cases and synthetic metrics are clearly identified.
+
+## Change Management
+
+**[Explore Change Management](Change%20Management/)** — a separate HR programme change-management case covering stakeholder impacts, ADKAR-informed readiness, communications, adoption measures and executive governance. No real client deployment is claimed.
+
+
 ## AI Governance, Risk & Responsible AI Portfolio
 
 **[Explore the four consolidated governance, ethics, assurance and agentic-risk projects](AI%20Governance%2C%20Risk%20%26%20Responsible%20AI%20Portfolio/)** — UAE-focused governance frameworks, risk controls, agent authority, impact assessments, testing/evaluation and policy templates. Original simulations and code are retained; no production deployment or ISO certification is claimed.

@@ -40,8 +40,8 @@ ADKAR is associated with Prosci; this case uses publicly described concepts **wi
 - AI may help draft **non-confidential communications, FAQs or anonymised themes**; it does not make HR policy decisions or process personal employee information in an unapproved tool. A human verifies every output.
 
 ## Why this project is distinct
-- [Project 47 — AI Adoption Program Management](../47_AI_Adoption_Program_Management/): institution-wide AI governance and adoption.
-- [Project 41 — HR Process Mapping & Power Automate](../41_HR_Operations_Process_Mapping_Workflow_Automation_Power_Automate/): technical business-side design of one request workflow.
+- [Project 47 — AI Adoption Program Management](../../AI%20Adoption/47_AI_Adoption_Program_Management/): institution-wide AI governance and adoption.
+- [Project 41 — HR Process Mapping & Power Automate](../../41_HR_Operations_Process_Mapping_Workflow_Automation_Power_Automate/): technical business-side design of one request workflow.
 - **Project 48:** end-to-end **organisational change management of an HR programme**, independent of which vendor implements the HR system.
 
 ## Grounding in UAE job requirements

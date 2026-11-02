@@ -1,5 +1,14 @@
 ## NEW — HumanEvoX Recruitment OS (Phase 2 functional local pilot)
 
+## AI Adoption
+
+**[Explore AI Adoption](AI%20Adoption/)** — three original project folders: business-oriented Microsoft 365 Copilot adoption and user enablement; enterprise AI adoption programme management; and AI-platform client training/onboarding. Fictional cases and synthetic metrics are clearly identified.
+
+## Change Management
+
+**[Explore Change Management](Change%20Management/)** — a separate HR programme change-management case covering stakeholder impacts, ADKAR-informed readiness, communications, adoption measures and executive governance. No real client deployment is claimed.
+
+
 **[Open the HumanEvoX Recruitment OS source project](HumanEvoX-Recruitment-OS/)** — Streamlit + SQLite, local PDF/DOCX/TXT extraction, explainable keyword evidence, recruiter-entered competency assessments, manual pipeline/tasks, draft-only outreach, tentative .ics interviews, CSV reports, audit/erasure, synthetic fixtures and pytest. **Core Python tests passed; Streamlit UI and live integration were not run. No live calls, no automatic hiring decisions or production SaaS claim.**
 
 # START HERE — AI, HR & Technology Portfolio
@@ -115,7 +124,7 @@ These are **separate folder-based, reproducible projects**, expanded from the [P
 
 ## Project 34 — Business-oriented Microsoft 365 Copilot Adoption & Enablement Consultant
 
-**[Open Project 34: Business-oriented Microsoft 365 Copilot Adoption & Enablement Consultant](34_Business_Oriented_Microsoft_365_Copilot_Adoption_and_Enablement_Consultant/)** — executive discovery, Outlook/Teams/Word/PowerPoint/Excel/OneDrive/SharePoint use cases, interactive workshop guides, instructional design, champions, Copilot readiness and governance, a 30/60/90-day adoption plan and synthetic KPI evaluation.
+**[Open Project 34: Business-oriented Microsoft 365 Copilot Adoption & Enablement Consultant](AI%20Adoption/34_Business_Oriented_Microsoft_365_Copilot_Adoption_and_Enablement_Consultant/)** — executive discovery, Outlook/Teams/Word/PowerPoint/Excel/OneDrive/SharePoint use cases, interactive workshop guides, instructional design, champions, Copilot readiness and governance, a 30/60/90-day adoption plan and synthetic KPI evaluation.
 
 **Duplicate avoided:** [Project 30 — Business Process Mapping, Analysis & AI Transformation](30_Business_Process_Mapping_Analysis_and_AI_Transformation/) already documents AS-IS/TO-BE, AI opportunities and business requirements; [Project 21](21_Senior_AI_Business_Analyst_Retail_Process_Reengineering/) includes BPMN 2.0 modelling.
 
@@ -123,7 +132,7 @@ These are **separate folder-based, reproducible projects**, expanded from the [P
 
 **[Open Project 35: Modern Workplace Solutioning](35_Modern_Workplace_Solutioning/)** — comprehensive C-suite workplace consulting case across service desk, DEX, devices/DaaS, identity, M365, AVD and Windows 365, ServiceNow/ITSM, managed services operating models, SLA/XLA, commercial models, transition and transformation, AI/Copilot, and value measurement. Includes a synthetic 3-year business-case calculator and unit tests.
 
-**Different from [Project 34 — Copilot adoption](34_Business_Oriented_Microsoft_365_Copilot_Adoption_and_Enablement_Consultant/):** Project 35 builds an end-to-end Modern Workplace managed-services solution; Project 34 designs business-user Copilot workshops and adoption.
+**Different from [Project 34 — Copilot adoption](AI%20Adoption/34_Business_Oriented_Microsoft_365_Copilot_Adoption_and_Enablement_Consultant/):** Project 35 builds an end-to-end Modern Workplace managed-services solution; Project 34 designs business-user Copilot workshops and adoption.
 
 ## Project 36 — Human Data Operations Management
 
@@ -161,12 +170,12 @@ An illustrative OpenTrain-oriented HR benchmark: an AI assistant is asked to rev
 
 ## Project 47 — AI Adoption Program Management
 
-**[Open Project 47 — AI Adoption Program Management](47_AI_Adoption_Program_Management/)** — a *fictional university programme-management case inspired by the Zayed University AI Adoption Programme Manager vacancy*. Includes the programme charter and PMO governance, 30/60/90-day roadmap, AI risk and incident policy, role-based AI literacy and champions network, vendor/stakeholder RACI and acceptance criteria, and an adoption KPI/benefits reporting pack with synthetic data. **No live university implementation or achieved results are claimed.**
+**[Open Project 47 — AI Adoption Program Management](AI%20Adoption/47_AI_Adoption_Program_Management/)** — a *fictional university programme-management case inspired by the Zayed University AI Adoption Programme Manager vacancy*. Includes the programme charter and PMO governance, 30/60/90-day roadmap, AI risk and incident policy, role-based AI literacy and champions network, vendor/stakeholder RACI and acceptance criteria, and an adoption KPI/benefits reporting pack with synthetic data. **No live university implementation or achieved results are claimed.**
 
 
 ## Project 48 — Change Management in HR Program
 
-**[Open Project 48 — Change Management in HR Program](48_Change_Management_in_HR_Program/)** — an independent, fictional UAE HR employee self-service and case-management transformation programme. Includes change charter, stakeholder and role impact assessment, ADKAR-informed readiness instrument, communications and culture plan, resistance/risk and champions, 90-day cutover and hypercare roadmap, adoption KPI/benefits dashboard, executive steering pack, plus synthetic impact and adoption data. Inspired by UAE change-management job requirements from Zayed University, wasl and an historical ACCBC posting. **No live employer project, software deployment, Prosci certification, employee survey, or achieved outcomes are claimed.**
+**[Open Project 48 — Change Management in HR Program](Change%20Management/48_Change_Management_in_HR_Program/)** — an independent, fictional UAE HR employee self-service and case-management transformation programme. Includes change charter, stakeholder and role impact assessment, ADKAR-informed readiness instrument, communications and culture plan, resistance/risk and champions, 90-day cutover and hypercare roadmap, adoption KPI/benefits dashboard, executive steering pack, plus synthetic impact and adoption data. Inspired by UAE change-management job requirements from Zayed University, wasl and an historical ACCBC posting. **No live employer project, software deployment, Prosci certification, employee survey, or achieved outcomes are claimed.**
 
 
 ## Project 49 — Psychometric Assessment & Talent Evaluation
