@@ -1,0 +1,64 @@
+{
+  "info": {
+    "name": "Synthetic QA Case API - Local Only",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "description": "Use only after launching service.py on 127.0.0.1:8765. No production connection."
+  },
+  "variable": [
+    {
+      "key": "baseUrl",
+      "value": "http://127.0.0.1:8765"
+    }
+  ],
+  "item": [
+    {
+      "name": "Health check",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/health"
+      }
+    },
+    {
+      "name": "Create confirmed case",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          },
+          {
+            "key": "Idempotency-Key",
+            "value": "postman-synthetic-001"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"category\": \"policy_question\",\n  \"safe_summary\": \"Synthetic clarification\",\n  \"confirmed\": true\n}"
+        },
+        "url": "{{baseUrl}}/cases"
+      }
+    },
+    {
+      "name": "Reject unconfirmed",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          },
+          {
+            "key": "Idempotency-Key",
+            "value": "postman-synthetic-002"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"category\": \"policy_question\",\n  \"safe_summary\": \"Synthetic clarification\",\n  \"confirmed\": false\n}"
+        },
+        "url": "{{baseUrl}}/cases"
+      }
+    }
+  ]
+}
