@@ -21,26 +21,26 @@ Every project includes a tailored README, a portable `SKILL.md`, a fictional JSO
 
 ### Role and job preparation
 
-- **06. [Hiring Manager Role Intake](../Claude%20AI%20in%20HR%20-%20Hiring%20Manager%20Role%20Intake/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
+- **06. [Hiring Manager Role Intake](../AI-enabled%20Recruitment%20Portfolio/Claude%20AI%20in%20HR%20-%20Hiring%20Manager%20Role%20Intake/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
 - **07. [Competency Architecture Designer](../Claude%20AI%20in%20HR%20-%20Competency%20Architecture%20Designer/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
-- **08. [Inclusive Job Description Builder](../Claude%20AI%20in%20HR%20-%20Inclusive%20Job%20Description%20Builder/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
-- **09. [Objective Selection Criteria Matrix](../Claude%20AI%20in%20HR%20-%20Objective%20Selection%20Criteria%20Matrix/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
-- **10. [Position Requisition Approval Pack](../Claude%20AI%20in%20HR%20-%20Position%20Requisition%20Approval%20Pack/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
+- **08. [Inclusive Job Description Builder](../AI-enabled%20Recruitment%20Portfolio/Claude%20AI%20in%20HR%20-%20Inclusive%20Job%20Description%20Builder/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
+- **09. [Objective Selection Criteria Matrix](../AI-enabled%20Recruitment%20Portfolio/Claude%20AI%20in%20HR%20-%20Objective%20Selection%20Criteria%20Matrix/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
+- **10. [Position Requisition Approval Pack](../AI-enabled%20Recruitment%20Portfolio/Claude%20AI%20in%20HR%20-%20Position%20Requisition%20Approval%20Pack/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
 
 ### Interview coordination
 
-- **11. [Interview Process and Panel Planner](../Claude%20AI%20in%20HR%20-%20Interview%20Process%20and%20Panel%20Planner/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
-- **12. [Candidate Scheduling Coordinator](../Claude%20AI%20in%20HR%20-%20Candidate%20Scheduling%20Coordinator/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
-- **13. [Structured Interview Question Bank](../Claude%20AI%20in%20HR%20-%20Structured%20Interview%20Question%20Bank/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
-- **14. [Interview Evidence Recorder](../Claude%20AI%20in%20HR%20-%20Interview%20Evidence%20Recorder/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
-- **15. [Panel Debrief and Calibration](../Claude%20AI%20in%20HR%20-%20Panel%20Debrief%20and%20Calibration/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
+- **11. [Interview Process and Panel Planner](../AI-enabled%20Recruitment%20Portfolio/Claude%20AI%20in%20HR%20-%20Interview%20Process%20and%20Panel%20Planner/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
+- **12. [Candidate Scheduling Coordinator](../AI-enabled%20Recruitment%20Portfolio/Claude%20AI%20in%20HR%20-%20Candidate%20Scheduling%20Coordinator/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
+- **13. [Structured Interview Question Bank](../AI-enabled%20Recruitment%20Portfolio/Claude%20AI%20in%20HR%20-%20Structured%20Interview%20Question%20Bank/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
+- **14. [Interview Evidence Recorder](../AI-enabled%20Recruitment%20Portfolio/Claude%20AI%20in%20HR%20-%20Interview%20Evidence%20Recorder/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
+- **15. [Panel Debrief and Calibration](../AI-enabled%20Recruitment%20Portfolio/Claude%20AI%20in%20HR%20-%20Panel%20Debrief%20and%20Calibration/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
 
 ### Offer and start coordination
 
-- **16. [Offer Terms Verification](../Claude%20AI%20in%20HR%20-%20Offer%20Terms%20Verification/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
-- **17. [Offer Approval and Exception Routing](../Claude%20AI%20in%20HR%20-%20Offer%20Approval%20and%20Exception%20Routing/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
-- **18. [Candidate Offer Communication](../Claude%20AI%20in%20HR%20-%20Candidate%20Offer%20Communication/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
-- **19. [Pre-Employment Document Readiness](../Claude%20AI%20in%20HR%20-%20Pre-Employment%20Document%20Readiness/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
+- **16. [Offer Terms Verification](../AI-enabled%20Recruitment%20Portfolio/Claude%20AI%20in%20HR%20-%20Offer%20Terms%20Verification/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
+- **17. [Offer Approval and Exception Routing](../AI-enabled%20Recruitment%20Portfolio/Claude%20AI%20in%20HR%20-%20Offer%20Approval%20and%20Exception%20Routing/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
+- **18. [Candidate Offer Communication](../AI-enabled%20Recruitment%20Portfolio/Claude%20AI%20in%20HR%20-%20Candidate%20Offer%20Communication/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
+- **19. [Pre-Employment Document Readiness](../AI-enabled%20Recruitment%20Portfolio/Claude%20AI%20in%20HR%20-%20Pre-Employment%20Document%20Readiness/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
 - **20. [Start Date and HRIS Handoff](../Claude%20AI%20in%20HR%20-%20Start%20Date%20and%20HRIS%20Handoff/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
 
 ### Onboarding
@@ -85,11 +85,11 @@ Every project includes a tailored README, a portable `SKILL.md`, a fictional JSO
 
 ### International hiring preparation
 
-- **46. [Cross-Border Role Feasibility](../Claude%20AI%20in%20HR%20-%20Cross-Border%20Role%20Feasibility/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
-- **47. [Visa and Work Authorization Document Checklist](../Claude%20AI%20in%20HR%20-%20Visa%20and%20Work%20Authorization%20Document%20Checklist/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
-- **48. [Multi-Jurisdiction Offer Handoff](../Claude%20AI%20in%20HR%20-%20Multi-Jurisdiction%20Offer%20Handoff/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
+- **46. [Cross-Border Role Feasibility](../AI-enabled%20Recruitment%20Portfolio/Claude%20AI%20in%20HR%20-%20Cross-Border%20Role%20Feasibility/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
+- **47. [Visa and Work Authorization Document Checklist](../AI-enabled%20Recruitment%20Portfolio/Claude%20AI%20in%20HR%20-%20Visa%20and%20Work%20Authorization%20Document%20Checklist/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
+- **48. [Multi-Jurisdiction Offer Handoff](../AI-enabled%20Recruitment%20Portfolio/Claude%20AI%20in%20HR%20-%20Multi-Jurisdiction%20Offer%20Handoff/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
 - **49. [Relocation Preparation Coordinator](../Claude%20AI%20in%20HR%20-%20Relocation%20Preparation%20Coordinator/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
-- **50. [Country-Specific Hiring Risk Register](../Claude%20AI%20in%20HR%20-%20Country-Specific%20Hiring%20Risk%20Register/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
+- **50. [Country-Specific Hiring Risk Register](../AI-enabled%20Recruitment%20Portfolio/Claude%20AI%20in%20HR%20-%20Country-Specific%20Hiring%20Risk%20Register/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
 
 ## Reproducible next steps
 1. Pick one folder; review its workflow and guardrails.

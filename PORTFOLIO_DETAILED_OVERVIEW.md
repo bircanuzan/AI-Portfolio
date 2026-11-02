@@ -1,5 +1,9 @@
 > **Portfolio navigation:** [START HERE — Return to the GitHub homepage](README.md)
 
+## AI-enabled Recruitment Portfolio
+
+**[Browse the 20 consolidated recruitment and selection projects](AI-enabled%20Recruitment%20Portfolio/)** — original files, demonstrations and synthetic exercises retained under one parent folder.
+
 # Detailed Portfolio Overview — Original Project Descriptions
 
 This is the previous extended portfolio README, preserved when the simplified START HERE guide became the main cover page.
@@ -55,13 +59,13 @@ For a plain-English overview of **all** portfolio folders, use [START HERE — p
 
 ### Browse Portfolio Folders
 
-- [AI-Enabled Recruitment (Healthcare)](01_AI_Enabled_Recruitment_Healthcare/)
+- [AI-Enabled Recruitment (Healthcare)](AI-enabled%20Recruitment%20Portfolio/01_AI_Enabled_Recruitment_Healthcare/)
 - [AI-Enabled HR Transformation](02_AI_Enabled_HR_Transformation/)
 - [People Analytics & AI](03_People_Analytics_AI/)
 - [HR Technology & Digital Employee Experience](04_HR_Technology_Digital_Employee_Experience/)
 - [AI Agents & HR Automation](05_AI_Agents_Chatbots_HR_Automation/)
 - [Strategic Workforce Planning](06_Workforce_Planning/)
-- [Talent & Workforce Intelligence](07_Talent_Workforce_Intelligence/)
+- [Talent & Workforce Intelligence](AI-enabled%20Recruitment%20Portfolio/07_Talent_Workforce_Intelligence/)
 - [Talent Management & Assessment](08_Talent_Management_Assessment/)
 - [AI Automation in HR Operations](09_AI_Automation_HR_Operations/)
 - [Data & Analytics for AI in HR](11_Data_Analytics_for_AI_in_HR/)
@@ -112,7 +116,7 @@ The portfolio demonstrates practical application of:
 - Human-in-the-loop AI workflows
 - AI and technology integration across recruitment delivery
 
-[VIEW THE FULL HEALTHCARE RECRUITMENT PORTFOLIO (PDF)](01_AI_Enabled_Recruitment_Healthcare/HumanEvoX_AI_Healthcare_Recruitment_Portfolio.pdf)
+[VIEW THE FULL HEALTHCARE RECRUITMENT PORTFOLIO (PDF)](AI-enabled%20Recruitment%20Portfolio/01_AI_Enabled_Recruitment_Healthcare/HumanEvoX_AI_Healthcare_Recruitment_Portfolio.pdf)
 
 ### AI-Enabled HR Transformation | UAE & KSA
 
@@ -260,7 +264,7 @@ AI supports market classification, skills taxonomy normalisation, evidence struc
 
 The approach connects external talent-market evidence with recruitment strategy, workforce planning, skills strategy and Build/Buy/Borrow decisions.
 
-[VIEW THE FULL TALENT & WORKFORCE INTELLIGENCE PORTFOLIO (PDF)](07_Talent_Workforce_Intelligence/HumanEvoX_Talent_Workforce_Intelligence_Portfolio.pdf)
+[VIEW THE FULL TALENT & WORKFORCE INTELLIGENCE PORTFOLIO (PDF)](AI-enabled%20Recruitment%20Portfolio/07_Talent_Workforce_Intelligence/HumanEvoX_Talent_Workforce_Intelligence_Portfolio.pdf)
 
 ### AI-Enabled Talent Management & Assessment | UAE & KSA
 

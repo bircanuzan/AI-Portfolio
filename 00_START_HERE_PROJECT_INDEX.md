@@ -1,5 +1,9 @@
 # START HERE — AI, HR & Technology Portfolio
 
+## AI-enabled Recruitment Portfolio
+
+**[Browse the 20 consolidated recruitment and selection projects](AI-enabled%20Recruitment%20Portfolio/)** — original files, demonstrations and synthetic exercises retained under one parent folder.
+
 ## NEW — Agentic AI Engineering: Enterprise Workflow Agent (HumanEvoX)
 
 **[Open the Agentic AI Engineering implementation starter](Agentic-AI-Engineering-Enterprise-Workflow-Agent/)** — Python/FastAPI document retrieval, optional live LLM adapter, configured HTTPS read-only case API, SQLite human-approval gate, n8n webhook starter, pytest cases, architecture, evaluation register, demo storyboard and paid-pilot scope. **Source-code prototype; no live LLM/n8n run or client deployment is claimed.**
@@ -30,7 +34,7 @@ This portfolio brings together **AI-enabled HR transformation, talent intelligen
 ## NEW — Three standalone HR-to-AI projects (Projects 54–56)
 
 - **[54 — Synthetic 200-Employee Attrition Analysis](54_Attrition_Analysis_200_Employee_Synthetic_Case/)** — independent CSV dataset, Python descriptive analytics with validation tests, executive results and GitHub SVG dashboard. Synthetic only.
-- **[55 — AI Recruitment Screening Risk Assessment](55_AI_Recruitment_Screening_Risk_Assessment/)** — 16 paired hypothetical candidate tests, 14-risk register, mock flawed-vs-controlled scoring audit, Python tests and a HOLD recommendation. No real ATS/candidate assessment.
+- **[55 — AI Recruitment Screening Risk Assessment](AI-enabled%20Recruitment%20Portfolio/55_AI_Recruitment_Screening_Risk_Assessment/)** — 16 paired hypothetical candidate tests, 14-risk register, mock flawed-vs-controlled scoring audit, Python tests and a HOLD recommendation. No real ATS/candidate assessment.
 - **[56 — HR Policy Assistant with 20-Question Evaluation](56_HR_Policy_Assistant_20_Question_Evaluation/)** — offline deterministic Python assistant, five fictional versioned sources, evaluation evidence including preserved failures, and human escalation design. No hosted LLM/production integration.
 
 These are **separate folder-based, reproducible projects**, expanded from the [Project 53 HR-to-AI role map and 60-day framework](53_HR_to_AI_Role_Map_and_Evidence_Lab/). Their synthetic or local-prototype status is documented.
@@ -46,13 +50,13 @@ These are **separate folder-based, reproducible projects**, expanded from the [P
 
 | No. | Project folder | What it means | What you will find |
 |:--:|---|---|---|
-| **01** | [Healthcare Recruitment AI](01_AI_Enabled_Recruitment_Healthcare/) | Improve healthcare recruitment using AI | Recruitment processes, talent sourcing and case designs |
+| **01** | [Healthcare Recruitment AI](AI-enabled%20Recruitment%20Portfolio/01_AI_Enabled_Recruitment_Healthcare/) | Improve healthcare recruitment using AI | Recruitment processes, talent sourcing and case designs |
 | **02** | [HR Transformation](02_AI_Enabled_HR_Transformation/) | Redesign how HR departments work | Transformation strategies, workflows and operating models |
 | **03** | [People Analytics & AI](03_People_Analytics_AI/) | Use workforce data to guide HR decisions | HR dashboards, workforce metrics and analytics case studies |
 | **04** | [HR Technology & Employee Experience](04_HR_Technology_Digital_Employee_Experience/) | Make employee HR services easier to use | HR system journeys, self-service and digital process design |
 | **05** | [AI Agents & HR Chatbots](05_AI_Agents_Chatbots_HR_Automation/) | Use AI assistants for everyday HR questions | Chatbot and agent workflows, controls and use cases |
 | **06** | [Workforce Planning](06_Workforce_Planning/) | Forecast the people and skills a business needs | Headcount, demand and capacity planning scenarios |
-| **07** | [Talent & Workforce Intelligence](07_Talent_Workforce_Intelligence/) | Research labour markets and talent availability | Talent pools, skills supply and market mapping |
+| **07** | [Talent & Workforce Intelligence](AI-enabled%20Recruitment%20Portfolio/07_Talent_Workforce_Intelligence/) | Research labour markets and talent availability | Talent pools, skills supply and market mapping |
 | **08** | [Talent Management & Assessment](08_Talent_Management_Assessment/) | Evaluate employee and candidate capabilities | Assessment and talent management examples |
 | **09** | [HR Operations Automation](09_AI_Automation_HR_Operations/) | Automate repeatable HR administration | Workflow controls and service automation examples |
 | **11** | [Data Analytics for AI in HR](11_Data_Analytics_for_AI_in_HR/) | Prepare and analyse HR data for AI | Data and analytics methods applied to HR cases |
