@@ -1,0 +1,10 @@
+[
+ {"id":"L001","language":"en","modality":"text","reviewer_a":"A","reviewer_b":"A","gold":"A","minutes":4,"cost_usd":0.7},
+ {"id":"L002","language":"tr","modality":"text","reviewer_a":"B","reviewer_b":"B","gold":"B","minutes":6,"cost_usd":0.8},
+ {"id":"L003","language":"en","modality":"text","reviewer_a":"A","reviewer_b":"B","gold":"A","minutes":8,"cost_usd":1.2},
+ {"id":"L004","language":"tr","modality":"text","reviewer_a":"TIE","reviewer_b":"TIE","gold":"TIE","minutes":3,"cost_usd":0.5},
+ {"id":"L005","language":"en","modality":"text","reviewer_a":"TIE","reviewer_b":"A","gold":"TIE","minutes":6,"cost_usd":0.9},
+ {"id":"L006","language":"tr","modality":"text","reviewer_a":"B","reviewer_b":"B","gold":"B","minutes":5,"cost_usd":0.7},
+ {"id":"L007","language":"fr","modality":"text","reviewer_a":"A","reviewer_b":"A","gold":"A","minutes":5,"cost_usd":0.8},
+ {"id":"L008","language":"en","modality":"text","reviewer_a":"B","reviewer_b":"TIE","gold":"B","minutes":7,"cost_usd":1.1}
+]
