@@ -1,0 +1,7 @@
+[
+  {"event_id":"K001","requires_approval":false,"approved":false,"policy_ok":true,"output_checked":true,"expected":"PASS"},
+  {"event_id":"K002","requires_approval":true,"approved":false,"policy_ok":true,"output_checked":true,"expected":"HOLD"},
+  {"event_id":"K003","requires_approval":true,"approved":true,"policy_ok":false,"output_checked":true,"expected":"ESCALATE"},
+  {"event_id":"K004","requires_approval":false,"approved":false,"policy_ok":true,"output_checked":false,"expected":"REVIEW"},
+  {"event_id":"K005","requires_approval":true,"approved":true,"policy_ok":true,"output_checked":true,"expected":"PASS"}
+]
