@@ -1,5 +1,10 @@
 > **Portfolio navigation:** [START HERE — Return to the GitHub homepage](README.md)
 
+## People Analytics & HR Data
+
+**[Explore the consolidated People Analytics & HR Data portfolio](People%20Analytics%20%26%20HR%20Data/)** — four existing HR analytics project collections, including the 60-concept visual dashboard library, executable attrition analysis, and Python/SQL/DAX analytics examples. Demonstrations use synthetic data unless separately verified.
+
+
 ## HR Technology & Digital Transformation
 
 [Explore HR Technology & Digital Transformation](HR%20Technology%20%26%20Digital%20Transformation/) — the original HR technology, digital employee experience and HR service design portfolio.
@@ -58,7 +63,7 @@ My work focuses on applying AI, automation, analytics and HR technology to real 
 
 ## NEW — Project 52: Research-to-Practice People Analytics Dashboards
 
-**[Open the HumanEvoX People Analytics Dashboard Library](52_HR_People_Analytics_Research_Dashboard_Library/)** — **60 original visual dashboards and individual business-case methods**, covering AI impact verification, agent governance, workforce design, evidence-first hiring, skills, retention, employee experience, leadership, hybrid work and wellbeing. Topics are grounded in 11 linked Nicolas Behbahani research articles (August–October 2026); **all displayed chart values are explicitly synthetic, not measured client outcomes**. Includes an offline interactive HTML explorer, 60 GitHub-previewable SVG charts and a research methodology and metric catalogue.
+**[Open the HumanEvoX People Analytics Dashboard Library](People%20Analytics%20%26%20HR%20Data/52_HR_People_Analytics_Research_Dashboard_Library/)** — **60 original visual dashboards and individual business-case methods**, covering AI impact verification, agent governance, workforce design, evidence-first hiring, skills, retention, employee experience, leadership, hybrid work and wellbeing. Topics are grounded in 11 linked Nicolas Behbahani research articles (August–October 2026); **all displayed chart values are explicitly synthetic, not measured client outcomes**. Includes an offline interactive HTML explorer, 60 GitHub-previewable SVG charts and a research methodology and metric catalogue.
 
 ## Areas of Focus
 
@@ -101,14 +106,14 @@ For a plain-English overview of **all** portfolio folders, use [START HERE — p
 
 - [AI-Enabled Recruitment (Healthcare)](AI-enabled%20Recruitment%20Portfolio/01_AI_Enabled_Recruitment_Healthcare/)
 - [AI-Enabled HR Transformation](02_AI_Enabled_HR_Transformation/)
-- [People Analytics & AI](03_People_Analytics_AI/)
+- [People Analytics & AI](People%20Analytics%20%26%20HR%20Data/03_People_Analytics_AI/)
 - [HR Technology & Digital Employee Experience](HR%20Technology%20%26%20Digital%20Transformation/04_HR_Technology_Digital_Employee_Experience/)
 - [AI Agents & HR Automation](05_AI_Agents_Chatbots_HR_Automation/)
 - [Strategic Workforce Planning](06_Workforce_Planning/)
 - [Talent & Workforce Intelligence](AI-enabled%20Recruitment%20Portfolio/07_Talent_Workforce_Intelligence/)
 - [Talent Management & Assessment](Talent%20Assessment/08_Talent_Management_Assessment/)
 - [AI Automation in HR Operations](HR%20Operations%20%26%20Workflow%20Automation/09_AI_Automation_HR_Operations/)
-- [Data & Analytics for AI in HR](11_Data_Analytics_for_AI_in_HR/)
+- [Data & Analytics for AI in HR](People%20Analytics%20%26%20HR%20Data/11_Data_Analytics_for_AI_in_HR/)
 - [Agentic AI for Full HR Lifecycle](12_Building_Agentic_AI_for_Full_HR_Lifecycle/)
 - [Oracle Fusion HCM Portfolio & Governance](Oracle%20Fusion%20HCM/13_Oracle_Fusion_HCM/)
 - [14 - Teach Machine Learning: Model Training and Evaluation](14_Machine_Learning_Training_and_Model_Evaluation/)
@@ -204,7 +209,7 @@ The projects demonstrate practical application of Power BI, DAX, Power Query, Ex
 
 AI is positioned as a decision-support layer for classification, summarisation, pattern detection and insight generation, with data governance, privacy, validation and human accountability embedded into the analytics approach.
 
-[VIEW THE FULL PEOPLE ANALYTICS & AI PORTFOLIO (PDF)](03_People_Analytics_AI/HumanEvoX_People_Analytics_AI_Portfolio.pdf)
+[VIEW THE FULL PEOPLE ANALYTICS & AI PORTFOLIO (PDF)](People%20Analytics%20%26%20HR%20Data/03_People_Analytics_AI/HumanEvoX_People_Analytics_AI_Portfolio.pdf)
 
 ### HR Technology, Digital Employee Experience & Automation | UAE & KSA
 
@@ -388,7 +393,7 @@ The repository uses a fully synthetic HR dataset and does not contain real emplo
 
 Technical artifacts include SQL queries, Python analytics code, DAX measures, a synthetic HR dataset and an analytical workbook.
 
-[VIEW THE DATA & ANALYTICS FOR AI IN HR PORTFOLIO (PDF)](11_Data_Analytics_for_AI_in_HR/HumanEvoX_Data_Analytics_for_AI_in_HR_Portfolio.pdf)
+[VIEW THE DATA & ANALYTICS FOR AI IN HR PORTFOLIO (PDF)](People%20Analytics%20%26%20HR%20Data/11_Data_Analytics_for_AI_in_HR/HumanEvoX_Data_Analytics_for_AI_in_HR_Portfolio.pdf)
 
 ### Building Agentic AI for Full HR Lifecycle
 

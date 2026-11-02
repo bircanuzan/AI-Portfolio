@@ -45,6 +45,6 @@ Aligned to HR Operations Manager responsibilities involving HRMS improvement, em
 
 - [Project 09 — broader HR Operations automation](../README.md)
 - [Project 41 — HR workflow mapping and Power Automate approval design](../../41_HR_Operations_Process_Mapping_Workflow_Automation_Power_Automate/README.md)
-- [Project 03 — people analytics](../../../03_People_Analytics_AI/README.md)
+- [Project 03 — people analytics](../../../People%20Analytics%20%26%20HR%20Data/03_People_Analytics_AI/README.md)
 
 © 2026 Bircan Uzan — Independent educational demonstration.

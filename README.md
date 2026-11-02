@@ -1,3 +1,7 @@
+## People Analytics & HR Data
+
+**[Explore the consolidated People Analytics & HR Data portfolio](People%20Analytics%20%26%20HR%20Data/)** — four existing HR analytics project collections, including the 60-concept visual dashboard library, executable attrition analysis, and Python/SQL/DAX analytics examples. Demonstrations use synthetic data unless separately verified.
+
 ## HR Technology & Digital Transformation
 
 [Explore HR Technology & Digital Transformation](HR%20Technology%20%26%20Digital%20Transformation/) — the original HR technology, digital employee experience and HR service design portfolio.
@@ -91,7 +95,7 @@ This portfolio brings together **AI-enabled HR transformation, talent intelligen
 
 ## NEW — Three standalone HR-to-AI projects (Projects 54–56)
 
-- **[54 — Synthetic 200-Employee Attrition Analysis](54_Attrition_Analysis_200_Employee_Synthetic_Case/)** — independent CSV dataset, Python descriptive analytics with validation tests, executive results and GitHub SVG dashboard. Synthetic only.
+- **[54 — Synthetic 200-Employee Attrition Analysis](People%20Analytics%20%26%20HR%20Data/54_Attrition_Analysis_200_Employee_Synthetic_Case/)** — independent CSV dataset, Python descriptive analytics with validation tests, executive results and GitHub SVG dashboard. Synthetic only.
 - **[55 — AI Recruitment Screening Risk Assessment](AI-enabled%20Recruitment%20Portfolio/55_AI_Recruitment_Screening_Risk_Assessment/)** — 16 paired hypothetical candidate tests, 14-risk register, mock flawed-vs-controlled scoring audit, Python tests and a HOLD recommendation. No real ATS/candidate assessment.
 - **[56 — HR Policy Assistant with 20-Question Evaluation](56_HR_Policy_Assistant_20_Question_Evaluation/)** — offline deterministic Python assistant, five fictional versioned sources, evaluation evidence including preserved failures, and human escalation design. No hosted LLM/production integration.
 
@@ -102,7 +106,7 @@ These are **separate folder-based, reproducible projects**, expanded from the [P
 
 ## NEW — Project 52: Research-to-Practice People Analytics Dashboards
 
-**[Open the HumanEvoX People Analytics Dashboard Library](52_HR_People_Analytics_Research_Dashboard_Library/)** — **60 original visual dashboards and individual business-case methods**, covering AI impact verification, agent governance, workforce design, evidence-first hiring, skills, retention, employee experience, leadership, hybrid work and wellbeing. Topics are grounded in 11 linked Nicolas Behbahani research articles (August–October 2026); **all displayed chart values are explicitly synthetic, not measured client outcomes**. Includes an offline interactive HTML explorer, 60 GitHub-previewable SVG charts and a research methodology and metric catalogue.
+**[Open the HumanEvoX People Analytics Dashboard Library](People%20Analytics%20%26%20HR%20Data/52_HR_People_Analytics_Research_Dashboard_Library/)** — **60 original visual dashboards and individual business-case methods**, covering AI impact verification, agent governance, workforce design, evidence-first hiring, skills, retention, employee experience, leadership, hybrid work and wellbeing. Topics are grounded in 11 linked Nicolas Behbahani research articles (August–October 2026); **all displayed chart values are explicitly synthetic, not measured client outcomes**. Includes an offline interactive HTML explorer, 60 GitHub-previewable SVG charts and a research methodology and metric catalogue.
 
 ## HR, People Analytics & Workforce Transformation
 
@@ -110,14 +114,14 @@ These are **separate folder-based, reproducible projects**, expanded from the [P
 |:--:|---|---|---|
 | **01** | [Healthcare Recruitment AI](AI-enabled%20Recruitment%20Portfolio/01_AI_Enabled_Recruitment_Healthcare/) | Improve healthcare recruitment using AI | Recruitment processes, talent sourcing and case designs |
 | **02** | [HR Transformation](02_AI_Enabled_HR_Transformation/) | Redesign how HR departments work | Transformation strategies, workflows and operating models |
-| **03** | [People Analytics & AI](03_People_Analytics_AI/) | Use workforce data to guide HR decisions | HR dashboards, workforce metrics and analytics case studies |
+| **03** | [People Analytics & AI](People%20Analytics%20%26%20HR%20Data/03_People_Analytics_AI/) | Use workforce data to guide HR decisions | HR dashboards, workforce metrics and analytics case studies |
 | **04** | [HR Technology & Employee Experience](HR%20Technology%20%26%20Digital%20Transformation/04_HR_Technology_Digital_Employee_Experience/) | Make employee HR services easier to use | HR system journeys, self-service and digital process design |
 | **05** | [AI Agents & HR Chatbots](05_AI_Agents_Chatbots_HR_Automation/) | Use AI assistants for everyday HR questions | Chatbot and agent workflows, controls and use cases |
 | **06** | [Workforce Planning](06_Workforce_Planning/) | Forecast the people and skills a business needs | Headcount, demand and capacity planning scenarios |
 | **07** | [Talent & Workforce Intelligence](AI-enabled%20Recruitment%20Portfolio/07_Talent_Workforce_Intelligence/) | Research labour markets and talent availability | Talent pools, skills supply and market mapping |
 | **08** | [Talent Management & Assessment](Talent%20Assessment/08_Talent_Management_Assessment/) | Evaluate employee and candidate capabilities | Assessment and talent management examples |
 | **09** | [HR Operations Automation](HR%20Operations%20%26%20Workflow%20Automation/09_AI_Automation_HR_Operations/) | Automate repeatable HR administration | Workflow controls and service automation examples |
-| **11** | [Data Analytics for AI in HR](11_Data_Analytics_for_AI_in_HR/) | Prepare and analyse HR data for AI | Data and analytics methods applied to HR cases |
+| **11** | [Data Analytics for AI in HR](People%20Analytics%20%26%20HR%20Data/11_Data_Analytics_for_AI_in_HR/) | Prepare and analyse HR data for AI | Data and analytics methods applied to HR cases |
 | **12** | [Agentic AI Across the HR Lifecycle](12_Building_Agentic_AI_for_Full_HR_Lifecycle/) | Design multiple AI agents for HR workflows | AI agent coordination and human-approval controls |
 | **13** | [Oracle Fusion HCM](Oracle%20Fusion%20HCM/13_Oracle_Fusion_HCM/) | Plan and govern Oracle HR system projects | Roadmap, governance, testing and implementation oversight examples |
 
