@@ -1,3 +1,10 @@
+## New JD extension — Creatio AI Consultant (Dubai, 2 November 2026)
+
+- [Enterprise AI discovery, CRM agent architecture, integration requirements, executive value story, and responsible rollout](05_Creatio_Enterprise_Agent_Consulting_and_CRM_Transformation.md)
+- [Synthetic AI opportunity assessment data](data/creatio_synthetic_opportunities.csv), [explainable Python priority scoring](src/creatio_opportunity_scoring.py) and [regression tests](tests/test_creatio_opportunity_scoring.py)
+- **Skills/tech from JD:** business discovery, value mapping, AI agent architecture, process redesign, CRM/ERP/SaaS APIs and MCP-style integration concepts, user stories, executive communication, UAT, adoption and outcome measurement.
+- **Evidence honesty:** scoring code is runnable and data synthetic; there is no Creatio tenant access, real customer engagement, deployed agent or measured business ROI.
+
 # Project 24 — Applied AI Transformation Manager (MENA): Enterprise Agentic AI Rollout and Value Capture
 
 **Independent project simulation aligned with Cognition's Applied AI Transformation Manager job description.** This is **not** a Cognition/Devin enterprise customer deployment, not a claim of BCG/Bain/McKinsey service, not an SWE professional employment claim, and not real customer consumption data.
