@@ -1,5 +1,10 @@
 # START HERE — AI, HR & Technology Portfolio
 
+## NEW — Global Product Training & Learning Program Management
+
+**[Open global product training and sales enablement programme case](Global_Product_Training_and_Learning_Program_Management/)** — original fictional B2B technology launch training programme covering TNA, segmented global curriculum, practical workshops, digital lesson storyboard, SME/security approval, project lifecycle, regional stakeholder RACI, quiz and observed-competency rubric, 8-week launch plan, content maintenance/retirement, and a synthetic learner KPI calculator with unit tests. **Portfolio design and synthetic evidence only; no Lenovo or Pickado delivery, published LMS course, live pilot or measured commercial results claimed.**
+
+
 ## AI Governance, Risk & Responsible AI Portfolio
 
 **[Explore the four consolidated governance, ethics, assurance and agentic-risk projects](AI%20Governance%2C%20Risk%20%26%20Responsible%20AI%20Portfolio/)** — UAE-focused governance frameworks, risk controls, agent authority, impact assessments, testing/evaluation and policy templates. Original simulations and code are retained; no production deployment or ISO certification is claimed.
