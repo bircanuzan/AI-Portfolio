@@ -1,5 +1,3 @@
-## NEW — HumanEvoX Recruitment OS (Phase 2 functional local pilot)
-
 ## AI Adoption
 
 **[Explore AI Adoption](AI%20Adoption/)** — three original project folders: business-oriented Microsoft 365 Copilot adoption and user enablement; enterprise AI adoption programme management; and AI-platform client training/onboarding. Fictional cases and synthetic metrics are clearly identified.
