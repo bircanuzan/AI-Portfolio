@@ -1,5 +1,10 @@
 # START HERE — AI, HR & Technology Portfolio
 
+## NEW — Agentic AI Engineering: Enterprise Workflow Agent (HumanEvoX)
+
+**[Open the Agentic AI Engineering implementation starter](Agentic-AI-Engineering-Enterprise-Workflow-Agent/)** — Python/FastAPI document retrieval, optional live LLM adapter, configured HTTPS read-only case API, SQLite human-approval gate, n8n webhook starter, pytest cases, architecture, evaluation register, demo storyboard and paid-pilot scope. **Source-code prototype; no live LLM/n8n run or client deployment is claimed.**
+
+
 ### Bircan Uzan | HumanEvoX
 
 **Find the right project in seconds.** Each folder below has a plain-English name and a clickable link. Select a project based on the skills or problem you want to explore.
