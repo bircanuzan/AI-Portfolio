@@ -21,8 +21,8 @@ Six synthetic AI demand submissions across HR, customer support, finance and ope
 
 ## Run the working demonstration
 ```bash
-python "38_AI Portfolio & Governance PMO (ServiceNow, SPM)/src/portfolio_quality.py"
-python -m unittest discover -s "38_AI Portfolio & Governance PMO (ServiceNow, SPM)/tests" -v
+python "AI Project & Program Management/38_AI Portfolio & Governance PMO (ServiceNow, SPM)/src/portfolio_quality.py"
+python -m unittest discover -s "AI Project & Program Management/38_AI Portfolio & Governance PMO (ServiceNow, SPM)/tests" -v
 ```
 The evaluator reads CSVs from the project directory regardless of working directory; it creates/updates `reports/PORTFOLIO_HEALTH_REPORT.md`. It checks current pipeline counts, minimum field completeness, approved funding against cost forecasts, missing approvals and open high-severity RAID. It **does not connect to ServiceNow**.
 

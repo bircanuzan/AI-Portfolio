@@ -1,3 +1,7 @@
+## AI Project & Program Management
+
+**[Browse the four consolidated AI project and programme management work samples](AI%20Project%20%26%20Program%20Management/)** — AI project documentation and implementation support, enterprise AI portfolio/PMO governance, technical integration programme delivery, and portfolio prioritisation. All examples disclose their simulated scope.
+
 ## NEW — Agentic AI Application Testing & Evaluation for HR Transformation
 
 ## Specialist project portfolios
@@ -209,7 +213,7 @@ An illustrative OpenTrain-oriented HR benchmark: an AI assistant is asked to rev
 
 ## Project 40 — Technical Program Management
 
-**[Open Project 40 — Technical Program Management](40_Technical_Program_Management/)** — original, fictional enterprise fintech integration delivery case inspired by a Technical Program Manager role: integrated milestones, conceptual API/webhook dependencies, RACI and PMO governance, executive client communications, RAID register, feature-change tracking, UAT/go-live controls, resourcing and a tested Python project-health dashboard. **Synthetic portfolio demonstration only; not real Sardine or banking client work.**
+**[Open Project 40 — Technical Program Management](AI%20Project%20%26%20Program%20Management/40_Technical_Program_Management/)** — original, fictional enterprise fintech integration delivery case inspired by a Technical Program Manager role: integrated milestones, conceptual API/webhook dependencies, RACI and PMO governance, executive client communications, RAID register, feature-change tracking, UAT/go-live controls, resourcing and a tested Python project-health dashboard. **Synthetic portfolio demonstration only; not real Sardine or banking client work.**
 
 
 ## Project 41 — HR Operations Process Mapping & Power Automate

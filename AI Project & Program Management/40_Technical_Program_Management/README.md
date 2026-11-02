@@ -51,4 +51,4 @@ The CLI reads CSV registers, calculates milestone adherence, open overdue work, 
 ## CV alignment
 The tailored CV for this vacancy documents enterprise governance, cross-functional delivery, requirements gathering, cloud applications experience at Oracle and payment-system exposure at HSBC. This project shows how those **transferable** capabilities could be used in a technical financial-risk integration setting.
 
-[Back to portfolio index](../README.md) · [HumanEvoX](https://humanevox.com)
+[Project collection](../README.md) · [Back to portfolio index](../../README.md) · [HumanEvoX](https://humanevox.com)

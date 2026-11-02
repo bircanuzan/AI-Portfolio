@@ -1,3 +1,7 @@
+## AI Project & Program Management
+
+**[Browse the four consolidated AI project and programme management work samples](AI%20Project%20%26%20Program%20Management/)** — AI project documentation and implementation support, enterprise AI portfolio/PMO governance, technical integration programme delivery, and portfolio prioritisation. All examples disclose their simulated scope.
+
 ## NEW — Creatio AI Consultant, MoonTech Business Enablement & Stellar QA job-aligned extensions
 
 ## Specialist project portfolios

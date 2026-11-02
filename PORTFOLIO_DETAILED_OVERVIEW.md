@@ -1,5 +1,10 @@
 > **Portfolio navigation:** [START HERE — Return to the GitHub homepage](README.md)
 
+## AI Project & Program Management
+
+**[Browse the four consolidated AI project and programme management work samples](AI%20Project%20%26%20Program%20Management/)** — AI project documentation and implementation support, enterprise AI portfolio/PMO governance, technical integration programme delivery, and portfolio prioritisation. All examples disclose their simulated scope.
+
+
 ## Specialist project portfolios
 
 - **[Talent Assessment](Talent%20Assessment/)** — four assessment and evidence-led evaluation projects, including psychometric interpretation and assessment-centre methods.
