@@ -1,3 +1,11 @@
+## NEW — Creatio AI Consultant, MoonTech Business Enablement & Stellar QA job-aligned extensions
+
+- [Enterprise agent consulting and CRM opportunity value mapping](24_Applied_AI_Transformation_Manager_MENA/05_Creatio_Enterprise_Agent_Consulting_and_CRM_Transformation.md) — no-code/process redesign, agent architecture, APIs/MCP, scenario scoring and executive rollout proposal.
+- [Business Enablement & AI Workflow Automation](Business%20Enablement%20%26%20AI%20Workflow%20Automation/README.md) — a new parent project for MoonTech-style OKRs, n8n draft workflows, SOPs, RACI, change adoption and synthetic KPI reporting.
+- [QA Engineering API Automation Lab](28_AI_Testing_and_Quality_Review/qa_demo/README.md) — Stellar-style functional, API, integration and regression tests, defect template, Postman, optional Playwright and GitHub Actions CI.
+
+**Evidence boundary:** synthetic projects, no employer client data or real-system integrations; run results must be independently verified.
+
 ## AI Adoption
 
 **[Explore AI Adoption](AI%20Adoption/)** — three original project folders: business-oriented Microsoft 365 Copilot adoption and user enablement; enterprise AI adoption programme management; and AI-platform client training/onboarding. Fictional cases and synthetic metrics are clearly identified.
