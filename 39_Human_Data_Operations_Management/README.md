@@ -1,3 +1,16 @@
+## NEW — LILT remote UAE | Project Manager, Applied AI JD extension (2 November 2026)
+
+[**Open LILT skills and experience-gap map, multilingual data-ops operating model, QA gates and handoff runbook**](docs/05_LILT_Applied_AI_Project_Manager_JD_Mapping.md).
+
+Added an independent **synthetic multilingual LLM-preference evaluation batch** with Python + in-memory SQLite reporting for exact reviewer agreement, gold-set accuracy, throughput, cost per task, language splits and human-adjudication HOLD thresholds:
+- [Synthetic review labels](data/lilt_synthetic_preference_batch.json)
+- [Executable SQL-backed evaluation](src/lilt_batch_eval.py)
+- [Local regression tests](tests/test_lilt_batch_eval.py)
+
+Run: `python src/lilt_batch_eval.py` and `python -m unittest tests.test_lilt_batch_eval -v` from this folder. These are simulated preference labels, **not production RLHF/SFT, a live LLM evaluation, real annotator activity or a LILT project**. The source vacancy asks for 3–5+ years of AI/ML data-operations project management: this independent demonstration does not confer that prior tenure.
+
+---
+
 # Human Data Operations Management | AI Training Data Quality & Delivery
 **Project 39 · Role-aligned simulated operations case · Updated October 2026**
 
