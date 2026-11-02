@@ -18,6 +18,7 @@ A *fictional* enterprise technology company, **NovaLink**, plans to introduce it
 | [05 - Sales competency assessment](05_Assessment_Rubric_and_Question_Bank.md) | Knowledge checks, performance rubric and hard-stop errors |
 | [06 - Communications and stakeholder plan](06_Stakeholder_Communications_and_Change.md) | Sponsors, regional leads, SMEs and reinforcement |
 | [07 - Measurement and executive readout](07_Measurement_and_Executive_Readout.md) | Defined KPIs, thresholds and simulated example calculations |
+| [08 - Employer JD and technology-product alignment](08_Employer_Requirements_and_Product_Portfolio_Alignment.md) | Explicit match to global learning programme management, sales enablement, and product categories; verified vs. unverified experience |
 | [Synthetic exercise results](data/synthetic_learning_results.csv) | Invented participant records for transparent metric calculations |
 | [Offline learning-metrics calculator](src/learning_metrics.py) | Standard-library reporting from synthetic records |
 | [Unit tests](tests/test_learning_metrics.py) | Expected outcomes and data-validation checks |
