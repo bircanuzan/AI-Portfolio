@@ -1,5 +1,7 @@
 # Practical Roadmap for Agentic AI Adoption in HR
 
+[Back to AI Adoption](../README.md)
+
 **HumanEvoX | Bircan Uzan | Cross-functional agentic HR adoption case study portfolio**
 
 The seven new workstreams are *separate, substantive designs* with their own high-value agent selection, data/organizational readiness, permitted/forbidden operations, risk register, red-team tests, measurable pilot and go/hold/scale gates. The earlier HR Policy & Employee Service project has been relocated intact (all 17 files).
@@ -14,14 +16,14 @@ The seven new workstreams are *separate, substantive designs* with their own hig
 
 ## Eight dedicated HR projects
 
-1. **[HR POLICY & EMPLOYEE SERVICE](Practical%20Roadmap%20for%20Agentic%20AI%20Adoption%20in%20HR%3A%20HR%20POLICY%20%26%20EMPLOYEE%20SERVICE/README.md)** — HR Policy and Employee Service Request Triage Agent (original 17-file project relocated).
-2. **[RECRUITMENT](Practical%20Roadmap%20for%20Agentic%20AI%20Adoption%20in%20HR%3A%20RECRUITMENT/README.md)** — Recruitment Intake & Sourcing Research Agent.
-3. **[TALENT ASSESSMENT](Practical%20Roadmap%20for%20Agentic%20AI%20Adoption%20in%20HR%3A%20TALENT%20ASSESSMENT/README.md)** — Psychometric & Competency Assessment Evidence QA Agent.
-4. **[INSTRUCTIONAL DESIGN AND LEARNING&DEVELOPMENT](Practical%20Roadmap%20for%20Agentic%20AI%20Adoption%20in%20HR%3A%20INSTRUCTIONAL%20DESIGN%20AND%20LEARNING%26DEVELOPMENT/README.md)** — Learning Needs-to-Curriculum Design Agent.
-5. **[PEOPLE ANALYTICS](Practical%20Roadmap%20for%20Agentic%20AI%20Adoption%20in%20HR%3A%20PEOPLE%20ANALYTICS/README.md)** — Aggregate Workforce Insight & Data Quality Triage Agent.
-6. **[TALENT DEVELOPMENT](Practical%20Roadmap%20for%20Agentic%20AI%20Adoption%20in%20HR%3A%20TALENT%20DEVELOPMENT/README.md)** — Competency Gap-to-Individual Development Plan Co-Design Agent.
-7. **[HUMAN-AI WORKFORCE DESIGN AND PLANNING](Practical%20Roadmap%20for%20Agentic%20AI%20Adoption%20in%20HR%3A%20HUMAN-AI%20WORKFORCE%20DESIGN%20AND%20PLANNING/README.md)** — Human–AI Task Allocation & Capacity Scenario Agent.
-8. **[ORGANIZATIONAL DEVELOPMENT](Practical%20Roadmap%20for%20Agentic%20AI%20Adoption%20in%20HR%3A%20ORGANIZATIONAL%20DEVELOPMENT/README.md)** — Aggregate Organizational Diagnosis & Change Experiment Agent.
+1. **[HR Policy & Employee Service](Practical%20Roadmap%20for%20Agentic%20AI%20Adoption%20in%20HR%3A%20HR%20Policy%20%26%20Employee%20Service/README.md)** — HR Policy and Employee Service Request Triage Agent (original 17-file project relocated).
+2. **[Recruitment](Practical%20Roadmap%20for%20Agentic%20AI%20Adoption%20in%20HR%3A%20Recruitment/README.md)** — Recruitment Intake & Sourcing Research Agent.
+3. **[Talent Assessment](Practical%20Roadmap%20for%20Agentic%20AI%20Adoption%20in%20HR%3A%20Talent%20Assessment/README.md)** — Psychometric & Competency Assessment Evidence QA Agent.
+4. **[Instructional Design and Learning & Development](Practical%20Roadmap%20for%20Agentic%20AI%20Adoption%20in%20HR%3A%20Instructional%20Design%20and%20Learning%20%26%20Development/README.md)** — Learning Needs-to-Curriculum Design Agent.
+5. **[People Analytics](Practical%20Roadmap%20for%20Agentic%20AI%20Adoption%20in%20HR%3A%20People%20Analytics/README.md)** — Aggregate Workforce Insight & Data Quality Triage Agent.
+6. **[Talent Development](Practical%20Roadmap%20for%20Agentic%20AI%20Adoption%20in%20HR%3A%20Talent%20Development/README.md)** — Competency Gap-to-Individual Development Plan Co-Design Agent.
+7. **[Human-AI Workforce Design and Planning](Practical%20Roadmap%20for%20Agentic%20AI%20Adoption%20in%20HR%3A%20Human-AI%20Workforce%20Design%20and%20Planning/README.md)** — Human–AI Task Allocation & Capacity Scenario Agent.
+8. **[Organizational Development](Practical%20Roadmap%20for%20Agentic%20AI%20Adoption%20in%20HR%3A%20Organizational%20Development/README.md)** — Aggregate Organizational Diagnosis & Change Experiment Agent.
 
 **Talent Development appears only once:** it was repeated in the request, not a second distinct workstream.
 
@@ -44,5 +46,5 @@ The seven new workstreams are *separate, substantive designs* with their own hig
 
 ### Related governance projects
 
-- [Responsible AI and AI Governance: UAE and Global Standards](../Responsible%20AI%20and%20AI%20Governance%3A%20Standards%20%26%20Policies%20as%20per%20UAE%20laws%20and%20Global%20Standards./)
-- [Managing Risk, Security and Ethics for Agentic AI](../Managing%20Risk%2C%20Security%2C%20and%20Ethical%20Considerations%20for%20Agentic%20AI./)
+- [Responsible AI and AI Governance: UAE and Global Standards](../../AI%20Governance%2C%20Risk%20%26%20Responsible%20AI%20Portfolio/Responsible%20AI%20and%20AI%20Governance%3A%20Standards%20%26%20Policies%20as%20per%20UAE%20laws%20and%20Global%20Standards./)
+- [Managing Risk, Security and Ethics for Agentic AI](../../AI%20Governance%2C%20Risk%20%26%20Responsible%20AI%20Portfolio/Managing%20Risk%2C%20Security%2C%20and%20Ethical%20Considerations%20for%20Agentic%20AI./)
