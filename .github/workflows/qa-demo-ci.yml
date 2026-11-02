@@ -1,0 +1,24 @@
+name: Synthetic QA Regression Demo
+on:
+  push:
+    paths:
+      - '28_AI_Testing_and_Quality_Review/**'
+      - '.github/workflows/qa-demo-ci.yml'
+  pull_request:
+    paths:
+      - '28_AI_Testing_and_Quality_Review/**'
+      - '.github/workflows/qa-demo-ci.yml'
+jobs:
+  qa-regression:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Execute API regression suite (synthetic local service)
+        run: python -m unittest discover -s 28_AI_Testing_and_Quality_Review/qa_demo -p 'test_api.py' -v
