@@ -1,4 +1,4 @@
-# Practical Roadmap for Agentic AI Adoption in HR: RECRUITMENT
+# Practical Roadmap for Agentic AI Adoption in HR: Recruitment
 
 **HumanEvoX | Bircan Uzan | 2 November 2026**
 

@@ -1,4 +1,4 @@
-# Practical Roadmap for Agentic AI Adoption in HR: INSTRUCTIONAL DESIGN AND LEARNING&DEVELOPMENT
+# Practical Roadmap for Agentic AI Adoption in HR: Instructional Design and Learning & Development
 
 **HumanEvoX | Bircan Uzan | 2 November 2026**
 

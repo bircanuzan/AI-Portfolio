@@ -1,4 +1,4 @@
-# Practical Roadmap for Agentic AI Adoption in HR: HUMAN-AI WORKFORCE DESIGN AND PLANNING
+# Practical Roadmap for Agentic AI Adoption in HR: Human-AI Workforce Design and Planning
 
 **HumanEvoX | Bircan Uzan | 2 November 2026**
 

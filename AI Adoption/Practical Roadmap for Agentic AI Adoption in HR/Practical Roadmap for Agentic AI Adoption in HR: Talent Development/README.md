@@ -1,4 +1,4 @@
-# Practical Roadmap for Agentic AI Adoption in HR: TALENT DEVELOPMENT
+# Practical Roadmap for Agentic AI Adoption in HR: Talent Development
 
 **HumanEvoX | Bircan Uzan | 2 November 2026**
 

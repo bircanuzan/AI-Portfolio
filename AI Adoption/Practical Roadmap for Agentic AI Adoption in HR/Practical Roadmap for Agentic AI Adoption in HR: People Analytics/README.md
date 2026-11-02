@@ -1,4 +1,4 @@
-# Practical Roadmap for Agentic AI Adoption in HR: PEOPLE ANALYTICS
+# Practical Roadmap for Agentic AI Adoption in HR: People Analytics
 
 **HumanEvoX | Bircan Uzan | 2 November 2026**
 
