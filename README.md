@@ -1,3 +1,7 @@
+## NEW — HRMS, Payroll Controls & People Analytics (UAE Financial Services)
+
+[Open the finance-sector HR operations systems and analytics case](09_AI_Automation_HR_Operations/HRMS_Payroll_Controls_and_People_Analytics_UAE_Financial_Services/README.md) — tested synthetic Python pre-payroll control checker (3 tests passing), seven sample HRMS rows, six exceptions, HRMS governance, Power BI dashboard specification, UAT and automation controls. No live HRMS or payroll deployment is claimed.
+
 ## AI Project & Program Management
 
 **[Browse the four consolidated AI project and programme management work samples](AI%20Project%20%26%20Program%20Management/)** — AI project documentation and implementation support, enterprise AI portfolio/PMO governance, technical integration programme delivery, and portfolio prioritisation. All examples disclose their simulated scope.
