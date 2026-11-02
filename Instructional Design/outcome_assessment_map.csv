@@ -1,0 +1,5 @@
+outcome_id,bloom_level,objective,learning_activity,assessment,evidence,rubric_criterion,weight_percent,success_threshold,owner
+ILO1,Understand,Explain three constraints on AI use with HR data,Annotated microlecture and reflection,Six-item quiz,Quiz record,Accuracy and data privacy,15,80 percent quiz,Faculty SME
+ILO2,Apply,Construct a well-scoped de-identified HR prompt,Prompt building lab,Prompt task,Prompt artifact,Prompt structure and risk minimisation,20,3 of 4 on criterion,Instructional Designer
+ILO3,Evaluate,Judge output quality privacy and fairness,Flawed output comparison,Evaluation worksheet,Decision log,Verification and risk recognition,25,3 of 4 each critical criterion,Faculty SME
+ILO4,Create,Produce reviewed employee-facing material,Applied capstone and peer critique,Authentic project,Final artifact plus reviewer approval,Accuracy privacy fairness usability audit trail,40,3 of 4 each critical criterion,Human Assessor
