@@ -1,0 +1,5 @@
+use_case,impact_1to5,feasibility_1to5,confidence_1to5,risk_1to5,description
+Grounded policy FAQ,4,5,4,1,Answer approved FAQs with citations
+CRM case summary draft,4,4,3,2,Prepare human-reviewed summaries
+Agent-assisted knowledge tagging,3,4,3,2,Suggest labels for human validation
+Autonomous customer record update,5,2,2,5,Sensitive high-risk write action
