@@ -1,5 +1,10 @@
 # START HERE — AI, HR & Technology Portfolio
 
+## NEW — Agentic AI Engineering: Enterprise Workflow Agent (HumanEvoX)
+
+**[Open the Agentic AI Engineering implementation starter](Agentic-AI-Engineering-Enterprise-Workflow-Agent/)** — Python/FastAPI document retrieval, optional live LLM adapter, configured HTTPS read-only case API, SQLite human-approval gate, n8n webhook starter, pytest cases, architecture, evaluation register, demo storyboard and paid-pilot scope. **Source-code prototype; no live LLM/n8n run or client deployment is claimed.**
+
+
 ## NEW — Claude AI in HR: 50 original agent-and-skill projects
 
 **[Browse all 50 standalone Claude AI in HR folders](Claude%20AI%20in%20HR%20-%20Portfolio%20Index/)** — 10 HR functions; 50 original agent workflows and reusable `SKILL.md` instructions; synthetic test inputs; five acceptance cases per project; human approvals and governance gates. **Unexecuted designs only (no claimed Claude runs); not a reproduction of the Gumroad author's proprietary package.**
