@@ -1,3 +1,7 @@
+## NEW — Agentic AI Application Testing & Evaluation for HR Transformation
+
+**[View executed HR policy agent, Python code, 16-scenario evaluation and test evidence](Agentic%20AI%20Application%20Testing%20%26%20Evaluation%20for%20HR%20Transformation/)** — functioning offline tool-using Python HR policy agent, six synthetic HR policies, source-grounded answers, simulated human approval routing, privacy controls, 16/16 passing authored acceptance tests and 6/6 regression tests. **This is a rule-based baseline, not a live LLM or production HRIS deployment.**
+
 ## NEW — Applied JD Evidence (Creatio, MoonTech and Stellar; November 2026)
 
 - **[AI Consultant / enterprise agent solution design](24_Applied_AI_Transformation_Manager_MENA/05_Creatio_Enterprise_Agent_Consulting_and_CRM_Transformation.md)** — Creatio-aligned CRM agent consulting case, AI opportunity scoring, risk and readiness gates, executive value mapping, integration architecture and tests (synthetic, no live CRM).
