@@ -1,0 +1,8 @@
+employee_id,approved_gross_aed,proposed_payment_aed,payroll_status,bank_reference,employment_status,eos_review
+E001,12000,12000,approved,TEST-ACCOUNT-1,active,not_applicable
+E002,10000,10100,approved,TEST-ACCOUNT-2,active,not_applicable
+E003,15000,15000,approved,TEST-ACCOUNT-3,active,not_applicable
+E003,15000,15000,approved,TEST-ACCOUNT-3,active,not_applicable
+E004,9000,9000,approved,,active,not_applicable
+E005,8000,8000,approved,TEST-ACCOUNT-5,exited,pending
+E006,2000,2000,pending,TEST-ACCOUNT-6,active,not_applicable
