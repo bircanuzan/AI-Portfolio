@@ -1,3 +1,9 @@
+## NEW — Applied JD Evidence (Creatio, MoonTech and Stellar; November 2026)
+
+- **[AI Consultant / enterprise agent solution design](24_Applied_AI_Transformation_Manager_MENA/05_Creatio_Enterprise_Agent_Consulting_and_CRM_Transformation.md)** — Creatio-aligned CRM agent consulting case, AI opportunity scoring, risk and readiness gates, executive value mapping, integration architecture and tests (synthetic, no live CRM).
+- **[Business Enablement & AI Workflow Automation](Business%20Enablement%20%26%20AI%20Workflow%20Automation/README.md)** — MoonTech-aligned OKRs, process discovery, SOP/RACI, draft-only n8n workflow, synthetic operating metrics and Python tests.
+- **[AI Testing & Quality Review — automated QA lab](28_AI_Testing_and_Quality_Review/qa_demo/README.md)** — Stellar-aligned local HTTP service, automated API regression tests, Postman, optional Playwright and CI configuration (synthetic app, not employer systems).
+
 # START HERE — AI, HR & Technology Portfolio
 
 ## AI Adoption
