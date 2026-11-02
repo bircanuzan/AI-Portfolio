@@ -1,5 +1,18 @@
 > **Portfolio navigation:** [START HERE — Return to the GitHub homepage](README.md)
 
+## HR Technology & Digital Transformation
+
+[Explore HR Technology & Digital Transformation](HR%20Technology%20%26%20Digital%20Transformation/) — the original HR technology, digital employee experience and HR service design portfolio.
+
+## HR Operations & Workflow Automation
+
+[Explore HR Operations & Workflow Automation](HR%20Operations%20%26%20Workflow%20Automation/) — HR service automation, HRMS/payroll control checks, workflow mapping and Microsoft Power Automate solution-design work samples.
+
+## Oracle Fusion HCM
+
+[Explore Oracle Fusion HCM](Oracle%20Fusion%20HCM/) — HCM portfolio governance, release management, UAT and go-live readiness simulations; no production implementation claimed.
+
+
 ## AI Project & Program Management
 
 **[Browse the four consolidated AI project and programme management work samples](AI%20Project%20%26%20Program%20Management/)** — AI project documentation and implementation support, enterprise AI portfolio/PMO governance, technical integration programme delivery, and portfolio prioritisation. All examples disclose their simulated scope.
@@ -89,15 +102,15 @@ For a plain-English overview of **all** portfolio folders, use [START HERE — p
 - [AI-Enabled Recruitment (Healthcare)](AI-enabled%20Recruitment%20Portfolio/01_AI_Enabled_Recruitment_Healthcare/)
 - [AI-Enabled HR Transformation](02_AI_Enabled_HR_Transformation/)
 - [People Analytics & AI](03_People_Analytics_AI/)
-- [HR Technology & Digital Employee Experience](04_HR_Technology_Digital_Employee_Experience/)
+- [HR Technology & Digital Employee Experience](HR%20Technology%20%26%20Digital%20Transformation/04_HR_Technology_Digital_Employee_Experience/)
 - [AI Agents & HR Automation](05_AI_Agents_Chatbots_HR_Automation/)
 - [Strategic Workforce Planning](06_Workforce_Planning/)
 - [Talent & Workforce Intelligence](AI-enabled%20Recruitment%20Portfolio/07_Talent_Workforce_Intelligence/)
 - [Talent Management & Assessment](Talent%20Assessment/08_Talent_Management_Assessment/)
-- [AI Automation in HR Operations](09_AI_Automation_HR_Operations/)
+- [AI Automation in HR Operations](HR%20Operations%20%26%20Workflow%20Automation/09_AI_Automation_HR_Operations/)
 - [Data & Analytics for AI in HR](11_Data_Analytics_for_AI_in_HR/)
 - [Agentic AI for Full HR Lifecycle](12_Building_Agentic_AI_for_Full_HR_Lifecycle/)
-- [Oracle Fusion HCM Portfolio & Governance](13_Oracle_Fusion_HCM/)
+- [Oracle Fusion HCM Portfolio & Governance](Oracle%20Fusion%20HCM/13_Oracle_Fusion_HCM/)
 - [14 - Teach Machine Learning: Model Training and Evaluation](14_Machine_Learning_Training_and_Model_Evaluation/)
 - [15 - Teach DevOps: AI-Supported CI/CD and Kubernetes](15_AI_DevOps_Training_CI_CD_and_Kubernetes/)
 - [16 - Build a Voice AI Customer Support Agent](16_AI_Voice_Agent_for_Customer_Support/)
@@ -125,7 +138,7 @@ Both are illustrative teaching and code demonstrations, not evidence of prior pr
 
 A dedicated folder for Oracle Fusion HCM portfolio case studies, including enterprise roadmap, governance, UAT, vendor management, releases, SLAs and executive reporting. These are illustrative business-side simulations, not client implementation claims.
 
-[VIEW THE ORACLE FUSION HCM PORTFOLIO FOLDER](13_Oracle_Fusion_HCM/)
+[VIEW THE ORACLE FUSION HCM PORTFOLIO FOLDER](Oracle%20Fusion%20HCM/13_Oracle_Fusion_HCM/)
 
 ### AI-Enabled Recruitment | Healthcare | UAE & KSA
 
@@ -216,7 +229,7 @@ The projects demonstrate HR-side technology transformation through process and j
 
 Technical HRIS/HCM implementation, configuration, data migration and systems integration are intentionally outside the scope of this portfolio.
 
-[VIEW THE FULL HR TECHNOLOGY, DIGITAL EMPLOYEE EXPERIENCE & AUTOMATION PORTFOLIO (PDF)](04_HR_Technology_Digital_Employee_Experience/HumanEvoX_HR_Technology_Digital_Employee_Experience_Automation_Portfolio.pdf)
+[VIEW THE FULL HR TECHNOLOGY, DIGITAL EMPLOYEE EXPERIENCE & AUTOMATION PORTFOLIO (PDF)](HR%20Technology%20%26%20Digital%20Transformation/04_HR_Technology_Digital_Employee_Experience/HumanEvoX_HR_Technology_Digital_Employee_Experience_Automation_Portfolio.pdf)
 
 ### AI Agents, Chatbots & HR Automation | UAE & KSA
 
@@ -351,7 +364,7 @@ Technologies include Microsoft Power Automate, Copilot, Copilot Studio, approved
 
 The portfolio focuses on HR/business transformation, process ownership, requirements, controls, UAT, adoption and measurable benefits. Technical HRIS implementation, configuration, data migration and cross-system integration are outside the claimed scope.
 
-[VIEW THE FULL AI AUTOMATION IN HR OPERATIONS PORTFOLIO (PDF)](09_AI_Automation_HR_Operations/HumanEvoX_AI_Automation_in_HR_Operations_Portfolio.pdf)
+[VIEW THE FULL AI AUTOMATION IN HR OPERATIONS PORTFOLIO (PDF)](HR%20Operations%20%26%20Workflow%20Automation/09_AI_Automation_HR_Operations/HumanEvoX_AI_Automation_in_HR_Operations_Portfolio.pdf)
 
 ### Data & Analytics for AI in HR | SQL, Python & Power BI
 

@@ -2,7 +2,7 @@
 
 [Portfolio PDF](HumanEvoX_AI_Automation_in_HR_Operations_Portfolio.pdf)
 
-[Back](../README.md)
+[Back to HR Operations & Workflow Automation](../README.md) · [Full portfolio index](../../README.md)
 
 ## New — HRMS, Payroll Controls & People Analytics (UAE Financial Services)
 

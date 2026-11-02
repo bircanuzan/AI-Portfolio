@@ -1,6 +1,18 @@
+## HR Technology & Digital Transformation
+
+[Explore HR Technology & Digital Transformation](HR%20Technology%20%26%20Digital%20Transformation/) — the original HR technology, digital employee experience and HR service design portfolio.
+
+## HR Operations & Workflow Automation
+
+[Explore HR Operations & Workflow Automation](HR%20Operations%20%26%20Workflow%20Automation/) — HR service automation, HRMS/payroll control checks, workflow mapping and Microsoft Power Automate solution-design work samples.
+
+## Oracle Fusion HCM
+
+[Explore Oracle Fusion HCM](Oracle%20Fusion%20HCM/) — HCM portfolio governance, release management, UAT and go-live readiness simulations; no production implementation claimed.
+
 ## NEW — HRMS, Payroll Controls & People Analytics (UAE Financial Services)
 
-[Open the finance-sector HR operations systems and analytics case](09_AI_Automation_HR_Operations/HRMS_Payroll_Controls_and_People_Analytics_UAE_Financial_Services/README.md) — tested synthetic Python pre-payroll control checker (3 tests passing), seven sample HRMS rows, six exceptions, HRMS governance, Power BI dashboard specification, UAT and automation controls. No live HRMS or payroll deployment is claimed.
+[Open the finance-sector HR operations systems and analytics case](HR%20Operations%20%26%20Workflow%20Automation/09_AI_Automation_HR_Operations/HRMS_Payroll_Controls_and_People_Analytics_UAE_Financial_Services/README.md) — tested synthetic Python pre-payroll control checker (3 tests passing), seven sample HRMS rows, six exceptions, HRMS governance, Power BI dashboard specification, UAT and automation controls. No live HRMS or payroll deployment is claimed.
 
 ## AI Project & Program Management
 
@@ -99,15 +111,15 @@ These are **separate folder-based, reproducible projects**, expanded from the [P
 | **01** | [Healthcare Recruitment AI](AI-enabled%20Recruitment%20Portfolio/01_AI_Enabled_Recruitment_Healthcare/) | Improve healthcare recruitment using AI | Recruitment processes, talent sourcing and case designs |
 | **02** | [HR Transformation](02_AI_Enabled_HR_Transformation/) | Redesign how HR departments work | Transformation strategies, workflows and operating models |
 | **03** | [People Analytics & AI](03_People_Analytics_AI/) | Use workforce data to guide HR decisions | HR dashboards, workforce metrics and analytics case studies |
-| **04** | [HR Technology & Employee Experience](04_HR_Technology_Digital_Employee_Experience/) | Make employee HR services easier to use | HR system journeys, self-service and digital process design |
+| **04** | [HR Technology & Employee Experience](HR%20Technology%20%26%20Digital%20Transformation/04_HR_Technology_Digital_Employee_Experience/) | Make employee HR services easier to use | HR system journeys, self-service and digital process design |
 | **05** | [AI Agents & HR Chatbots](05_AI_Agents_Chatbots_HR_Automation/) | Use AI assistants for everyday HR questions | Chatbot and agent workflows, controls and use cases |
 | **06** | [Workforce Planning](06_Workforce_Planning/) | Forecast the people and skills a business needs | Headcount, demand and capacity planning scenarios |
 | **07** | [Talent & Workforce Intelligence](AI-enabled%20Recruitment%20Portfolio/07_Talent_Workforce_Intelligence/) | Research labour markets and talent availability | Talent pools, skills supply and market mapping |
 | **08** | [Talent Management & Assessment](Talent%20Assessment/08_Talent_Management_Assessment/) | Evaluate employee and candidate capabilities | Assessment and talent management examples |
-| **09** | [HR Operations Automation](09_AI_Automation_HR_Operations/) | Automate repeatable HR administration | Workflow controls and service automation examples |
+| **09** | [HR Operations Automation](HR%20Operations%20%26%20Workflow%20Automation/09_AI_Automation_HR_Operations/) | Automate repeatable HR administration | Workflow controls and service automation examples |
 | **11** | [Data Analytics for AI in HR](11_Data_Analytics_for_AI_in_HR/) | Prepare and analyse HR data for AI | Data and analytics methods applied to HR cases |
 | **12** | [Agentic AI Across the HR Lifecycle](12_Building_Agentic_AI_for_Full_HR_Lifecycle/) | Design multiple AI agents for HR workflows | AI agent coordination and human-approval controls |
-| **13** | [Oracle Fusion HCM](13_Oracle_Fusion_HCM/) | Plan and govern Oracle HR system projects | Roadmap, governance, testing and implementation oversight examples |
+| **13** | [Oracle Fusion HCM](Oracle%20Fusion%20HCM/13_Oracle_Fusion_HCM/) | Plan and govern Oracle HR system projects | Roadmap, governance, testing and implementation oversight examples |
 
 ## Technical Training, Voice AI & AI Evaluation
 
@@ -222,7 +234,7 @@ An illustrative OpenTrain-oriented HR benchmark: an AI assistant is asked to rev
 
 ## Project 41 — HR Operations Process Mapping & Power Automate
 
-**[Open Project 41 — Improving HR Operations through Process Mapping, Workflow Automation and Practical AI Adoption](41_HR_Operations_Process_Mapping_Workflow_Automation_Power_Automate/)** — fictional employee-letter request case aligned to Microsoft Learn: AS-IS/TO-BE process map, Microsoft 365 approval workflow design, Copilot adoption boundaries, exception controls, planned UAT, monitoring and illustrative capacity model. **Documented solution design; no live Power Automate deployment or measured savings claimed.**
+**[Open Project 41 — Improving HR Operations through Process Mapping, Workflow Automation and Practical AI Adoption](HR%20Operations%20%26%20Workflow%20Automation/41_HR_Operations_Process_Mapping_Workflow_Automation_Power_Automate/)** — fictional employee-letter request case aligned to Microsoft Learn: AS-IS/TO-BE process map, Microsoft 365 approval workflow design, Copilot adoption boundaries, exception controls, planned UAT, monitoring and illustrative capacity model. **Documented solution design; no live Power Automate deployment or measured savings claimed.**
 
 
 ## Project 42 — Human-AI Workforce Design and Agent Governance

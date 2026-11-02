@@ -29,3 +29,5 @@ HR service improvement · process mapping · business requirements · workflow d
 
 
 © 2026 Bircan Uzan — All Rights Reserved.
+
+[Back to HR Operations & Workflow Automation](../README.md) · [Full portfolio index](../../README.md)

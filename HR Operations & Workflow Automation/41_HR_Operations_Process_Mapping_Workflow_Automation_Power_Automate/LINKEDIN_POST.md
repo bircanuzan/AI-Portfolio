@@ -28,7 +28,7 @@ That is a modelled estimate for a fictional scenario. The project is a documente
 My main takeaway: HR automation starts with understanding the work, agreeing who owns each decision and deciding how success will be measured.
 
 Explore the case:
-https://github.com/bircanuzan/AI-in-HR-Portfolio/tree/main/41_HR_Operations_Process_Mapping_Workflow_Automation_Power_Automate
+https://github.com/bircanuzan/AI-in-HR-Portfolio/tree/main/HR%20Operations%20%26%20Workflow%20Automation/41_HR_Operations_Process_Mapping_Workflow_Automation_Power_Automate
 
 Which HR process generates the most avoidable chasing in your organisation?
 

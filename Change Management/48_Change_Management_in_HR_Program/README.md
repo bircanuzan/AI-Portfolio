@@ -41,7 +41,7 @@ ADKAR is associated with Prosci; this case uses publicly described concepts **wi
 
 ## Why this project is distinct
 - [Project 47 — AI Adoption Program Management](../../AI%20Adoption/47_AI_Adoption_Program_Management/): institution-wide AI governance and adoption.
-- [Project 41 — HR Process Mapping & Power Automate](../../41_HR_Operations_Process_Mapping_Workflow_Automation_Power_Automate/): technical business-side design of one request workflow.
+- [Project 41 — HR Process Mapping & Power Automate](../../HR%20Operations%20%26%20Workflow%20Automation/41_HR_Operations_Process_Mapping_Workflow_Automation_Power_Automate/): technical business-side design of one request workflow.
 - **Project 48:** end-to-end **organisational change management of an HR programme**, independent of which vendor implements the HR system.
 
 ## Grounding in UAE job requirements

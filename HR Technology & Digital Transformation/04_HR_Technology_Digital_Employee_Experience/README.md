@@ -4,6 +4,6 @@ Part of the HumanEvoX AI in HR portfolio. This folder is the navigation home for
 
 **Portfolio PDF:** [Open the full portfolio](HumanEvoX_HR_Technology_Digital_Employee_Experience_Automation_Portfolio.pdf)
 
-> The PDF is currently stored in the repository root. This link preserves access to the original until GitHub permits file relocation. This is a business-side portfolio; it does not assert hands-on HRIS configuration or systems integration.
+> The PDF is stored in this project folder. This is a business-side portfolio; it does not assert hands-on HRIS configuration or systems integration.
 
-[Back to portfolio index](../README.md)
+[Back to HR Technology & Digital Transformation](../README.md) · [Full portfolio index](../../README.md)

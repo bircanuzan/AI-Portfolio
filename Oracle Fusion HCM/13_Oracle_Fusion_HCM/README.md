@@ -17,4 +17,4 @@ Practical, illustrative portfolio case studies aligned with enterprise HCM portf
 - Technical dependencies, integration, data, access and security oversight through accountable specialists
 - HR and IT stakeholders, partners, defects, SLAs, risk and executive reporting
 
-[Back to main HR portfolio](../README.md)
+[Back to Oracle Fusion HCM portfolio category](../README.md) · [Full portfolio index](../../README.md)
