@@ -1,0 +1,39 @@
+{
+  "case_id": "CLAUDE-HR-20-SYN-001",
+  "source": "fictional synthetic exercise - not real employer information",
+  "organization": "Example UAE Service Co. (fictional)",
+  "functional_area": "Offer and start coordination",
+  "project_name": "Start Date and HRIS Handoff",
+  "request": "Coordinate recruiting-to-people-operations handoff",
+  "approved_inputs": [
+    {
+      "field": "confirmed start date",
+      "value": "FICTIONAL_1: confirmed start date",
+      "source_id": "SRC-20-1"
+    },
+    {
+      "field": "approved fields",
+      "value": "FICTIONAL_2: approved fields",
+      "source_id": "SRC-20-2"
+    },
+    {
+      "field": "owners",
+      "value": "FICTIONAL_3: owners",
+      "source_id": "SRC-20-3"
+    },
+    {
+      "field": "access milestones",
+      "value": "FICTIONAL_4: access milestones",
+      "source_id": "SRC-20-4"
+    }
+  ],
+  "approved_source_version": "EXAMPLE-v1",
+  "constraints": [
+    "No real personal data",
+    "No external sending or employee decisions",
+    "All ambiguous policy and legal questions require human verification"
+  ],
+  "human_review_owner": "HR Operations and IT",
+  "expected_artifact": "Handoff checklist and responsibility matrix",
+  "success_measure": "handoff completeness and late access requests"
+}

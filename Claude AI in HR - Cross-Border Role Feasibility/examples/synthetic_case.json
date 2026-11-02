@@ -1,0 +1,34 @@
+{
+  "case_id": "CLAUDE-HR-46-SYN-001",
+  "source": "fictional synthetic exercise - not real employer information",
+  "organization": "Example UAE Service Co. (fictional)",
+  "functional_area": "International hiring preparation",
+  "project_name": "Cross-Border Role Feasibility",
+  "request": "Map information needed before cross-border hiring decisions",
+  "approved_inputs": [
+    {
+      "field": "host and home locations",
+      "value": "FICTIONAL_1: host and home locations",
+      "source_id": "SRC-46-1"
+    },
+    {
+      "field": "work model",
+      "value": "FICTIONAL_2: work model",
+      "source_id": "SRC-46-2"
+    },
+    {
+      "field": "approved mobility policy",
+      "value": "FICTIONAL_3: approved mobility policy",
+      "source_id": "SRC-46-3"
+    }
+  ],
+  "approved_source_version": "EXAMPLE-v1",
+  "constraints": [
+    "No real personal data",
+    "No external sending or employee decisions",
+    "All ambiguous policy and legal questions require human verification"
+  ],
+  "human_review_owner": "Global Mobility Lead",
+  "expected_artifact": "Feasibility question set and adviser handoff",
+  "success_measure": "unresolved jurisdiction questions surfaced"
+}

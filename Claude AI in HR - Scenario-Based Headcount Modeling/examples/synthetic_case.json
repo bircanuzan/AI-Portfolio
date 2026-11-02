@@ -1,0 +1,39 @@
+{
+  "case_id": "CLAUDE-HR-04-SYN-001",
+  "source": "fictional synthetic exercise - not real employer information",
+  "organization": "Example UAE Service Co. (fictional)",
+  "functional_area": "Workforce planning",
+  "project_name": "Scenario-Based Headcount Modeling",
+  "request": "Prepare conservative, base, and expansion workforce alternatives",
+  "approved_inputs": [
+    {
+      "field": "baseline headcount",
+      "value": "FICTIONAL_1: baseline headcount",
+      "source_id": "SRC-04-1"
+    },
+    {
+      "field": "demand assumptions",
+      "value": "FICTIONAL_2: demand assumptions",
+      "source_id": "SRC-04-2"
+    },
+    {
+      "field": "role costs as approved",
+      "value": "FICTIONAL_3: role costs as approved",
+      "source_id": "SRC-04-3"
+    },
+    {
+      "field": "scenarios",
+      "value": "FICTIONAL_4: scenarios",
+      "source_id": "SRC-04-4"
+    }
+  ],
+  "approved_source_version": "EXAMPLE-v1",
+  "constraints": [
+    "No real personal data",
+    "No external sending or employee decisions",
+    "All ambiguous policy and legal questions require human verification"
+  ],
+  "human_review_owner": "Finance and HR Planning",
+  "expected_artifact": "Three-scenario staffing model and sensitivity log",
+  "success_measure": "scenario traceability and arithmetic accuracy"
+}

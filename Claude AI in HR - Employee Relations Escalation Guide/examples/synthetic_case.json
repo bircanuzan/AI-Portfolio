@@ -1,0 +1,34 @@
+{
+  "case_id": "CLAUDE-HR-29-SYN-001",
+  "source": "fictional synthetic exercise - not real employer information",
+  "organization": "Example UAE Service Co. (fictional)",
+  "functional_area": "Manager enablement",
+  "project_name": "Employee Relations Escalation Guide",
+  "request": "Triage employee issues toward the correct human support route",
+  "approved_inputs": [
+    {
+      "field": "issue category",
+      "value": "FICTIONAL_1: issue category",
+      "source_id": "SRC-29-1"
+    },
+    {
+      "field": "approved policy",
+      "value": "FICTIONAL_2: approved policy",
+      "source_id": "SRC-29-2"
+    },
+    {
+      "field": "urgency rubric",
+      "value": "FICTIONAL_3: urgency rubric",
+      "source_id": "SRC-29-3"
+    }
+  ],
+  "approved_source_version": "EXAMPLE-v1",
+  "constraints": [
+    "No real personal data",
+    "No external sending or employee decisions",
+    "All ambiguous policy and legal questions require human verification"
+  ],
+  "human_review_owner": "HR Employee Relations",
+  "expected_artifact": "Neutral issue intake and escalation guide",
+  "success_measure": "appropriate escalation routing"
+}

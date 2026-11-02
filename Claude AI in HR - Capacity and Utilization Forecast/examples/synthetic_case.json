@@ -1,0 +1,39 @@
+{
+  "case_id": "CLAUDE-HR-02-SYN-001",
+  "source": "fictional synthetic exercise - not real employer information",
+  "organization": "Example UAE Service Co. (fictional)",
+  "functional_area": "Workforce planning",
+  "project_name": "Capacity and Utilization Forecast",
+  "request": "Compare approved work volume with available workforce capacity",
+  "approved_inputs": [
+    {
+      "field": "team capacity",
+      "value": "FICTIONAL_1: team capacity",
+      "source_id": "SRC-02-1"
+    },
+    {
+      "field": "planned leave at aggregate level",
+      "value": "FICTIONAL_2: planned leave at aggregate level",
+      "source_id": "SRC-02-2"
+    },
+    {
+      "field": "workload units",
+      "value": "FICTIONAL_3: workload units",
+      "source_id": "SRC-02-3"
+    },
+    {
+      "field": "planning period",
+      "value": "FICTIONAL_4: planning period",
+      "source_id": "SRC-02-4"
+    }
+  ],
+  "approved_source_version": "EXAMPLE-v1",
+  "constraints": [
+    "No real personal data",
+    "No external sending or employee decisions",
+    "All ambiguous policy and legal questions require human verification"
+  ],
+  "human_review_owner": "Workforce Planning Lead",
+  "expected_artifact": "Capacity table, gap bands, and data limitations",
+  "success_measure": "forecast input completeness and arithmetic consistency"
+}

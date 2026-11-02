@@ -1,0 +1,34 @@
+{
+  "case_id": "CLAUDE-HR-03-SYN-001",
+  "source": "fictional synthetic exercise - not real employer information",
+  "organization": "Example UAE Service Co. (fictional)",
+  "functional_area": "Workforce planning",
+  "project_name": "Skills Gap and Redeployment",
+  "request": "Identify capability gaps and internal redeployment options before hiring",
+  "approved_inputs": [
+    {
+      "field": "approved skills taxonomy",
+      "value": "FICTIONAL_1: approved skills taxonomy",
+      "source_id": "SRC-03-1"
+    },
+    {
+      "field": "role requirements",
+      "value": "FICTIONAL_2: role requirements",
+      "source_id": "SRC-03-2"
+    },
+    {
+      "field": "anonymized capacity matrix",
+      "value": "FICTIONAL_3: anonymized capacity matrix",
+      "source_id": "SRC-03-3"
+    }
+  ],
+  "approved_source_version": "EXAMPLE-v1",
+  "constraints": [
+    "No real personal data",
+    "No external sending or employee decisions",
+    "All ambiguous policy and legal questions require human verification"
+  ],
+  "human_review_owner": "Talent Management Lead",
+  "expected_artifact": "Skills-gap matrix and redeployment review queue",
+  "success_measure": "role-to-skill coverage and reviewer-confirmed redeployment options"
+}

@@ -1,0 +1,39 @@
+{
+  "case_id": "CLAUDE-HR-08-SYN-001",
+  "source": "fictional synthetic exercise - not real employer information",
+  "organization": "Example UAE Service Co. (fictional)",
+  "functional_area": "Role and job preparation",
+  "project_name": "Inclusive Job Description Builder",
+  "request": "Draft a concise, non-exclusionary job description tied to approved requirements",
+  "approved_inputs": [
+    {
+      "field": "approved role brief",
+      "value": "FICTIONAL_1: approved role brief",
+      "source_id": "SRC-08-1"
+    },
+    {
+      "field": "location",
+      "value": "FICTIONAL_2: location",
+      "source_id": "SRC-08-2"
+    },
+    {
+      "field": "working model",
+      "value": "FICTIONAL_3: working model",
+      "source_id": "SRC-08-3"
+    },
+    {
+      "field": "job level",
+      "value": "FICTIONAL_4: job level",
+      "source_id": "SRC-08-4"
+    }
+  ],
+  "approved_source_version": "EXAMPLE-v1",
+  "constraints": [
+    "No real personal data",
+    "No external sending or employee decisions",
+    "All ambiguous policy and legal questions require human verification"
+  ],
+  "human_review_owner": "Talent Acquisition Lead",
+  "expected_artifact": "Role-specific job description with requirement rationale",
+  "success_measure": "unjustified requirement count and reviewer revisions"
+}

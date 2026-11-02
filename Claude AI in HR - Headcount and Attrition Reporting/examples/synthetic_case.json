@@ -1,0 +1,34 @@
+{
+  "case_id": "CLAUDE-HR-43-SYN-001",
+  "source": "fictional synthetic exercise - not real employer information",
+  "organization": "Example UAE Service Co. (fictional)",
+  "functional_area": "People operations and reporting",
+  "project_name": "Headcount and Attrition Reporting",
+  "request": "Calculate workforce metrics with explicit definitions and suppress small groups",
+  "approved_inputs": [
+    {
+      "field": "synthetic aggregate workforce data",
+      "value": "FICTIONAL_1: synthetic aggregate workforce data",
+      "source_id": "SRC-43-1"
+    },
+    {
+      "field": "reporting period",
+      "value": "FICTIONAL_2: reporting period",
+      "source_id": "SRC-43-2"
+    },
+    {
+      "field": "metric dictionary",
+      "value": "FICTIONAL_3: metric dictionary",
+      "source_id": "SRC-43-3"
+    }
+  ],
+  "approved_source_version": "EXAMPLE-v1",
+  "constraints": [
+    "No real personal data",
+    "No external sending or employee decisions",
+    "All ambiguous policy and legal questions require human verification"
+  ],
+  "human_review_owner": "People Analytics Lead",
+  "expected_artifact": "Executive metrics table with formulas and limitations",
+  "success_measure": "formula accuracy and suppression compliance"
+}

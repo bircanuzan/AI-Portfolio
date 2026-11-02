@@ -1,0 +1,39 @@
+{
+  "case_id": "CLAUDE-HR-49-SYN-001",
+  "source": "fictional synthetic exercise - not real employer information",
+  "organization": "Example UAE Service Co. (fictional)",
+  "functional_area": "International hiring preparation",
+  "project_name": "Relocation Preparation Coordinator",
+  "request": "Organize relocation stages and participant responsibilities",
+  "approved_inputs": [
+    {
+      "field": "approved relocation policy",
+      "value": "FICTIONAL_1: approved relocation policy",
+      "source_id": "SRC-49-1"
+    },
+    {
+      "field": "timeline",
+      "value": "FICTIONAL_2: timeline",
+      "source_id": "SRC-49-2"
+    },
+    {
+      "field": "service vendors",
+      "value": "FICTIONAL_3: service vendors",
+      "source_id": "SRC-49-3"
+    },
+    {
+      "field": "employee preferences voluntarily given",
+      "value": "FICTIONAL_4: employee preferences voluntarily given",
+      "source_id": "SRC-49-4"
+    }
+  ],
+  "approved_source_version": "EXAMPLE-v1",
+  "constraints": [
+    "No real personal data",
+    "No external sending or employee decisions",
+    "All ambiguous policy and legal questions require human verification"
+  ],
+  "human_review_owner": "Global Mobility Specialist",
+  "expected_artifact": "Relocation task map and escalation contacts",
+  "success_measure": "handoff and timeline readiness"
+}

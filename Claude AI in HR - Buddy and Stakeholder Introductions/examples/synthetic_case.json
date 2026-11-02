@@ -1,0 +1,39 @@
+{
+  "case_id": "CLAUDE-HR-24-SYN-001",
+  "source": "fictional synthetic exercise - not real employer information",
+  "organization": "Example UAE Service Co. (fictional)",
+  "functional_area": "Onboarding",
+  "project_name": "Buddy and Stakeholder Introductions",
+  "request": "Create a support network and introduction sequence for new starters",
+  "approved_inputs": [
+    {
+      "field": "job dependencies",
+      "value": "FICTIONAL_1: job dependencies",
+      "source_id": "SRC-24-1"
+    },
+    {
+      "field": "function map",
+      "value": "FICTIONAL_2: function map",
+      "source_id": "SRC-24-2"
+    },
+    {
+      "field": "assigned buddy",
+      "value": "FICTIONAL_3: assigned buddy",
+      "source_id": "SRC-24-3"
+    },
+    {
+      "field": "working model",
+      "value": "FICTIONAL_4: working model",
+      "source_id": "SRC-24-4"
+    }
+  ],
+  "approved_source_version": "EXAMPLE-v1",
+  "constraints": [
+    "No real personal data",
+    "No external sending or employee decisions",
+    "All ambiguous policy and legal questions require human verification"
+  ],
+  "human_review_owner": "Line Manager",
+  "expected_artifact": "Introduction plan with role-based purposes",
+  "success_measure": "planned introductions completed"
+}

@@ -1,0 +1,39 @@
+{
+  "case_id": "CLAUDE-HR-22-SYN-001",
+  "source": "fictional synthetic exercise - not real employer information",
+  "organization": "Example UAE Service Co. (fictional)",
+  "functional_area": "Onboarding",
+  "project_name": "Day-One Experience Orchestrator",
+  "request": "Design a first-day sequence without exposing personal employee details",
+  "approved_inputs": [
+    {
+      "field": "office location",
+      "value": "FICTIONAL_1: office location",
+      "source_id": "SRC-22-1"
+    },
+    {
+      "field": "induction schedule",
+      "value": "FICTIONAL_2: induction schedule",
+      "source_id": "SRC-22-2"
+    },
+    {
+      "field": "manager",
+      "value": "FICTIONAL_3: manager",
+      "source_id": "SRC-22-3"
+    },
+    {
+      "field": "team touchpoints",
+      "value": "FICTIONAL_4: team touchpoints",
+      "source_id": "SRC-22-4"
+    }
+  ],
+  "approved_source_version": "EXAMPLE-v1",
+  "constraints": [
+    "No real personal data",
+    "No external sending or employee decisions",
+    "All ambiguous policy and legal questions require human verification"
+  ],
+  "human_review_owner": "Line Manager",
+  "expected_artifact": "Day-one run-of-show and welcome checklist",
+  "success_measure": "day-one readiness"
+}

@@ -1,0 +1,34 @@
+{
+  "case_id": "CLAUDE-HR-17-SYN-001",
+  "source": "fictional synthetic exercise - not real employer information",
+  "organization": "Example UAE Service Co. (fictional)",
+  "functional_area": "Offer and start coordination",
+  "project_name": "Offer Approval and Exception Routing",
+  "request": "Map offer variations to the correct approval route",
+  "approved_inputs": [
+    {
+      "field": "approval matrix",
+      "value": "FICTIONAL_1: approval matrix",
+      "source_id": "SRC-17-1"
+    },
+    {
+      "field": "offer terms",
+      "value": "FICTIONAL_2: offer terms",
+      "source_id": "SRC-17-2"
+    },
+    {
+      "field": "deviation log",
+      "value": "FICTIONAL_3: deviation log",
+      "source_id": "SRC-17-3"
+    }
+  ],
+  "approved_source_version": "EXAMPLE-v1",
+  "constraints": [
+    "No real personal data",
+    "No external sending or employee decisions",
+    "All ambiguous policy and legal questions require human verification"
+  ],
+  "human_review_owner": "HR and Finance Approvers",
+  "expected_artifact": "Approval sequence and exception register",
+  "success_measure": "unauthorized approval count"
+}

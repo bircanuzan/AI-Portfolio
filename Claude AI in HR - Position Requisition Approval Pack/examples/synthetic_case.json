@@ -1,0 +1,39 @@
+{
+  "case_id": "CLAUDE-HR-10-SYN-001",
+  "source": "fictional synthetic exercise - not real employer information",
+  "organization": "Example UAE Service Co. (fictional)",
+  "functional_area": "Role and job preparation",
+  "project_name": "Position Requisition Approval Pack",
+  "request": "Prepare position approval without concealing missing budget or signoffs",
+  "approved_inputs": [
+    {
+      "field": "requisition",
+      "value": "FICTIONAL_1: requisition",
+      "source_id": "SRC-10-1"
+    },
+    {
+      "field": "budget status",
+      "value": "FICTIONAL_2: budget status",
+      "source_id": "SRC-10-2"
+    },
+    {
+      "field": "org chart",
+      "value": "FICTIONAL_3: org chart",
+      "source_id": "SRC-10-3"
+    },
+    {
+      "field": "approval path",
+      "value": "FICTIONAL_4: approval path",
+      "source_id": "SRC-10-4"
+    }
+  ],
+  "approved_source_version": "EXAMPLE-v1",
+  "constraints": [
+    "No real personal data",
+    "No external sending or employee decisions",
+    "All ambiguous policy and legal questions require human verification"
+  ],
+  "human_review_owner": "HR Operations and Finance",
+  "expected_artifact": "Requisition decision pack and unresolved-items register",
+  "success_measure": "approval documentation completeness"
+}

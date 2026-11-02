@@ -1,5 +1,10 @@
 # START HERE — AI, HR & Technology Portfolio
 
+## NEW — Claude AI in HR: 50 original agent-and-skill projects
+
+**[Browse all 50 standalone Claude AI in HR folders](Claude%20AI%20in%20HR%20-%20Portfolio%20Index/)** — 10 HR functions; 50 original agent workflows and reusable `SKILL.md` instructions; synthetic test inputs; five acceptance cases per project; human approvals and governance gates. **Unexecuted designs only (no claimed Claude runs); not a reproduction of the Gumroad author's proprietary package.**
+
+
 ### Bircan Uzan | HumanEvoX
 
 **Find the right project in seconds.** Each folder below has a plain-English name and a clickable link. Select a project based on the skills or problem you want to explore.

@@ -1,0 +1,39 @@
+{
+  "case_id": "CLAUDE-HR-37-SYN-001",
+  "source": "fictional synthetic exercise - not real employer information",
+  "organization": "Example UAE Service Co. (fictional)",
+  "functional_area": "Learning and development",
+  "project_name": "Competency-Based Learning Pathways",
+  "request": "Design staged learning plans from target competencies",
+  "approved_inputs": [
+    {
+      "field": "role profile",
+      "value": "FICTIONAL_1: role profile",
+      "source_id": "SRC-37-1"
+    },
+    {
+      "field": "assessed capability",
+      "value": "FICTIONAL_2: assessed capability",
+      "source_id": "SRC-37-2"
+    },
+    {
+      "field": "available resources",
+      "value": "FICTIONAL_3: available resources",
+      "source_id": "SRC-37-3"
+    },
+    {
+      "field": "learning limits",
+      "value": "FICTIONAL_4: learning limits",
+      "source_id": "SRC-37-4"
+    }
+  ],
+  "approved_source_version": "EXAMPLE-v1",
+  "constraints": [
+    "No real personal data",
+    "No external sending or employee decisions",
+    "All ambiguous policy and legal questions require human verification"
+  ],
+  "human_review_owner": "L&D Lead",
+  "expected_artifact": "Sequenced learning pathway and practical exercises",
+  "success_measure": "competency-to-exercise mapping"
+}

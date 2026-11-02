@@ -1,0 +1,34 @@
+{
+  "case_id": "CLAUDE-HR-36-SYN-001",
+  "source": "fictional synthetic exercise - not real employer information",
+  "organization": "Example UAE Service Co. (fictional)",
+  "functional_area": "Learning and development",
+  "project_name": "Training Needs Assessment",
+  "request": "Compare target capability with evidence-based current skills",
+  "approved_inputs": [
+    {
+      "field": "approved competency targets",
+      "value": "FICTIONAL_1: approved competency targets",
+      "source_id": "SRC-36-1"
+    },
+    {
+      "field": "self-reports",
+      "value": "FICTIONAL_2: self-reports",
+      "source_id": "SRC-36-2"
+    },
+    {
+      "field": "observed learning gaps",
+      "value": "FICTIONAL_3: observed learning gaps",
+      "source_id": "SRC-36-3"
+    }
+  ],
+  "approved_source_version": "EXAMPLE-v1",
+  "constraints": [
+    "No real personal data",
+    "No external sending or employee decisions",
+    "All ambiguous policy and legal questions require human verification"
+  ],
+  "human_review_owner": "L&D Partner",
+  "expected_artifact": "Priority training needs matrix and missing-evidence notes",
+  "success_measure": "gap evidence coverage"
+}

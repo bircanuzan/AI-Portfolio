@@ -1,0 +1,39 @@
+{
+  "case_id": "CLAUDE-HR-40-SYN-001",
+  "source": "fictional synthetic exercise - not real employer information",
+  "organization": "Example UAE Service Co. (fictional)",
+  "functional_area": "Learning and development",
+  "project_name": "Career and Development Planning",
+  "request": "Produce employee-led development plans without predicting promotions",
+  "approved_inputs": [
+    {
+      "field": "employee-selected goals",
+      "value": "FICTIONAL_1: employee-selected goals",
+      "source_id": "SRC-40-1"
+    },
+    {
+      "field": "skill evidence",
+      "value": "FICTIONAL_2: skill evidence",
+      "source_id": "SRC-40-2"
+    },
+    {
+      "field": "opportunities",
+      "value": "FICTIONAL_3: opportunities",
+      "source_id": "SRC-40-3"
+    },
+    {
+      "field": "manager support",
+      "value": "FICTIONAL_4: manager support",
+      "source_id": "SRC-40-4"
+    }
+  ],
+  "approved_source_version": "EXAMPLE-v1",
+  "constraints": [
+    "No real personal data",
+    "No external sending or employee decisions",
+    "All ambiguous policy and legal questions require human verification"
+  ],
+  "human_review_owner": "Employee and Manager",
+  "expected_artifact": "Individual development plan with milestones",
+  "success_measure": "measurable development action coverage"
+}

@@ -1,0 +1,39 @@
+{
+  "case_id": "CLAUDE-HR-26-SYN-001",
+  "source": "fictional synthetic exercise - not real employer information",
+  "organization": "Example UAE Service Co. (fictional)",
+  "functional_area": "Manager enablement",
+  "project_name": "New Manager Enablement",
+  "request": "Turn a new manager transition into an actionable 90-day support plan",
+  "approved_inputs": [
+    {
+      "field": "team mandate",
+      "value": "FICTIONAL_1: team mandate",
+      "source_id": "SRC-26-1"
+    },
+    {
+      "field": "manager accountabilities",
+      "value": "FICTIONAL_2: manager accountabilities",
+      "source_id": "SRC-26-2"
+    },
+    {
+      "field": "policies",
+      "value": "FICTIONAL_3: policies",
+      "source_id": "SRC-26-3"
+    },
+    {
+      "field": "stakeholder map",
+      "value": "FICTIONAL_4: stakeholder map",
+      "source_id": "SRC-26-4"
+    }
+  ],
+  "approved_source_version": "EXAMPLE-v1",
+  "constraints": [
+    "No real personal data",
+    "No external sending or employee decisions",
+    "All ambiguous policy and legal questions require human verification"
+  ],
+  "human_review_owner": "HRBP",
+  "expected_artifact": "First-90-day manager enablement plan",
+  "success_measure": "manager capability milestone coverage"
+}

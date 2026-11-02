@@ -1,0 +1,39 @@
+{
+  "case_id": "CLAUDE-HR-23-SYN-001",
+  "source": "fictional synthetic exercise - not real employer information",
+  "organization": "Example UAE Service Co. (fictional)",
+  "functional_area": "Onboarding",
+  "project_name": "Role-Specific 30-60-90 Plan",
+  "request": "Align onboarding with observable performance and learning milestones",
+  "approved_inputs": [
+    {
+      "field": "role objectives",
+      "value": "FICTIONAL_1: role objectives",
+      "source_id": "SRC-23-1"
+    },
+    {
+      "field": "role expectations",
+      "value": "FICTIONAL_2: role expectations",
+      "source_id": "SRC-23-2"
+    },
+    {
+      "field": "team processes",
+      "value": "FICTIONAL_3: team processes",
+      "source_id": "SRC-23-3"
+    },
+    {
+      "field": "learning resources",
+      "value": "FICTIONAL_4: learning resources",
+      "source_id": "SRC-23-4"
+    }
+  ],
+  "approved_source_version": "EXAMPLE-v1",
+  "constraints": [
+    "No real personal data",
+    "No external sending or employee decisions",
+    "All ambiguous policy and legal questions require human verification"
+  ],
+  "human_review_owner": "Line Manager",
+  "expected_artifact": "30/60/90-day goals, milestones, owners, evidence",
+  "success_measure": "milestone coverage and completion"
+}

@@ -1,0 +1,39 @@
+{
+  "case_id": "CLAUDE-HR-07-SYN-001",
+  "source": "fictional synthetic exercise - not real employer information",
+  "organization": "Example UAE Service Co. (fictional)",
+  "functional_area": "Role and job preparation",
+  "project_name": "Competency Architecture Designer",
+  "request": "Translate work outcomes into observable competency indicators",
+  "approved_inputs": [
+    {
+      "field": "role level",
+      "value": "FICTIONAL_1: role level",
+      "source_id": "SRC-07-1"
+    },
+    {
+      "field": "outcomes",
+      "value": "FICTIONAL_2: outcomes",
+      "source_id": "SRC-07-2"
+    },
+    {
+      "field": "skills taxonomy",
+      "value": "FICTIONAL_3: skills taxonomy",
+      "source_id": "SRC-07-3"
+    },
+    {
+      "field": "job family",
+      "value": "FICTIONAL_4: job family",
+      "source_id": "SRC-07-4"
+    }
+  ],
+  "approved_source_version": "EXAMPLE-v1",
+  "constraints": [
+    "No real personal data",
+    "No external sending or employee decisions",
+    "All ambiguous policy and legal questions require human verification"
+  ],
+  "human_review_owner": "Talent Development Lead",
+  "expected_artifact": "Competency matrix with behavioral indicators",
+  "success_measure": "competency-to-outcome mapping coverage"
+}

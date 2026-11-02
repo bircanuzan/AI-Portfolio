@@ -1,0 +1,34 @@
+{
+  "case_id": "CLAUDE-HR-42-SYN-001",
+  "source": "fictional synthetic exercise - not real employer information",
+  "organization": "Example UAE Service Co. (fictional)",
+  "functional_area": "People operations and reporting",
+  "project_name": "Policy Retrieval and Citation",
+  "request": "Answer routine HR policy questions only from versioned sources",
+  "approved_inputs": [
+    {
+      "field": "employee question",
+      "value": "FICTIONAL_1: employee question",
+      "source_id": "SRC-42-1"
+    },
+    {
+      "field": "approved policy sections",
+      "value": "FICTIONAL_2: approved policy sections",
+      "source_id": "SRC-42-2"
+    },
+    {
+      "field": "effective dates",
+      "value": "FICTIONAL_3: effective dates",
+      "source_id": "SRC-42-3"
+    }
+  ],
+  "approved_source_version": "EXAMPLE-v1",
+  "constraints": [
+    "No real personal data",
+    "No external sending or employee decisions",
+    "All ambiguous policy and legal questions require human verification"
+  ],
+  "human_review_owner": "HR Policy Owner",
+  "expected_artifact": "Quoted-source pointers, answer, and unresolved exceptions",
+  "success_measure": "citation correctness and abstention accuracy"
+}

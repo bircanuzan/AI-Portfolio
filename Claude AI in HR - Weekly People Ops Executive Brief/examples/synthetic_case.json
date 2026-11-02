@@ -1,0 +1,34 @@
+{
+  "case_id": "CLAUDE-HR-45-SYN-001",
+  "source": "fictional synthetic exercise - not real employer information",
+  "organization": "Example UAE Service Co. (fictional)",
+  "functional_area": "People operations and reporting",
+  "project_name": "Weekly People Ops Executive Brief",
+  "request": "Summarize operations from tracked facts without unverified narrative",
+  "approved_inputs": [
+    {
+      "field": "approved weekly activity log",
+      "value": "FICTIONAL_1: approved weekly activity log",
+      "source_id": "SRC-45-1"
+    },
+    {
+      "field": "issue register",
+      "value": "FICTIONAL_2: issue register",
+      "source_id": "SRC-45-2"
+    },
+    {
+      "field": "KPI deltas",
+      "value": "FICTIONAL_3: KPI deltas",
+      "source_id": "SRC-45-3"
+    }
+  ],
+  "approved_source_version": "EXAMPLE-v1",
+  "constraints": [
+    "No real personal data",
+    "No external sending or employee decisions",
+    "All ambiguous policy and legal questions require human verification"
+  ],
+  "human_review_owner": "People Operations Lead",
+  "expected_artifact": "Status brief, owners, decisions, escalations",
+  "success_measure": "traceability from brief to source"
+}

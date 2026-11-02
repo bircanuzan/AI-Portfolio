@@ -1,0 +1,44 @@
+{
+  "case_id": "CLAUDE-HR-01-SYN-001",
+  "source": "fictional synthetic exercise - not real employer information",
+  "organization": "Example UAE Service Co. (fictional)",
+  "functional_area": "Workforce planning",
+  "project_name": "Workforce Demand Intake",
+  "request": "Turn informal resourcing requests into an evidence-backed demand brief",
+  "approved_inputs": [
+    {
+      "field": "business outcomes",
+      "value": "FICTIONAL_1: business outcomes",
+      "source_id": "SRC-01-1"
+    },
+    {
+      "field": "workload trend",
+      "value": "FICTIONAL_2: workload trend",
+      "source_id": "SRC-01-2"
+    },
+    {
+      "field": "requested roles",
+      "value": "FICTIONAL_3: requested roles",
+      "source_id": "SRC-01-3"
+    },
+    {
+      "field": "existing capacity",
+      "value": "FICTIONAL_4: existing capacity",
+      "source_id": "SRC-01-4"
+    },
+    {
+      "field": "approval owner",
+      "value": "FICTIONAL_5: approval owner",
+      "source_id": "SRC-01-5"
+    }
+  ],
+  "approved_source_version": "EXAMPLE-v1",
+  "constraints": [
+    "No real personal data",
+    "No external sending or employee decisions",
+    "All ambiguous policy and legal questions require human verification"
+  ],
+  "human_review_owner": "HR Business Partner",
+  "expected_artifact": "Demand brief with assumptions, missing facts, and approval questions",
+  "success_measure": "percentage of required intake fields resolved"
+}

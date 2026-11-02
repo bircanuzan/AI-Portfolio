@@ -1,0 +1,39 @@
+{
+  "case_id": "CLAUDE-HR-38-SYN-001",
+  "source": "fictional synthetic exercise - not real employer information",
+  "organization": "Example UAE Service Co. (fictional)",
+  "functional_area": "Learning and development",
+  "project_name": "Workshop and Activity Designer",
+  "request": "Turn learning objectives into facilitated exercises and checks",
+  "approved_inputs": [
+    {
+      "field": "audience",
+      "value": "FICTIONAL_1: audience",
+      "source_id": "SRC-38-1"
+    },
+    {
+      "field": "objectives",
+      "value": "FICTIONAL_2: objectives",
+      "source_id": "SRC-38-2"
+    },
+    {
+      "field": "duration",
+      "value": "FICTIONAL_3: duration",
+      "source_id": "SRC-38-3"
+    },
+    {
+      "field": "approved source materials",
+      "value": "FICTIONAL_4: approved source materials",
+      "source_id": "SRC-38-4"
+    }
+  ],
+  "approved_source_version": "EXAMPLE-v1",
+  "constraints": [
+    "No real personal data",
+    "No external sending or employee decisions",
+    "All ambiguous policy and legal questions require human verification"
+  ],
+  "human_review_owner": "L&D Facilitator",
+  "expected_artifact": "Facilitator agenda, activities, and learning checks",
+  "success_measure": "learning objective coverage"
+}

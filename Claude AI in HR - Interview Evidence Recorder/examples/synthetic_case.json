@@ -1,0 +1,34 @@
+{
+  "case_id": "CLAUDE-HR-14-SYN-001",
+  "source": "fictional synthetic exercise - not real employer information",
+  "organization": "Example UAE Service Co. (fictional)",
+  "functional_area": "Interview coordination",
+  "project_name": "Interview Evidence Recorder",
+  "request": "Organize job-relevant interview observations without inferring traits",
+  "approved_inputs": [
+    {
+      "field": "approved interview questions",
+      "value": "FICTIONAL_1: approved interview questions",
+      "source_id": "SRC-14-1"
+    },
+    {
+      "field": "anonymized written notes",
+      "value": "FICTIONAL_2: anonymized written notes",
+      "source_id": "SRC-14-2"
+    },
+    {
+      "field": "score evidence",
+      "value": "FICTIONAL_3: score evidence",
+      "source_id": "SRC-14-3"
+    }
+  ],
+  "approved_source_version": "EXAMPLE-v1",
+  "constraints": [
+    "No real personal data",
+    "No external sending or employee decisions",
+    "All ambiguous policy and legal questions require human verification"
+  ],
+  "human_review_owner": "Trained Interviewer",
+  "expected_artifact": "Evidence-only interviewer scorecard and missing-evidence flags",
+  "success_measure": "evidence attribution and unsupported statement count"
+}

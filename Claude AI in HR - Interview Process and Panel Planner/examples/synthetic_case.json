@@ -1,0 +1,39 @@
+{
+  "case_id": "CLAUDE-HR-11-SYN-001",
+  "source": "fictional synthetic exercise - not real employer information",
+  "organization": "Example UAE Service Co. (fictional)",
+  "functional_area": "Interview coordination",
+  "project_name": "Interview Process and Panel Planner",
+  "request": "Build a consistent interview process with assigned responsibilities",
+  "approved_inputs": [
+    {
+      "field": "role criteria",
+      "value": "FICTIONAL_1: role criteria",
+      "source_id": "SRC-11-1"
+    },
+    {
+      "field": "stages",
+      "value": "FICTIONAL_2: stages",
+      "source_id": "SRC-11-2"
+    },
+    {
+      "field": "panel availability windows",
+      "value": "FICTIONAL_3: panel availability windows",
+      "source_id": "SRC-11-3"
+    },
+    {
+      "field": "accessibility needs only when volunteered",
+      "value": "FICTIONAL_4: accessibility needs only when volunteered",
+      "source_id": "SRC-11-4"
+    }
+  ],
+  "approved_source_version": "EXAMPLE-v1",
+  "constraints": [
+    "No real personal data",
+    "No external sending or employee decisions",
+    "All ambiguous policy and legal questions require human verification"
+  ],
+  "human_review_owner": "Talent Acquisition Coordinator",
+  "expected_artifact": "Interview plan and panel RACI",
+  "success_measure": "panel and stage coverage"
+}

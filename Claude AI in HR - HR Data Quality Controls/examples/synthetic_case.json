@@ -1,0 +1,34 @@
+{
+  "case_id": "CLAUDE-HR-44-SYN-001",
+  "source": "fictional synthetic exercise - not real employer information",
+  "organization": "Example UAE Service Co. (fictional)",
+  "functional_area": "People operations and reporting",
+  "project_name": "HR Data Quality Controls",
+  "request": "Identify incomplete, duplicated, or inconsistent HR records",
+  "approved_inputs": [
+    {
+      "field": "synthetic HRIS extract",
+      "value": "FICTIONAL_1: synthetic HRIS extract",
+      "source_id": "SRC-44-1"
+    },
+    {
+      "field": "validation schema",
+      "value": "FICTIONAL_2: validation schema",
+      "source_id": "SRC-44-2"
+    },
+    {
+      "field": "data dictionary",
+      "value": "FICTIONAL_3: data dictionary",
+      "source_id": "SRC-44-3"
+    }
+  ],
+  "approved_source_version": "EXAMPLE-v1",
+  "constraints": [
+    "No real personal data",
+    "No external sending or employee decisions",
+    "All ambiguous policy and legal questions require human verification"
+  ],
+  "human_review_owner": "HRIS Data Steward",
+  "expected_artifact": "Data-quality exception report and remediation queue",
+  "success_measure": "precision of rule-based exceptions"
+}

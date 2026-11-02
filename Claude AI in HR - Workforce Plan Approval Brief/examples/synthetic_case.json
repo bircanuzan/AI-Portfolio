@@ -1,0 +1,39 @@
+{
+  "case_id": "CLAUDE-HR-05-SYN-001",
+  "source": "fictional synthetic exercise - not real employer information",
+  "organization": "Example UAE Service Co. (fictional)",
+  "functional_area": "Workforce planning",
+  "project_name": "Workforce Plan Approval Brief",
+  "request": "Convert workforce planning evidence into a decision-ready executive summary",
+  "approved_inputs": [
+    {
+      "field": "planning evidence",
+      "value": "FICTIONAL_1: planning evidence",
+      "source_id": "SRC-05-1"
+    },
+    {
+      "field": "cost ceilings",
+      "value": "FICTIONAL_2: cost ceilings",
+      "source_id": "SRC-05-2"
+    },
+    {
+      "field": "unresolved risks",
+      "value": "FICTIONAL_3: unresolved risks",
+      "source_id": "SRC-05-3"
+    },
+    {
+      "field": "approval matrix",
+      "value": "FICTIONAL_4: approval matrix",
+      "source_id": "SRC-05-4"
+    }
+  ],
+  "approved_source_version": "EXAMPLE-v1",
+  "constraints": [
+    "No real personal data",
+    "No external sending or employee decisions",
+    "All ambiguous policy and legal questions require human verification"
+  ],
+  "human_review_owner": "CHRO or Delegate",
+  "expected_artifact": "One-page leadership brief with options and decision requests",
+  "success_measure": "approval-readiness rate and unresolved assumptions"
+}

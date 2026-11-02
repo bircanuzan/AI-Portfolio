@@ -1,0 +1,39 @@
+{
+  "case_id": "CLAUDE-HR-50-SYN-001",
+  "source": "fictional synthetic exercise - not real employer information",
+  "organization": "Example UAE Service Co. (fictional)",
+  "functional_area": "International hiring preparation",
+  "project_name": "Country-Specific Hiring Risk Register",
+  "request": "Identify uncertainties requiring local legal and HR validation",
+  "approved_inputs": [
+    {
+      "field": "countries",
+      "value": "FICTIONAL_1: countries",
+      "source_id": "SRC-50-1"
+    },
+    {
+      "field": "policies",
+      "value": "FICTIONAL_2: policies",
+      "source_id": "SRC-50-2"
+    },
+    {
+      "field": "authorized sources",
+      "value": "FICTIONAL_3: authorized sources",
+      "source_id": "SRC-50-3"
+    },
+    {
+      "field": "role requirements",
+      "value": "FICTIONAL_4: role requirements",
+      "source_id": "SRC-50-4"
+    }
+  ],
+  "approved_source_version": "EXAMPLE-v1",
+  "constraints": [
+    "No real personal data",
+    "No external sending or employee decisions",
+    "All ambiguous policy and legal questions require human verification"
+  ],
+  "human_review_owner": "Regional HR Compliance",
+  "expected_artifact": "Risk register with evidence, owner, and legal-validation status",
+  "success_measure": "legal-review completeness and ungrounded-claim count"
+}

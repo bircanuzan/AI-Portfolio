@@ -1,0 +1,39 @@
+{
+  "case_id": "CLAUDE-HR-39-SYN-001",
+  "source": "fictional synthetic exercise - not real employer information",
+  "organization": "Example UAE Service Co. (fictional)",
+  "functional_area": "Learning and development",
+  "project_name": "Learning Evaluation and ROI",
+  "request": "Define practical evaluation without inventing business impact",
+  "approved_inputs": [
+    {
+      "field": "baseline",
+      "value": "FICTIONAL_1: baseline",
+      "source_id": "SRC-39-1"
+    },
+    {
+      "field": "attendance",
+      "value": "FICTIONAL_2: attendance",
+      "source_id": "SRC-39-2"
+    },
+    {
+      "field": "learning checks",
+      "value": "FICTIONAL_3: learning checks",
+      "source_id": "SRC-39-3"
+    },
+    {
+      "field": "outcome measures",
+      "value": "FICTIONAL_4: outcome measures",
+      "source_id": "SRC-39-4"
+    }
+  ],
+  "approved_source_version": "EXAMPLE-v1",
+  "constraints": [
+    "No real personal data",
+    "No external sending or employee decisions",
+    "All ambiguous policy and legal questions require human verification"
+  ],
+  "human_review_owner": "Learning Analytics Owner",
+  "expected_artifact": "Evaluation plan with limitations and review gates",
+  "success_measure": "indicator validity and data completeness"
+}

@@ -1,0 +1,39 @@
+{
+  "case_id": "CLAUDE-HR-06-SYN-001",
+  "source": "fictional synthetic exercise - not real employer information",
+  "organization": "Example UAE Service Co. (fictional)",
+  "functional_area": "Role and job preparation",
+  "project_name": "Hiring Manager Role Intake",
+  "request": "Capture actual outcomes and non-negotiable hiring criteria",
+  "approved_inputs": [
+    {
+      "field": "role purpose",
+      "value": "FICTIONAL_1: role purpose",
+      "source_id": "SRC-06-1"
+    },
+    {
+      "field": "reporting line",
+      "value": "FICTIONAL_2: reporting line",
+      "source_id": "SRC-06-2"
+    },
+    {
+      "field": "team mandate",
+      "value": "FICTIONAL_3: team mandate",
+      "source_id": "SRC-06-3"
+    },
+    {
+      "field": "must-have versus trainable skills",
+      "value": "FICTIONAL_4: must-have versus trainable skills",
+      "source_id": "SRC-06-4"
+    }
+  ],
+  "approved_source_version": "EXAMPLE-v1",
+  "constraints": [
+    "No real personal data",
+    "No external sending or employee decisions",
+    "All ambiguous policy and legal questions require human verification"
+  ],
+  "human_review_owner": "Hiring Manager and HRBP",
+  "expected_artifact": "Validated role intake brief",
+  "success_measure": "requirements completeness"
+}

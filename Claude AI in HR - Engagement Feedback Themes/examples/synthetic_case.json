@@ -1,0 +1,34 @@
+{
+  "case_id": "CLAUDE-HR-34-SYN-001",
+  "source": "fictional synthetic exercise - not real employer information",
+  "organization": "Example UAE Service Co. (fictional)",
+  "functional_area": "Employee communications",
+  "project_name": "Engagement Feedback Themes",
+  "request": "Summarize anonymized employee comments without diagnosing individuals",
+  "approved_inputs": [
+    {
+      "field": "deidentified survey comments",
+      "value": "FICTIONAL_1: deidentified survey comments",
+      "source_id": "SRC-34-1"
+    },
+    {
+      "field": "group thresholds",
+      "value": "FICTIONAL_2: group thresholds",
+      "source_id": "SRC-34-2"
+    },
+    {
+      "field": "codebook",
+      "value": "FICTIONAL_3: codebook",
+      "source_id": "SRC-34-3"
+    }
+  ],
+  "approved_source_version": "EXAMPLE-v1",
+  "constraints": [
+    "No real personal data",
+    "No external sending or employee decisions",
+    "All ambiguous policy and legal questions require human verification"
+  ],
+  "human_review_owner": "Employee Experience Lead",
+  "expected_artifact": "Theme frequency table and action options",
+  "success_measure": "theme coding agreement"
+}

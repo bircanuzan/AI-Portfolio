@@ -1,0 +1,39 @@
+{
+  "case_id": "CLAUDE-HR-21-SYN-001",
+  "source": "fictional synthetic exercise - not real employer information",
+  "organization": "Example UAE Service Co. (fictional)",
+  "functional_area": "Onboarding",
+  "project_name": "Preboarding Readiness Planner",
+  "request": "Identify tasks required between signed offer and employee start",
+  "approved_inputs": [
+    {
+      "field": "confirmed offer status",
+      "value": "FICTIONAL_1: confirmed offer status",
+      "source_id": "SRC-21-1"
+    },
+    {
+      "field": "first day",
+      "value": "FICTIONAL_2: first day",
+      "source_id": "SRC-21-2"
+    },
+    {
+      "field": "owner list",
+      "value": "FICTIONAL_3: owner list",
+      "source_id": "SRC-21-3"
+    },
+    {
+      "field": "equipment needs",
+      "value": "FICTIONAL_4: equipment needs",
+      "source_id": "SRC-21-4"
+    }
+  ],
+  "approved_source_version": "EXAMPLE-v1",
+  "constraints": [
+    "No real personal data",
+    "No external sending or employee decisions",
+    "All ambiguous policy and legal questions require human verification"
+  ],
+  "human_review_owner": "HR Operations",
+  "expected_artifact": "Preboarding tracker with owners and due dates",
+  "success_measure": "prestart task completion"
+}

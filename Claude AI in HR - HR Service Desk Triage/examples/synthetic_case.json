@@ -1,0 +1,34 @@
+{
+  "case_id": "CLAUDE-HR-41-SYN-001",
+  "source": "fictional synthetic exercise - not real employer information",
+  "organization": "Example UAE Service Co. (fictional)",
+  "functional_area": "People operations and reporting",
+  "project_name": "HR Service Desk Triage",
+  "request": "Categorize HR queries and route them to authorized support owners",
+  "approved_inputs": [
+    {
+      "field": "request description",
+      "value": "FICTIONAL_1: request description",
+      "source_id": "SRC-41-1"
+    },
+    {
+      "field": "approved issue taxonomy",
+      "value": "FICTIONAL_2: approved issue taxonomy",
+      "source_id": "SRC-41-2"
+    },
+    {
+      "field": "service-level policy",
+      "value": "FICTIONAL_3: service-level policy",
+      "source_id": "SRC-41-3"
+    }
+  ],
+  "approved_source_version": "EXAMPLE-v1",
+  "constraints": [
+    "No real personal data",
+    "No external sending or employee decisions",
+    "All ambiguous policy and legal questions require human verification"
+  ],
+  "human_review_owner": "HR Shared Services",
+  "expected_artifact": "Triage label, priority suggestion, escalation queue",
+  "success_measure": "correct route and sensitive issue escalation"
+}

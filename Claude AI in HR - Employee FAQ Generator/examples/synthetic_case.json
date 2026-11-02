@@ -1,0 +1,34 @@
+{
+  "case_id": "CLAUDE-HR-32-SYN-001",
+  "source": "fictional synthetic exercise - not real employer information",
+  "organization": "Example UAE Service Co. (fictional)",
+  "functional_area": "Employee communications",
+  "project_name": "Employee FAQ Generator",
+  "request": "Anticipate employee questions without fabricating rules",
+  "approved_inputs": [
+    {
+      "field": "approved change text",
+      "value": "FICTIONAL_1: approved change text",
+      "source_id": "SRC-32-1"
+    },
+    {
+      "field": "audience concerns",
+      "value": "FICTIONAL_2: audience concerns",
+      "source_id": "SRC-32-2"
+    },
+    {
+      "field": "source documents",
+      "value": "FICTIONAL_3: source documents",
+      "source_id": "SRC-32-3"
+    }
+  ],
+  "approved_source_version": "EXAMPLE-v1",
+  "constraints": [
+    "No real personal data",
+    "No external sending or employee decisions",
+    "All ambiguous policy and legal questions require human verification"
+  ],
+  "human_review_owner": "HR Policy Owner",
+  "expected_artifact": "FAQ with source references and unknowns",
+  "success_measure": "answers supported by source"
+}

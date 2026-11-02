@@ -1,0 +1,34 @@
+{
+  "case_id": "CLAUDE-HR-33-SYN-001",
+  "source": "fictional synthetic exercise - not real employer information",
+  "organization": "Example UAE Service Co. (fictional)",
+  "functional_area": "Employee communications",
+  "project_name": "Sensitive HR Announcement Reviewer",
+  "request": "Check sensitive staff announcements for clarity and risk",
+  "approved_inputs": [
+    {
+      "field": "approved facts",
+      "value": "FICTIONAL_1: approved facts",
+      "source_id": "SRC-33-1"
+    },
+    {
+      "field": "stakeholder approval",
+      "value": "FICTIONAL_2: stakeholder approval",
+      "source_id": "SRC-33-2"
+    },
+    {
+      "field": "timing constraints",
+      "value": "FICTIONAL_3: timing constraints",
+      "source_id": "SRC-33-3"
+    }
+  ],
+  "approved_source_version": "EXAMPLE-v1",
+  "constraints": [
+    "No real personal data",
+    "No external sending or employee decisions",
+    "All ambiguous policy and legal questions require human verification"
+  ],
+  "human_review_owner": "HR Communications and Legal",
+  "expected_artifact": "Revised announcement draft plus review checklist",
+  "success_measure": "approval and sensitivity checkpoints passed"
+}

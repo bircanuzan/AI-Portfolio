@@ -1,0 +1,34 @@
+{
+  "case_id": "CLAUDE-HR-35-SYN-001",
+  "source": "fictional synthetic exercise - not real employer information",
+  "organization": "Example UAE Service Co. (fictional)",
+  "functional_area": "Employee communications",
+  "project_name": "Multilingual Employee Message QA",
+  "request": "Flag ambiguity and cultural issues in bilingual HR messages",
+  "approved_inputs": [
+    {
+      "field": "approved English source",
+      "value": "FICTIONAL_1: approved English source",
+      "source_id": "SRC-35-1"
+    },
+    {
+      "field": "target language",
+      "value": "FICTIONAL_2: target language",
+      "source_id": "SRC-35-2"
+    },
+    {
+      "field": "regional terminology",
+      "value": "FICTIONAL_3: regional terminology",
+      "source_id": "SRC-35-3"
+    }
+  ],
+  "approved_source_version": "EXAMPLE-v1",
+  "constraints": [
+    "No real personal data",
+    "No external sending or employee decisions",
+    "All ambiguous policy and legal questions require human verification"
+  ],
+  "human_review_owner": "Qualified Bilingual Reviewer",
+  "expected_artifact": "Translation verification checklist and ambiguous phrase register",
+  "success_measure": "reviewed terminology and unresolved differences"
+}

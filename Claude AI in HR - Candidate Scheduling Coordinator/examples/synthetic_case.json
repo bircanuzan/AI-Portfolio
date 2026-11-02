@@ -1,0 +1,34 @@
+{
+  "case_id": "CLAUDE-HR-12-SYN-001",
+  "source": "fictional synthetic exercise - not real employer information",
+  "organization": "Example UAE Service Co. (fictional)",
+  "functional_area": "Interview coordination",
+  "project_name": "Candidate Scheduling Coordinator",
+  "request": "Design a conflict-aware interview scheduling workflow",
+  "approved_inputs": [
+    {
+      "field": "approved interview slots",
+      "value": "FICTIONAL_1: approved interview slots",
+      "source_id": "SRC-12-1"
+    },
+    {
+      "field": "candidate availability",
+      "value": "FICTIONAL_2: candidate availability",
+      "source_id": "SRC-12-2"
+    },
+    {
+      "field": "panel constraints",
+      "value": "FICTIONAL_3: panel constraints",
+      "source_id": "SRC-12-3"
+    }
+  ],
+  "approved_source_version": "EXAMPLE-v1",
+  "constraints": [
+    "No real personal data",
+    "No external sending or employee decisions",
+    "All ambiguous policy and legal questions require human verification"
+  ],
+  "human_review_owner": "Recruitment Coordinator",
+  "expected_artifact": "Scheduling options and consent-based communications",
+  "success_measure": "scheduling accuracy and reschedule rate"
+}

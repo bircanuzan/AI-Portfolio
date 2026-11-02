@@ -1,0 +1,34 @@
+{
+  "case_id": "CLAUDE-HR-09-SYN-001",
+  "source": "fictional synthetic exercise - not real employer information",
+  "organization": "Example UAE Service Co. (fictional)",
+  "functional_area": "Role and job preparation",
+  "project_name": "Objective Selection Criteria Matrix",
+  "request": "Build structured criteria and evidence anchors before candidates are assessed",
+  "approved_inputs": [
+    {
+      "field": "role outcomes",
+      "value": "FICTIONAL_1: role outcomes",
+      "source_id": "SRC-09-1"
+    },
+    {
+      "field": "competencies",
+      "value": "FICTIONAL_2: competencies",
+      "source_id": "SRC-09-2"
+    },
+    {
+      "field": "approved assessment methods",
+      "value": "FICTIONAL_3: approved assessment methods",
+      "source_id": "SRC-09-3"
+    }
+  ],
+  "approved_source_version": "EXAMPLE-v1",
+  "constraints": [
+    "No real personal data",
+    "No external sending or employee decisions",
+    "All ambiguous policy and legal questions require human verification"
+  ],
+  "human_review_owner": "Hiring Panel Chair",
+  "expected_artifact": "Weighted criteria proposal and observable evidence rubric",
+  "success_measure": "criteria traceability and consistency audit"
+}
