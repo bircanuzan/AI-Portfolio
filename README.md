@@ -1,5 +1,10 @@
 # START HERE — AI, HR & Technology Portfolio
 
+## NEW — HumanEvoX Recruitment OS (Phase 2 functional local pilot)
+
+**[Open the HumanEvoX Recruitment OS source project](HumanEvoX-Recruitment-OS/)** — Streamlit + SQLite, local PDF/DOCX/TXT extraction, explainable keyword evidence, recruiter-entered competency assessments, manual pipeline/tasks, draft-only outreach, tentative .ics interviews, CSV reports, audit/erasure, synthetic fixtures and pytest. **Core Python tests passed; Streamlit UI and live integration were not run. No live calls, no automatic hiring decisions or production SaaS claim.**
+
+
 ## NEW — Global Product Training & Learning Program Management
 
 **[Open global product training and sales enablement programme case](Global_Product_Training_and_Learning_Program_Management/)** — original fictional B2B technology launch training programme covering TNA, segmented global curriculum, practical workshops, digital lesson storyboard, SME/security approval, project lifecycle, regional stakeholder RACI, quiz and observed-competency rubric, 8-week launch plan, content maintenance/retirement, and a synthetic learner KPI calculator with unit tests. **Portfolio design and synthetic evidence only; no Lenovo or Pickado delivery, published LMS course, live pilot or measured commercial results claimed.**
