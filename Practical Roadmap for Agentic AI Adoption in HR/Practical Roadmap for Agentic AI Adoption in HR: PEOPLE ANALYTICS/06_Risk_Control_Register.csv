@@ -1,0 +1,6 @@
+"Risk ID","Workstream","Risk scenario","Proposed control","Accountable owner","Verification evidence","Residual risk","Test status"
+"R01","PEOPLE ANALYTICS","Reidentification in small groups","Minimum cohort-size guard and suppression","People Analytics Lead","Authorization/negative test and independent review","UNASSESSED","NOT EXECUTED"
+"R02","PEOPLE ANALYTICS","Incorrect denominator or metric","Approved semantic layer and SQL unit tests","People Analytics Lead","Authorization/negative test and independent review","UNASSESSED","NOT EXECUTED"
+"R03","PEOPLE ANALYTICS","Fabricated causal story","Uncertainty language, source attribution and analyst review","People Analytics Lead","Authorization/negative test and independent review","UNASSESSED","NOT EXECUTED"
+"R04","PEOPLE ANALYTICS","Unauthorized raw employee data access","Aggregate-only read views, access and export limits","People Analytics Lead","Authorization/negative test and independent review","UNASSESSED","NOT EXECUTED"
+"R05","PEOPLE ANALYTICS","Discriminatory personnel inference","No individual scores or consequential decisions","People Analytics Lead","Authorization/negative test and independent review","UNASSESSED","NOT EXECUTED"

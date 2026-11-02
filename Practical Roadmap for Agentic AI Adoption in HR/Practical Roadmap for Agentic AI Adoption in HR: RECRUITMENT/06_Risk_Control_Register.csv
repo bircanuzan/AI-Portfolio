@@ -1,0 +1,6 @@
+"Risk ID","Workstream","Risk scenario","Proposed control","Accountable owner","Verification evidence","Residual risk","Test status"
+"R01","RECRUITMENT","Discriminatory brief","Flag non-job-related criteria and require recruiter/legal review","Head of Talent Acquisition","Authorization/negative test and independent review","UNASSESSED","NOT EXECUTED"
+"R02","RECRUITMENT","Candidate data leaks","Least privilege, no unauthorized scraping or export","Head of Talent Acquisition","Authorization/negative test and independent review","UNASSESSED","NOT EXECUTED"
+"R03","RECRUITMENT","Unsupported profile claims","Source citation and independent recruiter verification","Head of Talent Acquisition","Authorization/negative test and independent review","UNASSESSED","NOT EXECUTED"
+"R04","RECRUITMENT","Unapproved email or ATS write","Draft-only tools; separate human-send and status authority","Head of Talent Acquisition","Authorization/negative test and independent review","UNASSESSED","NOT EXECUTED"
+"R05","RECRUITMENT","Misleading sourcing research","Source quality, freshness and coverage review","Head of Talent Acquisition","Authorization/negative test and independent review","UNASSESSED","NOT EXECUTED"

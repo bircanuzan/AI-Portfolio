@@ -1,0 +1,6 @@
+"Risk ID","Workstream","Risk scenario","Proposed control","Accountable owner","Verification evidence","Residual risk","Test status"
+"R01","INSTRUCTIONAL DESIGN AND LEARNING&DEVELOPMENT","Copyright violation","Source rights review and no restricted text reproduction","Head of Learning & Development","Authorization/negative test and independent review","UNASSESSED","NOT EXECUTED"
+"R02","INSTRUCTIONAL DESIGN AND LEARNING&DEVELOPMENT","Pedagogically misaligned assessment","Objective-to-assessment mapping reviewed by ID SME","Head of Learning & Development","Authorization/negative test and independent review","UNASSESSED","NOT EXECUTED"
+"R03","INSTRUCTIONAL DESIGN AND LEARNING&DEVELOPMENT","Inaccessible content","Accessibility, language and inclusive-design QA","Head of Learning & Development","Authorization/negative test and independent review","UNASSESSED","NOT EXECUTED"
+"R04","INSTRUCTIONAL DESIGN AND LEARNING&DEVELOPMENT","False or unsafe subject claims","Cite approved source and mandate SME validation","Head of Learning & Development","Authorization/negative test and independent review","UNASSESSED","NOT EXECUTED"
+"R05","INSTRUCTIONAL DESIGN AND LEARNING&DEVELOPMENT","Unapproved publication","LMS publishing API disabled for agent","Head of Learning & Development","Authorization/negative test and independent review","UNASSESSED","NOT EXECUTED"

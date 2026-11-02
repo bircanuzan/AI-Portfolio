@@ -1,0 +1,6 @@
+"Risk ID","Workstream","Risk scenario","Proposed control","Accountable owner","Verification evidence","Residual risk","Test status"
+"R01","TALENT ASSESSMENT","Publisher IP or score misuse","License register; prohibit restricted test material reproduction","Talent Assessment Practice Lead","Authorization/negative test and independent review","UNASSESSED","NOT EXECUTED"
+"R02","TALENT ASSESSMENT","Fabricated score interpretations","Qualified assessor checks norm, instrument version and validity","Talent Assessment Practice Lead","Authorization/negative test and independent review","UNASSESSED","NOT EXECUTED"
+"R03","TALENT ASSESSMENT","Unfair candidate impact","Job-related validity, bias review and human decision ownership","Talent Assessment Practice Lead","Authorization/negative test and independent review","UNASSESSED","NOT EXECUTED"
+"R04","TALENT ASSESSMENT","Sensitive psychometric data leak","Least privilege and retention controls","Talent Assessment Practice Lead","Authorization/negative test and independent review","UNASSESSED","NOT EXECUTED"
+"R05","TALENT ASSESSMENT","Automated selection","No final ranking/hiring decision connector","Talent Assessment Practice Lead","Authorization/negative test and independent review","UNASSESSED","NOT EXECUTED"

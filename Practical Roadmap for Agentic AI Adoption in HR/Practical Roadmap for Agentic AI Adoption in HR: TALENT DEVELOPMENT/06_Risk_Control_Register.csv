@@ -1,0 +1,6 @@
+"Risk ID","Workstream","Risk scenario","Proposed control","Accountable owner","Verification evidence","Residual risk","Test status"
+"R01","TALENT DEVELOPMENT","Unfair opportunities","Review comparable employees' access to development options","Talent Development Lead","Authorization/negative test and independent review","UNASSESSED","NOT EXECUTED"
+"R02","TALENT DEVELOPMENT","Unsupported skill-gap inference","Ground in consented documented evidence","Talent Development Lead","Authorization/negative test and independent review","UNASSESSED","NOT EXECUTED"
+"R03","TALENT DEVELOPMENT","Unwanted personal profiling","Data minimization and employee control","Talent Development Lead","Authorization/negative test and independent review","UNASSESSED","NOT EXECUTED"
+"R04","TALENT DEVELOPMENT","Unavailable or irrelevant course","Verify learning catalogue validity","Talent Development Lead","Authorization/negative test and independent review","UNASSESSED","NOT EXECUTED"
+"R05","TALENT DEVELOPMENT","Unauthorized HR career decision","No HRIS/performance write connector","Talent Development Lead","Authorization/negative test and independent review","UNASSESSED","NOT EXECUTED"

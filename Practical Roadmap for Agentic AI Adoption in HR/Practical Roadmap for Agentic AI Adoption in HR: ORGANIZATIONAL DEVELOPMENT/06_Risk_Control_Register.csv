@@ -1,0 +1,6 @@
+"Risk ID","Workstream","Risk scenario","Proposed control","Accountable owner","Verification evidence","Residual risk","Test status"
+"R01","ORGANIZATIONAL DEVELOPMENT","Response reidentification","Suppress distinctive quotes and small groups","Organizational Development Lead","Authorization/negative test and independent review","UNASSESSED","NOT EXECUTED"
+"R02","ORGANIZATIONAL DEVELOPMENT","Unjustified causal explanation","Require evidence, alternatives and hypotheses","Organizational Development Lead","Authorization/negative test and independent review","UNASSESSED","NOT EXECUTED"
+"R03","ORGANIZATIONAL DEVELOPMENT","Retaliation/surveillance misuse","No individual rankings or negative-comment attribution","Organizational Development Lead","Authorization/negative test and independent review","UNASSESSED","NOT EXECUTED"
+"R04","ORGANIZATIONAL DEVELOPMENT","Biased sentiment coding","Independent human review and language coverage","Organizational Development Lead","Authorization/negative test and independent review","UNASSESSED","NOT EXECUTED"
+"R05","ORGANIZATIONAL DEVELOPMENT","Unapproved intervention/restructure","OD and leadership approval before changes","Organizational Development Lead","Authorization/negative test and independent review","UNASSESSED","NOT EXECUTED"
