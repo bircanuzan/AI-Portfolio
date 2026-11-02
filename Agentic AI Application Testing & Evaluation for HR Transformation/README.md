@@ -95,3 +95,15 @@ From an Internet-enabled machine with an API key stored in a private environment
     python evaluate_live.py --limit 4
 
 Alternatively run the repository's manually triggered GitHub Actions workflow after setting the OPENAI_API_KEY Actions secret. No automatic API spending is configured.
+
+
+## No-manual-setup open-weight LLM demonstration (GitHub Actions)
+
+An optional genuine LLM evaluation was added to avoid requiring new API keys, API billing, or plugin authorization. It runs the public **Qwen2.5 0.5B Instruct (Apache 2.0)** locally on a GitHub Actions CPU runner using **llama.cpp** and sends requests to a local **OpenAI-compatible HTTP chat-completions endpoint**. **This is NOT OpenAI's paid API, Microsoft Copilot, or an enterprise-ready model.**
+
+- **[Real model integration and evaluation code](local_open_weight_llm.py)**: local policy search, route controls, actual HTTP model completions for approved-policy questions, numeric checks, raw model draft, separate approved policy answer.
+- **[No-key workflow](../../.github/workflows/hr-open-weight-live.yml)**: downloads public GGUF weights, starts llama.cpp, executes unit tests, makes real model requests, uploads evidence; attempts to commit synthetic results automatically.
+- **[Evidence file after a successful execution](evidence/local_llm_results.json)**: available *only after* the workflow really completes; absent means no completed live run has been proven.
+- **Trigger:** automatic when the file `run_local_model.trigger` is created or changed, or manually through workflow_dispatch. There are no scheduled or continuously billed model services.
+
+**Important:** The code and workflow alone are NOT proof that the model executed. The GitHub Actions job must succeed and yield real raw model drafts before describing the portfolio as 'live tested'. The existing key-based OpenAI Agents SDK implementation is a separate integration that cannot be connected to a private OpenAI API account without that account's credentials and billing authorization.
