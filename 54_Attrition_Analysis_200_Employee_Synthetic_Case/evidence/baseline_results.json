@@ -1,0 +1,43 @@
+{
+  "dataset_version": "1.0",
+  "cohort": "2026-Q3",
+  "is_synthetic": true,
+  "records": 200,
+  "exits": 44,
+  "exit_rate_pct": 22,
+  "department_breakdown": [
+    {
+      "department": "HR",
+      "employees": 40,
+      "exits": 8,
+      "exit_rate_pct": 20
+    },
+    {
+      "department": "Technology",
+      "employees": 40,
+      "exits": 8,
+      "exit_rate_pct": 20
+    },
+    {
+      "department": "Operations",
+      "employees": 40,
+      "exits": 9,
+      "exit_rate_pct": 22.5
+    },
+    {
+      "department": "Finance",
+      "employees": 40,
+      "exits": 9,
+      "exit_rate_pct": 22.5
+    },
+    {
+      "department": "Customer Services",
+      "employees": 40,
+      "exits": 10,
+      "exit_rate_pct": 25
+    }
+  ],
+  "calculation": "exits divided by fixed start-of-period synthetic cohort; does not represent an average-headcount company turnover metric",
+  "verification": "Generated row aggregation using JavaScript; independently rerunnable using the Python standard-library script",
+  "business_outcome": "none; no real employer data"
+}

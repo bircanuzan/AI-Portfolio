@@ -1,0 +1,201 @@
+employee_id,cohort,department,tenure_months,engagement_score,manager_support_score,internal_mobility,work_arrangement,exited,exit_reason
+SYN001,2026-Q3,HR,6,1,1,1,onsite,1,career_mobility
+SYN002,2026-Q3,HR,19,4,3,0,hybrid,0,
+SYN003,2026-Q3,HR,32,2,5,0,remote,1,manager_relationship
+SYN004,2026-Q3,HR,45,5,2,0,onsite,0,
+SYN005,2026-Q3,HR,58,3,4,1,hybrid,0,
+SYN006,2026-Q3,HR,71,1,1,0,remote,0,
+SYN007,2026-Q3,HR,84,4,3,0,onsite,0,
+SYN008,2026-Q3,HR,97,2,5,0,hybrid,1,manager_relationship
+SYN009,2026-Q3,HR,110,5,2,1,remote,0,
+SYN010,2026-Q3,HR,123,3,4,0,onsite,0,
+SYN011,2026-Q3,HR,15,1,1,0,hybrid,0,
+SYN012,2026-Q3,HR,28,4,3,0,remote,0,
+SYN013,2026-Q3,HR,41,2,5,1,onsite,0,
+SYN014,2026-Q3,HR,54,5,2,0,hybrid,0,
+SYN015,2026-Q3,HR,67,3,4,0,remote,0,
+SYN016,2026-Q3,HR,80,1,1,0,onsite,0,
+SYN017,2026-Q3,HR,93,4,3,1,hybrid,0,
+SYN018,2026-Q3,HR,106,2,5,0,remote,0,
+SYN019,2026-Q3,HR,119,5,2,0,onsite,0,
+SYN020,2026-Q3,HR,11,3,4,0,hybrid,1,other
+SYN021,2026-Q3,HR,24,1,1,1,remote,0,
+SYN022,2026-Q3,HR,37,4,3,0,onsite,0,
+SYN023,2026-Q3,HR,50,2,5,0,hybrid,0,
+SYN024,2026-Q3,HR,63,5,2,0,remote,0,
+SYN025,2026-Q3,HR,76,3,4,1,onsite,0,
+SYN026,2026-Q3,HR,89,1,1,0,hybrid,0,
+SYN027,2026-Q3,HR,102,4,3,0,remote,1,workload
+SYN028,2026-Q3,HR,115,2,5,0,onsite,0,
+SYN029,2026-Q3,HR,7,5,2,1,hybrid,1,compensation
+SYN030,2026-Q3,HR,20,3,4,0,remote,0,
+SYN031,2026-Q3,HR,33,1,1,0,onsite,0,
+SYN032,2026-Q3,HR,46,4,3,0,hybrid,0,
+SYN033,2026-Q3,HR,59,2,5,1,remote,0,
+SYN034,2026-Q3,HR,72,5,2,0,onsite,0,
+SYN035,2026-Q3,HR,85,3,4,0,hybrid,0,
+SYN036,2026-Q3,HR,98,1,1,0,remote,1,career_mobility
+SYN037,2026-Q3,HR,111,4,3,1,onsite,0,
+SYN038,2026-Q3,HR,124,2,5,0,hybrid,0,
+SYN039,2026-Q3,HR,16,5,2,0,remote,1,compensation
+SYN040,2026-Q3,HR,29,3,4,0,onsite,0,
+SYN041,2026-Q3,Technology,23,2,3,0,hybrid,0,
+SYN042,2026-Q3,Technology,36,5,5,1,remote,0,
+SYN043,2026-Q3,Technology,49,3,2,0,onsite,0,
+SYN044,2026-Q3,Technology,62,1,4,0,hybrid,1,career_mobility
+SYN045,2026-Q3,Technology,75,4,1,0,remote,0,
+SYN046,2026-Q3,Technology,88,2,3,1,onsite,1,manager_relationship
+SYN047,2026-Q3,Technology,101,5,5,0,hybrid,0,
+SYN048,2026-Q3,Technology,114,3,2,0,remote,0,
+SYN049,2026-Q3,Technology,6,1,4,0,onsite,1,career_mobility
+SYN050,2026-Q3,Technology,19,4,1,1,hybrid,0,
+SYN051,2026-Q3,Technology,32,2,3,0,remote,1,manager_relationship
+SYN052,2026-Q3,Technology,45,5,5,0,onsite,0,
+SYN053,2026-Q3,Technology,58,3,2,0,hybrid,0,
+SYN054,2026-Q3,Technology,71,1,4,1,remote,0,
+SYN055,2026-Q3,Technology,84,4,1,0,onsite,0,
+SYN056,2026-Q3,Technology,97,2,3,0,hybrid,1,manager_relationship
+SYN057,2026-Q3,Technology,110,5,5,0,remote,0,
+SYN058,2026-Q3,Technology,123,3,2,1,onsite,0,
+SYN059,2026-Q3,Technology,15,1,4,0,hybrid,0,
+SYN060,2026-Q3,Technology,28,4,1,0,remote,0,
+SYN061,2026-Q3,Technology,41,2,3,0,onsite,0,
+SYN062,2026-Q3,Technology,54,5,5,1,hybrid,0,
+SYN063,2026-Q3,Technology,67,3,2,0,remote,0,
+SYN064,2026-Q3,Technology,80,1,4,0,onsite,0,
+SYN065,2026-Q3,Technology,93,4,1,0,hybrid,0,
+SYN066,2026-Q3,Technology,106,2,3,1,remote,0,
+SYN067,2026-Q3,Technology,119,5,5,0,onsite,0,
+SYN068,2026-Q3,Technology,11,3,2,0,hybrid,1,other
+SYN069,2026-Q3,Technology,24,1,4,0,remote,0,
+SYN070,2026-Q3,Technology,37,4,1,1,onsite,0,
+SYN071,2026-Q3,Technology,50,2,3,0,hybrid,0,
+SYN072,2026-Q3,Technology,63,5,5,0,remote,0,
+SYN073,2026-Q3,Technology,76,3,2,0,onsite,0,
+SYN074,2026-Q3,Technology,89,1,4,1,hybrid,0,
+SYN075,2026-Q3,Technology,102,4,1,0,remote,1,workload
+SYN076,2026-Q3,Technology,115,2,3,0,onsite,0,
+SYN077,2026-Q3,Technology,7,5,5,0,hybrid,1,compensation
+SYN078,2026-Q3,Technology,20,3,2,1,remote,0,
+SYN079,2026-Q3,Technology,33,1,4,0,onsite,0,
+SYN080,2026-Q3,Technology,46,4,1,0,hybrid,0,
+SYN081,2026-Q3,Operations,40,3,5,0,remote,0,
+SYN082,2026-Q3,Operations,53,1,2,0,onsite,1,career_mobility
+SYN083,2026-Q3,Operations,66,4,4,1,hybrid,0,
+SYN084,2026-Q3,Operations,79,2,1,0,remote,0,
+SYN085,2026-Q3,Operations,92,5,3,0,onsite,1,compensation
+SYN086,2026-Q3,Operations,105,3,5,0,hybrid,0,
+SYN087,2026-Q3,Operations,118,1,2,1,remote,1,career_mobility
+SYN088,2026-Q3,Operations,10,4,4,0,onsite,0,
+SYN089,2026-Q3,Operations,23,2,1,0,hybrid,0,
+SYN090,2026-Q3,Operations,36,5,3,0,remote,0,
+SYN091,2026-Q3,Operations,49,3,5,1,onsite,0,
+SYN092,2026-Q3,Operations,62,1,2,0,hybrid,1,career_mobility
+SYN093,2026-Q3,Operations,75,4,4,0,remote,0,
+SYN094,2026-Q3,Operations,88,2,1,0,onsite,1,manager_relationship
+SYN095,2026-Q3,Operations,101,5,3,1,hybrid,0,
+SYN096,2026-Q3,Operations,114,3,5,0,remote,0,
+SYN097,2026-Q3,Operations,6,1,2,0,onsite,1,career_mobility
+SYN098,2026-Q3,Operations,19,4,4,0,hybrid,0,
+SYN099,2026-Q3,Operations,32,2,1,1,remote,1,manager_relationship
+SYN100,2026-Q3,Operations,45,5,3,0,onsite,0,
+SYN101,2026-Q3,Operations,58,3,5,0,hybrid,0,
+SYN102,2026-Q3,Operations,71,1,2,0,remote,0,
+SYN103,2026-Q3,Operations,84,4,4,1,onsite,0,
+SYN104,2026-Q3,Operations,97,2,1,0,hybrid,1,manager_relationship
+SYN105,2026-Q3,Operations,110,5,3,0,remote,0,
+SYN106,2026-Q3,Operations,123,3,5,0,onsite,0,
+SYN107,2026-Q3,Operations,15,1,2,1,hybrid,0,
+SYN108,2026-Q3,Operations,28,4,4,0,remote,0,
+SYN109,2026-Q3,Operations,41,2,1,0,onsite,0,
+SYN110,2026-Q3,Operations,54,5,3,0,hybrid,0,
+SYN111,2026-Q3,Operations,67,3,5,1,remote,0,
+SYN112,2026-Q3,Operations,80,1,2,0,onsite,0,
+SYN113,2026-Q3,Operations,93,4,4,0,hybrid,0,
+SYN114,2026-Q3,Operations,106,2,1,0,remote,0,
+SYN115,2026-Q3,Operations,119,5,3,1,onsite,0,
+SYN116,2026-Q3,Operations,11,3,5,0,hybrid,1,other
+SYN117,2026-Q3,Operations,24,1,2,0,remote,0,
+SYN118,2026-Q3,Operations,37,4,4,0,onsite,0,
+SYN119,2026-Q3,Operations,50,2,1,1,hybrid,0,
+SYN120,2026-Q3,Operations,63,5,3,0,remote,0,
+SYN121,2026-Q3,Finance,57,4,2,0,onsite,0,
+SYN122,2026-Q3,Finance,70,2,4,0,hybrid,0,
+SYN123,2026-Q3,Finance,83,5,1,0,remote,0,
+SYN124,2026-Q3,Finance,96,3,3,1,onsite,0,
+SYN125,2026-Q3,Finance,109,1,5,0,hybrid,0,
+SYN126,2026-Q3,Finance,122,4,2,0,remote,1,workload
+SYN127,2026-Q3,Finance,14,2,4,0,onsite,0,
+SYN128,2026-Q3,Finance,27,5,1,1,hybrid,0,
+SYN129,2026-Q3,Finance,40,3,3,0,remote,0,
+SYN130,2026-Q3,Finance,53,1,5,0,onsite,1,career_mobility
+SYN131,2026-Q3,Finance,66,4,2,0,hybrid,0,
+SYN132,2026-Q3,Finance,79,2,4,1,remote,0,
+SYN133,2026-Q3,Finance,92,5,1,0,onsite,1,compensation
+SYN134,2026-Q3,Finance,105,3,3,0,hybrid,0,
+SYN135,2026-Q3,Finance,118,1,5,0,remote,1,career_mobility
+SYN136,2026-Q3,Finance,10,4,2,1,onsite,0,
+SYN137,2026-Q3,Finance,23,2,4,0,hybrid,0,
+SYN138,2026-Q3,Finance,36,5,1,0,remote,0,
+SYN139,2026-Q3,Finance,49,3,3,0,onsite,0,
+SYN140,2026-Q3,Finance,62,1,5,1,hybrid,1,career_mobility
+SYN141,2026-Q3,Finance,75,4,2,0,remote,0,
+SYN142,2026-Q3,Finance,88,2,4,0,onsite,1,manager_relationship
+SYN143,2026-Q3,Finance,101,5,1,0,hybrid,0,
+SYN144,2026-Q3,Finance,114,3,3,1,remote,0,
+SYN145,2026-Q3,Finance,6,1,5,0,onsite,1,career_mobility
+SYN146,2026-Q3,Finance,19,4,2,0,hybrid,0,
+SYN147,2026-Q3,Finance,32,2,4,0,remote,1,manager_relationship
+SYN148,2026-Q3,Finance,45,5,1,1,onsite,0,
+SYN149,2026-Q3,Finance,58,3,3,0,hybrid,0,
+SYN150,2026-Q3,Finance,71,1,5,0,remote,0,
+SYN151,2026-Q3,Finance,84,4,2,0,onsite,0,
+SYN152,2026-Q3,Finance,97,2,4,1,hybrid,1,manager_relationship
+SYN153,2026-Q3,Finance,110,5,1,0,remote,0,
+SYN154,2026-Q3,Finance,123,3,3,0,onsite,0,
+SYN155,2026-Q3,Finance,15,1,5,0,hybrid,0,
+SYN156,2026-Q3,Finance,28,4,2,1,remote,0,
+SYN157,2026-Q3,Finance,41,2,4,0,onsite,0,
+SYN158,2026-Q3,Finance,54,5,1,0,hybrid,0,
+SYN159,2026-Q3,Finance,67,3,3,0,remote,0,
+SYN160,2026-Q3,Finance,80,1,5,1,onsite,0,
+SYN161,2026-Q3,Customer Services,74,5,4,1,hybrid,0,
+SYN162,2026-Q3,Customer Services,87,3,1,0,remote,1,other
+SYN163,2026-Q3,Customer Services,100,1,3,0,onsite,0,
+SYN164,2026-Q3,Customer Services,113,4,5,0,hybrid,0,
+SYN165,2026-Q3,Customer Services,126,2,2,1,remote,0,
+SYN166,2026-Q3,Customer Services,18,5,4,0,onsite,0,
+SYN167,2026-Q3,Customer Services,31,3,1,0,hybrid,0,
+SYN168,2026-Q3,Customer Services,44,1,3,0,remote,0,
+SYN169,2026-Q3,Customer Services,57,4,5,1,onsite,0,
+SYN170,2026-Q3,Customer Services,70,2,2,0,hybrid,0,
+SYN171,2026-Q3,Customer Services,83,5,4,0,remote,0,
+SYN172,2026-Q3,Customer Services,96,3,1,0,onsite,0,
+SYN173,2026-Q3,Customer Services,109,1,3,1,hybrid,0,
+SYN174,2026-Q3,Customer Services,122,4,5,0,remote,1,workload
+SYN175,2026-Q3,Customer Services,14,2,2,0,onsite,0,
+SYN176,2026-Q3,Customer Services,27,5,4,0,hybrid,0,
+SYN177,2026-Q3,Customer Services,40,3,1,1,remote,0,
+SYN178,2026-Q3,Customer Services,53,1,3,0,onsite,1,career_mobility
+SYN179,2026-Q3,Customer Services,66,4,5,0,hybrid,0,
+SYN180,2026-Q3,Customer Services,79,2,2,0,remote,0,
+SYN181,2026-Q3,Customer Services,92,5,4,1,onsite,1,compensation
+SYN182,2026-Q3,Customer Services,105,3,1,0,hybrid,0,
+SYN183,2026-Q3,Customer Services,118,1,3,0,remote,1,career_mobility
+SYN184,2026-Q3,Customer Services,10,4,5,0,onsite,0,
+SYN185,2026-Q3,Customer Services,23,2,2,1,hybrid,0,
+SYN186,2026-Q3,Customer Services,36,5,4,0,remote,0,
+SYN187,2026-Q3,Customer Services,49,3,1,0,onsite,0,
+SYN188,2026-Q3,Customer Services,62,1,3,0,hybrid,1,career_mobility
+SYN189,2026-Q3,Customer Services,75,4,5,1,remote,0,
+SYN190,2026-Q3,Customer Services,88,2,2,0,onsite,1,manager_relationship
+SYN191,2026-Q3,Customer Services,101,5,4,0,hybrid,0,
+SYN192,2026-Q3,Customer Services,114,3,1,0,remote,0,
+SYN193,2026-Q3,Customer Services,6,1,3,1,onsite,1,career_mobility
+SYN194,2026-Q3,Customer Services,19,4,5,0,hybrid,0,
+SYN195,2026-Q3,Customer Services,32,2,2,0,remote,1,manager_relationship
+SYN196,2026-Q3,Customer Services,45,5,4,0,onsite,0,
+SYN197,2026-Q3,Customer Services,58,3,1,1,hybrid,0,
+SYN198,2026-Q3,Customer Services,71,1,3,0,remote,0,
+SYN199,2026-Q3,Customer Services,84,4,5,0,onsite,0,
+SYN200,2026-Q3,Customer Services,97,2,2,0,hybrid,1,manager_relationship
