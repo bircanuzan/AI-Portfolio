@@ -1,3 +1,15 @@
+## NEW — Kraken AI Growth Ops (remote UAE) JD extension — 2 November 2026
+
+**[Open role-specific operational QA case and requirements map](05_Kraken_AI_Growth_Ops_JD_Alignment.md).** This extends the same AI Testing & Quality Review project, rather than creating a redundant folder.
+
+- **New practical artifacts:** `qa_demo/agent_events_synthetic.json`, `qa_demo/agent_ops_eval.py`, and `qa_demo/test_agent_ops_eval.py`.
+- **Skills mapped to vacancy:** platform release/regression checks, agent output review, unauthorized-action approval gates, exception routing, queue and defect triage, severity-based escalation, bug reproduction, QA runbooks, release readiness and monitoring KPIs.
+- **Evidence status:** all events are fictional; rule-based Python checks are not proof of live Kraken product tests, Mixpanel use, Jira use, or real LLM evaluations.
+
+Run locally: `python -m unittest qa_demo.test_agent_ops_eval -v` and `python qa_demo/agent_ops_eval.py qa_demo/agent_events_synthetic.json`.
+
+---
+
 ## New JD extension — Stellar Technologies QA Engineer (Dubai remote, 2 November 2026)
 
 - [JD skills mapping, test plan, requirements traceability, defect template and release gates](04_Stellar_QA_Engineer_JD_Skills_Test_Plan_and_Defects.md)
