@@ -1,0 +1,24 @@
+{
+  "profile_name": "Illustrative Bircan Uzan career evidence map — self-check before external use",
+  "levels": "0 = not claimed; 1 = portfolio demonstration or limited exposure; 2 = professional delivery experience; these levels are not certifications",
+  "skills": {
+    "stakeholder_delivery": 2,
+    "hr_processes": 2,
+    "talent_intelligence": 2,
+    "reporting": 2,
+    "program_coordination": 2,
+    "hr_technology": 1,
+    "people_analytics": 1,
+    "ai_governance": 1,
+    "ai_adoption": 1,
+    "ai_tool_building": 1,
+    "technical_ml": 0
+  },
+  "restrictions": {
+    "uae_location": true,
+    "exclude_arabic_required": true,
+    "exclude_new_business_quota": true,
+    "exclude_training_delivery": true
+  },
+  "disclaimer": "Illustrative, not verified assessment or employment recommendation. All credentials and real enterprise deployments require confirmation."
+}

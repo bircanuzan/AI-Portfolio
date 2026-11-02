@@ -1,0 +1,98 @@
+[
+  {
+    "role": "People Analytics Analyst / Coordinator",
+    "skills": {
+      "people_analytics": 2,
+      "hr_processes": 2,
+      "reporting": 2,
+      "stakeholder_delivery": 1
+    },
+    "weights": {
+      "people_analytics": 40,
+      "hr_processes": 20,
+      "reporting": 25,
+      "stakeholder_delivery": 15
+    },
+    "portfolio": "03, 11, 52, 53 attrition audit"
+  },
+  {
+    "role": "HR Tech Implementation / Client Delivery",
+    "skills": {
+      "hr_technology": 2,
+      "program_coordination": 2,
+      "stakeholder_delivery": 2,
+      "hr_processes": 2
+    },
+    "weights": {
+      "hr_technology": 25,
+      "program_coordination": 30,
+      "stakeholder_delivery": 25,
+      "hr_processes": 20
+    },
+    "portfolio": "04, 13, 41, 43"
+  },
+  {
+    "role": "AI-in-HR Process / Program Analyst",
+    "skills": {
+      "ai_adoption": 2,
+      "hr_processes": 2,
+      "program_coordination": 2,
+      "ai_tool_building": 1
+    },
+    "weights": {
+      "ai_adoption": 25,
+      "hr_processes": 30,
+      "program_coordination": 30,
+      "ai_tool_building": 15
+    },
+    "portfolio": "02, 42, 43, 47, 48"
+  },
+  {
+    "role": "Talent Intelligence / Assessment Analyst",
+    "skills": {
+      "talent_intelligence": 2,
+      "hr_processes": 2,
+      "people_analytics": 1,
+      "reporting": 2
+    },
+    "weights": {
+      "talent_intelligence": 35,
+      "hr_processes": 25,
+      "people_analytics": 15,
+      "reporting": 25
+    },
+    "portfolio": "07, 08, 49, 53 screening audit"
+  },
+  {
+    "role": "Responsible AI / AI Governance Coordinator",
+    "skills": {
+      "ai_governance": 2,
+      "hr_processes": 2,
+      "stakeholder_delivery": 2,
+      "reporting": 2
+    },
+    "weights": {
+      "ai_governance": 40,
+      "hr_processes": 20,
+      "stakeholder_delivery": 20,
+      "reporting": 20
+    },
+    "portfolio": "37, 42, 44, 53 screening audit"
+  },
+  {
+    "role": "AI Adoption / Enablement Program Coordinator",
+    "skills": {
+      "ai_adoption": 2,
+      "stakeholder_delivery": 2,
+      "program_coordination": 2,
+      "reporting": 2
+    },
+    "weights": {
+      "ai_adoption": 35,
+      "stakeholder_delivery": 25,
+      "program_coordination": 25,
+      "reporting": 15
+    },
+    "portfolio": "34, 47, 48"
+  }
+]

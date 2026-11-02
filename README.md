@@ -10,6 +10,11 @@ This portfolio brings together **AI-enabled HR transformation, talent intelligen
 
 
 
+## NEW — Project 53: HR-to-AI Role Map & Evidence Lab
+
+**[Open Project 53 — HR-to-AI Role Map, Career Fit & Evidence Lab](53_HR_to_AI_Role_Map_and_Evidence_Lab/)** — six AI-adjacent HR pathways (People Analytics, HR Tech, AI-in-HR, Talent Intelligence, AI Governance, AI Enablement); an offline explainable role matcher with gap/eligibility checks; optional 60-day plan; synthetic 200-employee attrition analysis; 12-case AI screening risk register; 20-question deterministic HR policy routing evaluation; four **original Claude-compatible SKILL.md templates** (not imported/tested in Claude); and interview/CV/LinkedIn/case-study templates. **Independent original work; no real applicant, client, ATS or LLM deployment claimed.**
+
+
 ---
 
 ## NEW — Project 52: Research-to-Practice People Analytics Dashboards

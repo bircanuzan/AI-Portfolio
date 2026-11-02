@@ -1,0 +1,201 @@
+employee_id,department,tenure_years,engagement_1_5,manager_support_1_5,training_access,attrited
+E001,Operations,1.6,4,3,Y,0
+E002,Technology,2.7,3,2,Y,0
+E003,HR,3.8,2,1,Y,1
+E004,Finance,4.9,1,5,Y,1
+E005,Customer Service,6,5,4,Y,0
+E006,Operations,7.1,4,3,Y,0
+E007,Technology,8.2,3,2,Y,1
+E008,HR,9.3,2,1,Y,1
+E009,Finance,10.4,1,5,Y,1
+E010,Customer Service,0.6,5,4,Y,0
+E011,Operations,1.7,4,3,Y,0
+E012,Technology,2.8,3,2,Y,1
+E013,HR,3.9,2,1,Y,1
+E014,Finance,5,1,5,Y,1
+E015,Customer Service,6.1,5,4,Y,0
+E016,Operations,7.2,4,3,N,1
+E017,Technology,8.3,3,2,N,0
+E018,HR,9.4,2,1,N,1
+E019,Finance,10.5,1,5,N,1
+E020,Customer Service,0.7,5,4,N,0
+E021,Operations,1.8,4,3,Y,1
+E022,Technology,2.9,3,2,Y,0
+E023,HR,4,2,1,Y,1
+E024,Finance,5.1,1,5,Y,0
+E025,Customer Service,6.2,5,4,Y,0
+E026,Operations,7.3,4,3,Y,0
+E027,Technology,8.4,3,2,Y,0
+E028,HR,9.5,2,1,Y,1
+E029,Finance,10.6,1,5,Y,0
+E030,Customer Service,0.8,5,4,Y,0
+E031,Operations,1.9,4,3,Y,1
+E032,Technology,3,3,2,Y,0
+E033,HR,4.1,2,1,Y,0
+E034,Finance,5.2,1,5,Y,0
+E035,Customer Service,6.3,5,4,Y,0
+E036,Operations,7.4,4,3,N,0
+E037,Technology,8.5,3,2,N,0
+E038,HR,9.6,2,1,N,0
+E039,Finance,10.7,1,5,N,0
+E040,Customer Service,0.9,5,4,N,0
+E041,Operations,2,4,3,Y,0
+E042,Technology,3.1,3,2,Y,0
+E043,HR,4.2,2,1,Y,0
+E044,Finance,5.3,1,5,Y,0
+E045,Customer Service,6.4,5,4,Y,0
+E046,Operations,7.5,4,3,Y,0
+E047,Technology,8.6,3,2,Y,0
+E048,HR,9.7,2,1,Y,0
+E049,Finance,10.8,1,5,Y,0
+E050,Customer Service,1,5,4,Y,0
+E051,Operations,2.1,4,3,Y,0
+E052,Technology,3.2,3,2,Y,0
+E053,HR,4.3,2,1,Y,0
+E054,Finance,5.4,1,5,Y,0
+E055,Customer Service,6.5,5,4,Y,0
+E056,Operations,7.6,4,3,N,0
+E057,Technology,8.7,3,2,N,0
+E058,HR,9.8,2,1,N,0
+E059,Finance,10.9,1,5,N,0
+E060,Customer Service,1.1,5,4,N,1
+E061,Operations,2.2,4,3,Y,0
+E062,Technology,3.3,3,2,Y,0
+E063,HR,4.4,2,1,Y,0
+E064,Finance,5.5,1,5,Y,0
+E065,Customer Service,6.6,5,4,Y,1
+E066,Operations,7.7,4,3,Y,0
+E067,Technology,8.8,3,2,Y,0
+E068,HR,9.9,2,1,Y,0
+E069,Finance,11,1,5,Y,1
+E070,Customer Service,1.2,5,4,Y,1
+E071,Operations,2.3,4,3,Y,0
+E072,Technology,3.4,3,2,Y,0
+E073,HR,4.5,2,1,Y,0
+E074,Finance,5.6,1,5,Y,1
+E075,Customer Service,6.7,5,4,Y,0
+E076,Operations,7.8,4,3,N,0
+E077,Technology,8.9,3,2,N,0
+E078,HR,10,2,1,N,1
+E079,Finance,11.1,1,5,N,1
+E080,Customer Service,1.3,5,4,N,0
+E081,Operations,2.4,4,3,Y,0
+E082,Technology,3.5,3,2,Y,0
+E083,HR,4.6,2,1,Y,1
+E084,Finance,5.7,1,5,Y,1
+E085,Customer Service,6.8,5,4,Y,0
+E086,Operations,7.9,4,3,Y,0
+E087,Technology,9,3,2,Y,1
+E088,HR,10.1,2,1,Y,1
+E089,Finance,11.2,1,5,Y,1
+E090,Customer Service,1.4,5,4,Y,0
+E091,Operations,2.5,4,3,Y,0
+E092,Technology,3.6,3,2,Y,1
+E093,HR,4.7,2,1,Y,1
+E094,Finance,5.8,1,5,Y,1
+E095,Customer Service,6.9,5,4,Y,0
+E096,Operations,8,4,3,N,1
+E097,Technology,9.1,3,2,N,0
+E098,HR,10.2,2,1,N,1
+E099,Finance,11.3,1,5,N,1
+E100,Customer Service,1.5,5,4,N,0
+E101,Operations,2.6,4,3,Y,1
+E102,Technology,3.7,3,2,Y,0
+E103,HR,4.8,2,1,Y,1
+E104,Finance,5.9,1,5,Y,0
+E105,Customer Service,7,5,4,Y,0
+E106,Operations,8.1,4,3,Y,0
+E107,Technology,9.2,3,2,Y,0
+E108,HR,10.3,2,1,Y,1
+E109,Finance,0.5,1,5,Y,0
+E110,Customer Service,1.6,5,4,Y,0
+E111,Operations,2.7,4,3,Y,0
+E112,Technology,3.8,3,2,Y,0
+E113,HR,4.9,2,1,Y,0
+E114,Finance,6,1,5,Y,0
+E115,Customer Service,7.1,5,4,Y,0
+E116,Operations,8.2,4,3,N,0
+E117,Technology,9.3,3,2,N,0
+E118,HR,10.4,2,1,N,0
+E119,Finance,0.6,1,5,N,0
+E120,Customer Service,1.7,5,4,N,0
+E121,Operations,2.8,4,3,Y,0
+E122,Technology,3.9,3,2,Y,0
+E123,HR,5,2,1,Y,0
+E124,Finance,6.1,1,5,Y,0
+E125,Customer Service,7.2,5,4,Y,0
+E126,Operations,8.3,4,3,Y,0
+E127,Technology,9.4,3,2,Y,0
+E128,HR,10.5,2,1,Y,0
+E129,Finance,0.7,1,5,Y,0
+E130,Customer Service,1.8,5,4,Y,0
+E131,Operations,2.9,4,3,Y,0
+E132,Technology,4,3,2,Y,0
+E133,HR,5.1,2,1,Y,0
+E134,Finance,6.2,1,5,Y,0
+E135,Customer Service,7.3,5,4,Y,0
+E136,Operations,8.4,4,3,N,0
+E137,Technology,9.5,3,2,N,0
+E138,HR,10.6,2,1,N,0
+E139,Finance,0.8,1,5,N,0
+E140,Customer Service,1.9,5,4,N,1
+E141,Operations,3,4,3,Y,0
+E142,Technology,4.1,3,2,Y,0
+E143,HR,5.2,2,1,Y,0
+E144,Finance,6.3,1,5,Y,0
+E145,Customer Service,7.4,5,4,Y,1
+E146,Operations,8.5,4,3,Y,0
+E147,Technology,9.6,3,2,Y,0
+E148,HR,10.7,2,1,Y,0
+E149,Finance,0.9,1,5,Y,1
+E150,Customer Service,2,5,4,Y,1
+E151,Operations,3.1,4,3,Y,0
+E152,Technology,4.2,3,2,Y,0
+E153,HR,5.3,2,1,Y,0
+E154,Finance,6.4,1,5,Y,1
+E155,Customer Service,7.5,5,4,Y,0
+E156,Operations,8.6,4,3,N,0
+E157,Technology,9.7,3,2,N,0
+E158,HR,10.8,2,1,N,1
+E159,Finance,1,1,5,N,1
+E160,Customer Service,2.1,5,4,N,0
+E161,Operations,3.2,4,3,Y,0
+E162,Technology,4.3,3,2,Y,0
+E163,HR,5.4,2,1,Y,1
+E164,Finance,6.5,1,5,Y,1
+E165,Customer Service,7.6,5,4,Y,0
+E166,Operations,8.7,4,3,Y,0
+E167,Technology,9.8,3,2,Y,1
+E168,HR,10.9,2,1,Y,1
+E169,Finance,1.1,1,5,Y,1
+E170,Customer Service,2.2,5,4,Y,0
+E171,Operations,3.3,4,3,Y,0
+E172,Technology,4.4,3,2,Y,1
+E173,HR,5.5,2,1,Y,1
+E174,Finance,6.6,1,5,Y,1
+E175,Customer Service,7.7,5,4,Y,0
+E176,Operations,8.8,4,3,N,1
+E177,Technology,9.9,3,2,N,0
+E178,HR,11,2,1,N,1
+E179,Finance,1.2,1,5,N,1
+E180,Customer Service,2.3,5,4,N,0
+E181,Operations,3.4,4,3,Y,1
+E182,Technology,4.5,3,2,Y,0
+E183,HR,5.6,2,1,Y,1
+E184,Finance,6.7,1,5,Y,0
+E185,Customer Service,7.8,5,4,Y,0
+E186,Operations,8.9,4,3,Y,0
+E187,Technology,10,3,2,Y,0
+E188,HR,11.1,2,1,Y,1
+E189,Finance,1.3,1,5,Y,0
+E190,Customer Service,2.4,5,4,Y,0
+E191,Operations,3.5,4,3,Y,0
+E192,Technology,4.6,3,2,Y,0
+E193,HR,5.7,2,1,Y,0
+E194,Finance,6.8,1,5,Y,0
+E195,Customer Service,7.9,5,4,Y,0
+E196,Operations,9,4,3,N,0
+E197,Technology,10.1,3,2,N,0
+E198,HR,11.2,2,1,N,0
+E199,Finance,1.4,1,5,N,0
+E200,Customer Service,2.5,5,4,N,0

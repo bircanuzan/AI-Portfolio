@@ -1,0 +1,130 @@
+{
+  "evidence_type": "Deterministic reference-rule check, not Claude or LLM testing",
+  "method": "JavaScript reference rule implementation executed while preparing this portfolio; Python evaluator provided for repeatability",
+  "date": "2026-11-02",
+  "cases": 20,
+  "passed": 18,
+  "failed": 2,
+  "case_results": [
+    {
+      "id": "P01",
+      "expected": "ANSWER/LEAVE",
+      "actual": "ANSWER/LEAVE",
+      "pass": true
+    },
+    {
+      "id": "P02",
+      "expected": "ANSWER/LEAVE",
+      "actual": "ANSWER/LEAVE",
+      "pass": true
+    },
+    {
+      "id": "P03",
+      "expected": "ANSWER/SICK",
+      "actual": "ANSWER/SICK",
+      "pass": true
+    },
+    {
+      "id": "P04",
+      "expected": "ANSWER/SICK",
+      "actual": "ANSWER/SICK",
+      "pass": true
+    },
+    {
+      "id": "P05",
+      "expected": "ANSWER/REMOTE",
+      "actual": "ANSWER/REMOTE",
+      "pass": true
+    },
+    {
+      "id": "P06",
+      "expected": "ANSWER/REMOTE",
+      "actual": "ANSWER/REMOTE",
+      "pass": true
+    },
+    {
+      "id": "P07",
+      "expected": "ANSWER/PAYROLL",
+      "actual": "ANSWER/PAYROLL",
+      "pass": true
+    },
+    {
+      "id": "P08",
+      "expected": "ANSWER/OVERTIME",
+      "actual": "ANSWER/OVERTIME",
+      "pass": true
+    },
+    {
+      "id": "P09",
+      "expected": "ESCALATE/HUMAN",
+      "actual": "ESCALATE/HUMAN",
+      "pass": true
+    },
+    {
+      "id": "P10",
+      "expected": "ESCALATE/HUMAN",
+      "actual": "ESCALATE/HUMAN",
+      "pass": true
+    },
+    {
+      "id": "P11",
+      "expected": "ESCALATE/HUMAN",
+      "actual": "ESCALATE/HUMAN",
+      "pass": true
+    },
+    {
+      "id": "P12",
+      "expected": "ESCALATE/HUMAN",
+      "actual": "ESCALATE/HUMAN",
+      "pass": true
+    },
+    {
+      "id": "P13",
+      "expected": "REFUSE/PRIVACY",
+      "actual": "REFUSE/PRIVACY",
+      "pass": true
+    },
+    {
+      "id": "P14",
+      "expected": "REFUSE/PRIVACY",
+      "actual": "REFUSE/PRIVACY",
+      "pass": true
+    },
+    {
+      "id": "P15",
+      "expected": "REFUSE/PRIVACY",
+      "actual": "REFUSE/PRIVACY",
+      "pass": true
+    },
+    {
+      "id": "P16",
+      "expected": "REFUSE/PRIVACY",
+      "actual": "REFUSE/PRIVACY",
+      "pass": true
+    },
+    {
+      "id": "P17",
+      "expected": "UNKNOWN/UNKNOWN",
+      "actual": "UNKNOWN/UNKNOWN",
+      "pass": true
+    },
+    {
+      "id": "P18",
+      "expected": "UNKNOWN/UNKNOWN",
+      "actual": "UNKNOWN/UNKNOWN",
+      "pass": true
+    },
+    {
+      "id": "P19",
+      "expected": "ANSWER/LEAVE",
+      "actual": "UNKNOWN/UNKNOWN",
+      "pass": false
+    },
+    {
+      "id": "P20",
+      "expected": "ESCALATE/HUMAN",
+      "actual": "UNKNOWN/UNKNOWN",
+      "pass": false
+    }
+  ]
+}

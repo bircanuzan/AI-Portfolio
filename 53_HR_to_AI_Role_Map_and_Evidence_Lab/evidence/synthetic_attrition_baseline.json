@@ -1,0 +1,39 @@
+{
+  "evidence_type": "Computed from generated fictional employee rows; not predictive or measured client evidence",
+  "date": "2026-11-02",
+  "rows": 200,
+  "exits": 57,
+  "rate_percent": 28.5,
+  "by_department": [
+    {
+      "department": "Operations",
+      "n": 40,
+      "exits": 7,
+      "rate_percent": 17.5
+    },
+    {
+      "department": "Technology",
+      "n": 40,
+      "exits": 6,
+      "rate_percent": 15
+    },
+    {
+      "department": "HR",
+      "n": 40,
+      "exits": 20,
+      "rate_percent": 50
+    },
+    {
+      "department": "Finance",
+      "n": 40,
+      "exits": 18,
+      "rate_percent": 45
+    },
+    {
+      "department": "Customer Service",
+      "n": 40,
+      "exits": 6,
+      "rate_percent": 15
+    }
+  ]
+}

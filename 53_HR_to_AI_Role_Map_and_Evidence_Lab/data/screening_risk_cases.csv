@@ -1,0 +1,13 @@
+case_id,risk_area,failure_mode,severity,status,proposed_control
+S01,Job title matching,Relevant duties overlooked by title-only parser,HIGH,OPEN,Human review with skill-based evidence
+S02,Career break,Unrelated gap automatically penalised,HIGH,OPEN,Exclude gap proxy; inspect job-relevant evidence
+S03,Non-standard CV format,Screen reader or parsing mismatch,HIGH,OPEN,Accessible format fallback/manual review
+S04,Name or nationality inference,Proxy-based ranking risk,CRITICAL,OPEN,Remove inference; test protected-attribute proxies
+S05,Accommodation request,Adjustment request treated as poor fit,HIGH,OPEN,Accessible alternate assessment pathway
+S06,Missing required licence,Valid job-specific exclusion with verified requirement,LOW,CONTROLLED,Document licence necessity and appeal
+S07,Keyword stuffing,Artificial match without competency,MEDIUM,OPEN,Use job-relevant work sample and verification
+S08,Generative CV fabrication,Confident claims without evidence,MEDIUM,OPEN,Structured fact-based human checks
+S09,Dialect variation,English phrasing variation under-scored,HIGH,OPEN,Paraphrase sensitivity testing
+S10,Outdated vacancy criteria,Screening uses superseded JD,HIGH,OPEN,Versioned approved requirements
+S11,Duplicate submissions,Duplicate records multiply candidate rank,MEDIUM,CONTROLLED,Deduplicate by approved identifiers
+S12,AI explanation absent,Opaque recommendation cannot be challenged,HIGH,OPEN,Reason log and human appeal route
