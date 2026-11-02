@@ -1,0 +1,8 @@
+"Dimension","Weight percentage","Evidence required","Owner","Current evidence status","Rating 0-4 (leave blank until evaluated)","Mandatory hard-stop check"
+"HR process and policy quality","20","Approved policy owners, 4-6 week process map and taxonomy","HR service owner","NOT ASSESSED","","YES - authoritative policies and owner"
+"Data and knowledge suitability","15","Authorized up-to-date knowledge base, access and retention","Privacy + HR","NOT ASSESSED","","YES - permitted sources and purpose"
+"Identity, integration and cybersecurity","20","SSO/RBAC, allow-listed tools, connector permission and kill-switch test","IT/security","NOT ASSESSED","","YES - denial enforcement"
+"UAE law and AI governance","15","Jurisdiction analysis, data processing/legal review, impact assessment","Legal/privacy","NOT ASSESSED","","YES - legal clearance"
+"People and adoption","10","HR review staff, employee pilot cohort, escalation training","HR change lead","NOT ASSESSED","","YES - human reviewer staffed"
+"Leadership, costs and baseline","10","Sponsor, approved budget, cost assumptions and control cohort plan","HR sponsor/finance","NOT ASSESSED","","YES - sponsor and measurement"
+"Operations and evaluation","10","Monitoring, incident runbook, evaluated gold set and auditor","IT/AI governance","NOT ASSESSED","","YES - stop owner and test design"

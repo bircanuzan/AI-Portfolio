@@ -1,0 +1,5 @@
+"Use case","Volume/time score 1-5 (25%)","Agent-fit score 1-5 (20%)","Data readiness score 1-5 (15%)","Integration feasibility 1-5 (15%)","Manageable risk 1-5 (15%)","Measurable outcome 1-5 (10%)","Weighted total /100","Evidence status","Rationale"
+"HR Policy & Employee Service Request Triage Agent","5","5","4","4","4","5","91","ILLUSTRATIVE","Preferred bounded agent; verify with real HR baseline"
+"Onboarding task coordinator","4","4","3","3","3","4","71","ILLUSTRATIVE","Several integrations; more permission and handoff complexity"
+"Candidate screening/ranking","4","4","3","3","1","3","63","ILLUSTRATIVE","Significant fairness and employment-decision impact"
+"Payroll change executor","3","3","2","2","1","4","50","ILLUSTRATIVE","Sensitive irreversible financial and personal-data actions"
