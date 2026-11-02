@@ -1,0 +1,97 @@
+{
+  "name": "Synthetic Creator Campaign Draft Tasks - NO EXTERNAL ACTIONS",
+  "nodes": [
+    {
+      "parameters": {},
+      "id": "manual-start",
+      "name": "Manual Trigger",
+      "type": "n8n-nodes-base.manualTrigger",
+      "typeVersion": 1,
+      "position": [
+        240,
+        280
+      ]
+    },
+    {
+      "parameters": {
+        "mode": "runOnceForAllItems",
+        "jsCode": "return [{ json: { campaign_id: 'SYN001', client_alias: 'Example Brand', validated: true, approved: false, objective: 'Synthetic lead attribution review' } }];"
+      },
+      "id": "mock-intake",
+      "name": "Generate Synthetic Intake",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        480,
+        280
+      ]
+    },
+    {
+      "parameters": {
+        "mode": "runOnceForAllItems",
+        "jsCode": "return $input.all().map(item => { const x=item.json; const valid=typeof x.campaign_id==='string' && /^SYN[0-9]+$/.test(x.campaign_id) && x.validated===true; return {json:{...x, validation_status: valid?'valid':'rejected', execution_allowed:false}}; });"
+      },
+      "id": "validate-brief",
+      "name": "Validate Intake",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        720,
+        280
+      ]
+    },
+    {
+      "parameters": {
+        "mode": "runOnceForAllItems",
+        "jsCode": "return $input.all().map(item => ({json:{campaign_id:item.json.campaign_id, status:item.json.validation_status==='valid'?'DRAFT_AWAITING_HUMAN_APPROVAL':'REJECTED', next_owner:'Campaign Operations', draft_only:true, note:'No live CRM update or external message has been performed.'}}));"
+      },
+      "id": "draft-tasks",
+      "name": "Generate Draft Tasks Only",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        960,
+        280
+      ]
+    }
+  ],
+  "connections": {
+    "Manual Trigger": {
+      "main": [
+        [
+          {
+            "node": "Generate Synthetic Intake",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Generate Synthetic Intake": {
+      "main": [
+        [
+          {
+            "node": "Validate Intake",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Validate Intake": {
+      "main": [
+        [
+          {
+            "node": "Generate Draft Tasks Only",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {
+    "executionOrder": "v1"
+  }
+}
