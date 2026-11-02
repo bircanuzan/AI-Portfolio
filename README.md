@@ -5,7 +5,7 @@
 - **[Talent Assessment](Talent%20Assessment/)** — four assessment and evidence-led evaluation projects, including psychometric interpretation and assessment-centre methods.
 - **[Instructional Design and Talent Development](Instructional%20Design%20and%20Talent%20Development/)** — 16 learning design, learning measurement, capability development and enablement projects.
 
-**[View executed HR policy agent, Python code, 16-scenario evaluation and test evidence](Agentic%20AI%20Application%20Testing%20%26%20Evaluation%20for%20HR%20Transformation/)** — functioning offline tool-using Python HR policy agent, six synthetic HR policies, source-grounded answers, simulated human approval routing, privacy controls, 16/16 passing authored acceptance tests and 6/6 regression tests. **This is a rule-based baseline, not a live LLM or production HRIS deployment.**
+**[View executed HR policy agent, Python code, 16-scenario evaluation and test evidence](Agentic%20AI%20Application%20Testing%20%26%20Evaluation%20for%20HR%20Transformation/)** — functioning offline tool-using Python HR policy agent, six synthetic HR policies, source-grounded answers, simulated human approval routing, privacy controls, 16/16 passing authored acceptance tests and 6/6 regression tests. **Includes an OpenAI Agents SDK live-inference implementation and a manual GitHub Actions evaluator, pending API credentials; no live model run or production HRIS deployment claimed.**
 
 ## NEW — Applied JD Evidence (Creatio, MoonTech and Stellar; November 2026)
 
