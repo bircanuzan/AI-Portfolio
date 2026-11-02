@@ -1,0 +1,11 @@
+risk_id,agent_activity,risk_scenario,likelihood_1_5,impact_1_5,inherent_score,control_ids,accountable_role,current_status,evidence_expected
+R-01,Agent tool calls,Prompt injection redirects tool execution,4,5,20,C-01;C-02,AI system owner,Demo guard coded,Versioned prompt injection and tool allowlist tests
+R-02,Candidate processing,Personal data processed without lawful basis review,3,5,15,C-03,Privacy lead,Legal review needed,Documented purpose and basis assessment
+R-03,Candidate ranking,Automated screening introduces discriminatory effect,4,5,20,C-07,HR decision owner,Human escalation simulated,Fairness test and substantive reviewer record
+R-04,External candidate exports,Unapproved international data transfer,3,5,15,C-04;C-05,Privacy lead,No real export implemented,Supplier DPA and transfer assessment
+R-05,Agent sends messages,Unapproved communications to applicants,3,3,9,C-06,Recruitment operations owner,Human gate simulated,Approval log and outgoing communications review
+R-06,Policy Q&A,Outdated HR policy cited as current,4,4,16,C-08,Policy owner,Source freshness check simulated,Approved source register with version and review date
+R-07,Agent permissions,Overprivileged tools disclose sensitive records,3,5,15,C-02;C-09,Security owner,Demo allowlist only,IAM configuration and sensitive-data test
+R-08,Audit and evidence,Unverifiable decisions or missing approvals,3,4,12,C-06;C-10,AI governance lead,Local synthetic output only,Immutable access-controlled logs and audit tests
+R-09,Third-party LLM provider,Unknown model data retention or subprocessors,4,5,20,C-03;C-04,Vendor risk owner,Not assessed,Vendor security and privacy due diligence
+R-10,Incidents,Unclear incident triage and reporting thresholds,3,5,15,C-01;C-09,Incident manager,Procedure drafted,Incident drill and counsel-approved notification matrix

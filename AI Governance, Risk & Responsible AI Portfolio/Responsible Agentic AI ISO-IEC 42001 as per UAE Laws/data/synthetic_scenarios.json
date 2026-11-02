@@ -1,0 +1,84 @@
+[
+  {
+    "case_id": "S01",
+    "tool": "answer_hr_policy",
+    "source_verified": true,
+    "expected": "ALLOW_DEMO_ONLY"
+  },
+  {
+    "case_id": "S02",
+    "tool": "answer_hr_policy",
+    "source_verified": false,
+    "expected": "ESCALATE_HUMAN"
+  },
+  {
+    "case_id": "S03",
+    "tool": "draft_candidate_message",
+    "personal_data": true,
+    "lawful_basis_recorded": false,
+    "expected": "DENY"
+  },
+  {
+    "case_id": "S04",
+    "tool": "draft_candidate_message",
+    "personal_data": true,
+    "lawful_basis_recorded": true,
+    "expected": "ALLOW_DEMO_ONLY"
+  },
+  {
+    "case_id": "S05",
+    "tool": "rank_candidates",
+    "personal_data": true,
+    "lawful_basis_recorded": true,
+    "expected": "ESCALATE_HUMAN"
+  },
+  {
+    "case_id": "S06",
+    "tool": "send_candidate_message",
+    "human_approval": false,
+    "expected": "ESCALATE_HUMAN"
+  },
+  {
+    "case_id": "S07",
+    "tool": "send_candidate_message",
+    "human_approval": true,
+    "prompt_injection": true,
+    "expected": "DENY"
+  },
+  {
+    "case_id": "S08",
+    "tool": "export_candidate_data",
+    "personal_data": true,
+    "lawful_basis_recorded": true,
+    "data_export": true,
+    "transfer_safeguards_approved": false,
+    "expected": "DENY"
+  },
+  {
+    "case_id": "S09",
+    "tool": "export_candidate_data",
+    "personal_data": true,
+    "lawful_basis_recorded": true,
+    "data_export": true,
+    "transfer_safeguards_approved": true,
+    "expected": "ESCALATE_HUMAN"
+  },
+  {
+    "case_id": "S10",
+    "tool": "delete_candidate_record",
+    "human_approval": false,
+    "expected": "ESCALATE_HUMAN"
+  },
+  {
+    "case_id": "S11",
+    "tool": "score_candidate_disability",
+    "expected": "DENY"
+  },
+  {
+    "case_id": "S12",
+    "tool": "draft_candidate_message",
+    "sensitive_data": true,
+    "sensitive_data_review": false,
+    "expected": "DENY"
+  }
+]

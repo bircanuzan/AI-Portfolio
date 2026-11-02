@@ -35,7 +35,9 @@
 
 ## AI Governance, Risk & Responsible AI Portfolio
 
-**[Explore the four consolidated governance, ethics, assurance and agentic-risk projects](AI%20Governance%2C%20Risk%20%26%20Responsible%20AI%20Portfolio/)** — UAE-focused governance frameworks, risk controls, agent authority, impact assessments, testing/evaluation and policy templates. Original simulations and code are retained; no production deployment or ISO certification is claimed.
+**[Responsible Agentic AI ISO/IEC 42001 as per UAE Laws](AI%20Governance%2C%20Risk%20%26%20Responsible%20AI%20Portfolio/Responsible%20Agentic%20AI%20ISO-IEC%2042001%20as%20per%20UAE%20Laws/README.md)** — UAE law/guidance applicability matrix, 42001-inspired governance programme, control and risk registers, 12 locally verified synthetic guardrail scenarios, 9 Python regression tests and a blank authentic implementation-hours log. No certification or client deployment claimed.
+
+**[Explore the five consolidated governance, ethics, assurance and agentic-risk projects](AI%20Governance%2C%20Risk%20%26%20Responsible%20AI%20Portfolio/)** — UAE-focused governance frameworks, risk controls, agent authority, impact assessments, testing/evaluation and policy templates. Original simulations and code are retained; no production deployment or ISO certification is claimed.
 
 
 ## AI-enabled Recruitment Portfolio
