@@ -1,0 +1,80 @@
+[
+  {
+    "id": "HR-LEAVE-01",
+    "topic": "annual leave",
+    "keywords": [
+      "leave",
+      "holiday",
+      "vacation",
+      "time off"
+    ],
+    "policy": "DemoCo employees may request 25 calendar days of annual leave per year. Their manager must approve dates and HR Operations records approved leave in the HR system.",
+    "owner": "HR Operations"
+  },
+  {
+    "id": "HR-FLEX-02",
+    "topic": "remote work",
+    "keywords": [
+      "remote",
+      "work from home",
+      "wfh",
+      "hybrid",
+      "remotely"
+    ],
+    "policy": "Eligible DemoCo roles may request up to two remote-working days per week with manager approval. Requests beyond two days require HR Business Partner review.",
+    "owner": "HR Business Partner"
+  },
+  {
+    "id": "HR-EXP-03",
+    "topic": "expense reimbursement",
+    "keywords": [
+      "expense",
+      "reimburse",
+      "receipt",
+      "claim"
+    ],
+    "policy": "DemoCo expense claims require itemized receipts and submission within 30 days. Expenses above AED 500 need manager pre-approval. Missing-receipt cases require Finance review.",
+    "owner": "Finance"
+  },
+  {
+    "id": "HR-PRIV-04",
+    "topic": "employee data privacy",
+    "keywords": [
+      "salary",
+      "payroll",
+      "medical",
+      "employee record",
+      "personal data",
+      "bank details",
+      "passport",
+      "emirates id"
+    ],
+    "policy": "Individual employee records, salaries, medical information and identification data must not be disclosed through the HR assistant. Verified requests are handled only by authorized HR staff.",
+    "owner": "HR Data Privacy"
+  },
+  {
+    "id": "HR-ONB-05",
+    "topic": "onboarding",
+    "keywords": [
+      "onboard",
+      "induction",
+      "new hire",
+      "orientation",
+      "onboarding"
+    ],
+    "policy": "DemoCo onboarding includes account provisioning, manager introduction and orientation during the first five working days. HR Operations owns the onboarding checklist.",
+    "owner": "HR Operations"
+  },
+  {
+    "id": "HR-PERF-06",
+    "topic": "performance review",
+    "keywords": [
+      "performance",
+      "rating",
+      "promotion",
+      "calibration"
+    ],
+    "policy": "Performance ratings and promotion decisions remain with designated human reviewers and the HR Business Partner. The HR assistant must not issue a final personnel decision.",
+    "owner": "HR Business Partner"
+  }
+]
