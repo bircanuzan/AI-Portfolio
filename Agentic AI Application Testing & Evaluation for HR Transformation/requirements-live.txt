@@ -1,0 +1,3 @@
+# Real LLM support; install in a virtual environment with network access.
+openai-agents>=0.4,<1
+pydantic>=2,<3
