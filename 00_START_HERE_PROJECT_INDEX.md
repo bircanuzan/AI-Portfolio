@@ -7,8 +7,6 @@
 **[Explore Change Management](Change%20Management/)** — a separate HR programme change-management case covering stakeholder impacts, ADKAR-informed readiness, communications, adoption measures and executive governance. No real client deployment is claimed.
 
 
-**[Open the HumanEvoX Recruitment OS source project](HumanEvoX-Recruitment-OS/)** — Streamlit + SQLite, local PDF/DOCX/TXT extraction, explainable keyword evidence, recruiter-entered competency assessments, manual pipeline/tasks, draft-only outreach, tentative .ics interviews, CSV reports, audit/erasure, synthetic fixtures and pytest. **Core Python tests passed; Streamlit UI and live integration were not run. No live calls, no automatic hiring decisions or production SaaS claim.**
-
 # START HERE — AI, HR & Technology Portfolio
 
 ## AI Governance, Risk & Responsible AI Portfolio
