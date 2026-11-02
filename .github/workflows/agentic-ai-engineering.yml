@@ -1,0 +1,23 @@
+name: HumanEvoX Agentic AI Engineering - Python tests
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'Agentic-AI-Engineering-Enterprise-Workflow-Agent/**'
+      - '.github/workflows/agentic-ai-engineering.yml'
+  workflow_dispatch:
+jobs:
+  unit-tests:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: Agentic-AI-Engineering-Enterprise-Workflow-Agent
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install dependencies
+        run: python -m pip install -r requirements.txt
+      - name: Run deterministic tests (no LLM secrets)
+        run: python -m pytest -q
