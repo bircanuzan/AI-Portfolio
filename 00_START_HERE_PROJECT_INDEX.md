@@ -8,6 +8,11 @@ This portfolio brings together **AI-enabled HR transformation, talent intelligen
 
 [HumanEvoX website](https://humanevox.com) · [Detailed portfolio overview](PORTFOLIO_DETAILED_OVERVIEW.md)
 
+## NEW — Responsible AI Governance and Agentic AI Risk Projects (November 2026)
+
+- **[Responsible AI and AI Governance: Standards & Policies as per UAE laws and Global Standards](Responsible%20AI%20and%20AI%20Governance%3A%20Standards%20%26%20Policies%20as%20per%20UAE%20laws%20and%20Global%20Standards./README.md)** — UAE-first local ethics, self-assessment, UAE AI Charter, Dubai Blueprint/AI Seal and actual legal context; global ISO/NIST/EU/OECD/UNESCO mapping; original policy, impact assessment, control register, test plan and fictional HR case study.
+- **[Managing Risk, Security, and Ethical Considerations for Agentic AI](Managing%20Risk%2C%20Security%2C%20and%20Ethical%20Considerations%20for%20Agentic%20AI./README.md)** — five practical risk and ethics areas; agent authorization and human oversight, secure integrations, privacy, fair outcomes, monitoring and incidents; complete authority matrix, risk register, agent policy and illustrative HR agent threat tests. No real deployment/test results claimed.
+
 ## NEW — Project 53: HR-to-AI Role Map & Evidence Lab
 
 **[Open Project 53 — HR-to-AI Role Map, Career Fit & Evidence Lab](53_HR_to_AI_Role_Map_and_Evidence_Lab/)** — six AI-adjacent HR pathways (People Analytics, HR Tech, AI-in-HR, Talent Intelligence, AI Governance, AI Enablement); an offline explainable role matcher with gap/eligibility checks; optional 60-day plan; synthetic 200-employee attrition analysis; 12-case AI screening risk register; 20-question deterministic HR policy routing evaluation; four **original Claude-compatible SKILL.md templates** (not imported/tested in Claude); and interview/CV/LinkedIn/case-study templates. **Independent original work; no real applicant, client, ATS or LLM deployment claimed.**
