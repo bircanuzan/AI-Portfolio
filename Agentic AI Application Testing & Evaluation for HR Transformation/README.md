@@ -119,3 +119,12 @@ GitHub Actions successfully ran a **real, open-weight Qwen2.5 0.5B Instruct LLM*
 - **[Actual working local LLM adapter](local_open_weight_llm.py)**
 
 **Model provider and scope:** self-hosted open-weight Qwen, **not OpenAI API or Copilot**; free public synthetic demonstration, not an enterprise-grade continuously hosted agent. The OpenAI API branch is still separately prepared but requires API account credentials that ChatGPT cannot provision.
+
+
+## HumanEvoX private browser pilot — deployable web service
+
+The project now contains a private browser chat UI, authenticated FastAPI API, real-model integration hooks, offline safety tests and a repository-root optional Render deployment blueprint. The live model calls require server-side provider credentials or a persistent hosted model. **The browser service is NOT publicly deployed at a verified URL.**
+
+**[Application code](service/api.py)** · **[Browser interface](service/static/index.html)** · **[Deployment instructions and limits](service/DEPLOYMENT.md)** · **[Web-service regression tests](tests/test_service.py)** · **[Provider requirements](requirements-service.txt)**
+
+Local automated service tests: **9/9 passed** with mocked model calls. Combined Python suite: **22/22 passed**, consisting of previous agent/guardrail tests and new API tests. This does not establish that a remote service, OpenAI API or authenticated account integration is live.
