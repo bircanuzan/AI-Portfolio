@@ -107,3 +107,15 @@ An optional genuine LLM evaluation was added to avoid requiring new API keys, AP
 - **Trigger:** automatic when the file `run_local_model.trigger` is created or changed, or manually through workflow_dispatch. There are no scheduled or continuously billed model services.
 
 **Important:** The code and workflow alone are NOT proof that the model executed. The GitHub Actions job must succeed and yield real raw model drafts before describing the portfolio as 'live tested'. The existing key-based OpenAI Agents SDK implementation is a separate integration that cannot be connected to a private OpenAI API account without that account's credentials and billing authorization.
+
+
+## Verified real local LLM inference — November 2, 2026
+
+GitHub Actions successfully ran a **real, open-weight Qwen2.5 0.5B Instruct LLM** inside a temporary llama.cpp server. An OpenAI-compatible local HTTP API returned **three actual model completions** across **six** synthetic HR cases. **6/6 host-side routing outcomes passed**, but generated answer quality was mixed: the model omitted the 25-day annual-leave amount and produced unsupported onboarding details. Those drafts were recorded, never served as verified policy facts.
+
+- **[Actual captured LLM responses and timestamps](evidence/first_run_qwen_0_5b.json)**
+- **[Evaluation findings and observed defects](evidence/REAL_MODEL_FINDINGS.md)**
+- **[Current automatically generated evidence](evidence/local_llm_results.json)**
+- **[Actual working local LLM adapter](local_open_weight_llm.py)**
+
+**Model provider and scope:** self-hosted open-weight Qwen, **not OpenAI API or Copilot**; free public synthetic demonstration, not an enterprise-grade continuously hosted agent. The OpenAI API branch is still separately prepared but requires API account credentials that ChatGPT cannot provision.
