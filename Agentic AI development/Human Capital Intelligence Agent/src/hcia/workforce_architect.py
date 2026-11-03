@@ -50,8 +50,21 @@ task_schema = obj_schema({
     "accountable_human_role": {"type":"string"},
     "rationale": {"type":"string"},
 })
+role_schema = obj_schema({
+    "base_role": {"type":"string"},
+    "proposed_future_title": {"type":"string"},
+    "human_core_capabilities": {"type":"array","items":{"type":"string"}},
+    "agent_supervision_duties": {"type":"array","items":{"type":"string"}},
+})
+org_schema = obj_schema({
+    "unit": {"type":"string"},
+    "reports_to": {"type":["string","null"]},
+    "design_rationale": {"type":"string"},
+})
 BLUEPRINT_SCHEMA = obj_schema({
     "task_assignments": {"type":"array","items":task_schema},
+    "role_redesigns": {"type":"array","items":role_schema},
+    "organization_reporting_proposal": {"type":"array","items":org_schema},
     "future_org_units": {"type":"array","items":{"type":"string"}},
     "design_tradeoffs": {"type":"array","items":{"type":"string"}},
     "next_validation_steps": {"type":"array","items":{"type":"string"}},
@@ -86,6 +99,10 @@ tool observation before choosing next tools. You may change scenario parameters
 based on earlier results and revisit scenarios within the bounded budget.
 
 After you have enough evidence, call submit_blueprint EXACTLY ONCE. Include
+ a proposed role redesign for EACH candidate role and a concrete reporting
+ structure for EACH candidate organization unit. Titles, job skill emphasis,
+ reporting lines and support duties may change, but human ownership must
+ remain grounded in verified work data. Include
 every task exactly once. Retain named human accountability for every task.
 Reserved HR decisions must be HUMAN_ONLY. AI can assist standard/controlled
 tasks only as supervised hypotheses. Do not invent job IDs, task IDs or
@@ -147,9 +164,49 @@ def _validated_blueprint(case, values, observed):
         if (original_task["risk"]=="reserved_decision" or
             original_task["eligible_share"]==0) and row["allocation"]!="HUMAN_ONLY":
             raise AgentBoundaryError("Reserved employee decision incorrectly assigned to AI")
+        if original_task["risk"]=="controlled" and row["allocation"]=="AGENT_CANDIDATE":
+            raise AgentBoundaryError("Controlled task requires a human-led assistance boundary")
         if not isinstance(row["rationale"],str) or not 8 <= len(row["rationale"]) <= 700:
             raise AgentBoundaryError("Missing supported explanation")
+    base_roles = {x["role"] for x in case["job_architecture"]}
+    redesigns = values["role_redesigns"]
+    if (len(redesigns)!=len(base_roles) or not all(isinstance(x,dict) for x in redesigns) or
+        {x.get("base_role") for x in redesigns}!=base_roles):
+        raise AgentBoundaryError("Every genuine source role needs a redesign proposal")
+    for r in redesigns:
+        if set(r)!=set(role_schema["properties"]):
+            raise AgentBoundaryError("Invalid role redesign fields")
+        if not isinstance(r["proposed_future_title"],str) or not 6<=len(r["proposed_future_title"])<=100:
+            raise AgentBoundaryError("Invalid role title")
+        for k in ("human_core_capabilities","agent_supervision_duties"):
+            if not isinstance(r[k],list) or not 1<=len(r[k])<=8 or any(
+                not isinstance(v,str) or not 3<=len(v)<=140 for v in r[k]):
+                raise AgentBoundaryError("Invalid role capability or supervision evidence")
     available_org = {u["unit"] for u in case["future_structure"]}
+    links=values["organization_reporting_proposal"]
+    if (len(links)!=len(available_org) or not all(isinstance(x,dict) for x in links) or
+        {x.get("unit") for x in links}!=available_org):
+        raise AgentBoundaryError("Reporting model must cover every existing organizational unit")
+    parents={}
+    for link in links:
+        if set(link)!=set(org_schema["properties"]):
+            raise AgentBoundaryError("Invalid organization reporting schema")
+        unit=link["unit"]; parent=link["reports_to"]
+        if parent is not None and (parent not in available_org or parent==unit):
+            raise AgentBoundaryError("Orphan or self-reporting organization unit")
+        if not isinstance(link["design_rationale"],str) or not 8<=len(link["design_rationale"])<=500:
+            raise AgentBoundaryError("Missing organization design rationale")
+        parents[unit]=parent
+    if sum(v is None for v in parents.values()) != 1:
+        raise AgentBoundaryError("Future organization requires one accountable top-level unit")
+    for unit in parents:
+        seen_units=set()
+        current=unit
+        while current is not None:
+            if current in seen_units:
+                raise AgentBoundaryError("Circular organizational reporting design")
+            seen_units.add(current)
+            current=parents[current]
     if len(values["future_org_units"]) != len(set(values["future_org_units"])):
         raise AgentBoundaryError("Duplicate organization unit")
     if not values["future_org_units"] or not set(values["future_org_units"]).issubset(available_org):
@@ -161,6 +218,8 @@ def _validated_blueprint(case, values, observed):
     return {
         "status":"DRAFT_ONLY_HUMAN_REVIEW_REQUIRED",
         "task_assignments":assignments,
+        "role_redesigns":redesigns,
+        "organization_reporting_proposal":links,
         "future_org_units":values["future_org_units"],
         "design_tradeoffs_model_proposals_not_verified_facts":values["design_tradeoffs"],
         "next_validation_steps":values["next_validation_steps"],
@@ -231,7 +290,7 @@ def run_agent(goal, client, model="gpt-4.1-mini", mode="LIVE_MODEL_TOOL_CALLS",
     for turn in range(max_rounds):
         response=client.responses.create(
             model=model,input=inputs,instructions=PROMPT,tools=TOOLS,
-            tool_choice="auto",max_output_tokens=1600,store=False)
+            tool_choice="required",max_output_tokens=1600,store=False)
         output=list(_get(response,"output",[]) or [])
         proposals=[o for o in output if _get(o,"type")=="function_call"]
         # Responses API requires feeding back the assistant's tool-call items.
@@ -274,7 +333,19 @@ class ScriptedResponsesClient:
                 "task_id":task["id"],"allocation":allocation,
                 "accountable_human_role":task["future_role"],
                 "rationale":"Illustrative, supervised design with accountable human controls"})
+        role_redesigns=[{
+            "base_role":r["role"],
+            "proposed_future_title":r["role"],
+            "human_core_capabilities":["Business and employee judgment","AI output oversight"],
+            "agent_supervision_duties":["Review and escalate exceptions before any action"],
+        } for r in case["job_architecture"]]
+        organization_reporting_proposal=[{
+            "unit":u["unit"],"reports_to":u["reports_to"],
+            "design_rationale":"Fictional reporting relationship retained pending CHRO review."
+        } for u in case["future_structure"]]
         final={"task_assignments":assignments,
+               "role_redesigns":role_redesigns,
+               "organization_reporting_proposal":organization_reporting_proposal,
                "future_org_units":[x["unit"] for x in case["future_structure"]],
                "design_tradeoffs":["Prototype does not demonstrate validated productivity or automated judgment."],
                "next_validation_steps":["Independent real model evaluation with authorization, safety and employee impact checks."]}

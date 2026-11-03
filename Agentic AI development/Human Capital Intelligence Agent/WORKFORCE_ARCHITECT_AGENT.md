@@ -29,13 +29,13 @@ Integrated into the existing **Human Capital Intelligence Agent** project, not a
         ├── compare_scenarios [alternative assumptions]
         ├── inspect_future_organization [8 roles / 7 org units]
         ├── review_governance [human-only approvals]
-        └── submit_blueprint [strict task/role/approval gate]
+        └── submit_blueprint [strict task/role/reporting/approval gate]
         ↓
     Function outputs are returned to the model → next decision
         ↓
     Draft design, **never an approved workforce change**
 
-The model can select a tool and scenario multiplier dynamically, then reason over tool feedback. The code verifies that all activities are accounted for and no sensitive employment decisions are given to AI. Final output is a structured human-reviewable draft with an auditable call trace, not an HRIS write.
+The model can select a tool and scenario multiplier dynamically, redesign all eight human roles and propose new reporting relationships between seven known organization units, then reason over tool feedback. Organizational reporting cycles and unidentified roles are rejected. The code verifies that all activities are accounted for and no sensitive employment decisions are given to AI. Final output is a structured human-reviewable draft with an auditable call trace, not an HRIS write.
 
 ## Run the **offline model-protocol stub** (no model inference)
 

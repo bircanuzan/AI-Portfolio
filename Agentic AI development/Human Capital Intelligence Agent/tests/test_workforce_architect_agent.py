@@ -44,6 +44,46 @@ class WorkforceArchitectTests(unittest.TestCase):
             _validated_blueprint(case,bad,{"inspect_work","simulate_capacity","compare_scenarios",
                                          "inspect_future_organization","review_governance"})
 
+    def test_eight_future_roles_are_really_redesigned(self):
+        case=load_design()
+        x=run_agent(GOAL,ScriptedResponsesClient(),case=case).blueprint
+        self.assertEqual({r["base_role"] for r in x["role_redesigns"]},
+                         {r["role"] for r in case["job_architecture"]})
+        self.assertEqual(len(x["organization_reporting_proposal"]),len(case["future_structure"]))
+
+    def test_unverified_role_rejected(self):
+        case=load_design()
+        good=run_agent(GOAL,ScriptedResponsesClient(),case=case).blueprint
+        bad={k:v for k,v in good.items() if k in BLUEPRINT_SCHEMA["properties"]}
+        bad["role_redesigns"]=[dict(x) for x in bad["role_redesigns"]]
+        bad["role_redesigns"][0]["base_role"]="Made Up Role"
+        with self.assertRaises(AgentBoundaryError):
+            _validated_blueprint(case,bad,{"inspect_work","simulate_capacity","compare_scenarios",
+                                          "inspect_future_organization","review_governance"})
+
+    def test_cycle_in_future_reporting_blocked(self):
+        case=load_design()
+        good=run_agent(GOAL,ScriptedResponsesClient(),case=case).blueprint
+        bad={k:v for k,v in good.items() if k in BLUEPRINT_SCHEMA["properties"]}
+        bad["organization_reporting_proposal"]=[dict(x) for x in bad["organization_reporting_proposal"]]
+        units=bad["organization_reporting_proposal"]
+        units[0]["reports_to"]=units[1]["unit"]
+        units[1]["reports_to"]=units[0]["unit"]
+        with self.assertRaises(AgentBoundaryError):
+            _validated_blueprint(case,bad,{"inspect_work","simulate_capacity","compare_scenarios",
+                                          "inspect_future_organization","review_governance"})
+
+    def test_sensitive_controlled_not_auto_agent(self):
+        case=load_design()
+        good=run_agent(GOAL,ScriptedResponsesClient(),case=case).blueprint
+        bad={k:v for k,v in good.items() if k in BLUEPRINT_SCHEMA["properties"]}
+        bad["task_assignments"]=[dict(x) for x in bad["task_assignments"]]
+        controlled=next(x for x in bad["task_assignments"] if x["task_id"]=="A3")
+        controlled["allocation"]="AGENT_CANDIDATE"
+        with self.assertRaises(AgentBoundaryError):
+            _validated_blueprint(case,bad,{"inspect_work","simulate_capacity","compare_scenarios",
+                                          "inspect_future_organization","review_governance"})
+
     def test_invented_org_rejected(self):
         case=load_design()
         good=run_agent(GOAL,ScriptedResponsesClient(),case=case).blueprint

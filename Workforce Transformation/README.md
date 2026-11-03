@@ -63,3 +63,8 @@ Check GitHub Actions for the current run result; **code presence is not proof of
 HumanEvoX produced **original independent synthetic** solution designs, Python demonstrators and tests. It did not implement systems for G42, ADNOC, MOHRE, e&, Bukhatir or reAImagination; it has no verified enterprise pilot, actual cloud/HRIS/LLM connection, independently measured ROI or production authorization. Leaders' research themes are attributed; platform capabilities or announced initiatives must not be attributed to a specific leader as personal coding work.
 
 **CV-safe language:** Designed a fictional human–AI workforce architecture case with organization and work design, digital worker governance, multi-year workforce and skill scenario models, enterprise product requirements, and task-level workforce economics, supported by Python code, synthetic inputs and tests.
+
+
+## Agentic engineering link (distinct from workforce analytics)
+
+[Human–AI Workforce Design Architect — Native LLM Tool-Calling Runtime](../Agentic%20AI%20development/Human%20Capital%20Intelligence%20Agent/WORKFORCE_ARCHITECT_AGENT.md) extends the existing Human Capital Intelligence Agent with a Responses API tool-use loop, role architecture redesign, task assignments, reporting graph validation, human governance and synthetic execution tests. **The scripted CI model is not a real LLM demonstration; live mode requires an operator-supplied API key and separate verification.**
