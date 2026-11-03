@@ -4,6 +4,19 @@
 **Agent version:** 0.2.0 (synthetic engineering prototype) | **Role requirements reference:** G42 Human Capital Intelligence Agent (AI Agents Only)  
 **Status: runnable read-only agent and API prototype using fictional aggregate data. NOT production deployed, NOT G42-qualified, NOT submitted.**
 
+## Working agent-runtime developer demonstration (separate from analytics slide demo)
+
+**[Watch the executed agent tool trace (MP4)](demo/Agent_Runtime_Executed_Tool_Trace.mp4)** · **[Inspect the exact Python execution trace (JSON)](demo/Agent_Runtime_Execution_Trace.json)** · **[Review architecture and reproducibility](docs/DEVELOPER_AGENT_RUNTIME.md)**
+
+This new developer demo executes the actual `HumanCapitalAgent` in `src/hcia/agent_runtime.py` and documents its **observation-dependent action selection**, real Python tool invocations, scenario recalculation, human-only decision gates and rejection of unsafe employment-action requests. The captioned video is a **replay of executed logs** rather than the earlier animated analytics presentation. Verification: 76 passing automated tests in [GitHub Actions](https://github.com/bircanuzan/AI-in-HR-Portfolio/actions/runs/41678692510).
+
+**Scope of proof:** actual deterministic offline **test policy**, **not** a live LLM / production agent. An optional HTTPS model action selector has been implemented but **not configured or live-tested**.
+
+```bash
+python -m scripts.demo_agent_runtime
+python -m unittest discover -s tests -v
+```
+
 ## What this agent does
 This is a **bounded, auditable multi-tool Human Capital intelligence service** that executes specialised analytic actions and assembles an executive brief, with access controls and audit trail, without letting an LLM approve HR decisions or invoke arbitrary tools.
 
