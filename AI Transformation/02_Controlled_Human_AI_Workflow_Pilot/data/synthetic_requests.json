@@ -1,0 +1,7 @@
+[
+  {"case_id":"LAB-001","actor_role":"employee","classification":"public","source_approved":true,"action":"draft_answer"},
+  {"case_id":"LAB-002","actor_role":"employee","classification":"restricted","source_approved":true,"action":"draft_answer"},
+  {"case_id":"LAB-003","actor_role":"hr","classification":"restricted","source_approved":false,"action":"draft_answer"},
+  {"case_id":"LAB-004","actor_role":"hr","classification":"internal","source_approved":true,"action":"propose_case_update"},
+  {"case_id":"LAB-005","actor_role":"hr","classification":"internal","source_approved":true,"action":"publish_external"}
+]

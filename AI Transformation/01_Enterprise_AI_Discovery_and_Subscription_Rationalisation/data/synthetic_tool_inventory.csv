@@ -1,0 +1,6 @@
+tool_id,department,product_family,paid_seats,active_seats,monthly_cost_per_seat_usd,sensitive_data_approved,security_owner_present,months_until_renewal,critical_workflow
+AI-ASSIST-A,HR,general_assistant,20,7,26,false,true,4,false
+AI-ASSIST-B,Operations,general_assistant,28,19,30,true,true,7,true
+AI-ASSIST-C,Marketing,general_assistant,15,5,20,false,false,2,false
+KNOWLEDGE-A,Operations,knowledge_assistant,12,10,35,true,true,8,true
+AUTOMATION-A,Finance,workflow_automation,8,7,22,true,true,6,true

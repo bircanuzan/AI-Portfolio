@@ -1,3 +1,8 @@
+## Workforce Transformation and AI Transformation — practical HumanEvoX case labs
+
+- [Workforce Transformation](Workforce%20Transformation/): synthetic workforce demand, task/capacity and headcount analysis; human/AI role redesign, skills and redeployment; governed transition. Includes a Python capacity model and tests.
+- [AI Transformation](AI%20Transformation/): synthetic enterprise AI tool-spend discovery; controlled Python permission/approval workflow; cross-functional adoption and value assurance. No live LLM, external tenant or client deployment claimed.
+
 ## Oracle Solution Architecture
 
 **[Explore the Oracle Solution Architecture portfolio](Oracle%20Solution%20Architecture/)** — new fictional six-subsidiary Oracle HCM-to-Finance business architecture case with discovery and requirements, logical Fusion HCM/ERP/OIC/OCI options, integration/data contracts, security and AI governance, phased delivery/UAT, plus a local synthetic Python staging validator. Independent design only; no production Oracle deployment or live Oracle tenant claimed.

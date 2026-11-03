@@ -1,0 +1,10 @@
+domain,kpi,definition,baseline,release_criterion,decision_owner,limit
+Business,Cost-to-serve,Total verified costs per equivalent unit of completed service,To measure,Finance-validated sustained benefit,Finance,Time saved is not necessarily cash savings
+Quality,Reviewed factual correctness,Correct grounded output in independently reviewed cases,To measure,Pre-agreed risk-based quality threshold,Process Owner,Acceptance by user is not accuracy proof
+Safety,Critical permission incidents,Confirmed unauthorized information exposure,To measure,Zero critical exposure,Data/Security Owner,Pause rollout on incident
+Efficiency,End-to-end case time,Elapsed user time including AI and human review,To measure,Improvement on matched case mix,Operations Manager,Avoid cherry-picked simple cases
+Efficiency,Human review workload,Minutes spent checking assisted cases,To measure,Within reviewer capacity,Operations Manager,Includes rework and exception load
+Technology,Supported workflow completion,Completed authorized flows divided by started flows,To measure,Target after reliability UAT,IT Owner,Unsupported connectors cannot be assumed
+People,Role clarity,Anonymous survey clarity on task and escalation owner,To measure,Improvement after training,HR Transformation,Sample size and privacy threshold
+People,Effective adoption,Trained users completing approved task successfully,To measure,Target depends on process outcomes,Change Lead,Do not equate login with effective adoption
+Governance,Source traceability,Audited outputs with valid approved source,To measure,Required where source-grounding matters,Knowledge Owner,Citations can themselves be inaccurate
