@@ -18,9 +18,9 @@ jobs:
         with:
           python-version: '3.11'
       - name: Prepare image renderer
-        run: python -m pip install 'Pillow>=10,<13'
+        run: python -m pip install 'Pillow>=10,<13' 'imageio-ffmpeg>=0.5,<1'
       - name: Verify ffmpeg available
-        run: ffmpeg -version | head -n 1
+        run: python -c 'import imageio_ffmpeg; print(imageio_ffmpeg.get_ffmpeg_exe())'
       - name: Render actual synthetic agent outputs into a labelled MP4
         working-directory: Agentic AI development/Human Capital Intelligence Agent
         run: python scripts/render_demo.py

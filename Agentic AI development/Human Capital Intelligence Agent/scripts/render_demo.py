@@ -8,6 +8,7 @@ from __future__ import annotations
 import json
 import subprocess
 import sys
+import imageio_ffmpeg
 from pathlib import Path
 from PIL import Image,ImageDraw,ImageFont
 
@@ -108,7 +109,7 @@ listing.write_text("\n".join(
     [s for p in paths for s in ("file '"+str(p)+"'","duration 3.5")]
     +["file '"+str(paths[-1])+"'"])+"\n",encoding="utf-8")
 video=OUT/"human_capital_intelligence_agent_synthetic_demo.mp4"
-subprocess.run(["ffmpeg","-hide_banner","-loglevel","error","-y",
+subprocess.run([imageio_ffmpeg.get_ffmpeg_exe(),"-hide_banner","-loglevel","error","-y",
                 "-f","concat","-safe","0","-i",str(listing),
                 "-vf","fps=20,format=yuv420p","-c:v","libx264",
                 "-movflags","+faststart",str(video)],check=True)
