@@ -1,0 +1,14 @@
+{
+ "model_status":"SYNTHETIC_NONPRODUCTION",
+ "legal_employers":[{"code":"LE_UAE1","country":"AE"},{"code":"LE_UAE2","country":"AE"}],
+ "business_units":[{"code":"BU_DXB","legal_employer":"LE_UAE1","set":"SET_DXB"},{"code":"BU_ABD","legal_employer":"LE_UAE2","set":"SET_ABD"}],
+ "departments":[{"code":"DEP_DXB","business_unit":"BU_DXB","set":"SET_DXB"},{"code":"DEP_ABD","business_unit":"BU_ABD","set":"SET_ABD"}],
+ "jobs":[{"code":"JOB_ANALYST","set":"COMMON"},{"code":"JOB_MANAGER","set":"COMMON"}],
+ "grades":[{"code":"G07","set":"COMMON"},{"code":"G09","set":"COMMON"}],
+ "locations":[{"code":"DXB_HQ","set":"COMMON"},{"code":"ABD_HQ","set":"COMMON"}],
+ "positions":[
+ {"code":"POS_DXB","business_unit":"BU_DXB","department":"DEP_DXB","job":"JOB_ANALYST","grade":"G07","location":"DXB_HQ","fte":1,"effective_start":"2026-11-01"},
+ {"code":"POS_ABD","business_unit":"BU_ABD","department":"DEP_ABD","job":"JOB_MANAGER","grade":"G09","location":"ABD_HQ","fte":1,"effective_start":"2026-11-01"}
+ ],
+ "changes":[{"code":"C001","position":"POS_DXB","maker":"HR_ANALYST","approver":"HR_MANAGER"}]
+}

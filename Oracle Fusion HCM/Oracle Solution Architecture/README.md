@@ -31,13 +31,17 @@ flowchart LR
  F --> G
 ```
 
+## Architectural decision evidence
+[HCM-to-Finance architectural decisions, failure controls and reconciliation](05_Finance_Integration_Architecture_Decisions.md) — deliberately distinct from HCM workforce configuration and HDL ingestion mechanics.
+
 ## Portfolio deliverables
 
 1. [Business case and requirements](01_Business_Case_and_Requirements.md) - stakeholder discovery, business capability map, architecture decisions, functional / non-functional requirements, benefit hypotheses.
 2. [Target architecture and integration](02_Target_Architecture_Integration_and_Data.md) - component boundaries, source of truth, logical flows, data contracts, migration and analytics.
 3. [Security, AI and governance](03_Security_AI_and_Governance.md) - segregation of duties, privacy-by-design, risk register, human approval gates, audit evidence.
 4. [90-day delivery roadmap and UAT](04_Delivery_Roadmap_and_UAT.md) - phases, dependencies, RACI/RAID, acceptance criteria and vendor coordination.
-5. [Validation lab](src/validate_changes.py) - pure-Python synthetic event validation with [unit tests](tests/test_validation.py), no external services.
+5. [Enterprise architecture decisions](05_Finance_Integration_Architecture_Decisions.md) - Finance ownership, error recovery and control totals.
+6. [Validation lab](src/validate_changes.py) - pure-Python synthetic event validation with [unit tests](tests/test_validation.py), no external services.
 
 ## Role coverage
 
@@ -54,6 +58,6 @@ flowchart LR
 
 **Not represented:** Installed/configured Oracle HCM or ERP, OCI or OIC credentials, end-to-end tested Oracle integration, actual cost savings, client approvals, production security assessment, SLA guarantees.
 
-See the separate existing [Oracle Fusion HCM category](../Oracle%20Fusion%20HCM/README.md) for HCM-specific release/governance samples.
+See the separate existing [Oracle Fusion HCM category](../../README.md) for HCM-specific release/governance samples.
 
 [Return to portfolio home](../README.md)

@@ -29,4 +29,4 @@ The following is a **custom synthetic adapter input**, not an Oracle REST, HDL, 
 7. Obtain HRIS, HR Ops, Security and downstream consumer sign-off before deployment.
 
 ## Build/test evidence
-The [offline adapter lab](../04_HRIS_HCM_Integration_Solution_Engineering_Lab/README.md) implements this schema with standard-library Python and synthetic data. It does not authenticate to Oracle or invoke any vendor API.
+The [offline adapter lab](../../HRIS%20%26%20HCM%20Systems/04_HRIS_HCM_Integration_Solution_Engineering_Lab/README.md) implements this schema with standard-library Python and synthetic data. It does not authenticate to Oracle or invoke any vendor API.

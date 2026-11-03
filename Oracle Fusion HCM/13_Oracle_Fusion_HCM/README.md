@@ -6,6 +6,10 @@ Practical, illustrative portfolio case studies aligned with enterprise HCM portf
 
 ## Projects
 
+### New hands-on learning evidence (synthetic only)
+[Functional workforce configuration workbench](FUNCTIONAL_CONFIGURATION_WORKBENCH.md) — Oracle-aligned legal employer, BU, reference set, job, grade, location and position setup model; [Python validator and tests](configuration_lab/); [nonproduction acceptance plan](CONFIGURATION_ACCEPTANCE_AND_EVIDENCE.md). This does **not** assert Oracle tenant configuration.
+
+
 - **Project 13 — Oracle Fusion HCM Portfolio Roadmap & Governance:** [Open PDF](13_Oracle_Fusion_HCM_Portfolio_Roadmap_Governance.pdf)
 - **Project 14 — Oracle Fusion HCM Release Management, UAT & Go-Live Governance:** [Open full case study and sample templates](14_Release_UAT_Go_Live_Governance/)
 
