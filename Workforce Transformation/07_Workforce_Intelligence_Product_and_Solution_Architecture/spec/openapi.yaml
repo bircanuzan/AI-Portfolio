@@ -1,0 +1,42 @@
+openapi: 3.0.3
+info:
+  title: Workforce Intelligence Intake — Design Contract Only
+  version: "0.1.0"
+  description: Proposed read-only use-case triage. No server is deployed.
+paths:
+  /v1/use-cases/triage:
+    post:
+      summary: Validate a synthetic use case and return a discussion-only backlog decision
+      description: No workforce or financial action is taken.
+      operationId: triageUseCase
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required: [id, title, business_owner, value, readiness, effort, risk]
+              properties:
+                id: { type: string }
+                title: { type: string }
+                business_owner: { type: string }
+                value: { type: integer, minimum: 1, maximum: 5 }
+                readiness: { type: integer, minimum: 1, maximum: 5 }
+                effort: { type: integer, minimum: 1, maximum: 5 }
+                risk: { type: string, enum: [low, medium, high] }
+      responses:
+        "200":
+          description: Discussion-only triage with mandatory human review
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  id: { type: string }
+                  decision: { type: string, enum: [DISCUSS, HOLD] }
+                  reason: { type: string }
+                  score: { type: integer, nullable: true }
+                  human_approval_required: { type: boolean }
+                  action_executed: { type: boolean, enum: [false] }
+        "400":
+          description: Invalid or incomplete request

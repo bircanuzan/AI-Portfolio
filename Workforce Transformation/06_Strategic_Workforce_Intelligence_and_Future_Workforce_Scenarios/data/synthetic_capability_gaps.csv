@@ -1,0 +1,8 @@
+capability,required_proficiency,current_aggregate_proficiency,priority_weight,role_group
+Agent_supervision,4,2,5,HR_Service
+Workflow_design,4,3,4,HR_Service
+Evidence_based_assessment,5,4,4,Recruitment_Ops
+Human_judgment,5,4,5,Recruitment_Ops
+Data_literacy,4,2,5,Customer_Ops
+Accessibility_and_empathy,5,4,5,Customer_Ops
+Privacy_and_AI_risk,5,3,5,All_Functions

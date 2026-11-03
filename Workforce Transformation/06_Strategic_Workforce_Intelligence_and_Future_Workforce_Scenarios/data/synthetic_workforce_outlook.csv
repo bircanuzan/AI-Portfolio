@@ -1,0 +1,10 @@
+year,function,monthly_cases,minutes_per_case,assistable_share,minutes_saved_per_assisted_case,review_minutes_per_assisted_case,productive_hours_per_fte,available_fte
+2027,HR_Service,1600,22,0.35,9,3,125,4
+2028,HR_Service,1750,22,0.40,9,3,125,4
+2029,HR_Service,1900,23,0.42,9,4,125,4
+2027,Recruitment_Ops,900,35,0.25,12,5,125,5
+2028,Recruitment_Ops,990,35,0.30,12,5,125,5
+2029,Recruitment_Ops,1080,36,0.32,13,5,125,5
+2027,Customer_Ops,2500,16,0.40,6,2,125,6
+2028,Customer_Ops,2800,16,0.45,6,2,125,6
+2029,Customer_Ops,3100,17,0.48,6,3,125,6

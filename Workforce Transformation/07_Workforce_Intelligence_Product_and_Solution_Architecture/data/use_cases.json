@@ -1,0 +1,6 @@
+[
+  {"id":"UC-01","title":"General HR policy knowledge assistant","business_owner":"HR Service","value":4,"readiness":4,"effort":2,"risk":"low","impact_on_employment":false},
+  {"id":"UC-02","title":"Aggregate skills coverage insight","business_owner":"Talent Development","value":5,"readiness":3,"effort":3,"risk":"medium","impact_on_employment":false},
+  {"id":"UC-03","title":"AI-approved candidate rejections","business_owner":"Recruitment","value":5,"readiness":4,"effort":3,"risk":"high","impact_on_employment":true},
+  {"id":"UC-04","title":"Workforce change scenario comparison","business_owner":"Workforce Planning","value":4,"readiness":2,"effort":4,"risk":"medium","impact_on_employment":false}
+]
