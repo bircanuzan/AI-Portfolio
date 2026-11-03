@@ -1,6 +1,6 @@
 # Watch the Agent Work — authentic demonstration recording plan
 
-**Video status:** [A 28-second labelled synthetic MP4 was generated from actual local Python execution in GitHub Actions](https://github.com/bircanuzan/AI-in-HR-Portfolio/actions/runs/41660801024) on 3 November 2026. Open that run’s Artifacts section and select hcia-watch-the-agent-work-synthetic-video. This is a programmatically produced demo, **not footage of an enterprise deployment**. The steps below are a script for an additional genuine workflow recording.
+**Video status:** [Labelled synthetic MP4 permanently committed to the GitHub project](https://github.com/bircanuzan/AI-in-HR-Portfolio/blob/main/Agentic%20AI%20development/Human%20Capital%20Intelligence%20Agent/demo/Human_Capital_Intelligence_Agent_Synthetic_Demo.mp4), generated from actual local Python execution. This is a programmatically produced demonstration, **not footage of an enterprise deployment**. The script below outlines a separate authentic runtime recording.
 
 ## Recording outline (2–4 minutes)
 **Scene 1 — identity and version (15s):** show repo commit, agent version and read-only scope; explain all data are fictional.

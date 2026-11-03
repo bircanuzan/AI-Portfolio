@@ -14,9 +14,9 @@
 - Executive Brief — orchestrates the six allowlisted tools and returns provenance, warnings and human-review requirements.
 
 ## Agent architecture
-- **Compute:** Python 3.11, bounded deterministic tool planner and analytics functions.
+- **Compute:** Python 3.11, deterministic and optional LLM-proposed goal-based read-only tool plans with strict allowlists and independently enforced role/entity boundaries.
 - **Service:** guarded FastAPI HTTP endpoint; JSON schema validation; entity/role scoping.
-- **Language model:** not required for tool execution. Optional operator-supplied OpenAI-compatible/sovereign model for *narrative-only* summarisation; no model run evidenced.
+- **Language model:** not required for local tool execution. Optional operator-supplied OpenAI-compatible/sovereign model can propose 1–3 allowlisted tools or summarise aggregates, but cannot execute tools or take HR actions. No live model run evidenced.
 - **Persistence:** local SQLite HMAC-chained *demo* audit events, without storing queries, identity details or salary rows.
 - **Inputs:** fictional aggregate JSON for local operation; separate HTTPS read-only mock-tested integration adapter.
 - **Execution rights:** read-only analytics; no payroll/HRIS write capability; no personnel decisions, no self-authorisation.
@@ -34,7 +34,7 @@
 See evaluation plan and executed CI/test artifacts when available. Tests evaluate synthetic fixtures; benchmark timing measures **in-process Python execution only**. No measured HR productivity/time saving, external LLM reliability, production SLA, G42 trial or bias evaluation across real employee groups has occurred.
 
 ## Deployment and references
-**Production deployments:** none claimed. **Client organisations:** none claimed. **Enterprise integrations:** mock-tested contract only. **Testimonials:** none supplied. **Video demo:** [CI-generated 28-second synthetic MP4](https://github.com/bircanuzan/AI-in-HR-Portfolio/actions/runs/41660801024), built from actual offline code outputs; not a genuine enterprise production screencast.
+**Production deployments:** none claimed. **Client organisations:** none claimed. **Enterprise integrations:** mock-tested contract only. **Testimonials:** none supplied. **Video demo:** [Synthetic MP4 hosted in the project GitHub folder](https://github.com/bircanuzan/AI-in-HR-Portfolio/blob/main/Agentic%20AI%20development/Human%20Capital%20Intelligence%20Agent/demo/Human_Capital_Intelligence_Agent_Synthetic_Demo.mp4), built from actual local code outputs; not a production deployment recording.
 
 ## Known failure modes
 Unreconciled/missing HRIS data; nonrepresentative hiring and employer-brand samples; small pay cohorts; inconsistent aggregate definitions; role/identity misuse; audit database outage; external model latency or invented summary; unsafe HR impact extrapolation. Mitigations: validation, provenance, suppression, fail-closed access, human approval, explicit model fallback and real deployment gates.

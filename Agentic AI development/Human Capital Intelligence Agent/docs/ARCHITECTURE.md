@@ -18,12 +18,12 @@ flowchart TD
 ```
 
 ## System details
-- Current API: GET /health, POST /v1/agent/run, GET /v1/audit/verify.
-- Run contract: capability enum + entity enum + optional llm_summary Boolean. All extra JSON keys are rejected. User free-text is not passed to a tool planner.
+- Current API: GET /health, POST /v1/agent/run, POST /v1/agent/orchestrate and GET /v1/audit/verify.
+- Direct run contract: capability enum + entity enum + optional llm_summary Boolean. Bounded orchestration contract: a 3–300 character goal, entity enum and optional model-planning flag. This purpose-limited endpoint rejects potentially identifying or state-changing instructions; its simple guard is NOT comprehensive enterprise DLP. Only a scoped people-leader may call the orchestrator. Unexpected JSON fields are rejected.
 - Six domain tools are deterministic Python functions, with an optional seventh composite planner (executive_brief). Tool outputs have source/section, assumptions, flags, human review and explicit zero write actions.
 - RBAC: development-only bearer token registry, with role and legal-entity scope. Enterprise Azure Entra ID/other signed OIDC token verification is *required but not implemented*.
 - Audit: HMAC-chained records in SQLite; HMAC key from environment. For production use cloud audit service with immutable retention, secret rotation and independent assurance.
-- Sovereign model: OpenAI-compatible HTTPS chat completions adapter on an operator-allowlisted host; optional, narration only, no tools and no authorisation. Not configured or verified with G42.
+- Sovereign model: OpenAI-compatible HTTPS chat completions adapter on an operator-allowlisted host; optional model-generated narrative **or JSON proposed tool plan**. A separately enforced allowlist and role/entity gate control all local execution. No direct model tool calling. Not configured or verified with G42.
 - Integrations: allowlisted read-only HTTPS aggregate snapshot adapter with external system owner credentials; mocked in tests. No enterprise integration performed.
 - Container: generic Python image and non-root process; suitable as initial baseline for Docker/Kubernetes evaluation, **not a hardened or deployed production image**.
 

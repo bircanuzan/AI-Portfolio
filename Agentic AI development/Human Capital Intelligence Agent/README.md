@@ -16,6 +16,7 @@ This is a **bounded, auditable multi-tool Human Capital intelligence service** t
 | Total Rewards | total_rewards | Minimum-cohort aggregate grade ratios to **invented** comparator data |
 | Organisation & Workforce Intelligence | workforce_intelligence | Position control, vacancies, contingent workforce, annual people budget/cost |
 | Executive coordination | executive_brief | **Six-tool orchestration** with provenance, human-review flags and no side effects |
+| Goal-based read-only orchestration | bounded planner | Offline goal-to-tool routing and optional LLM-proposed, validated 1–3 tool plans; no HR actions |
 
 **Demonstration company:** Cedar Gulf Enterprise (invented); 3 entities, 102 approved seats, 89 occupied seats, 13 vacancies and 18 contingent workers. All workforce and pay data are fictional aggregates. No names, IDs or other individual records are included.
 
@@ -27,7 +28,7 @@ This is a **bounded, auditable multi-tool Human Capital intelligence service** t
 - [Integration contract](docs/INTEGRATION_SPEC.md) — read-only mock-tested HTTPS adapter for HRIS, ATS, payroll, talent and workforce systems.
 - [Production requirements](docs/PRODUCTION_READINESS.md) — explicit blockers to G42 eligibility and a staging/probation plan.
 - [Evaluation](docs/EVALUATION_AND_METRICS.md) and [verified execution evidence](evidence/EXECUTION_EVIDENCE.md) — 35 tests, 12/12 numeric scenarios and local latency figures.
-- [Watch the Agent Work — synthetic video](https://github.com/bircanuzan/AI-in-HR-Portfolio/actions/runs/41660801024) — CI-generated MP4 from actual local execution, downloadable in the run’s Artifacts section. **Not a production screencast.** [Recording script](docs/WATCH_THE_AGENT_WORK.md).
+- [Watch the Agent Work — committed MP4](https://github.com/bircanuzan/AI-in-HR-Portfolio/blob/main/Agentic%20AI%20development/Human%20Capital%20Intelligence%20Agent/demo/Human_Capital_Intelligence_Agent_Synthetic_Demo.mp4) — generated from actual execution on fictional data, saved in this GitHub folder. **Not a production screencast.** [Recording plan](docs/WATCH_THE_AGENT_WORK.md).
 - [Submission evidence checklist](docs/SUBMISSION_CHECKLIST.md) and [version history](docs/VERSION_HISTORY.md).
 - [Code](src/hcia/) and [tests](tests/); [benchmark script](scripts/benchmark.py).
 
@@ -52,8 +53,12 @@ Example request, with your configured token:
 
 The API refuses unauthenticated calls, wrong roles and entities, unexpected JSON fields, unsupported tools and operation without audit storage. It never modifies an employer system.
 
+## Goal-directed agent planning
+
+The authenticated API also exposes POST `/v1/agent/orchestrate` for an authorised people leader. A safe aggregate question such as `Review recruiting and headcount` selects the Talent Acquisition and Workforce Intelligence tools, executes them locally and returns a source-grounded plan and audit reference. Unsafe, identifying and state-changing prompts are refused. See `src/hcia/planner.py` and `tests/test_orchestrator_api.py`.
+
 ## Model integration
-The domain tools **work without an LLM**. An optional summariser supports an operator-approved OpenAI-compatible HTTPS chat-completions endpoint, which can be placed behind an authorised sovereign model gateway. Only aggregate synthetic results are sent in this demo. Configure endpoint, allowlisted hostname, model and credential via environment variables; no credentials or G42 endpoint supplied and **no live sovereign model invocation performed**. Model text is not authoritative, cannot decide HR outcomes or execute tools.
+The analytics engine runs offline without an LLM. An optional operator-approved OpenAI-compatible/sovereign HTTPS endpoint may propose a strictly allowlisted **1–3 step tool plan** and/or summarise synthetic aggregate results. The model never executes a tool directly, cannot edit computed numbers or approve HR outcomes, and outputs require independent validation. No G42 sovereign endpoint or live model inference has been used in this demonstration.
 
 ## Important distinction
 The job posting explicitly rejects prototypes and demands **enterprise production references, empirical benchmarks, security review, demonstration video and controlled probation**. This repository provides the first technical foundation and reproducible **local** evidence, not those qualifications. It would be misleading to submit this as a deployed agent today.
