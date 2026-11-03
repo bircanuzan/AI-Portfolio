@@ -1,6 +1,6 @@
 ## Workforce Transformation and AI Transformation — practical HumanEvoX case labs
 
-- [Workforce Transformation](Workforce%20Transformation/): synthetic workforce demand, task/capacity and headcount analysis; human/AI role redesign, skills and redeployment; governed transition. Includes a Python capacity model and tests.
+- [Workforce Transformation](Workforce%20Transformation/): eight integrated Human–AI Future of Work Architecture modules (01–08), spanning workload, role/skill redesign, employee transition, organization architecture, digital worker orchestration, workforce intelligence, product/AI solution architecture and workforce economics. Includes independent local Python prototypes, tests and an attributed UAE leadership evidence map. No live enterprise deployment or verified ROI.
 - [AI Transformation](AI%20Transformation/): synthetic enterprise AI tool-spend discovery; controlled Python permission/approval workflow; cross-functional adoption and value assurance. No live LLM, external tenant or client deployment claimed.
 
 ## Oracle Solution Architecture

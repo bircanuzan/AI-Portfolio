@@ -12,3 +12,7 @@ Independent portfolio demonstrations focused on organizational effectiveness, co
 
 ## Evidence and status
 This folder is a **portfolio roadmap**, not evidence of completed client engagements or tested deliverables. Demonstrations will be added with synthetic data, documented methods, tools, limitations, and reproducible outputs. No employer affiliation or certification is implied.
+
+## Related built organization-design work
+
+The [Workforce Transformation 04 — Organization Architecture & AI-Native Operating Models](../Workforce%20Transformation/04_Organization_Architecture_and_AI_Native_Operating_Models/) module now contains a separate fictional operating-model diagnostic, options and testable option screen. The five broader OD initiatives listed above remain a **proposed roadmap**, not completed implementations.

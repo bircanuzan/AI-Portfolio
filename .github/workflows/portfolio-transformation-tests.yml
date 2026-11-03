@@ -24,6 +24,16 @@ jobs:
           python-version: '3.11'
       - name: Workforce capacity regression tests
         run: python -m unittest discover -s "Workforce Transformation/01_Capacity_and_Headcount_Decision_Lab/tests" -v
+      - name: Organization architecture option-screen tests (04)
+        run: python -m unittest discover -s "Workforce Transformation/04_Organization_Architecture_and_AI_Native_Operating_Models/tests" -v
+      - name: Human and digital worker orchestration control tests (05)
+        run: python -m unittest discover -s "Workforce Transformation/05_Human_AI_Workforce_Orchestration_and_Digital_Worker_Management/tests" -v
+      - name: Strategic workforce and skills scenario tests (06)
+        run: python -m unittest discover -s "Workforce Transformation/06_Strategic_Workforce_Intelligence_and_Future_Workforce_Scenarios/tests" -v
+      - name: Workforce intelligence product slice tests (07)
+        run: python -m unittest discover -s "Workforce Transformation/07_Workforce_Intelligence_Product_and_Solution_Architecture/tests" -v
+      - name: Workforce economics and value assurance tests (08)
+        run: python -m unittest discover -s "Workforce Transformation/08_Workforce_Economics_and_Enterprise_Value_Realization/tests" -v
       - name: Enterprise tool portfolio diagnostics
         run: python -m unittest discover -s "AI Transformation/01_Enterprise_AI_Discovery_and_Subscription_Rationalisation/tests" -v
       - name: Controlled human-AI workflow negative tests
