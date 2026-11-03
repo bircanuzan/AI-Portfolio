@@ -1,3 +1,7 @@
+## Oracle Solution Architecture
+
+**[Explore the Oracle Solution Architecture portfolio](Oracle%20Solution%20Architecture/)** — new fictional six-subsidiary Oracle HCM-to-Finance business architecture case with discovery and requirements, logical Fusion HCM/ERP/OIC/OCI options, integration/data contracts, security and AI governance, phased delivery/UAT, plus a local synthetic Python staging validator. Independent design only; no production Oracle deployment or live Oracle tenant claimed.
+
 ## Agentic AI Automation
 
 [Open Agentic AI Automation](Agentic%20AI%20Automation/) — [Claude Agentic AI in HR - HR Service & Policy AI Assistants](Agentic%20AI%20Automation/Claude%20Agentic%20AI%20in%20HR%20-%20HR%20Service%20%26%20Policy%20AI%20Assistants/) brings together eight existing HR-service, policy, relations and communications projects, retaining original files and designs.
