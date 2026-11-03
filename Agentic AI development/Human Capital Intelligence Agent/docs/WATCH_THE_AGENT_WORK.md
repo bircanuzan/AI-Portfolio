@@ -1,6 +1,6 @@
 # Watch the Agent Work — authentic demonstration recording plan
 
-**Video status:** not yet recorded. This is a reproducible scene-by-scene script, not a link to an imaginary MP4.
+**Video status:** [A 28-second labelled synthetic MP4 was generated from actual local Python execution in GitHub Actions](https://github.com/bircanuzan/AI-in-HR-Portfolio/actions/runs/41660801024) on 3 November 2026. Open that run’s Artifacts section and select hcia-watch-the-agent-work-synthetic-video. This is a programmatically produced demo, **not footage of an enterprise deployment**. The steps below are a script for an additional genuine workflow recording.
 
 ## Recording outline (2–4 minutes)
 **Scene 1 — identity and version (15s):** show repo commit, agent version and read-only scope; explain all data are fictional.
@@ -29,7 +29,7 @@ Show real pass/fail and local in-process runtime results, **not** fabricated pro
 
 **Scene 7 — sovereign and deployment gaps (25s):** show a model interface and operator-managed HTTPS settings without any live secret; disclose no G42 environment, enterprise deployment or measurable commercial outcome.
 
-## Real recording evidence checklist
+## Future production recording evidence checklist
 Capture full terminal timestamps and exact Git SHA, agent version, commands, unedited results, redacted logs, scenario runner output, machine conditions and signer/author. Do not put actual employee data or credentials on screen.
 
 For G42 consideration, a separate **real production** demo, independent technical validation and enterprise sponsor permissions would still be required.

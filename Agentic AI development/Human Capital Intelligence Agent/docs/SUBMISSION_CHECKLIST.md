@@ -9,10 +9,10 @@
 | Security and responsible AI | docs/SECURITY_RESPONSIBLE_AI.md | Scope controls; full independent audit missing |
 | Structured HC analytics | src/hcia/engine.py | Implemented on synthetic data |
 | HRIS/ATS/payroll integration | src/hcia/integrations.py | Mock tested only, not enterprise-connected |
-| Benchmarks and stress results | tests/; scripts/benchmark.py | Local scenario and latency testing, no load test or enterprise outcome |
+| Benchmarks and stress results | tests/; scripts/benchmark.py; [execution evidence](../evidence/EXECUTION_EVIDENCE.md) | **35/35 tests and 12/12 scripted scenarios**, no production load benchmark |
 | Deployment status | docs/PRODUCTION_READINESS.md | **NOT DEPLOYED** |
 | Client references / testimonials | None | **NOT AVAILABLE** |
-| Video recording | docs/WATCH_THE_AGENT_WORK.md | Script available; **NO RECORDED VIDEO** |
+| Video recording | [CI-generated synthetic demo MP4](https://github.com/bircanuzan/AI-in-HR-Portfolio/actions/runs/41660801024) | **Synthetic demonstration available**, but no genuine enterprise deployment recording |
 | Sovereign LLM operation | src/hcia/llm.py | Optional adapter, **NO CONNECTED MODEL** |
 | Productivity gains / savings | None | **NOT MEASURED** |
 | Controlled probation | None | **NOT PERFORMED** |

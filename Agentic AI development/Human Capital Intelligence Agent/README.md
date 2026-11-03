@@ -26,8 +26,8 @@ This is a **bounded, auditable multi-tool Human Capital intelligence service** t
 - [Security / Responsible AI](docs/SECURITY_RESPONSIBLE_AI.md) — role and entity scoping, personal-data controls, audit, review responsibilities and threats.
 - [Integration contract](docs/INTEGRATION_SPEC.md) — read-only mock-tested HTTPS adapter for HRIS, ATS, payroll, talent and workforce systems.
 - [Production requirements](docs/PRODUCTION_READINESS.md) — explicit blockers to G42 eligibility and a staging/probation plan.
-- [Evaluation](docs/EVALUATION_AND_METRICS.md) — authored scenario tests, latency benchmark methodology, reliability and failure register.
-- [Video demonstration plan](docs/WATCH_THE_AGENT_WORK.md) — exact scenes/commands for recording real operation; **no finished video claimed**.
+- [Evaluation](docs/EVALUATION_AND_METRICS.md) and [verified execution evidence](evidence/EXECUTION_EVIDENCE.md) — 35 tests, 12/12 numeric scenarios and local latency figures.
+- [Watch the Agent Work — synthetic video](https://github.com/bircanuzan/AI-in-HR-Portfolio/actions/runs/41660801024) — CI-generated MP4 from actual local execution, downloadable in the run’s Artifacts section. **Not a production screencast.** [Recording script](docs/WATCH_THE_AGENT_WORK.md).
 - [Submission evidence checklist](docs/SUBMISSION_CHECKLIST.md) and [version history](docs/VERSION_HISTORY.md).
 - [Code](src/hcia/) and [tests](tests/); [benchmark script](scripts/benchmark.py).
 
