@@ -1,0 +1,8 @@
+[
+  {"id":"REQ-01","task":"policy_faq","agent_status":"PILOT","has_access":true,"policy_current":true,"sensitive":false,"expected_route":"A-POL"},
+  {"id":"REQ-02","task":"aggregate_reporting","agent_status":"ACTIVE","has_access":true,"policy_current":true,"sensitive":false,"expected_route":"A-RPT"},
+  {"id":"REQ-03","task":"termination_decision","agent_status":"ACTIVE","has_access":true,"policy_current":true,"sensitive":true,"expected_route":"HUMAN_REVIEW"},
+  {"id":"REQ-04","task":"policy_faq","agent_status":"SHADOW","has_access":true,"policy_current":true,"sensitive":false,"expected_route":"HUMAN_REVIEW"},
+  {"id":"REQ-05","task":"policy_faq","agent_status":"ACTIVE","has_access":false,"policy_current":true,"sensitive":false,"expected_route":"HUMAN_REVIEW"},
+  {"id":"REQ-06","task":"policy_faq","agent_status":"ACTIVE","has_access":true,"policy_current":false,"sensitive":false,"expected_route":"HUMAN_REVIEW"}
+]
