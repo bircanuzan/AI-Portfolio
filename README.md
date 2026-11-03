@@ -12,7 +12,7 @@
 
 ## HRIS & HCM Systems
 
-[Explore HRIS & HCM Systems](HRIS%20%26%20HCM%20Systems/) — one new cross-platform employee lifecycle, integration, data mapping and UAT project using a synthetic validation lab.
+[Explore HRIS & HCM Systems](HRIS%20%26%20HCM%20Systems/) — four complementary projects: cross-platform requirements/UAT, Oracle Fusion Cloud HCM architecture, SAP SuccessFactors Employee Central architecture, and a synthetic Python HRIS integration adapter with tests.
 
 ## Pilot Project — Agentic AI Competency Interviews & Talent Intelligence
 

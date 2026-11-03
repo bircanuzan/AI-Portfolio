@@ -1,0 +1,7 @@
+[
+  {"source":"ORACLE_FUSION_HCM","event_id":"ORC-001","person_number":"SYN-100","action":"HIRE","effective_date":"2026-11-03","legal_entity":"UAE_DEMO_01","approved":true,"version":1},
+  {"source":"SAP_SUCCESSFACTORS_EC","event_id":"SAP-001","person_id_external":"SYN-200","event":"TRANSFER","effective_start_date":"2026-11-03","company":"UAE_DEMO_02","approved":true,"version":1},
+  {"source":"ORACLE_FUSION_HCM","event_id":"ORC-002","person_number":"SYN-101","action":"EXIT","effective_date":"2026-11-03","legal_entity":"UAE_DEMO_01","approved":false,"version":1},
+  {"source":"SAP_SUCCESSFACTORS_EC","event_id":"SAP-002","person_id_external":"SYN-201","event":"HIRE","effective_start_date":"2026-13-03","company":"UAE_DEMO_01","approved":true,"version":1},
+  {"source":"ORACLE_FUSION_HCM","event_id":"ORC-001","person_number":"SYN-100","action":"HIRE","effective_date":"2026-11-03","legal_entity":"UAE_DEMO_01","approved":true,"version":1}
+]
