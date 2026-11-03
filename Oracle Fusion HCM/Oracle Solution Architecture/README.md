@@ -58,6 +58,6 @@ flowchart LR
 
 **Not represented:** Installed/configured Oracle HCM or ERP, OCI or OIC credentials, end-to-end tested Oracle integration, actual cost savings, client approvals, production security assessment, SLA guarantees.
 
-See the separate existing [Oracle Fusion HCM category](../../README.md) for HCM-specific release/governance samples.
+See the parent [Oracle Fusion HCM category](../README.md) for functional setup, release governance and HCM-specific interface engineering.
 
-[Return to portfolio home](../README.md)
+[Return to portfolio home](../../README.md)

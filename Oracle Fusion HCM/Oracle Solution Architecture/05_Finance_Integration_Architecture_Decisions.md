@@ -25,4 +25,4 @@ Each batch should have mutually exclusive received / accepted-for-staging / reje
 ## Reproducible evidence
 [Existing Python financial staging validator](src/validate_changes.py) and [test cases](tests/test_validation.py) cover non-posting finance controls, invalid cost centre, missing HR approval and duplicate event. The Oracle HCM-specific [HDL exercise](../02_Oracle_Fusion_HCM_Solution_Architecture_and_Engineering/04_HDL_Job_Data_Preflight.md) is purposely outside this project.
 
-**Current capability:** business-led logical HCM/ERP/OCI/OIC architecture and tested *synthetic* event controls only. No production Oracle ERP/HCM solution, OIC connection, accounting journal or client implementation is claimed.
+**Current capability:** business-led logical HCM/ERP/OCI/OIC architecture and locally testable *synthetic* event controls only. No production Oracle ERP/HCM solution, OIC connection, accounting journal or client implementation is claimed.

@@ -3,10 +3,6 @@
 - [Workforce Transformation](Workforce%20Transformation/): eight integrated Human–AI Future of Work Architecture modules (01–08), spanning workload, role/skill redesign, employee transition, organization architecture, digital worker orchestration, workforce intelligence, product/AI solution architecture and workforce economics. Includes independent local Python prototypes, tests and an attributed UAE leadership evidence map. No live enterprise deployment or verified ROI.
 - [AI Transformation](AI%20Transformation/): synthetic enterprise AI tool-spend discovery; controlled Python permission/approval workflow; cross-functional adoption and value assurance. No live LLM, external tenant or client deployment claimed.
 
-## Oracle Solution Architecture
-
-**[Explore the Oracle Solution Architecture portfolio](Oracle%20Fusion%20HCM/Oracle%20Solution%20Architecture/)** — new fictional six-subsidiary Oracle HCM-to-Finance business architecture case with discovery and requirements, logical Fusion HCM/ERP/OIC/OCI options, integration/data contracts, security and AI governance, phased delivery/UAT, plus a local synthetic Python staging validator. Independent design only; no production Oracle deployment or live Oracle tenant claimed.
-
 ## Agentic AI Automation
 
 [Open Agentic AI Automation](Agentic%20AI%20Automation/) — [Claude Agentic AI in HR - HR Service & Policy AI Assistants](Agentic%20AI%20Automation/Claude%20Agentic%20AI%20in%20HR%20-%20HR%20Service%20%26%20Policy%20AI%20Assistants/) brings together eight existing HR-service, policy, relations and communications projects, retaining original files and designs.
