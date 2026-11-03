@@ -6,6 +6,10 @@
 
 > **Fictional and educational only.** This is an original simulated case, not an actual client engagement, assessment credential, administration of licensed tests, or evidence of past psychometric test-user practice. All 12 profiles and assessment indices are invented. **No BPS, SHL, Hogan or Saville accreditation is claimed.**
 
+## CHRO / Chief AI Officer test-use assurance
+
+[Publisher authorization, occupational test quality, qualified test-user requirements, fairness, norms and report-release governance](EXECUTIVE_TEST_USE_AND_PUBLISHER_ASSURANCE.md). This project uniquely owns **psychometric output interpretation boundaries**—not candidate screening algorithms or behavioural assessor calibration.
+
 ## The business challenge
 A hypothetical UAE-based enterprise has **12 fictional participants** in three separate decisions: hire four Senior HR Analysts, consider four People Operations Managers for promotion, and review four potential HR Transformation Leads for succession.
 

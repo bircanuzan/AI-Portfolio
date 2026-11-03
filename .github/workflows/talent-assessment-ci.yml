@@ -1,0 +1,48 @@
+name: Talent Assessment - Synthetic Assurance and Capability Evidence
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'Talent Assessment/**'
+      - '.github/workflows/talent-assessment-ci.yml'
+  pull_request:
+    paths:
+      - 'Talent Assessment/**'
+      - '.github/workflows/talent-assessment-ci.yml'
+  workflow_dispatch:
+
+jobs:
+  independent-talent-evidence:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Project 38 — independent assessor evidence and calibration tests
+        run: python -m unittest discover -s "Talent Assessment/38_Assessment_Center_Assessor/tests" -v
+      - name: Project 39 — executive organisation evidence-priority tests
+        run: python -m unittest discover -s "Talent Assessment/39_Integrated_Talent_Leadership_and_Organizational_Excellence_Assessment/tests" -v
+      - name: Project 49 — descriptive fictitious assessment analysis runs without claims
+        run: python "Talent Assessment/49_Psychometric_Assessment_and_Talent_Evaluation/analysis.py"
+      - name: Reproduce Project 39 scenario and enforce no grading or HR decisions
+        run: |
+          python "Talent Assessment/39_Integrated_Talent_Leadership_and_Organizational_Excellence_Assessment/src/evidence_priorities.py" --out /tmp/capability_evidence.json > /dev/null
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          folder=Path('Talent Assessment/39_Integrated_Talent_Leadership_and_Organizational_Excellence_Assessment')
+          actual=json.loads(Path('/tmp/capability_evidence.json').read_text())
+          expected=json.loads((folder/'evidence/evidence_priority_report.json').read_text())
+          assert actual==expected,'Synthetic executive evidence priority snapshot drift'
+          assert actual['release']=='HOLD_FOR_HUMAN_VALIDATION'
+          assert not actual['actual_organisation_maturity_assessed']
+          assert not actual['individual_assessment_performed']
+          assert all(r['human_review']=='PENDING' and r['performance_or_maturity_grade'] is None
+                     for r in actual['evidence_review_queue'])
+          print('Executive synthetic evidence and nondecision safeguards verified')
+          PY

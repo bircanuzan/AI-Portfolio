@@ -4,6 +4,10 @@ Part of the HumanEvoX AI in HR portfolio. This folder is the navigation home for
 
 **Portfolio PDF:** [Open the full portfolio](HumanEvoX_AI_Enabled_Talent_Management_Assessment_Portfolio.pdf)
 
-> The PDF is currently stored in the repository root. This link preserves access to the original until GitHub permits file relocation. This is a business-side portfolio; it does not assert hands-on HRIS configuration or systems integration.
+> The original PDF is preserved in this project directory. This is a business-side portfolio; it does not assert hands-on HRIS configuration or systems integration.
+
+## New: CHRO talent architecture and succession assurance
+
+[Enterprise talent strategy, critical roles, succession governance, development and decision rights](CHRO_TALENT_STRATEGY_AND_SUCCESSION_GOVERNANCE.md). This is intentionally the strategic layer—not assessor scoring, psychometric test validation or organisation maturity grading.
 
 [Back to main portfolio index](../../README.md) · [Talent Assessment index](../README.md)

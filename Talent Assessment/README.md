@@ -2,6 +2,12 @@
 
 A curated HumanEvoX portfolio of four distinct evidence-based **Talent Assessment** projects. These are original demonstrations; simulated candidate records and hypothetical test scores must not be represented as client work, assessor qualifications or licensed psychometric assessments.
 
+## Executive operating model — CHRO / Chief HR Transformation Officer / Chief AI Officer
+
+[See the integrated enterprise assessment strategy, decision rights, risk gates and 90-day roadmap](EXECUTIVE_TALENT_ASSESSMENT_OPERATING_MODEL.md).
+
+**Distinct roles:** 08 strategy and succession; 38 assessor observation and reliability; 39 organisation-level leadership and capability evidence; 49 appropriate psychometric test-output governance. No new standalone projects and no duplicate scoring systems.
+
 ## Projects
 
 - [08_Talent_Management_Assessment](08_Talent_Management_Assessment/)

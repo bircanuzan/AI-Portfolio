@@ -2,6 +2,10 @@
 
 **Portfolio case study: competency-based observation, evidence-based evaluation, professional reporting, candidate debrief and development coaching.**
 
+## Executive assurance addition
+
+[CHRO assessment-centre quality, observable evidence and independent assessor calibration](ASSESSMENT_QUALITY_EXECUTIVE_ASSURANCE.md). **This project uniquely owns individual behavioural observation and assessor evidence**, not enterprise talent strategy (08), organisational systems diagnostics (39), or publisher psychometrics (49).
+
 ## What this project shows
 A complete, fictional English-language assessment-centre case for a **People Operations Manager** candidate. It includes assessor materials, three simulation exercises, anchored competency ratings, structured behavioral notes, independent assessor comparison, an integrated report, a feedback conversation and a coaching follow-up plan.
 

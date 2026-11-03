@@ -2,6 +2,12 @@
 
 **Portfolio case study | Synthetic demonstration; not a completed client engagement**
 
+## Chief HR Transformation and CAIO capability evidence
+
+[Executive organisational capability diagnostic and evidence-priority lab](ORGANISATIONAL_CAPABILITY_EXECUTIVE_DIAGNOSTIC.md) · [executable Python](src/evidence_priorities.py) · [tests](tests/test_evidence_priorities.py) · [synthetic output](evidence/evidence_priority_report.json).
+
+**Distinctive scope:** the integrated leadership, organisational capability and institutional-excellence operating model. Workstream 1 below is background context only: Project 38 owns the reusable behavioural assessment-centre scoring implementation.
+
 ## Objective
 Design a consistent, defensible assessment workflow across three distinct but connected services: (1) assessment-centre competency evaluation, (2) leadership, graduate and career-transition development assessment, and (3) organizational/institutional excellence diagnostics.
 

@@ -1,0 +1,55 @@
+{
+  "classification": "SYNTHETIC_ORGANISATION_EVIDENCE_GAPS",
+  "entity": "FICTIONAL_UAE_SERVICE_GROUP",
+  "purpose": "investigation_priority_not_performance_rating",
+  "domains": [
+    {
+      "id": "D01",
+      "domain": "Strategic capability and critical-role evidence",
+      "impact_weight": 5,
+      "evidence_status": "partial",
+      "owner": "CHRO",
+      "question": "Is the critical-role capability map supported by approved job/work analysis?"
+    },
+    {
+      "id": "D02",
+      "domain": "Leadership development transfer to work",
+      "impact_weight": 4,
+      "evidence_status": "missing",
+      "owner": "Talent Development",
+      "question": "Are leadership capabilities observed after development?"
+    },
+    {
+      "id": "D03",
+      "domain": "Organisation and human–AI work design",
+      "impact_weight": 5,
+      "evidence_status": "missing",
+      "owner": "Organisation Development",
+      "question": "Who owns task allocation, approvals and workforce impacts?"
+    },
+    {
+      "id": "D04",
+      "domain": "Employee experience and inclusion",
+      "impact_weight": 3,
+      "evidence_status": "synthetic_documented",
+      "owner": "Employee Experience",
+      "question": "Are employee views and accessible channels documented?"
+    },
+    {
+      "id": "D05",
+      "domain": "Performance and talent governance",
+      "impact_weight": 4,
+      "evidence_status": "partial",
+      "owner": "HR Governance",
+      "question": "Is assessment evidence source-linked, private and human reviewed?"
+    },
+    {
+      "id": "D06",
+      "domain": "Finance and value-realisation controls",
+      "impact_weight": 5,
+      "evidence_status": "missing",
+      "owner": "HR Transformation and Finance",
+      "question": "Do investment options include independent cost/benefit approval?"
+    }
+  ]
+}
