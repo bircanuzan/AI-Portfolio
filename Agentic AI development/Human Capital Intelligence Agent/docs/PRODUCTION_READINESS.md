@@ -17,7 +17,7 @@
 | Productivity and savings | **No claim** | Measured pre/post baseline, quality controls, Finance validation and counterfactual |
 | Version history and lifecycle | **0.1.0; source-controlled** | Change tickets, release gates, SBOM, deployment records, operational incident history |
 | Agent and developer resumes | **Drafted; factual** | Verified authorship, ownership and references |
-| Agent video demonstration | **Script only** | Recorded, unedited real operation and redacted trace, version/build identifiers |
+| Agent video demonstration | **Synthetic CI-generated MP4 exists; not enterprise-production footage** | Authorised live-enterprise recording, source trace and version/build identifiers |
 | Prior client references | **None supplied** | Permissioned production clients/testimonials, not invented |
 | Controlled probation | **Not performed** | Employer-controlled technical, security, reliability and value validation |
 

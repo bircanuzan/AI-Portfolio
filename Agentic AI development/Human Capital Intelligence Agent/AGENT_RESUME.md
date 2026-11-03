@@ -34,7 +34,7 @@
 See evaluation plan and executed CI/test artifacts when available. Tests evaluate synthetic fixtures; benchmark timing measures **in-process Python execution only**. No measured HR productivity/time saving, external LLM reliability, production SLA, G42 trial or bias evaluation across real employee groups has occurred.
 
 ## Deployment and references
-**Production deployments:** none claimed. **Client organisations:** none claimed. **Enterprise integrations:** mock-tested contract only. **Testimonials:** none supplied. **Video demo:** storyboard/script available; finished video not recorded.
+**Production deployments:** none claimed. **Client organisations:** none claimed. **Enterprise integrations:** mock-tested contract only. **Testimonials:** none supplied. **Video demo:** [CI-generated 28-second synthetic MP4](https://github.com/bircanuzan/AI-in-HR-Portfolio/actions/runs/41660801024), built from actual offline code outputs; not a genuine enterprise production screencast.
 
 ## Known failure modes
 Unreconciled/missing HRIS data; nonrepresentative hiring and employer-brand samples; small pay cohorts; inconsistent aggregate definitions; role/identity misuse; audit database outage; external model latency or invented summary; unsafe HR impact extrapolation. Mitigations: validation, provenance, suppression, fail-closed access, human approval, explicit model fallback and real deployment gates.

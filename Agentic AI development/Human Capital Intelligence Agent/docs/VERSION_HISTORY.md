@@ -10,6 +10,11 @@
 - Added requirements-aligned agent/developer resumes, architecture, privacy/security controls, deployment checklist and video storyboard.
 - No production deployment, customer reference, real model call or enterprise HRIS connection.
 
+## 0.1.1 — 3 November 2026
+- Confirmed 35 passing tests and 12/12 local benchmark assertions via GitHub Actions.
+- Generated a labelled 28-second synthetic MP4 demonstrating actual local engine outputs.
+- Documented evidence and remaining production eligibility requirements.
+
 ## Future releases — not implemented
 0.2: signed enterprise OIDC and policy-as-code identity; data lineage and secure integration contracts; red-team tests.  
 0.3: protected Azure/sovereign model nonproduction deployment and load testing.  

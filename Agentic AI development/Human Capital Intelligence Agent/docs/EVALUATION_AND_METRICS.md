@@ -21,7 +21,7 @@
     python -m unittest discover -s tests -v
     python scripts/benchmark.py
 
-GitHub Actions workflow hcia-ci.yml runs the same commands on a pinned Python major/minor and publishes benchmark-results.json as an artifact when it succeeds. Do not advertise test pass counts or latency figures until an actual execution record has been obtained and inspected.
+GitHub Actions workflow hcia-ci.yml runs the same commands on a pinned Python major/minor and publishes benchmark-results.json as an artifact when it succeeds. **Verified:** [GitHub Actions run 41660241078](https://github.com/bircanuzan/AI-in-HR-Portfolio/actions/runs/41660241078) passed 35 automated tests and 12/12 scripted numeric scenarios. For 50 sequential in-process executive briefs, p50 was 0.0353 ms and p95 0.0534 ms. These exclude authentication, HTTP, external services and models; not production latency or reliability. See [execution evidence](../evidence/EXECUTION_EVIDENCE.md).
 
 ## Known failure modes and mitigations
 1. Empty population or metric denominator → explicit null rate rather than divide-by-zero.
