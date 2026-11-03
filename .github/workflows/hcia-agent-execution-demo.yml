@@ -1,0 +1,57 @@
+name: HCIA — Actual Agent Tool Trace Demo
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'Agentic AI development/Human Capital Intelligence Agent/src/hcia/agent_runtime.py'
+      - 'Agentic AI development/Human Capital Intelligence Agent/scripts/demo_agent_runtime.py'
+      - 'Agentic AI development/Human Capital Intelligence Agent/scripts/render_agent_runtime_video.py'
+      - 'Agentic AI development/Human Capital Intelligence Agent/tests/test_agent_runtime.py'
+      - '.github/workflows/hcia-agent-execution-demo.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  working-agent-recording:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install dependencies
+        working-directory: Agentic AI development/Human Capital Intelligence Agent
+        run: |
+          python -m pip install -r requirements.txt
+          python -m pip install "Pillow>=10,<13" "imageio-ffmpeg>=0.5,<1"
+      - name: Execute working agent and refusal test
+        working-directory: Agentic AI development/Human Capital Intelligence Agent
+        run: python -m scripts.demo_agent_runtime
+      - name: Run full project tests
+        working-directory: Agentic AI development/Human Capital Intelligence Agent
+        run: python -m unittest discover -s tests -v
+      - name: Replay captured tool trace as captioned portrait MP4
+        working-directory: Agentic AI development/Human Capital Intelligence Agent
+        run: python scripts/render_agent_runtime_video.py
+      - name: Commit evidenced new agent video and trace
+        run: |
+          p="Agentic AI development/Human Capital Intelligence Agent/demo"
+          cp "$p/generated/agent_runtime_executed_tool_trace.mp4" "$p/Agent_Runtime_Executed_Tool_Trace.mp4"
+          cp "$p/generated/agent_execution_trace.json" "$p/Agent_Runtime_Execution_Trace.json"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- "$p/Agent_Runtime_Executed_Tool_Trace.mp4" "$p/Agent_Runtime_Execution_Trace.json"
+          if ! git diff --cached --quiet; then
+            git commit -m "Publish actual Python agent execution trace and captioned developer demonstration"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+      - name: Upload developer demo video artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: hcia-real-tool-execution-demo
+          path: |
+            Agentic AI development/Human Capital Intelligence Agent/demo/generated/agent_runtime_executed_tool_trace.mp4
+            Agentic AI development/Human Capital Intelligence Agent/demo/generated/agent_execution_trace.json
+          retention-days: 30
