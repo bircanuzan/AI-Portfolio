@@ -20,7 +20,7 @@
 
 ## HR Technology & Digital Transformation
 
-[Explore HR Technology & Digital Transformation](HR%20Technology%20%26%20Digital%20Transformation/) — the original HR technology, digital employee experience and HR service design portfolio.
+[Explore HR Technology & Digital Transformation](HR%20Technology%20%26%20Digital%20Transformation/) — six distinct projects: preserved original HRTech PDF, HR digital transformation strategy, HR technology selection, digital employee experience, HRTech implementation delivery and a local employee self-service prototype. All new cases are synthetic.
 
 ## HR Operations & Workflow Automation
 

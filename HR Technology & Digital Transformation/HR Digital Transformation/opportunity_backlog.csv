@@ -1,0 +1,6 @@
+id,opportunity,problem_statement,illustrative_impact_1to5,illustrative_effort_1to5,illustrative_control_risk_1to5,primary_owner,dependency,stage
+T01,Unified HR request catalogue,Inconsistent HR enquiry intake,5,2,2,HR Services,Employee research,Explore
+T02,Payroll enquiry workflow,Low visibility of payroll enquiries,4,3,5,Payroll and HR Operations,Legal and Finance review,Assess
+T03,Employee status tracker,Repeated chasing for request updates,4,2,2,HR Services,Ticketing requirements,Explore
+T04,HRMS event governance,Uncontrolled employee-data changes,5,4,5,HRIS Owner,Master data readiness,Assess
+T05,Service insight scorecard,Unreconciled operational metrics,3,3,3,HR Analytics,Metric definitions,Explore

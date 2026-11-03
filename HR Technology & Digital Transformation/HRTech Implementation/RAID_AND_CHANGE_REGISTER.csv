@@ -1,0 +1,7 @@
+id,type,description,impact,likelihood,owner,mitigation,status
+R01,Risk,Employee case confidentiality breached,High,Medium,IT Security,Role test plus privacy approval,Open
+R02,Risk,Incorrect service catalogue content,Medium,Medium,HR Policy Owner,Content review and version signoff,Open
+I01,Issue,Example SSO owner not assigned,Medium,Unknown,IT Delivery,Confirm RACI before build,Proposed
+D01,Dependency,Service catalogue requirements approved,High,Medium,HR Product Owner,Hold design signoff workshop,Open
+A01,Assumption,Core HRMS remains system of record,High,Unknown,Steering Committee,Verify scope boundary,Unvalidated
+C01,Change,Add multilingual interface at pilot stage,Medium,Medium,Product Owner,Assess accessibility/translation/TCO before approval,Proposed

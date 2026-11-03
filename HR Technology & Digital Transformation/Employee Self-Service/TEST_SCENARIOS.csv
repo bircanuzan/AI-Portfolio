@@ -1,0 +1,9 @@
+id,action,expected_result,status
+ESS01,Submit fictional ID with employment certificate category,Local case reference generated,Not run
+ESS02,Submit without employee code,Show required code validation error,Not run
+ESS03,Choose payroll enquiry,Route to human Payroll and HR without pay decision,Not run
+ESS04,Choose employee relations concern,Display confidential approved-channel guidance,Not run
+ESS05,Enter bank account pattern in details,Reject and display no-PII warning,Not run
+ESS06,Refresh after creating a request,No local request persistence,Not run
+ESS07,Use keyboard-only focus and Enter,Form navigable and submit works,Not run
+ESS08,Use screen reader,Form labels status and errors announced,Not run
