@@ -1,5 +1,7 @@
 # Human Capital Intelligence Agent | Agentic AI Development
 
+**[NEW: Human–AI Workforce Design Architect with native LLM tool-calling runtime](WORKFORCE_ARCHITECT_AGENT.md)** — implements an OpenAI Responses API plan→function call→observation→replan→submit loop, 7-task work design, scenario stress tests and future organization role validation. **GitHub Actions uses an explicitly scripted model stub, not real LLM inference.** Live model invocation is available only with operator-provided API credentials; no live result claimed.
+
 **Author:** HumanEvoX independent engineering and HR transformation portfolio  
 **Agent version:** 0.2.0 (synthetic engineering prototype) | **Role requirements reference:** G42 Human Capital Intelligence Agent (AI Agents Only)  
 **Status: runnable read-only agent and API prototype using fictional aggregate data. NOT production deployed, NOT G42-qualified, NOT submitted.**

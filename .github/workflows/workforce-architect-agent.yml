@@ -1,0 +1,36 @@
+name: Human-AI Workforce Architect Native Tool-Use Tests
+on:
+  push:
+    paths:
+      - "Agentic AI development/Human Capital Intelligence Agent/src/hcia/workforce_architect.py"
+      - "Agentic AI development/Human Capital Intelligence Agent/tests/test_workforce_architect_agent.py"
+      - "Agentic AI development/Human Capital Intelligence Agent/WORKFORCE_ARCHITECT_AGENT.md"
+      - ".github/workflows/workforce-architect-agent.yml"
+  pull_request:
+    paths:
+      - "Agentic AI development/Human Capital Intelligence Agent/**"
+  workflow_dispatch:
+jobs:
+  validate-native-tool-runtime:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    defaults:
+      run:
+        working-directory: Agentic AI development/Human Capital Intelligence Agent
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Native tool protocol and human decision control tests (scripted provider)
+        run: python -m unittest tests.test_workforce_architect_agent -v
+      - name: Generate scripted-provider evidence (NOT live AI)
+        run: python -m src.hcia.workforce_architect --demo --out demo/workforce_design_stub_trace.json
+      - name: Preserve scripted-provider execution trace
+        uses: actions/upload-artifact@v4
+        with:
+          name: workforce-architect-scripted-provider-not-live-llm
+          path: Agentic AI development/Human Capital Intelligence Agent/demo/workforce_design_stub_trace.json
+          retention-days: 30
+          if-no-files-found: error
