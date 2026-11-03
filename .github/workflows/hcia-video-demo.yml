@@ -1,0 +1,32 @@
+name: HCIA — Watch the Synthetic Agent Work
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'Agentic AI development/Human Capital Intelligence Agent/scripts/render_demo.py'
+      - '.github/workflows/hcia-video-demo.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  generate-video:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Prepare image renderer
+        run: python -m pip install 'Pillow>=10,<13'
+      - name: Verify ffmpeg available
+        run: ffmpeg -version | head -n 1
+      - name: Render actual synthetic agent outputs into a labelled MP4
+        working-directory: Agentic AI development/Human Capital Intelligence Agent
+        run: python scripts/render_demo.py
+      - name: Publish playable demonstration
+        uses: actions/upload-artifact@v4
+        with:
+          name: hcia-watch-the-agent-work-synthetic-video
+          path: Agentic AI development/Human Capital Intelligence Agent/demo/generated/human_capital_intelligence_agent_synthetic_demo.mp4
+          retention-days: 30
