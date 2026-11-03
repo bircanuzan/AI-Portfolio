@@ -12,6 +12,8 @@ flowchart LR
  E -- Yes --> G[Independent validation still required]
 ```
 
+**Executive decision layer:** [CHRO / CAIO steering brief](EXECUTIVE_STEERING_BRIEF.md), [human–AI operating model](HUMAN_AI_RECRUITMENT_OPERATING_MODEL.md) and [economic options](07_Talent_Workforce_Intelligence/EXECUTIVE_INVESTMENT_OPTIONS.md) sit *above* this sequence rather than creating another recruiting tool.
+
 ## Exclusive capability boundaries
 | Existing project | Responsible for | Not responsible for |
 |---|---|---|

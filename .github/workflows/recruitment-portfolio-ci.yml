@@ -29,6 +29,9 @@ jobs:
         run: python -m unittest discover -s "AI-enabled Recruitment Portfolio/07_Talent_Workforce_Intelligence/tests" -v
       - name: Mock screening risk and all 17 Claude workflow guardrails
         run: python -m unittest discover -s "AI-enabled Recruitment Portfolio/55_AI_Recruitment_Screening_Risk_Assessment/tests" -v
+      - name: Executive investment-option negative controls
+        run: python "AI-enabled Recruitment Portfolio/07_Talent_Workforce_Intelligence/src/executive_value_options.py" --out /tmp/ta_investment_options.json
+
       - name: Reproduce source reports and validate no recruitment deployment
         run: |
           python "AI-enabled Recruitment Portfolio/01_AI_Enabled_Recruitment_Healthcare/src/role_readiness.py" --out /tmp/hc_role.json > /dev/null
@@ -47,6 +50,11 @@ jobs:
             assert json.loads(Path(current).read_text())==json.loads(committed.read_text()),str(committed)+' has changed'
           h=json.loads(Path('/tmp/hc_role.json').read_text())
           c=json.loads(Path('/tmp/recruitment_capacity.json').read_text())
+          e=json.loads(Path('/tmp/ta_investment_options.json').read_text())
+          e_reference=json.loads((base/'07_Talent_Workforce_Intelligence/evidence/synthetic_executive_options.json').read_text())
+          assert e==e_reference, 'Executive options snapshot drift'
+          assert e['vendor_or_ai_release']=='HOLD' and all(v['actual_cash_savings_aed'] is None for v in e['options'])
+          assert all(v['production_funding_approved'] is False for v in e['options'])
           q=json.loads(Path('/tmp/recruitment_hold.json').read_text())
           assert h['production_release']=='HOLD' and q['production_release']=='HOLD'
           assert not c['automated_hiring']

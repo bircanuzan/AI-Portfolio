@@ -2,6 +2,16 @@
 
 HumanEvoX | AI-assisted recruitment, talent intelligence, structured selection and cross-border hiring. **20 original project folders** are collected here with their individual structures preserved. No live client recruitment or production AI use is implied.
 
+## Executive perspective — CHRO / Chief HR Transformation Officer / Chief AI Officer
+
+- [Board/steering transformation thesis, decision rights, KPIs, funding gates and 90-day roadmap](EXECUTIVE_STEERING_BRIEF.md)
+- [Human–AI recruitment work and organisational architecture](HUMAN_AI_RECRUITMENT_OPERATING_MODEL.md)
+- [Quantified fictional no-AI versus AI investment decision lab](07_Talent_Workforce_Intelligence/EXECUTIVE_INVESTMENT_OPTIONS.md) — Python and tests; **capacity value ≠ bankable savings**
+- [Regulated healthcare recruiting operating controls](01_AI_Enabled_Recruitment_Healthcare/ENTERPRISE_HEALTHCARE_HIRING_CONTROLS.md)
+- [AI vendor due diligence, model governance and risk-committee gates](55_AI_Recruitment_Screening_Risk_Assessment/AI_VENDOR_ASSURANCE_AND_RISK_COMMITTEE.md)
+
+**All executive outputs are original scenario specifications.** No implemented executive transformation, assessed AI vendor, running Claude agent, completed pilot, client result or achieved ROI is claimed.
+
 ## Integrated operating model — four clear capabilities
 
 **[Open the 20-project recruitment intelligence and assurance map](WORKFLOW_INTELLIGENCE_AND_RELEASE_MODEL.md).** No new standalone project created.

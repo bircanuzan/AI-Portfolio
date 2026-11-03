@@ -1,0 +1,49 @@
+{
+  "classification": "SYNTHETIC_VALUE_OPTIONS_ONLY",
+  "comparison_basis": "One fictional annual demand and cost model; NOT realised financial performance",
+  "annual_requisitions": 5000,
+  "options": [
+    {
+      "option_id": "baseline",
+      "description": "Manual baseline",
+      "gross_time_freed_hours": 0,
+      "extra_human_oversight_hours": 0,
+      "net_capacity_change_hours": 0,
+      "hypothetical_capacity_value_aed": 0,
+      "annual_vendor_and_assurance_cost_aed": 0,
+      "one_time_change_cost_aed": 0,
+      "first_year_capacity_value_less_costs_aed": 0,
+      "actual_cash_savings_aed": null,
+      "production_funding_approved": false
+    },
+    {
+      "option_id": "workflow_standardisation",
+      "description": "Non-AI process simplification with human approval",
+      "gross_time_freed_hours": 375,
+      "extra_human_oversight_hours": 41.67,
+      "net_capacity_change_hours": 333.33,
+      "hypothetical_capacity_value_aed": 33333.33,
+      "annual_vendor_and_assurance_cost_aed": 20000,
+      "one_time_change_cost_aed": 20000,
+      "first_year_capacity_value_less_costs_aed": -6666.67,
+      "actual_cash_savings_aed": null,
+      "production_funding_approved": false
+    },
+    {
+      "option_id": "ai_assisted_drafting",
+      "description": "Optional drafting assistant with mandatory human review",
+      "gross_time_freed_hours": 630,
+      "extra_human_oversight_hours": 83.33,
+      "net_capacity_change_hours": 546.67,
+      "hypothetical_capacity_value_aed": 54666.67,
+      "annual_vendor_and_assurance_cost_aed": 72000,
+      "one_time_change_cost_aed": 70000,
+      "first_year_capacity_value_less_costs_aed": -87333.33,
+      "actual_cash_savings_aed": null,
+      "production_funding_approved": false
+    }
+  ],
+  "executive_recommendation": "MEASURE_REAL_BASELINE_AND_PILOT_SIMPLE_PROCESS_FIRST",
+  "vendor_or_ai_release": "HOLD",
+  "monetization_uncertainty": "Capacity value does not equal cash cost reduction or incremental revenue. No actual HR hours, benefits or AI results measured."
+}

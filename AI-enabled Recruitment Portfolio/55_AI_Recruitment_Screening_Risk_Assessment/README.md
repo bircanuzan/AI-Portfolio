@@ -7,6 +7,10 @@
 ## The business problem
 A hypothetical UAE recruiter wants AI-assisted shortlisting with defensible qualification criteria, accessible handling of non-standard CVs and transparent human review. The team needs tests capable of detecting when irrelevant applicant signals drive screening outcomes.
 
+## Chief AI Officer vendor and risk governance
+
+[AI supplier assurance, risk appetite, monitoring, funding and Board/CHRO decision gates](AI_VENDOR_ASSURANCE_AND_RISK_COMMITTEE.md). This complements the actual offline Python assurance evidence; it is **not** a completed vendor assessment or third-party audit.
+
 ## New: Integrated screening and Claude workflow assurance
 
 - [End-to-end quality and human decision gates](END_TO_END_ASSURANCE_AND_HUMAN_GATE.md)

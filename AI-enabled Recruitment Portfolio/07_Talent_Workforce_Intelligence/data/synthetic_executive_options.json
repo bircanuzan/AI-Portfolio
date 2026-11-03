@@ -1,0 +1,40 @@
+{
+  "classification": "SYNTHETIC_VALUE_OPTIONS_ONLY",
+  "currency": "AED",
+  "annual_requisitions": 5000,
+  "minutes_per_requisition_baseline": 24,
+  "fully_loaded_hr_cost_aed_per_hour": 100,
+  "options": [
+    {
+      "id": "baseline",
+      "description": "Manual baseline",
+      "fraction_of_minutes_avoided": 0,
+      "eligible_adoption_fraction": 1,
+      "minutes_of_extra_human_oversight_per_requisition": 0,
+      "annual_license_cost_aed": 0,
+      "annual_assurance_support_aed": 0,
+      "one_time_build_change_cost_aed": 0
+    },
+    {
+      "id": "workflow_standardisation",
+      "description": "Non-AI process simplification with human approval",
+      "fraction_of_minutes_avoided": 0.25,
+      "eligible_adoption_fraction": 0.75,
+      "minutes_of_extra_human_oversight_per_requisition": 0.5,
+      "annual_license_cost_aed": 12000,
+      "annual_assurance_support_aed": 8000,
+      "one_time_build_change_cost_aed": 20000
+    },
+    {
+      "id": "ai_assisted_drafting",
+      "description": "Optional drafting assistant with mandatory human review",
+      "fraction_of_minutes_avoided": 0.45,
+      "eligible_adoption_fraction": 0.7,
+      "minutes_of_extra_human_oversight_per_requisition": 1,
+      "annual_license_cost_aed": 42000,
+      "annual_assurance_support_aed": 30000,
+      "one_time_build_change_cost_aed": 70000
+    }
+  ],
+  "prohibited_inference": "Hours valued at fully loaded cost are NOT cash savings and may not be monetisable, redeployed or realized. No AI product was actually tested."
+}
