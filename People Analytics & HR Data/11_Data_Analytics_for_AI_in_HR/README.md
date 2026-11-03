@@ -1,26 +1,27 @@
-# Project 11 — Data Analytics for AI in HR
+# Project 11 — Trusted HR Data, Descriptive Analytics and Metric Contracts
 
-**HumanEvoX | HR data analytics work-sample collection**
+**Five-hundred-row synthetic HR dataset; existing PDF, Excel, pandas script, SQL templates and Power BI DAX examples are preserved.**
 
-This folder brings together the original HR analytics Python example, SQL analysis queries, Power BI DAX measure templates, synthetic HR dataset, spreadsheet lab and portfolio PDF. All original files are preserved. No live client HR records, deployed BI dashboard, external data integration or observed business impact is claimed.
+## New: trusted-data production approach demonstrated offline
+- [Data contract and validation gates](DATA_CONTRACT_AND_QUALITY_GATES.md)
+- [Python standard-library validation and aggregate metric exporter](src/trusted_workforce_metrics.py)
+- [Data validation unit tests](tests/test_trusted_metrics.py)
+- [Reproducible synthetic aggregate output JSON](evidence/trusted_workforce_metrics.json)
 
-## Files and how to use them
-
-- [Synthetic HR dataset](synthetic_hr_data.csv) — invented employee rows used to illustrate workforce metrics and skills analysis.
-- [Python analytics example](hr_analytics_python_example.py) — a pandas-based script for data checks, workforce KPIs, department metrics and skill coverage.
-- [SQL query examples](hr_analytics_queries.sql) — example patterns for workforce, skills, mobility, recruitment and attrition analysis. Adapt table names and SQL dialect to an actual database before running.
-- [Power BI / DAX measures](power_bi_dax_measures.txt) — illustrative measures requiring a suitable imported HR data model.
-- [HR Analytics Lab workbook](HumanEvoX_AI_in_HR_Analytics_Lab.xlsx) — existing spreadsheet example.
-- [Data Analytics for AI in HR portfolio PDF](HumanEvoX_Data_Analytics_for_AI_in_HR_Portfolio.pdf) — the original presentation of the project.
-
-## Run the Python example
-
-From the **Project 11 folder**, with Python and pandas installed:
-
+Run from this Project 11 folder:
 ```bash
-python hr_analytics_python_example.py
+python src/trusted_workforce_metrics.py --out evidence/trusted_workforce_metrics.json
+python -m unittest discover -s tests -v
 ```
 
-This is a demonstration script rather than an automated production data pipeline; verify the source dataset, environment and analytical output independently.
+## Existing preserved artifacts
+- [Original invented source records](synthetic_hr_data.csv)
+- [Original pandas analytics script](hr_analytics_python_example.py)
+- [SQL example queries](hr_analytics_queries.sql)
+- [Power BI DAX measure patterns](power_bi_dax_measures.txt)
+- [HR analytics Excel workbook](HumanEvoX_AI_in_HR_Analytics_Lab.xlsx)
+- [Portfolio PDF](HumanEvoX_Data_Analytics_for_AI_in_HR_Portfolio.pdf)
 
-[People Analytics & HR Data collection](../README.md) · [Main repository index](../../README.md)
+**Distinct scope:** raw fictional source → strict data quality and denominator control → validated descriptive metrics. Project 52 handles presentation; Project 54 owns independent scenario modelling. `exit_12m` is an invented binary flag, **not a longitudinal employer attrition time series**.
+
+[Connected workflow](../WORKFORCE_INTELLIGENCE_PIPELINE.md) · [All four projects](../README.md)

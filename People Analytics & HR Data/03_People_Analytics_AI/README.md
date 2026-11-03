@@ -1,9 +1,12 @@
-# People Analytics & AI
+# People Analytics & AI — Executive Strategy & Governance
 
-Part of the HumanEvoX AI in HR portfolio. This folder is the navigation home for the people analytics & ai case-study collection.
+**Project 03** is the business / CHRO decision-architecture layer of this four-project portfolio.
 
-**Portfolio PDF:** [Open the full portfolio](HumanEvoX_People_Analytics_AI_Portfolio.pdf)
+- **[New: executive decision governance and responsible people-intelligence charter](DECISION_GOVERNANCE_AND_PEOPLE_INTELLIGENCE.md)** — measurable business questions, metric owners, decisions, executive risk gates and legitimate uses of descriptive vs predictive methods.
+- **[Original People Analytics & AI PDF](HumanEvoX_People_Analytics_AI_Portfolio.pdf)** — preserved unchanged.
 
-> The PDF is included within this project folder. This is a business-side portfolio; it does not assert hands-on HRIS configuration or systems integration.
+This project **does not** repeat Project 11 source transformations, Project 52 visualizations or Project 54 model code. It owns executive accountability and decision criteria.
 
-[People Analytics & HR Data collection](../README.md) · [Main portfolio index](../../README.md)
+[Connected workflow](../WORKFORCE_INTELLIGENCE_PIPELINE.md) · [Portfolio category](../README.md) · [Repository home](../../README.md)
+
+**Evidence boundary:** independent fictional framework and original illustrative PDF, not employer research, signoff or AI/HR implementation.

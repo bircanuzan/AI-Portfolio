@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>HumanEvoX | Executive People Intelligence — Synthetic Demonstration</title>
+<style>
+:root{font-family:system-ui,Inter,Arial,sans-serif;background:#101418;color:#e9ecef;font-size:15px}
+body{max-width:1120px;margin:auto;padding:26px 20px 80px;line-height:1.5}
+header{border-bottom:1px solid #615434;padding-bottom:18px}h1{color:#d8b86c;margin:6px 0;font-size:2.1rem}h2{margin-top:0;font-size:1.18rem;color:#e8d3a0}
+p,small{color:#c2c7ce}.note{border-left:4px solid #d8b86c;background:#252522;padding:12px 16px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:16px;margin:20px 0}
+.card{background:#1b2128;padding:18px;border:1px solid #404850;border-radius:12px}
+.kpi{font-size:2rem;font-weight:750;color:#eecb75}.label{color:#c9cfd5;font-size:.9rem}
+table{width:100%;border-collapse:collapse;overflow-x:auto}th,td{padding:9px;border-bottom:1px solid #35404a;text-align:left}th{color:#ebcf91}
+.meter{height:13px;background:#35414c;border-radius:12px;overflow:hidden}.bar{height:100%;background:#d5b16b}
+label{display:block;margin:10px 0 4px}input{width:100%;accent-color:#e9bf69}
+input:focus-visible{outline:2px solid #e9bf69;outline-offset:2px}
+.tag{border:1px solid #8e7745;border-radius:20px;padding:2px 9px;font-size:.8rem;color:#e6c67f}
+footer{margin-top:35px;padding-top:15px;border-top:1px solid #424953;font-size:.86rem;color:#c3cbd2}
+a{color:#f1cb74}output{color:#efd080;font-weight:650}
+</style></head><body>
+<header><span class="tag">Independent synthetic work sample</span><h1>Executive People Intelligence</h1>
+<p>Data provenance → quality checks → descriptive insight → independent synthetic scenario → human decisions</p>
+</header>
+<p class="note"><strong>Do not compare these populations.</strong> Snapshot KPIs use 500 fictional employee rows from Project 11. Forecast scenarios use a separate invented 24-month aggregate dataset from Project 54. Neither is real organisational evidence or a validated predictive model.</p>
+<section class="grid" aria-label="Synthetic data summary">
+ <div class="card"><div class="label">Project 11 synthetic workforce rows</div><div class="kpi" id="count"></div><small>Not employer headcount</small></div>
+ <div class="card"><div class="label">Synthetic exit-flag share</div><div class="kpi" id="exitflag"></div><small>Not validated annual turnover</small></div>
+ <div class="card"><div class="label">Synthetic internal mobility flag share</div><div class="kpi" id="mobility"></div></div>
+ <div class="card"><div class="label">Avg. learning hours (invented)</div><div class="kpi" id="learning"></div></div>
+</section>
+<section class="card"><h2>Descriptive analysis — department shares</h2>
+<p>Project 11, 500-row snapshot. Department values only where 10 or more records are available.</p>
+<table><thead><tr><th>Department</th><th>Rows</th><th>Flag share</th><th>Relative scale</th></tr></thead><tbody id="departments"></tbody></table></section>
+<section class="card" style="margin-top:18px">
+<h2>Scenario explorer — independent fictional monthly history</h2>
+<p>Chosen synthetic backtest benchmark: <strong id="method"></strong>. Last history month: <strong id="month"></strong>. All assumptions are illustrative; changing inputs does not validate predictions.</p>
+<div class="grid">
+<div><label for="hires">Planned hires per month: <output id="hiresLabel">7</output></label><input id="hires" type="range" min="0" max="20" step="1" value="7"></div>
+<div><label for="mult">Monthly exits multiplier: <output id="multLabel">1.00×</output></label><input id="mult" type="range" min="50" max="150" step="5" value="100"></div>
+</div>
+<div class="grid">
+ <div><div class="label">Projected closing workforce</div><div class="kpi" id="closing"></div><small>Not a real prediction</small></div>
+ <div><div class="label">Difference versus hypothetical target 220</div><div class="kpi" id="gap"></div></div>
+ <div><div class="label">Capacity (0.92 fictional availability factor)</div><div class="kpi" id="capacity"></div></div>
+</div>
+<table><thead><tr><th>Month</th><th>Starting</th><th>Planned hires</th><th>Assumed exits</th><th>Ending</th></tr></thead><tbody id="projection"></tbody></table>
+<p><small>Six future months use recursively derived baseline exits with a user-selected multiplier; exits cannot exceed opening workforce. This is headcount arithmetic, not a causal intervention estimate or statistical prediction interval.</small></p>
+</section>
+<section class="card" style="margin-top:18px"><h2>Chief People Officer / Chief AI Officer decision gate</h2>
+<p><strong>Recommended decision:</strong> Only approve better data collection, denominator verification, external time-based validation, skills/capacity alignment and privacy review. No staffing, pay or employment decision from these fictional examples.</p>
+<p><span class="tag">Human review required</span> <span class="tag">No personal risk scores</span> <span class="tag">Unvalidated scenarios</span></p></section>
+<footer>Source artifacts: Project 11 trusted_workforce_metrics.json and Project 54 forecast_scenario_synthetic.json. Snapshots embedded statically; refresh the HTML when the source/model changes. No network requests or personal records.</footer>
+<script>
+const trusted={"provenance":{"classification":"SYNTHETIC","source_file":"11_Data_Analytics_for_AI_in_HR/synthetic_hr_data.csv","source_rows":500,"source_grain":"one fictional employee row","window":"synthetic exit_12m and move_12m flags; exact event dates unavailable","schema_version":"1.0","minimum_group_size":10},"kpis":{"workforce_record_count":500,"exit_flagged_count":47,"exit_flag_share_pct":9.4,"internal_move_flag_share_pct":22,"average_learning_hours":31.1},"department_metrics":[{"department":"Customer Experience","records":59,"exit_flagged_count":5,"exit_flag_share_pct":8.5},{"department":"Finance","records":58,"exit_flagged_count":12,"exit_flag_share_pct":20.7},{"department":"HR","records":55,"exit_flagged_count":2,"exit_flag_share_pct":3.6},{"department":"Operations","records":65,"exit_flagged_count":7,"exit_flag_share_pct":10.8},{"department":"Risk","records":65,"exit_flagged_count":3,"exit_flag_share_pct":4.6},{"department":"Sales","records":69,"exit_flagged_count":5,"exit_flag_share_pct":7.2},{"department":"Strategy","records":65,"exit_flagged_count":9,"exit_flag_share_pct":13.8},{"department":"Technology","records":64,"exit_flagged_count":4,"exit_flag_share_pct":6.3}],"interpretation":"Synthetic snapshot metrics only. Exit-flag share is NOT a validated organization turnover rate or employee-level risk prediction. No cross-dataset joining with Project 54."};
+const forecast={"disclosure":"All monthly history, forecasts, scenarios, target and capacity assumptions are invented. Illustrative backtest scores cannot establish real-world predictive performance.","source":"54_Attrition_Analysis_200_Employee_Synthetic_Case/data/synthetic_monthly_workforce.csv","distinct_from_200_employee_quarterly_cohort":true,"history_months":24,"last_observed_month":"2026-06","start_of_projection_headcount":196,"validation":{"type":"expanding-origin six-month retrospective holdout","candidates":[{"method":"mean3","holdout_months":6,"mae_exits":1.2},{"method":"last","holdout_months":6,"mae_exits":1.3}],"chosen_method":"mean3","metric":"monthly exit count mean absolute error","limits":"single synthetic trajectory, six holdout months, no external validation"},"assumptions":{"planned_monthly_hires":7,"projection_horizon_months":6,"target_headcount":220,"capacity_factor":0.92,"human_review_required":true},"baseline_exit_forecast_by_month":[8,8,8,8,8,8],"scenarios":[{"name":"baseline","exit_multiplier":1,"months":[{"month":"2026-07","start_headcount":196,"planned_hires":7,"model_baseline_exits":8,"assumed_exits":8,"end_headcount":195},{"month":"2026-08","start_headcount":195,"planned_hires":7,"model_baseline_exits":8,"assumed_exits":8,"end_headcount":194},{"month":"2026-09","start_headcount":194,"planned_hires":7,"model_baseline_exits":8,"assumed_exits":8,"end_headcount":193},{"month":"2026-10","start_headcount":193,"planned_hires":7,"model_baseline_exits":8,"assumed_exits":8,"end_headcount":192},{"month":"2026-11","start_headcount":192,"planned_hires":7,"model_baseline_exits":8,"assumed_exits":8,"end_headcount":191},{"month":"2026-12","start_headcount":191,"planned_hires":7,"model_baseline_exits":8,"assumed_exits":8,"end_headcount":190}],"final_headcount":190,"gap_to_hypothetical_target_220":30,"capacity_fte_if_0_92_availability":174.8},{"name":"retention_hypothesis","exit_multiplier":0.85,"months":[{"month":"2026-07","start_headcount":196,"planned_hires":7,"model_baseline_exits":8,"assumed_exits":7,"end_headcount":196},{"month":"2026-08","start_headcount":196,"planned_hires":7,"model_baseline_exits":8,"assumed_exits":7,"end_headcount":196},{"month":"2026-09","start_headcount":196,"planned_hires":7,"model_baseline_exits":8,"assumed_exits":7,"end_headcount":196},{"month":"2026-10","start_headcount":196,"planned_hires":7,"model_baseline_exits":8,"assumed_exits":7,"end_headcount":196},{"month":"2026-11","start_headcount":196,"planned_hires":7,"model_baseline_exits":8,"assumed_exits":7,"end_headcount":196},{"month":"2026-12","start_headcount":196,"planned_hires":7,"model_baseline_exits":8,"assumed_exits":7,"end_headcount":196}],"final_headcount":196,"gap_to_hypothetical_target_220":24,"capacity_fte_if_0_92_availability":180.3},{"name":"stress","exit_multiplier":1.2,"months":[{"month":"2026-07","start_headcount":196,"planned_hires":7,"model_baseline_exits":8,"assumed_exits":10,"end_headcount":193},{"month":"2026-08","start_headcount":193,"planned_hires":7,"model_baseline_exits":8,"assumed_exits":10,"end_headcount":190},{"month":"2026-09","start_headcount":190,"planned_hires":7,"model_baseline_exits":8,"assumed_exits":10,"end_headcount":187},{"month":"2026-10","start_headcount":187,"planned_hires":7,"model_baseline_exits":8,"assumed_exits":10,"end_headcount":184},{"month":"2026-11","start_headcount":184,"planned_hires":7,"model_baseline_exits":8,"assumed_exits":10,"end_headcount":181},{"month":"2026-12","start_headcount":181,"planned_hires":7,"model_baseline_exits":8,"assumed_exits":10,"end_headcount":178}],"final_headcount":178,"gap_to_hypothetical_target_220":42,"capacity_fte_if_0_92_availability":163.8}]};
+const $=id=>document.getElementById(id);
+$("count").textContent=trusted.kpis.workforce_record_count.toLocaleString();
+$("exitflag").textContent=trusted.kpis.exit_flag_share_pct.toFixed(1)+"%";
+$("mobility").textContent=trusted.kpis.internal_move_flag_share_pct.toFixed(1)+"%";
+$("learning").textContent=trusted.kpis.average_learning_hours.toFixed(1);
+$("method").textContent=forecast.validation.chosen_method+" (synthetic holdout only)";
+$("month").textContent=forecast.last_observed_month;
+const deptBody=$("departments");
+for(const r of trusted.department_metrics){
+const tr=document.createElement("tr");
+const fields=[r.department,String(r.records),r.exit_flag_share_pct.toFixed(1)+"%"];
+for(const v of fields){const td=document.createElement("td");td.textContent=v;tr.appendChild(td);}
+const td=document.createElement("td");const meter=document.createElement("div");meter.className="meter";
+meter.setAttribute("role","img");meter.setAttribute("aria-label",r.exit_flag_share_pct.toFixed(1)+"% synthetic exit flag share");
+const bar=document.createElement("div");bar.className="bar";bar.style.width=Math.min(100,r.exit_flag_share_pct)+"%";meter.appendChild(bar);td.appendChild(meter);tr.appendChild(td);deptBody.appendChild(tr);
+}
+function draw(){
+const hires=Number($("hires").value),mult=Number($("mult").value)/100;
+$("hiresLabel").textContent=String(hires);$("multLabel").textContent=mult.toFixed(2)+"×";
+let count=forecast.start_of_projection_headcount;
+$("projection").replaceChildren();
+for(let i=0;i<forecast.baseline_exit_forecast_by_month.length;i++){
+const ym=forecast.scenarios[0].months[i].month, start=count;
+const exits=Math.min(count,Math.max(0,Math.round(forecast.baseline_exit_forecast_by_month[i]*mult)));
+count=count+hires-exits;
+const tr=document.createElement("tr");
+for(const v of [ym,start,hires,exits,count]){const td=document.createElement("td");td.textContent=String(v);tr.appendChild(td)}
+$("projection").appendChild(tr);
+}
+$("closing").textContent=count.toLocaleString();
+$("gap").textContent=String(count-forecast.assumptions.target_headcount);
+$("capacity").textContent=(count*forecast.assumptions.capacity_factor).toFixed(1)+" FTE";
+}
+$("hires").addEventListener("input",draw);$("mult").addEventListener("input",draw);draw();
+</script></body></html>

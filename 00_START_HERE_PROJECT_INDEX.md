@@ -24,7 +24,7 @@
 
 ## People Analytics & HR Data
 
-**[Explore the consolidated People Analytics & HR Data portfolio](People%20Analytics%20%26%20HR%20Data/)** — four existing HR analytics project collections, including the 60-concept visual dashboard library, executable attrition analysis, and Python/SQL/DAX analytics examples. Demonstrations use synthetic data unless separately verified.
+**[Explore the consolidated People Analytics & HR Data portfolio](People%20Analytics%20%26%20HR%20Data/)** — four differentiated projects connected through a [people-intelligence pipeline](People%20Analytics%20%26%20HR%20Data/WORKFORCE_INTELLIGENCE_PIPELINE.md): strategy/governance, 500-record synthetic data assurance, executive visualization, and independent synthetic 24-month workforce backtesting/scenarios. Includes tests and human decision safeguards; no real predictive performance claimed.
 
 ## HR Technology & Digital Transformation
 

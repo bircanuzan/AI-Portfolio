@@ -1,0 +1,69 @@
+{
+  "provenance": {
+    "classification": "SYNTHETIC",
+    "source_file": "11_Data_Analytics_for_AI_in_HR/synthetic_hr_data.csv",
+    "source_rows": 500,
+    "source_grain": "one fictional employee row",
+    "window": "synthetic exit_12m and move_12m flags; exact event dates unavailable",
+    "schema_version": "1.0",
+    "minimum_group_size": 10
+  },
+  "kpis": {
+    "workforce_record_count": 500,
+    "exit_flagged_count": 47,
+    "exit_flag_share_pct": 9.4,
+    "internal_move_flag_share_pct": 22,
+    "average_learning_hours": 31.1
+  },
+  "department_metrics": [
+    {
+      "department": "Customer Experience",
+      "records": 59,
+      "exit_flagged_count": 5,
+      "exit_flag_share_pct": 8.5
+    },
+    {
+      "department": "Finance",
+      "records": 58,
+      "exit_flagged_count": 12,
+      "exit_flag_share_pct": 20.7
+    },
+    {
+      "department": "HR",
+      "records": 55,
+      "exit_flagged_count": 2,
+      "exit_flag_share_pct": 3.6
+    },
+    {
+      "department": "Operations",
+      "records": 65,
+      "exit_flagged_count": 7,
+      "exit_flag_share_pct": 10.8
+    },
+    {
+      "department": "Risk",
+      "records": 65,
+      "exit_flagged_count": 3,
+      "exit_flag_share_pct": 4.6
+    },
+    {
+      "department": "Sales",
+      "records": 69,
+      "exit_flagged_count": 5,
+      "exit_flag_share_pct": 7.2
+    },
+    {
+      "department": "Strategy",
+      "records": 65,
+      "exit_flagged_count": 9,
+      "exit_flag_share_pct": 13.8
+    },
+    {
+      "department": "Technology",
+      "records": 64,
+      "exit_flagged_count": 4,
+      "exit_flag_share_pct": 6.3
+    }
+  ],
+  "interpretation": "Synthetic snapshot metrics only. Exit-flag share is NOT a validated organization turnover rate or employee-level risk prediction. No cross-dataset joining with Project 54."
+}

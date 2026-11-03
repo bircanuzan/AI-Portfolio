@@ -1,0 +1,214 @@
+{
+  "disclosure": "All monthly history, forecasts, scenarios, target and capacity assumptions are invented. Illustrative backtest scores cannot establish real-world predictive performance.",
+  "source": "54_Attrition_Analysis_200_Employee_Synthetic_Case/data/synthetic_monthly_workforce.csv",
+  "distinct_from_200_employee_quarterly_cohort": true,
+  "history_months": 24,
+  "last_observed_month": "2026-06",
+  "start_of_projection_headcount": 196,
+  "validation": {
+    "type": "expanding-origin six-month retrospective holdout",
+    "candidates": [
+      {
+        "method": "mean3",
+        "holdout_months": 6,
+        "mae_exits": 1.2
+      },
+      {
+        "method": "last",
+        "holdout_months": 6,
+        "mae_exits": 1.3
+      }
+    ],
+    "chosen_method": "mean3",
+    "metric": "monthly exit count mean absolute error",
+    "limits": "single synthetic trajectory, six holdout months, no external validation"
+  },
+  "assumptions": {
+    "planned_monthly_hires": 7,
+    "projection_horizon_months": 6,
+    "target_headcount": 220,
+    "capacity_factor": 0.92,
+    "human_review_required": true
+  },
+  "baseline_exit_forecast_by_month": [
+    8,
+    8,
+    8,
+    8,
+    8,
+    8
+  ],
+  "scenarios": [
+    {
+      "name": "baseline",
+      "exit_multiplier": 1,
+      "months": [
+        {
+          "month": "2026-07",
+          "start_headcount": 196,
+          "planned_hires": 7,
+          "model_baseline_exits": 8,
+          "assumed_exits": 8,
+          "end_headcount": 195
+        },
+        {
+          "month": "2026-08",
+          "start_headcount": 195,
+          "planned_hires": 7,
+          "model_baseline_exits": 8,
+          "assumed_exits": 8,
+          "end_headcount": 194
+        },
+        {
+          "month": "2026-09",
+          "start_headcount": 194,
+          "planned_hires": 7,
+          "model_baseline_exits": 8,
+          "assumed_exits": 8,
+          "end_headcount": 193
+        },
+        {
+          "month": "2026-10",
+          "start_headcount": 193,
+          "planned_hires": 7,
+          "model_baseline_exits": 8,
+          "assumed_exits": 8,
+          "end_headcount": 192
+        },
+        {
+          "month": "2026-11",
+          "start_headcount": 192,
+          "planned_hires": 7,
+          "model_baseline_exits": 8,
+          "assumed_exits": 8,
+          "end_headcount": 191
+        },
+        {
+          "month": "2026-12",
+          "start_headcount": 191,
+          "planned_hires": 7,
+          "model_baseline_exits": 8,
+          "assumed_exits": 8,
+          "end_headcount": 190
+        }
+      ],
+      "final_headcount": 190,
+      "gap_to_hypothetical_target_220": 30,
+      "capacity_fte_if_0_92_availability": 174.8
+    },
+    {
+      "name": "retention_hypothesis",
+      "exit_multiplier": 0.85,
+      "months": [
+        {
+          "month": "2026-07",
+          "start_headcount": 196,
+          "planned_hires": 7,
+          "model_baseline_exits": 8,
+          "assumed_exits": 7,
+          "end_headcount": 196
+        },
+        {
+          "month": "2026-08",
+          "start_headcount": 196,
+          "planned_hires": 7,
+          "model_baseline_exits": 8,
+          "assumed_exits": 7,
+          "end_headcount": 196
+        },
+        {
+          "month": "2026-09",
+          "start_headcount": 196,
+          "planned_hires": 7,
+          "model_baseline_exits": 8,
+          "assumed_exits": 7,
+          "end_headcount": 196
+        },
+        {
+          "month": "2026-10",
+          "start_headcount": 196,
+          "planned_hires": 7,
+          "model_baseline_exits": 8,
+          "assumed_exits": 7,
+          "end_headcount": 196
+        },
+        {
+          "month": "2026-11",
+          "start_headcount": 196,
+          "planned_hires": 7,
+          "model_baseline_exits": 8,
+          "assumed_exits": 7,
+          "end_headcount": 196
+        },
+        {
+          "month": "2026-12",
+          "start_headcount": 196,
+          "planned_hires": 7,
+          "model_baseline_exits": 8,
+          "assumed_exits": 7,
+          "end_headcount": 196
+        }
+      ],
+      "final_headcount": 196,
+      "gap_to_hypothetical_target_220": 24,
+      "capacity_fte_if_0_92_availability": 180.3
+    },
+    {
+      "name": "stress",
+      "exit_multiplier": 1.2,
+      "months": [
+        {
+          "month": "2026-07",
+          "start_headcount": 196,
+          "planned_hires": 7,
+          "model_baseline_exits": 8,
+          "assumed_exits": 10,
+          "end_headcount": 193
+        },
+        {
+          "month": "2026-08",
+          "start_headcount": 193,
+          "planned_hires": 7,
+          "model_baseline_exits": 8,
+          "assumed_exits": 10,
+          "end_headcount": 190
+        },
+        {
+          "month": "2026-09",
+          "start_headcount": 190,
+          "planned_hires": 7,
+          "model_baseline_exits": 8,
+          "assumed_exits": 10,
+          "end_headcount": 187
+        },
+        {
+          "month": "2026-10",
+          "start_headcount": 187,
+          "planned_hires": 7,
+          "model_baseline_exits": 8,
+          "assumed_exits": 10,
+          "end_headcount": 184
+        },
+        {
+          "month": "2026-11",
+          "start_headcount": 184,
+          "planned_hires": 7,
+          "model_baseline_exits": 8,
+          "assumed_exits": 10,
+          "end_headcount": 181
+        },
+        {
+          "month": "2026-12",
+          "start_headcount": 181,
+          "planned_hires": 7,
+          "model_baseline_exits": 8,
+          "assumed_exits": 10,
+          "end_headcount": 178
+        }
+      ],
+      "final_headcount": 178,
+      "gap_to_hypothetical_target_220": 42,
+      "capacity_fte_if_0_92_availability": 163.8
+    }
+  ]
+}

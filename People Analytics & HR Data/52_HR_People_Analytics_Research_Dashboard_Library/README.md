@@ -14,6 +14,12 @@
 
 **Result:** 60 original chart artifacts with topic-specific business problem, metric, numerical illustration, decision, technical description, disclosure and original source citation. **No measured client outcomes**.
 
+## New: Executive People Intelligence Scorecard (distinct from 60 concept dashboards)
+
+- [Open self-contained interactive HTML scorecard](workforce_intelligence_scorecard.html) — two *separate synthetic datasets* displayed with source notices, assumptions-based workforce scenario controls and human approval gates.
+- [Executive metric provenance, lineage and release criteria](EXECUTIVE_MEASUREMENT_AND_LINEAGE_GATE.md) — direct references to Project 11's aggregate data contract and Project 54's independent scenario output.
+- [Complete four-project pipeline](../WORKFORCE_INTELLIGENCE_PIPELINE.md) — no new duplicate standalone project.
+
 ## Start here
 
 - [Interactive dashboard explorer (HTML source)](dashboard_explorer.html) — download the raw HTML file and open it locally in Chrome or Edge; GitHub does not execute HTML in file previews.

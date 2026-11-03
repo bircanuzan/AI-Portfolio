@@ -4,6 +4,25 @@
 
 > **Evidence boundary:** This project uses 200 fabricated fictional employees. A Python standard-library analysis, four unit tests, a descriptive JSON reference snapshot and an original SVG dashboard are supplied. It is a **reproducible demonstration**, not real company analytics, causal research, an attrition prediction model or proof of reduced turnover.
 
+## New: Aggregate forecasting, scenario validation and responsible decision support
+
+The **original 200-employee fixed-cohort attrition example remains unchanged**. A separate invented **24-month aggregated workforce series** now demonstrates time-ordered forecasting and hiring/exits sensitivity; it is **not** derived from the original cohort and is not an individual attrition prediction.
+
+- [Forecast model card and rigorous usage limits](FORECAST_MODEL_CARD_AND_VALIDATION.md)
+- [Independent synthetic monthly workforce series](data/synthetic_monthly_workforce.csv)
+- [Standard-library rolling-origin forecast and scenario engine](src/workforce_scenario_forecast.py)
+- [Additional unit tests](tests/test_workforce_scenario_forecast.py)
+- [Reproducible synthetic forecast and sensitivity output](evidence/forecast_scenario_synthetic.json)
+- [Executive review record with human decision controls](DECISION_SIMULATION_REVIEW.md)
+
+Run from Project 54:
+```bash
+python src/workforce_scenario_forecast.py --out evidence/forecast_scenario_synthetic.json
+python -m unittest discover -s tests -v
+```
+
+[Four-project intelligence pipeline](../WORKFORCE_INTELLIGENCE_PIPELINE.md) · [Executive scorecard](../52_HR_People_Analytics_Research_Dashboard_Library/workforce_intelligence_scorecard.html)
+
 ## Business pain point
 A hypothetical UAE HR director wants a trustworthy initial view of employee departures. Before commissioning dashboards, leaders need transparent numerators/denominators, source checks, stakeholder interpretation and privacy controls.
 
