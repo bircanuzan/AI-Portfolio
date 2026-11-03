@@ -1,3 +1,11 @@
+## AI in HR & Agentic Automation
+
+[Explore AI in HR & Agentic Automation](AI%20in%20HR%20%26%20Agentic%20Automation/) — four distinct projects covering agent design, HR-service chatbot prototypes, Copilot Studio planning and offline policy-assistant evaluation. These are prototypes/portfolio designs, not live HRIS implementations.
+
+## HRIS & HCM Systems
+
+[Explore HRIS & HCM Systems](HRIS%20%26%20HCM%20Systems/) — one new cross-platform employee lifecycle, integration, data mapping and UAT project using a synthetic validation lab.
+
 ## Pilot Project — Agentic AI Competency Interviews & Talent Intelligence
 
 **[Independent HumanEvoX pilot: role-calibrated conversational AI, competency intelligence and evidence-based talent decisions](Pilot%20Project%20-%20Agentic%20AI%20Competency%20Interviews%20%26%20Talent%20Intelligence/)** — standalone (NOT nested in Talent Assessment). Includes public-market capability research, job-analysis/STAR/BARS skill mapping, proposed LLM/voice/ATS architecture, ethical safeguards, synthetic JSON blueprint, runnable offline Python and unit tests. **Not a live LLM, product replication, validated psychometric tool or client deployment.**
@@ -101,7 +109,7 @@ This portfolio brings together **AI-enabled HR transformation, talent intelligen
 
 - **[54 — Synthetic 200-Employee Attrition Analysis](People%20Analytics%20%26%20HR%20Data/54_Attrition_Analysis_200_Employee_Synthetic_Case/)** — independent CSV dataset, Python descriptive analytics with validation tests, executive results and GitHub SVG dashboard. Synthetic only.
 - **[55 — AI Recruitment Screening Risk Assessment](AI-enabled%20Recruitment%20Portfolio/55_AI_Recruitment_Screening_Risk_Assessment/)** — 16 paired hypothetical candidate tests, 14-risk register, mock flawed-vs-controlled scoring audit, Python tests and a HOLD recommendation. No real ATS/candidate assessment.
-- **[56 — HR Policy Assistant with 20-Question Evaluation](56_HR_Policy_Assistant_20_Question_Evaluation/)** — offline deterministic Python assistant, five fictional versioned sources, evaluation evidence including preserved failures, and human escalation design. No hosted LLM/production integration.
+- **[56 — HR Policy Assistant with 20-Question Evaluation](AI%20in%20HR%20%26%20Agentic%20Automation/56_HR_Policy_Assistant_20_Question_Evaluation/)** — offline deterministic Python assistant, five fictional versioned sources, evaluation evidence including preserved failures, and human escalation design. No hosted LLM/production integration.
 
 These are **separate folder-based, reproducible projects**, expanded from the [Project 53 HR-to-AI role map and 60-day framework](53_HR_to_AI_Role_Map_and_Evidence_Lab/). Their synthetic or local-prototype status is documented.
 
@@ -120,13 +128,13 @@ These are **separate folder-based, reproducible projects**, expanded from the [P
 | **02** | [HR Transformation](02_AI_Enabled_HR_Transformation/) | Redesign how HR departments work | Transformation strategies, workflows and operating models |
 | **03** | [People Analytics & AI](People%20Analytics%20%26%20HR%20Data/03_People_Analytics_AI/) | Use workforce data to guide HR decisions | HR dashboards, workforce metrics and analytics case studies |
 | **04** | [HR Technology & Employee Experience](HR%20Technology%20%26%20Digital%20Transformation/04_HR_Technology_Digital_Employee_Experience/) | Make employee HR services easier to use | HR system journeys, self-service and digital process design |
-| **05** | [AI Agents & HR Chatbots](05_AI_Agents_Chatbots_HR_Automation/) | Use AI assistants for everyday HR questions | Chatbot and agent workflows, controls and use cases |
+| **05** | [AI Agents & HR Chatbots](AI%20in%20HR%20%26%20Agentic%20Automation/05_AI_Agents_Chatbots_HR_Automation/) | Use AI assistants for everyday HR questions | Chatbot and agent workflows, controls and use cases |
 | **06** | [Workforce Planning](06_Workforce_Planning/) | Forecast the people and skills a business needs | Headcount, demand and capacity planning scenarios |
 | **07** | [Talent & Workforce Intelligence](AI-enabled%20Recruitment%20Portfolio/07_Talent_Workforce_Intelligence/) | Research labour markets and talent availability | Talent pools, skills supply and market mapping |
 | **08** | [Talent Management & Assessment](Talent%20Assessment/08_Talent_Management_Assessment/) | Evaluate employee and candidate capabilities | Assessment and talent management examples |
 | **09** | [HR Operations Automation](HR%20Operations%20%26%20Workflow%20Automation/09_AI_Automation_HR_Operations/) | Automate repeatable HR administration | Workflow controls and service automation examples |
 | **11** | [Data Analytics for AI in HR](People%20Analytics%20%26%20HR%20Data/11_Data_Analytics_for_AI_in_HR/) | Prepare and analyse HR data for AI | Data and analytics methods applied to HR cases |
-| **12** | [Agentic AI Across the HR Lifecycle](12_Building_Agentic_AI_for_Full_HR_Lifecycle/) | Design multiple AI agents for HR workflows | AI agent coordination and human-approval controls |
+| **12** | [Agentic AI Across the HR Lifecycle](AI%20in%20HR%20%26%20Agentic%20Automation/12_Building_Agentic_AI_for_Full_HR_Lifecycle/) | Design multiple AI agents for HR workflows | AI agent coordination and human-approval controls |
 | **13** | [Oracle Fusion HCM](Oracle%20Fusion%20HCM/13_Oracle_Fusion_HCM/) | Plan and govern Oracle HR system projects | Roadmap, governance, testing and implementation oversight examples |
 
 ## Technical Training, Voice AI & AI Evaluation
@@ -252,7 +260,7 @@ An illustrative OpenTrain-oriented HR benchmark: an AI assistant is asked to rev
 
 ## Project 43 — Microsoft Copilot Studio HR Service Agent Prototype
 
-**[Open Project 43 — Microsoft Copilot Studio HR Service Agent Implementation & Evaluation Lab](43_Microsoft_Copilot_Studio_HR_Service_Agent_Prototype/)** — real executable **local JavaScript (not LLM) HR policy assistant**, browser demo, 28 actual prompt-response records and reproducible testing, two documented failures, and a detailed **unexecuted** Copilot Studio / Power Automate tenant build guide. Companion to [Project 42](42_Human-AI_Workforce_Design_and_Agent_Governance/). **No Copilot Studio deployment, client engagement, live HRIS integration or quantified ROI is claimed.**
+**[Open Project 43 — Microsoft Copilot Studio HR Service Agent Implementation & Evaluation Lab](AI%20in%20HR%20%26%20Agentic%20Automation/43_Microsoft_Copilot_Studio_HR_Service_Agent_Prototype/)** — real executable **local JavaScript (not LLM) HR policy assistant**, browser demo, 28 actual prompt-response records and reproducible testing, two documented failures, and a detailed **unexecuted** Copilot Studio / Power Automate tenant build guide. Companion to [Project 42](42_Human-AI_Workforce_Design_and_Agent_Governance/). **No Copilot Studio deployment, client engagement, live HRIS integration or quantified ROI is claimed.**
 
 
 ## Project 44 — AI Ethics, Responsible AI & AI Governance

@@ -36,4 +36,4 @@ Python 3 standard library, JSON, GitHub, source-versioning, original SVG graphic
 ## Use for interviews
 “I wrote a local offline HR policy assistant using a versioned fictional policy catalogue, developed a 20-question benchmark covering routine services, human escalation and privacy, and reported failures without hiding them. It is an educational deterministic prototype, and I documented steps required for an authorised enterprise Copilot deployment.”
 
-Related: [Project 43 cloud integration design / local policy prototype](../43_Microsoft_Copilot_Studio_HR_Service_Agent_Prototype/) and [Project 42 human–AI governance](../42_Human-AI_Workforce_Design_and_Agent_Governance/). This is a separate standalone **five-source + twenty-prompt** case, not a claim of having deployed those other tools.
+Related: [Project 43 cloud integration design / local policy prototype](../43_Microsoft_Copilot_Studio_HR_Service_Agent_Prototype/) and [Project 42 human–AI governance](../../42_Human-AI_Workforce_Design_and_Agent_Governance/). This is a separate standalone **five-source + twenty-prompt** case, not a claim of having deployed those other tools.
