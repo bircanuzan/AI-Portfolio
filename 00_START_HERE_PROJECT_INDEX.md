@@ -8,7 +8,7 @@
 
 ## HRIS & HCM Systems
 
-[Explore HRIS & HCM Systems](HRIS%20%26%20HCM%20Systems/) — four complementary projects: cross-platform requirements/UAT, Oracle Fusion Cloud HCM architecture, SAP SuccessFactors Employee Central architecture, and a synthetic Python HRIS integration adapter with tests.
+[Explore HRIS & HCM Systems](HRIS%20%26%20HCM%20Systems/) — cross-platform requirements/UAT, SAP SuccessFactors Employee Central architecture and the vendor-neutral synthetic Python integration lab. Oracle-specific architecture is grouped under Oracle Fusion HCM.
 
 ## Pilot Project — Agentic AI Competency Interviews & Talent Intelligence
 
@@ -30,7 +30,7 @@
 
 ## Oracle Fusion HCM
 
-[Explore Oracle Fusion HCM](Oracle%20Fusion%20HCM/) — HCM portfolio governance, release management, UAT and go-live readiness simulations; no production implementation claimed.
+[Explore Oracle Fusion HCM](Oracle%20Fusion%20HCM/) — functional HCM configuration and release governance, Oracle-specific interface engineering, and HCM-to-ERP enterprise architecture, each with distinct scopes and synthetic technical evidence.
 
 ## AI Project & Program Management
 

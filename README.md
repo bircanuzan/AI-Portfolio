@@ -5,7 +5,7 @@
 
 ## Oracle Solution Architecture
 
-**[Explore the Oracle Solution Architecture portfolio](Oracle%20Solution%20Architecture/)** — new fictional six-subsidiary Oracle HCM-to-Finance business architecture case with discovery and requirements, logical Fusion HCM/ERP/OIC/OCI options, integration/data contracts, security and AI governance, phased delivery/UAT, plus a local synthetic Python staging validator. Independent design only; no production Oracle deployment or live Oracle tenant claimed.
+**[Explore the Oracle Solution Architecture portfolio](Oracle%20Fusion%20HCM/Oracle%20Solution%20Architecture/)** — new fictional six-subsidiary Oracle HCM-to-Finance business architecture case with discovery and requirements, logical Fusion HCM/ERP/OIC/OCI options, integration/data contracts, security and AI governance, phased delivery/UAT, plus a local synthetic Python staging validator. Independent design only; no production Oracle deployment or live Oracle tenant claimed.
 
 ## Agentic AI Automation
 
@@ -17,7 +17,7 @@
 
 ## HRIS & HCM Systems
 
-[Explore HRIS & HCM Systems](HRIS%20%26%20HCM%20Systems/) — four complementary projects: cross-platform requirements/UAT, Oracle Fusion Cloud HCM architecture, SAP SuccessFactors Employee Central architecture, and a synthetic Python HRIS integration adapter with tests.
+[Explore HRIS & HCM Systems](HRIS%20%26%20HCM%20Systems/) — cross-platform requirements/UAT, SAP SuccessFactors Employee Central architecture and the vendor-neutral synthetic Python integration lab. Oracle-specific architecture is grouped under Oracle Fusion HCM.
 
 ## Pilot Project — Agentic AI Competency Interviews & Talent Intelligence
 
@@ -37,7 +37,7 @@
 
 ## Oracle Fusion HCM
 
-[Explore Oracle Fusion HCM](Oracle%20Fusion%20HCM/) — HCM portfolio governance, release management, UAT and go-live readiness simulations; no production implementation claimed.
+[Explore Oracle Fusion HCM](Oracle%20Fusion%20HCM/) — functional HCM configuration and release governance, Oracle-specific interface engineering, and HCM-to-ERP enterprise architecture, each with distinct scopes and synthetic technical evidence.
 
 ## NEW — HRMS, Payroll Controls & People Analytics (UAE Financial Services)
 

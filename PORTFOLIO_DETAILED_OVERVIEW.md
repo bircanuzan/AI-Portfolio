@@ -15,7 +15,7 @@
 
 ## Oracle Fusion HCM
 
-[Explore Oracle Fusion HCM](Oracle%20Fusion%20HCM/) — HCM portfolio governance, release management, UAT and go-live readiness simulations; no production implementation claimed.
+[Explore Oracle Fusion HCM](Oracle%20Fusion%20HCM/) — functional HCM configuration and release governance, Oracle-specific interface engineering, and HCM-to-ERP enterprise architecture, each with distinct scopes and synthetic technical evidence.
 
 
 ## AI Project & Program Management
