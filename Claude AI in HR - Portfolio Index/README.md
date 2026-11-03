@@ -7,9 +7,9 @@ This is an **independently created portfolio** of **50 original HR agents/workfl
 
 Every project includes a tailored README, a portable `SKILL.md`, a fictional JSON case and a five-case acceptance protocol. **All 50 are designed but not yet tested in Claude**. No real client delivery, agent execution, candidate assessment or validated metric is claimed.
 
-**Created:** 2026-11-02. **Portfolio owner:** Bircan Uzan / HumanEvoX. **Primary uses:** HR transformation, HR agent governance, Claude skill design, responsible workflow implementation and evidence-led demos.
+**Created:** 2026-11-02. **Organisation update:** 2026-11-03 (eight employee-service projects moved under Agentic AI Automation). **Portfolio owner:** Bircan Uzan / HumanEvoX. **Primary uses:** HR transformation, HR agent governance, Claude skill design, responsible workflow implementation and evidence-led demos.
 
-## Portfolio index (50 standalone folders)
+## Portfolio index (50 distinct projects across standalone and grouped folders)
 
 ### Workforce planning
 
@@ -56,16 +56,16 @@ Every project includes a tailored README, a portable `SKILL.md`, a fictional JSO
 - **26. [New Manager Enablement](../Instructional%20Design%20and%20Talent%20Development/Claude%20AI%20in%20HR%20-%20New%20Manager%20Enablement/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
 - **27. [One-on-One Coaching Framework](../Instructional%20Design%20and%20Talent%20Development/Claude%20AI%20in%20HR%20-%20One-on-One%20Coaching%20Framework/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
 - **28. [Performance Feedback Drafting](../Claude%20AI%20in%20HR%20-%20Performance%20Feedback%20Drafting/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
-- **29. [Employee Relations Escalation Guide](../Claude%20AI%20in%20HR%20-%20Employee%20Relations%20Escalation%20Guide/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
-- **30. [Manager Self-Service Policy Assistant](../Claude%20AI%20in%20HR%20-%20Manager%20Self-Service%20Policy%20Assistant/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
+- **29. [Employee Relations Escalation Guide](../Agentic%20AI%20Automation/Claude%20Agentic%20AI%20in%20HR%20-%20HR%20Service%20%26%20Policy%20AI%20Assistants/Claude%20AI%20in%20HR%20-%20Employee%20Relations%20Escalation%20Guide/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
+- **30. [Manager Self-Service Policy Assistant](../Agentic%20AI%20Automation/Claude%20Agentic%20AI%20in%20HR%20-%20HR%20Service%20%26%20Policy%20AI%20Assistants/Claude%20AI%20in%20HR%20-%20Manager%20Self-Service%20Policy%20Assistant/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
 
 ### Employee communications
 
-- **31. [HR Policy Change Communication](../Claude%20AI%20in%20HR%20-%20HR%20Policy%20Change%20Communication/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
-- **32. [Employee FAQ Generator](../Claude%20AI%20in%20HR%20-%20Employee%20FAQ%20Generator/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
-- **33. [Sensitive HR Announcement Reviewer](../Claude%20AI%20in%20HR%20-%20Sensitive%20HR%20Announcement%20Reviewer/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
+- **31. [HR Policy Change Communication](../Agentic%20AI%20Automation/Claude%20Agentic%20AI%20in%20HR%20-%20HR%20Service%20%26%20Policy%20AI%20Assistants/Claude%20AI%20in%20HR%20-%20HR%20Policy%20Change%20Communication/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
+- **32. [Employee FAQ Generator](../Agentic%20AI%20Automation/Claude%20Agentic%20AI%20in%20HR%20-%20HR%20Service%20%26%20Policy%20AI%20Assistants/Claude%20AI%20in%20HR%20-%20Employee%20FAQ%20Generator/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
+- **33. [Sensitive HR Announcement Reviewer](../Agentic%20AI%20Automation/Claude%20Agentic%20AI%20in%20HR%20-%20HR%20Service%20%26%20Policy%20AI%20Assistants/Claude%20AI%20in%20HR%20-%20Sensitive%20HR%20Announcement%20Reviewer/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
 - **34. [Engagement Feedback Themes](../Claude%20AI%20in%20HR%20-%20Engagement%20Feedback%20Themes/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
-- **35. [Multilingual Employee Message QA](../Claude%20AI%20in%20HR%20-%20Multilingual%20Employee%20Message%20QA/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
+- **35. [Multilingual Employee Message QA](../Agentic%20AI%20Automation/Claude%20Agentic%20AI%20in%20HR%20-%20HR%20Service%20%26%20Policy%20AI%20Assistants/Claude%20AI%20in%20HR%20-%20Multilingual%20Employee%20Message%20QA/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
 
 ### Learning and development
 
@@ -77,8 +77,8 @@ Every project includes a tailored README, a portable `SKILL.md`, a fictional JSO
 
 ### People operations and reporting
 
-- **41. [HR Service Desk Triage](../Claude%20AI%20in%20HR%20-%20HR%20Service%20Desk%20Triage/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
-- **42. [Policy Retrieval and Citation](../Claude%20AI%20in%20HR%20-%20Policy%20Retrieval%20and%20Citation/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
+- **41. [HR Service Desk Triage](../Agentic%20AI%20Automation/Claude%20Agentic%20AI%20in%20HR%20-%20HR%20Service%20%26%20Policy%20AI%20Assistants/Claude%20AI%20in%20HR%20-%20HR%20Service%20Desk%20Triage/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
+- **42. [Policy Retrieval and Citation](../Agentic%20AI%20Automation/Claude%20Agentic%20AI%20in%20HR%20-%20HR%20Service%20%26%20Policy%20AI%20Assistants/Claude%20AI%20in%20HR%20-%20Policy%20Retrieval%20and%20Citation/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
 - **43. [Headcount and Attrition Reporting](../Claude%20AI%20in%20HR%20-%20Headcount%20and%20Attrition%20Reporting/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
 - **44. [HR Data Quality Controls](../Claude%20AI%20in%20HR%20-%20HR%20Data%20Quality%20Controls/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.
 - **45. [Weekly People Ops Executive Brief](../Claude%20AI%20in%20HR%20-%20Weekly%20People%20Ops%20Executive%20Brief/)** — agent workflow + `SKILL.md` + synthetic case + acceptance suite.

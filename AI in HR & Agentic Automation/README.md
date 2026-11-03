@@ -19,3 +19,6 @@ This is an independent **top-level GitHub category**, separate from HR Technolog
 **Truthfulness:** Client and production claims are limited to what individual project evidence supports. AI design documents, synthetic tests and local prototypes should not be represented as deployed enterprise applications.
 
 [Full project index](../00_START_HERE_PROJECT_INDEX.md)
+## Related dedicated automation category
+
+[Agentic AI Automation: Claude HR Service & Policy Assistants](../Agentic%20AI%20Automation/Claude%20Agentic%20AI%20in%20HR%20-%20HR%20Service%20%26%20Policy%20AI%20Assistants/) — eight independently authored Claude-compatible skill designs focused on HR employee services, policy and workplace communication.

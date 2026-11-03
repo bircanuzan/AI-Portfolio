@@ -1,3 +1,7 @@
+## Agentic AI Automation
+
+[Open Agentic AI Automation](Agentic%20AI%20Automation/) — [Claude Agentic AI in HR - HR Service & Policy AI Assistants](Agentic%20AI%20Automation/Claude%20Agentic%20AI%20in%20HR%20-%20HR%20Service%20%26%20Policy%20AI%20Assistants/) brings together eight existing HR-service, policy, relations and communications projects, retaining original files and designs.
+
 ## AI in HR & Agentic Automation
 
 [Explore AI in HR & Agentic Automation](AI%20in%20HR%20%26%20Agentic%20Automation/) — four distinct projects covering agent design, HR-service chatbot prototypes, Copilot Studio planning and offline policy-assistant evaluation. These are prototypes/portfolio designs, not live HRIS implementations.

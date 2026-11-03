@@ -1,3 +1,7 @@
+## Agentic AI Automation
+
+[Open Agentic AI Automation](Agentic%20AI%20Automation/) — [Claude Agentic AI in HR - HR Service & Policy AI Assistants](Agentic%20AI%20Automation/Claude%20Agentic%20AI%20in%20HR%20-%20HR%20Service%20%26%20Policy%20AI%20Assistants/) brings together eight existing HR-service, policy, relations and communications projects, retaining original files and designs.
+
 ## AI in HR & Agentic Automation
 
 [Explore AI in HR & Agentic Automation](AI%20in%20HR%20%26%20Agentic%20Automation/) — four distinct projects covering agent design, HR-service chatbot prototypes, Copilot Studio planning and offline policy-assistant evaluation. These are prototypes/portfolio designs, not live HRIS implementations.
@@ -87,7 +91,7 @@
 
 ## NEW — Claude AI in HR: 50 original agent-and-skill projects
 
-**[Browse all 50 standalone Claude AI in HR folders](Claude%20AI%20in%20HR%20-%20Portfolio%20Index/)** — 10 HR functions; 50 original agent workflows and reusable `SKILL.md` instructions; synthetic test inputs; five acceptance cases per project; human approvals and governance gates. **Unexecuted designs only (no claimed Claude runs); not a reproduction of the Gumroad author's proprietary package.**
+**[Browse the 50 Claude AI in HR projects](Claude%20AI%20in%20HR%20-%20Portfolio%20Index/)** — 10 HR functions; 50 original agent workflows and reusable `SKILL.md` instructions; synthetic test inputs; five acceptance cases per project; human approvals and governance gates. **Unexecuted designs only (no claimed Claude runs); not a reproduction of the Gumroad author's proprietary package.**
 
 
 ### Bircan Uzan | HumanEvoX
