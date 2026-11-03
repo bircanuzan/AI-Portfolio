@@ -23,6 +23,14 @@
 - Produced a revised portrait LinkedIn demonstration connecting activity analysis, role/job redesign, capacity and organisational structures. All footage is synthetic code-derived motion graphics.
 - Recorded 67 passed tests and 12/12 numeric scenarios on GitHub-hosted CI, before the final video documentation updates.
 
+## 0.2.1 — Agent runtime proof, 3 November 2026
+- Implemented a bounded observe / choose / execute / observe / replan / finish runtime with four real synthetic Python tools.
+- Added a deterministic offline test policy that selects conservative versus zero-adoption sensitivity **from prior observed results**.
+- Added an optional host-allowlisted HTTPS LLM action selector, **not live invoked**.
+- Tested fail-closed unknown tools, premature finish, repeated actions, unauthorized roles and requests for employee terminations.
+- Recorded 76 passing tests in GitHub Actions and generated a labelled captioned terminal-log replay from the **actual execution trace**.
+- This remains synthetic and offline. No production deployment, HRIS integration, actual LLM inference or real employee impact is claimed.
+
 ## Future releases — not implemented
 0.3: signed enterprise OIDC and policy-as-code identity; data lineage and secure integration contracts; red-team tests.  
 0.4: protected Azure/sovereign model nonproduction deployment and load testing.  
