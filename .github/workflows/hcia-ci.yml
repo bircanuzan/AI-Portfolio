@@ -1,0 +1,40 @@
+name: Human Capital Intelligence Agent — Offline Quality Gates
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'Agentic AI development/**'
+      - '.github/workflows/hcia-ci.yml'
+  pull_request:
+    paths:
+      - 'Agentic AI development/**'
+      - '.github/workflows/hcia-ci.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  unit-and-benchmark:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install
+        working-directory: Agentic AI development/Human Capital Intelligence Agent
+        run: pip install -r requirements.txt
+      - name: Unit security and analytical tests
+        working-directory: Agentic AI development/Human Capital Intelligence Agent
+        run: python -m unittest discover -s tests -v
+      - name: Scenario performance benchmark
+        working-directory: Agentic AI development/Human Capital Intelligence Agent
+        run: python scripts/benchmark.py > benchmark-results.json
+      - name: Show benchmark result
+        working-directory: Agentic AI development/Human Capital Intelligence Agent
+        run: cat benchmark-results.json
+      - name: Publish workflow artifact (synthetic benchmark only)
+        uses: actions/upload-artifact@v4
+        with:
+          name: hcia-synthetic-evidence
+          path: Agentic AI development/Human Capital Intelligence Agent/benchmark-results.json
