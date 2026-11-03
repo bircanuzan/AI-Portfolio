@@ -1,0 +1,291 @@
+{
+  "meta": {
+    "project": "Cedar Gulf Group Human–AI Workforce Redesign Lab",
+    "fictional": true,
+    "scope": "Illustrative Group People Services pilot, independent of group-level headcount dataset",
+    "productive_hours_per_fte": 1500,
+    "baseline_year": 2026,
+    "version": "0.2.0"
+  },
+  "activities": [
+    {
+      "id": "A1",
+      "work": "HR policy case intake and triage",
+      "annual_units": 5400,
+      "minutes_per_unit": 22,
+      "eligible_share": 0.55,
+      "adoption": 0.8,
+      "rework_share": 0.12,
+      "review_minutes_per_assisted_unit": 2.5,
+      "risk": "standard",
+      "source_role": "HR Operations Specialist",
+      "future_role": "Human–AI Service Operations Specialist",
+      "decision_right": "Human approves exceptions and policy interpretations"
+    },
+    {
+      "id": "A2",
+      "work": "Talent interview coordination",
+      "annual_units": 3200,
+      "minutes_per_unit": 18,
+      "eligible_share": 0.65,
+      "adoption": 0.75,
+      "rework_share": 0.1,
+      "review_minutes_per_assisted_unit": 1,
+      "risk": "standard",
+      "source_role": "Recruitment Coordinator",
+      "future_role": "Talent Operations & Intelligence Partner",
+      "decision_right": "Recruiter controls all candidate and hiring decisions"
+    },
+    {
+      "id": "A3",
+      "work": "Workforce data reconciliation",
+      "annual_units": 24,
+      "minutes_per_unit": 420,
+      "eligible_share": 0.45,
+      "adoption": 0.7,
+      "rework_share": 0.08,
+      "review_minutes_per_assisted_unit": 25,
+      "risk": "controlled",
+      "source_role": "Workforce Analyst",
+      "future_role": "Workforce Intelligence & Data Steward",
+      "decision_right": "Data steward signs off discrepancies and source of truth"
+    },
+    {
+      "id": "A4",
+      "work": "Learning administration and enrolment",
+      "annual_units": 2500,
+      "minutes_per_unit": 16,
+      "eligible_share": 0.6,
+      "adoption": 0.85,
+      "rework_share": 0.1,
+      "review_minutes_per_assisted_unit": 1.5,
+      "risk": "standard",
+      "source_role": "Learning Coordinator",
+      "future_role": "Capability & Redeployment Partner",
+      "decision_right": "Human approves learning or mobility outcomes"
+    },
+    {
+      "id": "A5",
+      "work": "Job evaluation and grade approvals",
+      "annual_units": 220,
+      "minutes_per_unit": 95,
+      "eligible_share": 0,
+      "risk": "reserved_decision",
+      "source_role": "Reward Business Partner",
+      "future_role": "Job Architecture & Reward Governance Lead",
+      "decision_right": "Licensed or authorised human evaluation and moderation panel"
+    },
+    {
+      "id": "A6",
+      "work": "Employee relations and termination decisions",
+      "annual_units": 150,
+      "minutes_per_unit": 120,
+      "eligible_share": 0,
+      "risk": "reserved_decision",
+      "source_role": "HR Business Partner",
+      "future_role": "Employee Relations & Risk Partner",
+      "decision_right": "Human Legal / ER decision; no automated termination"
+    },
+    {
+      "id": "A7",
+      "work": "Strategic workforce scenario preparation",
+      "annual_units": 65,
+      "minutes_per_unit": 360,
+      "eligible_share": 0.35,
+      "adoption": 0.7,
+      "rework_share": 0.1,
+      "review_minutes_per_assisted_unit": 30,
+      "risk": "controlled",
+      "source_role": "Workforce Analyst",
+      "future_role": "Human–AI Workforce Design Lead",
+      "decision_right": "Group OE, CFO and CPO ratify any structural change"
+    }
+  ],
+  "job_architecture": [
+    {
+      "role": "Human–AI Service Operations Specialist",
+      "family": "HC Operations",
+      "stream": "Professional",
+      "proposed_band": "P3 illustrative",
+      "skills": [
+        "service design",
+        "AI exception triage",
+        "human escalation",
+        "employee data privacy"
+      ],
+      "accountable_for": "Service completion, legal/policy exceptions, agent service quality"
+    },
+    {
+      "role": "Talent Operations & Intelligence Partner",
+      "family": "Talent Acquisition",
+      "stream": "Professional",
+      "proposed_band": "P3 illustrative",
+      "skills": [
+        "ATS process design",
+        "talent data interpretation",
+        "candidate fairness",
+        "interview operations"
+      ],
+      "accountable_for": "Recruitment coordination and audit of AI-assisted process output"
+    },
+    {
+      "role": "Workforce Intelligence & Data Steward",
+      "family": "People Analytics",
+      "stream": "Expert",
+      "proposed_band": "P4 illustrative",
+      "skills": [
+        "HRIS data lineage",
+        "Python/SQL analytics",
+        "workforce reconciliation",
+        "data controls"
+      ],
+      "accountable_for": "Data quality, source reconciliation and trusted workforce analysis"
+    },
+    {
+      "role": "Capability & Redeployment Partner",
+      "family": "Talent & Capability",
+      "stream": "Professional",
+      "proposed_band": "P3 illustrative",
+      "skills": [
+        "skills taxonomy",
+        "mobility planning",
+        "learning operations",
+        "capability assessment"
+      ],
+      "accountable_for": "Employee learning access, mobility support and capabilities"
+    },
+    {
+      "role": "Job Architecture & Reward Governance Lead",
+      "family": "Reward / OE",
+      "stream": "Expert",
+      "proposed_band": "P5 illustrative",
+      "skills": [
+        "job analysis",
+        "job evaluation governance",
+        "reward parity",
+        "committee moderation"
+      ],
+      "accountable_for": "Role family standards, grade evaluation decisions and internal parity"
+    },
+    {
+      "role": "Employee Relations & Risk Partner",
+      "family": "HRBP / Legal",
+      "stream": "Expert",
+      "proposed_band": "P5 illustrative",
+      "skills": [
+        "employee relations",
+        "labour risk",
+        "consultation",
+        "case governance"
+      ],
+      "accountable_for": "Human-only employee relations and termination determinations"
+    },
+    {
+      "role": "Human–AI Workforce Design Lead",
+      "family": "Organisation Effectiveness",
+      "stream": "Leadership",
+      "proposed_band": "P5 illustrative",
+      "skills": [
+        "organisation design",
+        "scenario planning",
+        "human-agent work allocation",
+        "people cost modelling"
+      ],
+      "accountable_for": "Target structure proposals, workforce scenarios, CPO decision packs"
+    },
+    {
+      "role": "Agent Service Assurance & Governance Lead",
+      "family": "AI Service Governance",
+      "stream": "Expert",
+      "proposed_band": "P4 illustrative",
+      "skills": [
+        "AI assurance",
+        "observability",
+        "risk controls",
+        "incident response"
+      ],
+      "accountable_for": "Agent lifecycle and permissions, escalation assurance and operational resilience"
+    }
+  ],
+  "future_structure": [
+    {
+      "unit": "Group People Office",
+      "reports_to": null,
+      "human_accountability": "CPO",
+      "scope": "People strategy and reserved decisions"
+    },
+    {
+      "unit": "Group OE & Workforce Architecture",
+      "reports_to": "Group People Office",
+      "human_accountability": "Group OE Director",
+      "scope": "Work design, job architecture, approved structural changes"
+    },
+    {
+      "unit": "People Data & Workforce Intelligence",
+      "reports_to": "Group OE & Workforce Architecture",
+      "human_accountability": "Workforce Intelligence Lead",
+      "scope": "Scenario, position and budget decision evidence"
+    },
+    {
+      "unit": "Human–AI HC Service Operations",
+      "reports_to": "Group People Office",
+      "human_accountability": "HC Service Director",
+      "scope": "Service delivery, agent oversight and exception handling"
+    },
+    {
+      "unit": "Talent & Capability Intelligence",
+      "reports_to": "Group People Office",
+      "human_accountability": "Talent Director",
+      "scope": "Hiring intelligence, succession and reskilling"
+    },
+    {
+      "unit": "Reward & Employee Risk Governance",
+      "reports_to": "Group People Office",
+      "human_accountability": "Reward / ER Leads",
+      "scope": "Grade parity, sensitive people outcomes and escalation"
+    },
+    {
+      "unit": "Agent Risk & Assurance (matrix)",
+      "reports_to": "Group OE & Workforce Architecture",
+      "human_accountability": "Agent Service Assurance Lead; CIO/CISO risk partnership",
+      "scope": "Permission monitoring, model evaluation and incident management"
+    }
+  ],
+  "current_structure": [
+    "CPO",
+    "Entity HR Services (fragmented)",
+    "Recruitment Coordination",
+    "People Analytics (manual)",
+    "Reward & Employee Relations"
+  ],
+  "redistribution_weights": [
+    {
+      "investment": "Human-led service quality and exception resolution",
+      "weight": 0.3,
+      "owner": "HC Service Director"
+    },
+    {
+      "investment": "Workforce scenario modelling and reconciled data",
+      "weight": 0.25,
+      "owner": "Group OE / People Analytics"
+    },
+    {
+      "investment": "Reskilling and internal mobility support",
+      "weight": 0.2,
+      "owner": "Talent & Capability Director"
+    },
+    {
+      "investment": "AI service monitoring and workforce governance",
+      "weight": 0.25,
+      "owner": "CIO / Group OE"
+    }
+  ],
+  "gates": [
+    "Data owners validate activity volumes and process times",
+    "ER/Legal/Reward review sensitive decision rights",
+    "CFO verifies costs and reinvestment assumptions",
+    "CPO/Human Capital Committee approves any actual changes",
+    "Change and employee consultation precede implementation",
+    "AI safety/privacy and source integrations pass independent assurance"
+  ]
+}
