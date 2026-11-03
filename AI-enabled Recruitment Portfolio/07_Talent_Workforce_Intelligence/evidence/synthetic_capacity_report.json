@@ -1,0 +1,89 @@
+{
+  "classification": "SYNTHETIC_REVIEW_WORKLOAD_ONLY",
+  "requisitions": 6,
+  "notional_hiring_demand": 14,
+  "fictional_queue_total": 18,
+  "review_capacity_gap_hours": 7.5,
+  "records": [
+    {
+      "requisition_id": "RQ-01",
+      "market": "UAE",
+      "role_family": "Healthcare",
+      "hiring_demand": 3,
+      "fictional_review_queue": 6,
+      "review_queue_coverage": 2,
+      "review_workload_hours": 9,
+      "available_hours": 7,
+      "review_hour_gap": 2,
+      "human_action": "REVIEW_REQUIREMENTS_AND_CAPACITY",
+      "candidate_quality_or_hire_prediction": false
+    },
+    {
+      "requisition_id": "RQ-02",
+      "market": "KSA",
+      "role_family": "Healthcare",
+      "hiring_demand": 2,
+      "fictional_review_queue": 1,
+      "review_queue_coverage": 0.5,
+      "review_workload_hours": 1.5,
+      "available_hours": 4,
+      "review_hour_gap": 0,
+      "human_action": "REVIEW_REQUIREMENTS_AND_CAPACITY",
+      "candidate_quality_or_hire_prediction": false
+    },
+    {
+      "requisition_id": "RQ-03",
+      "market": "UAE",
+      "role_family": "AI Engineering",
+      "hiring_demand": 2,
+      "fictional_review_queue": 5,
+      "review_queue_coverage": 2.5,
+      "review_workload_hours": 10,
+      "available_hours": 6,
+      "review_hour_gap": 4,
+      "human_action": "REVIEW_REQUIREMENTS_AND_CAPACITY",
+      "candidate_quality_or_hire_prediction": false
+    },
+    {
+      "requisition_id": "RQ-04",
+      "market": "KSA",
+      "role_family": "Cloud",
+      "hiring_demand": 4,
+      "fictional_review_queue": 3,
+      "review_queue_coverage": 0.75,
+      "review_workload_hours": 4.5,
+      "available_hours": 3,
+      "review_hour_gap": 1.5,
+      "human_action": "REVIEW_REQUIREMENTS_AND_CAPACITY",
+      "candidate_quality_or_hire_prediction": false
+    },
+    {
+      "requisition_id": "RQ-05",
+      "market": "UAE",
+      "role_family": "HR Transformation",
+      "hiring_demand": 1,
+      "fictional_review_queue": 3,
+      "review_queue_coverage": 3,
+      "review_workload_hours": 3.75,
+      "available_hours": 5,
+      "review_hour_gap": 0,
+      "human_action": "REVIEW_REQUIREMENTS_AND_CAPACITY",
+      "candidate_quality_or_hire_prediction": false
+    },
+    {
+      "requisition_id": "RQ-06",
+      "market": "UAE",
+      "role_family": "Cybersecurity",
+      "hiring_demand": 2,
+      "fictional_review_queue": 0,
+      "review_queue_coverage": 0,
+      "review_workload_hours": 0,
+      "available_hours": 3,
+      "review_hour_gap": 0,
+      "human_action": "REVIEW_REQUIREMENTS_AND_CAPACITY",
+      "candidate_quality_or_hire_prediction": false
+    }
+  ],
+  "automated_hiring": false,
+  "interpretation": "Queue counts are not qualified applicants, placement forecasts, actual talent market data or hiring probabilities"
+}

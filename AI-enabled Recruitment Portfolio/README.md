@@ -2,6 +2,17 @@
 
 HumanEvoX | AI-assisted recruitment, talent intelligence, structured selection and cross-border hiring. **20 original project folders** are collected here with their individual structures preserved. No live client recruitment or production AI use is implied.
 
+## Integrated operating model — four clear capabilities
+
+**[Open the 20-project recruitment intelligence and assurance map](WORKFLOW_INTELLIGENCE_AND_RELEASE_MODEL.md).** No new standalone project created.
+
+- **[01 — Healthcare role & credential readiness](01_AI_Enabled_Recruitment_Healthcare/ROLE_AND_CREDENTIAL_READINESS.md)**: source/evidence completeness, clinical owner requirements, Python tests and synthetic report.
+- **[07 — Recruitment pipeline and reviewer capacity](07_Talent_Workforce_Intelligence/PIPELINE_CAPACITY_AND_DECISION_METHOD.md)**: capacity bottlenecks on six fictional requisitions, Python tests, reproducible snapshot.
+- **[17 existing Claude-compatible workflow handoffs](CLAUDE_WORKFLOW_HANDOFFS.md)**: each retains its original SKILL.md and unique job-to-be-done.
+- **[55 — Screening and human decision assurance](55_AI_Recruitment_Screening_Risk_Assessment/END_TO_END_ASSURANCE_AND_HUMAN_GATE.md)**: original 16 paired risk tests, catalog integrity verification and nonproduction HOLD gate.
+
+All original PDFs, files and 20 project directories are preserved. No live Claude, client data, ATS integration, selection decisions, visa approvals or realised outcomes are claimed.
+
 ## AI recruitment & talent intelligence
 
 - [01_AI_Enabled_Recruitment_Healthcare](01_AI_Enabled_Recruitment_Healthcare/)

@@ -7,6 +7,15 @@
 ## The business problem
 A hypothetical UAE recruiter wants AI-assisted shortlisting with defensible qualification criteria, accessible handling of non-standard CVs and transparent human review. The team needs tests capable of detecting when irrelevant applicant signals drive screening outcomes.
 
+## New: Integrated screening and Claude workflow assurance
+
+- [End-to-end quality and human decision gates](END_TO_END_ASSURANCE_AND_HUMAN_GATE.md)
+- [All 17 pre-existing Claude workflow contracts](workflow_catalog.json)
+- [Executable folder and SKILL integrity audit](src/catalog_integrity.py) with [unit tests](tests/test_release_assurance.py)
+- [Nonproduction selection-system release gate](src/release_assurance.py) and [reproducible HOLD report](evidence/recruitment_release_gate.json)
+
+This extension builds on the original 16 matched-pair mock tests. It does not add another recruitment AI agent or claim actual candidate screening.
+
 ## What I built
 - [16 paired counterfactual scenarios](data/paired_synthetic_candidate_tests.json): 32 fictional candidate variants to test decision stability.
 - [14-risk register](data/risk_register.csv) with failure modes, controls and assigned illustrative roles.

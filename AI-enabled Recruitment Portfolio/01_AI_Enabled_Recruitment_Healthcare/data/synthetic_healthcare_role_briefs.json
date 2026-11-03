@@ -1,0 +1,54 @@
+{
+  "classification": "SYNTHETIC_ONLY",
+  "roles": [
+    {
+      "id": "HC-UAE-01",
+      "market": "UAE",
+      "location": "Dubai",
+      "role": "Fictional clinical service role",
+      "skills": [
+        "patient safety",
+        "handover"
+      ],
+      "clinical_owner": "Clinical Head",
+      "hr_owner": "Recruitment Manager",
+      "licence_review_required": true,
+      "official_rule_source": "",
+      "policy_version": "",
+      "official_rule_verified": false,
+      "role_brief_signed": false
+    },
+    {
+      "id": "HC-KSA-02",
+      "market": "KSA",
+      "location": "Riyadh",
+      "role": "Fictional clinical service role",
+      "skills": [
+        "care escalation"
+      ],
+      "clinical_owner": "Clinical Head",
+      "hr_owner": "Recruitment Manager",
+      "licence_review_required": true,
+      "official_rule_source": "SYNTHETIC_PLACEHOLDER",
+      "policy_version": "ILLUSTRATIVE",
+      "official_rule_verified": false,
+      "role_brief_signed": false
+    },
+    {
+      "id": "HC-UAE-03",
+      "market": "UAE",
+      "location": "Abu Dhabi",
+      "role": "Fictional administrative health service role",
+      "skills": [
+        "patient scheduling"
+      ],
+      "clinical_owner": "Service Head",
+      "hr_owner": "Recruitment Manager",
+      "licence_review_required": false,
+      "official_rule_source": "",
+      "policy_version": "",
+      "official_rule_verified": false,
+      "role_brief_signed": false
+    }
+  ]
+}

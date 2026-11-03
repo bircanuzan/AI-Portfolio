@@ -1,0 +1,56 @@
+name: Recruitment Portfolio - Synthetic Quality Gates
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'AI-enabled Recruitment Portfolio/**'
+      - '.github/workflows/recruitment-portfolio-ci.yml'
+  pull_request:
+    paths:
+      - 'AI-enabled Recruitment Portfolio/**'
+      - '.github/workflows/recruitment-portfolio-ci.yml'
+  workflow_dispatch:
+
+jobs:
+  offline-recruitment-controls:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Healthcare role / credential source validation
+        run: python -m unittest discover -s "AI-enabled Recruitment Portfolio/01_AI_Enabled_Recruitment_Healthcare/tests" -v
+      - name: Recruitment operational capacity analytics
+        run: python -m unittest discover -s "AI-enabled Recruitment Portfolio/07_Talent_Workforce_Intelligence/tests" -v
+      - name: Mock screening risk and all 17 Claude workflow guardrails
+        run: python -m unittest discover -s "AI-enabled Recruitment Portfolio/55_AI_Recruitment_Screening_Risk_Assessment/tests" -v
+      - name: Reproduce source reports and validate no recruitment deployment
+        run: |
+          python "AI-enabled Recruitment Portfolio/01_AI_Enabled_Recruitment_Healthcare/src/role_readiness.py" --out /tmp/hc_role.json > /dev/null
+          python "AI-enabled Recruitment Portfolio/07_Talent_Workforce_Intelligence/src/recruitment_capacity.py" --out /tmp/recruitment_capacity.json > /dev/null
+          python "AI-enabled Recruitment Portfolio/55_AI_Recruitment_Screening_Risk_Assessment/src/release_assurance.py" --out /tmp/recruitment_hold.json > /dev/null
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          base=Path('AI-enabled Recruitment Portfolio')
+          cases=[
+            ('/tmp/hc_role.json',base/'01_AI_Enabled_Recruitment_Healthcare/evidence/role_readiness.json'),
+            ('/tmp/recruitment_capacity.json',base/'07_Talent_Workforce_Intelligence/evidence/synthetic_capacity_report.json'),
+            ('/tmp/recruitment_hold.json',base/'55_AI_Recruitment_Screening_Risk_Assessment/evidence/recruitment_release_gate.json'),
+          ]
+          for current,committed in cases:
+            assert json.loads(Path(current).read_text())==json.loads(committed.read_text()),str(committed)+' has changed'
+          h=json.loads(Path('/tmp/hc_role.json').read_text())
+          c=json.loads(Path('/tmp/recruitment_capacity.json').read_text())
+          q=json.loads(Path('/tmp/recruitment_hold.json').read_text())
+          assert h['production_release']=='HOLD' and q['production_release']=='HOLD'
+          assert not c['automated_hiring']
+          assert q['claude_designs']==17 and q['claude_integrity_pass'] is True
+          assert all(not x['hiring_authorized'] for x in h['results'])
+          print('Synthetic outputs reproducible, all human-decision and release gates enforced')
+          PY

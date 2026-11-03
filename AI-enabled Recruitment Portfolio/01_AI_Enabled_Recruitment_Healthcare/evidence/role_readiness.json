@@ -1,0 +1,40 @@
+{
+  "classification": "SYNTHETIC_ONLY",
+  "role_count": 3,
+  "human_review_required": true,
+  "production_release": "HOLD",
+  "results": [
+    {
+      "role_id": "HC-UAE-01",
+      "status": "HOLD",
+      "gaps": [
+        "official_rule_source",
+        "policy_version",
+        "OFFICIAL_RULE_NOT_VERIFIED",
+        "HUMAN_ROLE_APPROVAL_PENDING"
+      ],
+      "licence_verified": false,
+      "hiring_authorized": false
+    },
+    {
+      "role_id": "HC-KSA-02",
+      "status": "HOLD",
+      "gaps": [
+        "OFFICIAL_RULE_NOT_VERIFIED",
+        "HUMAN_ROLE_APPROVAL_PENDING"
+      ],
+      "licence_verified": false,
+      "hiring_authorized": false
+    },
+    {
+      "role_id": "HC-UAE-03",
+      "status": "HOLD",
+      "gaps": [
+        "HUMAN_ROLE_APPROVAL_PENDING"
+      ],
+      "licence_verified": false,
+      "hiring_authorized": false
+    }
+  ],
+  "disclosure": "No real role licensure, regulations or candidate credentials verified"
+}

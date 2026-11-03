@@ -77,7 +77,7 @@
 
 ## AI-enabled Recruitment Portfolio
 
-**[Browse the 20 consolidated recruitment and selection projects](AI-enabled%20Recruitment%20Portfolio/)** — original files, demonstrations and synthetic exercises retained under one parent folder.
+**[Browse the 20 consolidated recruitment and selection projects](AI-enabled%20Recruitment%20Portfolio/)** — [connected recruitment intelligence and assurance workflow](AI-enabled%20Recruitment%20Portfolio/WORKFLOW_INTELLIGENCE_AND_RELEASE_MODEL.md): healthcare source readiness, TA reviewer capacity, 17 differentiated Claude draft handoffs, and audited screening HOLD gates with executable tests. Original files and synthetic status preserved.
 
 ## NEW — Agentic AI Engineering: Enterprise Workflow Agent (HumanEvoX)
 

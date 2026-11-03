@@ -1,0 +1,126 @@
+{
+  "classification": "SYNTHETIC_WORKFLOW_DESIGNS_ONLY",
+  "claude_executed": false,
+  "count": 17,
+  "flows": [
+    {
+      "folder": "Claude AI in HR - Hiring Manager Role Intake",
+      "stage": "Requisition and Role Design",
+      "human_reviewer": "Hiring Manager and HRBP",
+      "source_required": true,
+      "external_action": "NONE"
+    },
+    {
+      "folder": "Claude AI in HR - Inclusive Job Description Builder",
+      "stage": "Requisition and Role Design",
+      "human_reviewer": "Hiring Manager and HRBP",
+      "source_required": true,
+      "external_action": "NONE"
+    },
+    {
+      "folder": "Claude AI in HR - Objective Selection Criteria Matrix",
+      "stage": "Requisition and Role Design",
+      "human_reviewer": "Hiring Manager and HRBP",
+      "source_required": true,
+      "external_action": "NONE"
+    },
+    {
+      "folder": "Claude AI in HR - Position Requisition Approval Pack",
+      "stage": "Requisition and Role Design",
+      "human_reviewer": "Hiring Manager and HRBP",
+      "source_required": true,
+      "external_action": "NONE"
+    },
+    {
+      "folder": "Claude AI in HR - Structured Interview Question Bank",
+      "stage": "Structured Selection",
+      "human_reviewer": "Hiring Panel Chair",
+      "source_required": true,
+      "external_action": "NONE"
+    },
+    {
+      "folder": "Claude AI in HR - Interview Process and Panel Planner",
+      "stage": "Structured Selection",
+      "human_reviewer": "Hiring Panel Chair",
+      "source_required": true,
+      "external_action": "NONE"
+    },
+    {
+      "folder": "Claude AI in HR - Interview Evidence Recorder",
+      "stage": "Structured Selection",
+      "human_reviewer": "Hiring Panel Chair",
+      "source_required": true,
+      "external_action": "NONE"
+    },
+    {
+      "folder": "Claude AI in HR - Panel Debrief and Calibration",
+      "stage": "Structured Selection",
+      "human_reviewer": "Hiring Panel Chair",
+      "source_required": true,
+      "external_action": "NONE"
+    },
+    {
+      "folder": "Claude AI in HR - Candidate Scheduling Coordinator",
+      "stage": "Candidate Coordination",
+      "human_reviewer": "Recruitment Operations",
+      "source_required": true,
+      "external_action": "NONE"
+    },
+    {
+      "folder": "Claude AI in HR - Candidate Offer Communication",
+      "stage": "Offer and Handoff",
+      "human_reviewer": "HR and Finance and Legal reviewers",
+      "source_required": true,
+      "external_action": "NONE"
+    },
+    {
+      "folder": "Claude AI in HR - Offer Approval and Exception Routing",
+      "stage": "Offer and Handoff",
+      "human_reviewer": "HR and Finance and Legal reviewers",
+      "source_required": true,
+      "external_action": "NONE"
+    },
+    {
+      "folder": "Claude AI in HR - Offer Terms Verification",
+      "stage": "Offer and Handoff",
+      "human_reviewer": "HR and Finance and Legal reviewers",
+      "source_required": true,
+      "external_action": "NONE"
+    },
+    {
+      "folder": "Claude AI in HR - Multi-Jurisdiction Offer Handoff",
+      "stage": "Offer and Handoff",
+      "human_reviewer": "HR and Finance and Legal reviewers",
+      "source_required": true,
+      "external_action": "NONE"
+    },
+    {
+      "folder": "Claude AI in HR - Pre-Employment Document Readiness",
+      "stage": "Offer and Handoff",
+      "human_reviewer": "HR and Finance and Legal reviewers",
+      "source_required": true,
+      "external_action": "NONE"
+    },
+    {
+      "folder": "Claude AI in HR - Country-Specific Hiring Risk Register",
+      "stage": "Cross-Border Risk",
+      "human_reviewer": "Global Mobility and Legal",
+      "source_required": true,
+      "external_action": "NONE"
+    },
+    {
+      "folder": "Claude AI in HR - Cross-Border Role Feasibility",
+      "stage": "Cross-Border Risk",
+      "human_reviewer": "Global Mobility and Legal",
+      "source_required": true,
+      "external_action": "NONE"
+    },
+    {
+      "folder": "Claude AI in HR - Visa and Work Authorization Document Checklist",
+      "stage": "Cross-Border Risk",
+      "human_reviewer": "Global Mobility and Legal",
+      "source_required": true,
+      "external_action": "NONE"
+    }
+  ]
+}

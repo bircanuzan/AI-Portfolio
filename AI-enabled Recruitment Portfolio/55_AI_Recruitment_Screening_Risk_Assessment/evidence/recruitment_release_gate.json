@@ -1,0 +1,21 @@
+{
+  "classification": "SYNTHETIC_RECRUITMENT_ASSURANCE",
+  "paired_tests": 16,
+  "unjustified_flawed_flips": 9,
+  "unjustified_controlled_reference_flips": 0,
+  "risk_items": 14,
+  "critical_risks": 2,
+  "claude_designs": 17,
+  "claude_integrity_pass": true,
+  "production_release": "HOLD",
+  "controlled_reference_approved": false,
+  "human_hiring_decision_required": true,
+  "external_actions_performed": false,
+  "release_blockers": [
+    "UNJUSTIFIED_FLAWED_SCREENING_FLIPS",
+    "NO_REAL_SELECTION_VALIDITY_OR_FAIRNESS_STUDY",
+    "NO_APPLICABLE_LEGAL_PRIVACY_ACCESSIBILITY_APPROVAL",
+    "NO_HUMAN_SIGNOFF_OR_ATS_INTEGRATION_EVIDENCE"
+  ],
+  "disclosure": "Synthetic offline testing only; no real ATS, LLM, candidate or client work"
+}
