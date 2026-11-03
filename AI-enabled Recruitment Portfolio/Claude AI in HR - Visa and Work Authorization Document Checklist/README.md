@@ -1,4 +1,4 @@
-# Claude AI in HR - Visa and Work Authorization Document Checklist
+# Visa and Work Authorization Document Checklist — Claude-compatible
 
 > **Status: original design / Claude-compatible skill; NOT a verified Claude run, production agent, client deployment or copied product asset.**
 

@@ -1,4 +1,4 @@
-# Claude AI in HR - Country-Specific Hiring Risk Register
+# Country-Specific Hiring Risk Register — Claude-compatible
 
 > **Status: original design / Claude-compatible skill; NOT a verified Claude run, production agent, client deployment or copied product asset.**
 

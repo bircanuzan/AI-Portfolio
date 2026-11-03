@@ -1,4 +1,4 @@
-# Claude AI in HR - Cross-Border Role Feasibility
+# Cross-Border Role Feasibility — Claude-compatible
 
 > **Status: original design / Claude-compatible skill; NOT a verified Claude run, production agent, client deployment or copied product asset.**
 

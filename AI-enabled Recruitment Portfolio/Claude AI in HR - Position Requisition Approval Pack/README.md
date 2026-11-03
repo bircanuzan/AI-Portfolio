@@ -1,4 +1,4 @@
-# Claude AI in HR - Position Requisition Approval Pack
+# Position Requisition Approval Pack — Claude-compatible
 
 > **Status: original design / Claude-compatible skill; NOT a verified Claude run, production agent, client deployment or copied product asset.**
 

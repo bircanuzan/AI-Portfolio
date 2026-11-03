@@ -4,23 +4,23 @@ The 17 **existing** Claude-compatible folders are retained with their original S
 
 | Stage | Existing folder | Exclusive output |
 |---|---|---|
-| Requisition & Role Design | [Claude AI in HR - Hiring Manager Role Intake](Claude%20AI%20in%20HR%20-%20Hiring%20Manager%20Role%20Intake/) | Verified role intent and uncertainties |
-| Requisition & Role Design | [Claude AI in HR - Inclusive Job Description Builder](Claude%20AI%20in%20HR%20-%20Inclusive%20Job%20Description%20Builder/) | Inclusive and accessible JD draft |
-| Requisition & Role Design | [Claude AI in HR - Objective Selection Criteria Matrix](Claude%20AI%20in%20HR%20-%20Objective%20Selection%20Criteria%20Matrix/) | Job-related criteria and source matrix |
-| Requisition & Role Design | [Claude AI in HR - Position Requisition Approval Pack](Claude%20AI%20in%20HR%20-%20Position%20Requisition%20Approval%20Pack/) | Business case and approval questions |
-| Structured Selection | [Claude AI in HR - Structured Interview Question Bank](Claude%20AI%20in%20HR%20-%20Structured%20Interview%20Question%20Bank/) | Role-specific structured questions |
-| Structured Selection | [Claude AI in HR - Interview Process and Panel Planner](Claude%20AI%20in%20HR%20-%20Interview%20Process%20and%20Panel%20Planner/) | Reviewer plan and interview accommodations |
-| Structured Selection | [Claude AI in HR - Interview Evidence Recorder](Claude%20AI%20in%20HR%20-%20Interview%20Evidence%20Recorder/) | Proposed evidence notes with source attribution |
-| Structured Selection | [Claude AI in HR - Panel Debrief and Calibration](Claude%20AI%20in%20HR%20-%20Panel%20Debrief%20and%20Calibration/) | Unresolved reviewer disagreements |
-| Candidate Coordination | [Claude AI in HR - Candidate Scheduling Coordinator](Claude%20AI%20in%20HR%20-%20Candidate%20Scheduling%20Coordinator/) | Unsent scheduling proposal |
-| Offer & Handoff | [Claude AI in HR - Candidate Offer Communication](Claude%20AI%20in%20HR%20-%20Candidate%20Offer%20Communication/) | Unsent candidate communication draft |
-| Offer & Handoff | [Claude AI in HR - Offer Approval and Exception Routing](Claude%20AI%20in%20HR%20-%20Offer%20Approval%20and%20Exception%20Routing/) | Human approval/exception checklist |
-| Offer & Handoff | [Claude AI in HR - Offer Terms Verification](Claude%20AI%20in%20HR%20-%20Offer%20Terms%20Verification/) | Offer terms discrepancies for HR Legal |
-| Offer & Handoff | [Claude AI in HR - Multi-Jurisdiction Offer Handoff](Claude%20AI%20in%20HR%20-%20Multi-Jurisdiction%20Offer%20Handoff/) | Country-specific adviser handoff |
-| Offer & Handoff | [Claude AI in HR - Pre-Employment Document Readiness](Claude%20AI%20in%20HR%20-%20Pre-Employment%20Document%20Readiness/) | Document collection readiness questions |
-| Cross-Border Risk | [Claude AI in HR - Country-Specific Hiring Risk Register](Claude%20AI%20in%20HR%20-%20Country-Specific%20Hiring%20Risk%20Register/) | Named legal/compliance risks |
-| Cross-Border Risk | [Claude AI in HR - Cross-Border Role Feasibility](Claude%20AI%20in%20HR%20-%20Cross-Border%20Role%20Feasibility/) | Jurisdiction and work-model feasibility questions |
-| Cross-Border Risk | [Claude AI in HR - Visa and Work Authorization Document Checklist](Claude%20AI%20in%20HR%20-%20Visa%20and%20Work%20Authorization%20Document%20Checklist/) | Work-authorisation verification checklist |
+| Requisition & Role Design | [Hiring Manager Role Intake — Claude-compatible](Claude%20AI%20in%20HR%20-%20Hiring%20Manager%20Role%20Intake/) | Verified role intent and uncertainties |
+| Requisition & Role Design | [Inclusive Job Description Builder — Claude-compatible](Claude%20AI%20in%20HR%20-%20Inclusive%20Job%20Description%20Builder/) | Inclusive and accessible JD draft |
+| Requisition & Role Design | [Objective Selection Criteria Matrix — Claude-compatible](Claude%20AI%20in%20HR%20-%20Objective%20Selection%20Criteria%20Matrix/) | Job-related criteria and source matrix |
+| Requisition & Role Design | [Position Requisition Approval Pack — Claude-compatible](Claude%20AI%20in%20HR%20-%20Position%20Requisition%20Approval%20Pack/) | Business case and approval questions |
+| Structured Selection | [Structured Interview Question Bank — Claude-compatible](Claude%20AI%20in%20HR%20-%20Structured%20Interview%20Question%20Bank/) | Role-specific structured questions |
+| Structured Selection | [Interview Process and Panel Planner — Claude-compatible](Claude%20AI%20in%20HR%20-%20Interview%20Process%20and%20Panel%20Planner/) | Reviewer plan and interview accommodations |
+| Structured Selection | [Interview Evidence Recorder — Claude-compatible](Claude%20AI%20in%20HR%20-%20Interview%20Evidence%20Recorder/) | Proposed evidence notes with source attribution |
+| Structured Selection | [Panel Debrief and Calibration — Claude-compatible](Claude%20AI%20in%20HR%20-%20Panel%20Debrief%20and%20Calibration/) | Unresolved reviewer disagreements |
+| Candidate Coordination | [Candidate Scheduling Coordinator — Claude-compatible](Claude%20AI%20in%20HR%20-%20Candidate%20Scheduling%20Coordinator/) | Unsent scheduling proposal |
+| Offer & Handoff | [Candidate Offer Communication — Claude-compatible](Claude%20AI%20in%20HR%20-%20Candidate%20Offer%20Communication/) | Unsent candidate communication draft |
+| Offer & Handoff | [Offer Approval and Exception Routing — Claude-compatible](Claude%20AI%20in%20HR%20-%20Offer%20Approval%20and%20Exception%20Routing/) | Human approval/exception checklist |
+| Offer & Handoff | [Offer Terms Verification — Claude-compatible](Claude%20AI%20in%20HR%20-%20Offer%20Terms%20Verification/) | Offer terms discrepancies for HR Legal |
+| Offer & Handoff | [Multi-Jurisdiction Offer Handoff — Claude-compatible](Claude%20AI%20in%20HR%20-%20Multi-Jurisdiction%20Offer%20Handoff/) | Country-specific adviser handoff |
+| Offer & Handoff | [Pre-Employment Document Readiness — Claude-compatible](Claude%20AI%20in%20HR%20-%20Pre-Employment%20Document%20Readiness/) | Document collection readiness questions |
+| Cross-Border Risk | [Country-Specific Hiring Risk Register — Claude-compatible](Claude%20AI%20in%20HR%20-%20Country-Specific%20Hiring%20Risk%20Register/) | Named legal/compliance risks |
+| Cross-Border Risk | [Cross-Border Role Feasibility — Claude-compatible](Claude%20AI%20in%20HR%20-%20Cross-Border%20Role%20Feasibility/) | Jurisdiction and work-model feasibility questions |
+| Cross-Border Risk | [Visa and Work Authorization Document Checklist — Claude-compatible](Claude%20AI%20in%20HR%20-%20Visa%20and%20Work%20Authorization%20Document%20Checklist/) | Work-authorisation verification checklist |
 
 ## Shared handoff controls
 - Mandatory draft fields: source version/id, verified facts versus assumptions, missing inputs, risk flags, named human reviewer and `required_human_review.decision=PENDING`.

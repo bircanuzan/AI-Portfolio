@@ -1,4 +1,4 @@
-# Claude AI in HR - Offer Approval and Exception Routing
+# Offer Approval and Exception Routing — Claude-compatible
 
 > **Status: original design / Claude-compatible skill; NOT a verified Claude run, production agent, client deployment or copied product asset.**
 

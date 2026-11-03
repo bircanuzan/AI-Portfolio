@@ -1,4 +1,4 @@
-# Claude AI in HR - Inclusive Job Description Builder
+# Inclusive Job Description Builder — Claude-compatible
 
 > **Status: original design / Claude-compatible skill; NOT a verified Claude run, production agent, client deployment or copied product asset.**
 
