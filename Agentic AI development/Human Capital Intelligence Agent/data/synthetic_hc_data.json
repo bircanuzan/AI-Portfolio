@@ -1,0 +1,249 @@
+{
+  "metadata": {
+    "name": "Cedar Gulf Enterprise",
+    "fictional": true,
+    "period": "2026-Q3",
+    "currency": "AED",
+    "min_group": 5
+  },
+  "entities": [
+    {
+      "id": "CORP",
+      "name": "Corporate",
+      "approved": 24,
+      "filled": 21,
+      "contractors": 3,
+      "budget": 9700000,
+      "people_cost": 9120000,
+      "critical": 7,
+      "successors_ready": 4
+    },
+    {
+      "id": "INV",
+      "name": "Investments",
+      "approved": 32,
+      "filled": 28,
+      "contractors": 5,
+      "budget": 12900000,
+      "people_cost": 12150000,
+      "critical": 8,
+      "successors_ready": 3
+    },
+    {
+      "id": "INF",
+      "name": "Infrastructure",
+      "approved": 46,
+      "filled": 40,
+      "contractors": 10,
+      "budget": 19800000,
+      "people_cost": 19000000,
+      "critical": 12,
+      "successors_ready": 7
+    }
+  ],
+  "recruitment": [
+    {
+      "entity": "CORP",
+      "channel": "Careers",
+      "applicants": 150,
+      "qualified": 75,
+      "interviews": 28,
+      "offers": 10,
+      "hires": 7,
+      "cost": 12000
+    },
+    {
+      "entity": "CORP",
+      "channel": "Referral",
+      "applicants": 70,
+      "qualified": 50,
+      "interviews": 24,
+      "offers": 11,
+      "hires": 9,
+      "cost": 9000
+    },
+    {
+      "entity": "INV",
+      "channel": "Careers",
+      "applicants": 110,
+      "qualified": 48,
+      "interviews": 20,
+      "offers": 9,
+      "hires": 6,
+      "cost": 15000
+    },
+    {
+      "entity": "INV",
+      "channel": "Agency",
+      "applicants": 90,
+      "qualified": 60,
+      "interviews": 30,
+      "offers": 12,
+      "hires": 10,
+      "cost": 55000
+    },
+    {
+      "entity": "INF",
+      "channel": "Careers",
+      "applicants": 200,
+      "qualified": 88,
+      "interviews": 44,
+      "offers": 17,
+      "hires": 12,
+      "cost": 21000
+    },
+    {
+      "entity": "INF",
+      "channel": "Referral",
+      "applicants": 120,
+      "qualified": 76,
+      "interviews": 38,
+      "offers": 20,
+      "hires": 16,
+      "cost": 15000
+    }
+  ],
+  "brand": [
+    {
+      "entity": "CORP",
+      "impressions": 50000,
+      "clicks": 2000,
+      "applications": 180,
+      "favourable": 57,
+      "mentions": 80,
+      "cost": 16000
+    },
+    {
+      "entity": "INV",
+      "impressions": 35000,
+      "clicks": 1250,
+      "applications": 100,
+      "favourable": 34,
+      "mentions": 50,
+      "cost": 13000
+    },
+    {
+      "entity": "INF",
+      "impressions": 74000,
+      "clicks": 3100,
+      "applications": 240,
+      "favourable": 64,
+      "mentions": 90,
+      "cost": 22000
+    }
+  ],
+  "operations": [
+    {
+      "entity": "CORP",
+      "process": "Onboarding",
+      "cases": 60,
+      "on_time": 54,
+      "exceptions": 6
+    },
+    {
+      "entity": "CORP",
+      "process": "Employee documents",
+      "cases": 110,
+      "on_time": 100,
+      "exceptions": 8
+    },
+    {
+      "entity": "INV",
+      "process": "Onboarding",
+      "cases": 75,
+      "on_time": 68,
+      "exceptions": 10
+    },
+    {
+      "entity": "INV",
+      "process": "Employee documents",
+      "cases": 170,
+      "on_time": 150,
+      "exceptions": 20
+    },
+    {
+      "entity": "INF",
+      "process": "Onboarding",
+      "cases": 105,
+      "on_time": 87,
+      "exceptions": 18
+    },
+    {
+      "entity": "INF",
+      "process": "Employee documents",
+      "cases": 210,
+      "on_time": 177,
+      "exceptions": 26
+    }
+  ],
+  "talent": [
+    {
+      "entity": "CORP",
+      "review_due": 21,
+      "review_done": 20,
+      "skills_gaps": 8,
+      "learning_done": 9,
+      "learning_planned": 12
+    },
+    {
+      "entity": "INV",
+      "review_due": 28,
+      "review_done": 24,
+      "skills_gaps": 15,
+      "learning_done": 11,
+      "learning_planned": 19
+    },
+    {
+      "entity": "INF",
+      "review_due": 40,
+      "review_done": 36,
+      "skills_gaps": 22,
+      "learning_done": 18,
+      "learning_planned": 25
+    }
+  ],
+  "rewards": [
+    {
+      "entity": "CORP",
+      "grade": "G6",
+      "population": 8,
+      "internal_median": 240000,
+      "illustrative_external_median": 254000
+    },
+    {
+      "entity": "CORP",
+      "grade": "G7",
+      "population": 7,
+      "internal_median": 365000,
+      "illustrative_external_median": 355000
+    },
+    {
+      "entity": "INV",
+      "grade": "G6",
+      "population": 9,
+      "internal_median": 232000,
+      "illustrative_external_median": 250000
+    },
+    {
+      "entity": "INV",
+      "grade": "G7",
+      "population": 8,
+      "internal_median": 355000,
+      "illustrative_external_median": 360000
+    },
+    {
+      "entity": "INF",
+      "grade": "G6",
+      "population": 12,
+      "internal_median": 250000,
+      "illustrative_external_median": 258000
+    },
+    {
+      "entity": "INF",
+      "grade": "G7",
+      "population": 9,
+      "internal_median": 381000,
+      "illustrative_external_median": 370000
+    }
+  ]
+}
