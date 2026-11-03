@@ -7,7 +7,7 @@ on:
       - '.github/workflows/hcia-video-demo.yml'
   workflow_dispatch:
 permissions:
-  contents: read
+  contents: write
 jobs:
   generate-video:
     runs-on: ubuntu-latest
@@ -24,6 +24,19 @@ jobs:
       - name: Render actual synthetic agent outputs into a labelled MP4
         working-directory: Agentic AI development/Human Capital Intelligence Agent
         run: python scripts/render_demo.py
+      - name: Commit synthetic video to the portfolio
+        run: |
+          src="Agentic AI development/Human Capital Intelligence Agent/demo/generated/human_capital_intelligence_agent_synthetic_demo.mp4"
+          dest="Agentic AI development/Human Capital Intelligence Agent/demo/Human_Capital_Intelligence_Agent_Synthetic_Demo.mp4"
+          cp "$src" "$dest"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- "$dest"
+          if ! git diff --cached --quiet; then
+            git commit -m "Publish repeatable synthetic Human Capital Intelligence Agent video"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
       - name: Publish playable demonstration
         uses: actions/upload-artifact@v4
         with:
