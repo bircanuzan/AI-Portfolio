@@ -1,0 +1,9 @@
+metric,definition,baseline_status,proposed_gate,owner,measurement_caveat
+Service quality,Quality-assured cases divided by audited cases,To be measured,No degradation from validated baseline,Operations Manager,Use blinded representative sampling
+Human review burden,Reviewer minutes per AI-attempted case,To be measured,Within agreed reviewer capacity,Workstream Manager,Include rework and exception effort
+Backlog age,90th percentile open case age,To be measured,Improvement without service compromise,Operations Manager,Segment by severity and complexity
+Employee readiness,Facilitated competency assessment and feedback,To be measured,Training and accommodations in place,HR,Do not score employment suitability with AI
+Role clarity,Employee survey of responsibility and escalation clarity,To be measured,Improve over baseline,HR Transformation Lead,Anonymous only above disclosure threshold
+AI suggestion accuracy,Accepted suggestions divided by audited suggestions,To be measured,Threshold depends on harm severity,AI Quality Lead,Acceptance does not prove correctness
+Privacy incidents,Verified inappropriate access or leakage events,To be measured,Zero critical incidents,Data Owner,Pause pilot on critical incident
+Cost-to-serve,Validated cost divided by comparable work units,To be measured,Finance-signed benefit realization,Finance,Do not treat time saved as automatically cash saved
