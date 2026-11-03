@@ -55,6 +55,15 @@ class AdapterTests(unittest.TestCase):
         self.assertEqual(v["accepted"], 1)
         self.assertNotIn("bank_account", v["accepted_events"][0])
 
+    def test_malformed_source_does_not_crash(self):
+        v = normalize([dict(ORACLE, source=["NOT_HASHABLE"])])
+        self.assertIn("UNKNOWN_SOURCE", v["exceptions"][0]["reasons"])
+
+    def test_malformed_action_and_entity_do_not_crash(self):
+        v = normalize([dict(ORACLE, action=["NOT_HASHABLE"], legal_entity=["NOT_HASHABLE"])])
+        self.assertEqual(set(v["exceptions"][0]["reasons"]),
+                         {"UNSUPPORTED_EVENT", "UNKNOWN_LEGAL_ENTITY"})
+
     def test_non_mapping_record(self):
         v = normalize([None])
         self.assertIn("INVALID_RECORD_TYPE", v["exceptions"][0]["reasons"])

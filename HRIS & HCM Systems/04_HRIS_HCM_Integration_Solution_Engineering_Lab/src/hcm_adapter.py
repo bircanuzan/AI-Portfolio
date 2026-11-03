@@ -30,7 +30,7 @@ def normalize(batch: list[dict[str, Any]]) -> dict[str, Any]:
             rejected.append({"row": position, "reasons": ["INVALID_RECORD_TYPE"]})
             continue
         source = row.get("source")
-        if source not in FIELD_MAP:
+        if not isinstance(source, str) or source not in FIELD_MAP:
             rejected.append({"row": position, "reasons": ["UNKNOWN_SOURCE"]})
             continue
         version = row.get("version")
@@ -50,9 +50,9 @@ def normalize(batch: list[dict[str, Any]]) -> dict[str, Any]:
         worker = data["worker_key"]
         if not isinstance(worker, str) or not worker.startswith("SYN-") or len(worker) > 40:
             reasons.append("INVALID_SYNTHETIC_WORKER_KEY")
-        if data["event_type"] not in ACTIONS:
+        if not isinstance(data["event_type"], str) or data["event_type"] not in ACTIONS:
             reasons.append("UNSUPPORTED_EVENT")
-        if data["legal_entity"] not in ALLOWED_ENTITIES:
+        if not isinstance(data["legal_entity"], str) or data["legal_entity"] not in ALLOWED_ENTITIES:
             reasons.append("UNKNOWN_LEGAL_ENTITY")
         try:
             d = date.fromisoformat(data["effective_date"])
