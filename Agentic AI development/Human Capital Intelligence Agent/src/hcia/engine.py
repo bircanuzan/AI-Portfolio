@@ -9,7 +9,7 @@ from pathlib import Path
 DATA_PATH=Path(__file__).resolve().parents[2]/"data"/"synthetic_hc_data.json"
 TOOLS=("talent_acquisition","employer_brand","human_capital_operations",
        "talent_management","total_rewards","workforce_intelligence")
-CAPABILITIES=TOOLS+("executive_brief",)
+CAPABILITIES=TOOLS+("executive_brief","workforce_redesign")
 
 def load_data(path=DATA_PATH):
     with open(path,encoding="utf-8") as handle:
@@ -110,6 +110,12 @@ def execute(data,capability,entity):
         raise ValueError("Tool not allowlisted")
     if entity not in {x["id"] for x in data["entities"]}|{"ALL"}:
         raise ValueError("Unknown entity")
+    if capability=="workforce_redesign":
+        # A group-scoped scenario; do not misrepresent the pilot as a particular entity study.
+        if entity!="ALL":
+            raise ValueError("Workforce redesign pilot is only available as group-wide fictional case")
+        from .workforce_design import assess_redesign
+        return assess_redesign()
     if capability=="executive_brief":
         components=[FUNCTIONS[k](data,entity) for k in TOOLS]
         return {"tool":"executive_brief","entity":entity,"plan":list(TOOLS),

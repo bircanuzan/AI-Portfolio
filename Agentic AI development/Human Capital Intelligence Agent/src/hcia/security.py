@@ -10,7 +10,7 @@ PERMISSIONS={
  "workforce_analyst":{"talent_management","workforce_intelligence"},
  "reward_analyst":{"total_rewards"},
  "people_leader":{"talent_acquisition","employer_brand","human_capital_operations",
-                  "talent_management","total_rewards","workforce_intelligence","executive_brief"},
+                  "talent_management","total_rewards","workforce_intelligence","executive_brief","workforce_redesign"},
  "auditor":set()
 }
 @dataclass(frozen=True)

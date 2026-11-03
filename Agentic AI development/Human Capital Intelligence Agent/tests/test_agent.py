@@ -21,7 +21,7 @@ class EngineTests(unittest.TestCase):
 
     def test_tool_registry_has_six_specialists(self):
         self.assertEqual(len(TOOLS),6)
-        self.assertEqual(len(CAPABILITIES),7)
+        self.assertEqual(len(CAPABILITIES),8)
 
     def test_synthetic_data_guard(self):
         self.assertTrue(self.data["metadata"]["fictional"])

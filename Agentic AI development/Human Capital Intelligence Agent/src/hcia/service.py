@@ -12,7 +12,7 @@ from .planner import orchestrate,PlanError
 class Job(BaseModel):
     model_config=ConfigDict(extra="forbid")
     capability:Literal["talent_acquisition","employer_brand","human_capital_operations",
-                       "talent_management","total_rewards","workforce_intelligence","executive_brief"]
+                       "talent_management","total_rewards","workforce_intelligence","executive_brief","workforce_redesign"]
     entity:Literal["CORP","INV","INF","ALL"]
     llm_summary:bool=False
 
