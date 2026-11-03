@@ -37,6 +37,11 @@ class ControlTests(unittest.TestCase):
         r = audit(self.employees, [self.payroll[0], self.payroll[0]])
         self.assertEqual(r["flags_by_code"]["DUPLICATE_PAYROLL_ROW"], 2)
 
+    def test_duplicate_master_is_blocked(self):
+        r = audit([self.employees[0], self.employees[0]], [self.payroll[0]])
+        self.assertEqual(r["flags_by_code"]["DUPLICATE_EMPLOYEE_MASTER"], 1)
+        self.assertTrue(next(f["is_blocking"] for f in r["flags"] if f["code"] == "DUPLICATE_EMPLOYEE_MASTER"))
+
     def test_unknown_employee_is_blocked(self):
         p = dict(self.payroll[0], employee_id="NOT-IN-HRMS")
         r = audit(self.employees, [p])
