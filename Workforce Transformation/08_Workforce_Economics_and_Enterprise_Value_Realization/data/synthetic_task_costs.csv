@@ -1,0 +1,5 @@
+task,monthly_volume,minutes_per_task,assistable_share,minutes_saved_per_assisted_task,review_minutes_per_assisted_task,loaded_hourly_cost_aed,monthly_platform_cost_aed
+General_HR_FAQ,2000,14,0.70,6,2,50,800
+Recruitment_Request_Intake,800,30,0.40,8,4,85,1400
+Complex_Leave_Dispute,350,25,0.10,3,6,80,900
+Customer_Case_Summary,1500,18,0.50,7,3,60,1250
