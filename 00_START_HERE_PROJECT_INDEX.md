@@ -1,3 +1,7 @@
+## Pilot Project — Agentic AI Competency Interviews & Talent Intelligence
+
+**[Independent HumanEvoX pilot: role-calibrated conversational AI, competency intelligence and evidence-based talent decisions](Pilot%20Project%20-%20Agentic%20AI%20Competency%20Interviews%20%26%20Talent%20Intelligence/)** — standalone (NOT nested in Talent Assessment). Includes public-market capability research, job-analysis/STAR/BARS skill mapping, proposed LLM/voice/ATS architecture, ethical safeguards, synthetic JSON blueprint, runnable offline Python and unit tests. **Not a live LLM, product replication, validated psychometric tool or client deployment.**
+
 ## People Analytics & HR Data
 
 **[Explore the consolidated People Analytics & HR Data portfolio](People%20Analytics%20%26%20HR%20Data/)** — four existing HR analytics project collections, including the 60-concept visual dashboard library, executable attrition analysis, and Python/SQL/DAX analytics examples. Demonstrations use synthetic data unless separately verified.
