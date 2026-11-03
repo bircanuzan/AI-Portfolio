@@ -1,7 +1,7 @@
 # Human Capital Intelligence Agent | Agentic AI Development
 
 **Author:** HumanEvoX independent engineering and HR transformation portfolio  
-**Agent version:** 0.1.0 (prototype) | **Role requirements reference:** G42 Human Capital Intelligence Agent (AI Agents Only)  
+**Agent version:** 0.2.0 (synthetic engineering prototype) | **Role requirements reference:** G42 Human Capital Intelligence Agent (AI Agents Only)  
 **Status: runnable read-only agent and API prototype using fictional aggregate data. NOT production deployed, NOT G42-qualified, NOT submitted.**
 
 ## What this agent does
@@ -15,10 +15,11 @@ This is a **bounded, auditable multi-tool Human Capital intelligence service** t
 | Talent Management | talent_management | Review coverage, skill gaps, succession readiness and learning completion |
 | Total Rewards | total_rewards | Minimum-cohort aggregate grade ratios to **invented** comparator data |
 | Organisation & Workforce Intelligence | workforce_intelligence | Position control, vacancies, contingent workforce, annual people budget/cost |
+| Human–AI Workforce Redesign | workforce_redesign | Task analysis, proposed job architecture, net-capacity scenario, reinvestment and illustrative future organisational structure |
 | Executive coordination | executive_brief | **Six-tool orchestration** with provenance, human-review flags and no side effects |
 | Goal-based read-only orchestration | bounded planner | Offline goal-to-tool routing and optional LLM-proposed, validated 1–3 tool plans; no HR actions |
 
-**Demonstration company:** Cedar Gulf Enterprise (invented); 3 entities, 102 approved seats, 89 occupied seats, 13 vacancies and 18 contingent workers. All workforce and pay data are fictional aggregates. No names, IDs or other individual records are included.
+**Demonstration company:** Cedar Gulf Enterprise (invented); 3 entities, 102 approved seats, 89 occupied seats, 13 vacancies and 18 contingent workers. All workforce and pay data are fictional aggregates. A separate **fictional Group People Services workforce redesign pilot** models seven activity groups, eight future roles, a seven-unit proposed structure and potential capacity reinvestment; do not confuse its workload-equivalent FTE with real employee headcount. No names, IDs or other individual records are included.
 
 ## Repository navigation
 - [Agent résumé](AGENT_RESUME.md) — agent functionality, roles, technology and restrictions.
@@ -26,9 +27,10 @@ This is a **bounded, auditable multi-tool Human Capital intelligence service** t
 - [System architecture](docs/ARCHITECTURE.md) — API, bounded planner, analytics, optional sovereign model, trust boundaries and deployment patterns.
 - [Security / Responsible AI](docs/SECURITY_RESPONSIBLE_AI.md) — role and entity scoping, personal-data controls, audit, review responsibilities and threats.
 - [Integration contract](docs/INTEGRATION_SPEC.md) — read-only mock-tested HTTPS adapter for HRIS, ATS, payroll, talent and workforce systems.
+- [Human–AI Workforce Redesign case, methods and safeguards](docs/HUMAN_AI_WORKFORCE_REDESIGN.md) — actual runnable task-to-job-to-future-structure scenario with illustrative role profiles, capacity reallocation and governance.
 - [Production requirements](docs/PRODUCTION_READINESS.md) — explicit blockers to G42 eligibility and a staging/probation plan.
-- [Evaluation](docs/EVALUATION_AND_METRICS.md) and [verified execution evidence](evidence/EXECUTION_EVIDENCE.md) — 35 tests, 12/12 numeric scenarios and local latency figures.
-- [Watch the Agent Work — committed MP4](https://github.com/bircanuzan/AI-in-HR-Portfolio/blob/main/Agentic%20AI%20development/Human%20Capital%20Intelligence%20Agent/demo/Human_Capital_Intelligence_Agent_Synthetic_Demo.mp4) — generated from actual execution on fictional data, saved in this GitHub folder. **Not a production screencast.** [Recording plan](docs/WATCH_THE_AGENT_WORK.md).
+- [Evaluation](docs/EVALUATION_AND_METRICS.md) and [verified execution evidence](evidence/EXECUTION_EVIDENCE.md) — 67 automated tests and 12/12 original numeric benchmark scenarios verified in GitHub Actions; local latency figures reflect only in-process runs.
+- [Watch the Agent Work — committed MP4](https://github.com/bircanuzan/AI-in-HR-Portfolio/blob/main/Agentic%20AI%20development/Human%20Capital%20Intelligence%20Agent/demo/Human_Capital_Intelligence_Agent_Synthetic_Demo.mp4) — a new 1080×1350 portrait video generated from actual execution of the HR intelligence and workforce redesign simulation, saved in this GitHub folder. **Not a production screencast.** [Recording plan](docs/WATCH_THE_AGENT_WORK.md).
 - [Submission evidence checklist](docs/SUBMISSION_CHECKLIST.md) and [version history](docs/VERSION_HISTORY.md).
 - [Code](src/hcia/) and [tests](tests/); [benchmark script](scripts/benchmark.py).
 
@@ -38,6 +40,8 @@ Requires Python 3.11+.
     cd "Agentic AI development/Human Capital Intelligence Agent"
     python cli.py executive_brief --entity ALL
     python cli.py total_rewards --entity CORP
+    python cli.py workforce_redesign --entity ALL
+    python -m src.hcia.workforce_design
     python -m unittest discover -s tests -v
     python scripts/benchmark.py
 
@@ -55,7 +59,7 @@ The API refuses unauthenticated calls, wrong roles and entities, unexpected JSON
 
 ## Goal-directed agent planning
 
-The authenticated API also exposes POST `/v1/agent/orchestrate` for an authorised people leader. A safe aggregate question such as `Review recruiting and headcount` selects the Talent Acquisition and Workforce Intelligence tools, executes them locally and returns a source-grounded plan and audit reference. Unsafe, identifying and state-changing prompts are refused. See `src/hcia/planner.py` and `tests/test_orchestrator_api.py`.
+The authenticated API exposes `workforce_redesign` for group-scoped synthetic scenarios and also POST `/v1/agent/orchestrate` for an authorised people leader. A safe aggregate question such as `Review recruiting and headcount` selects the Talent Acquisition and Workforce Intelligence tools, executes them locally and returns a source-grounded plan and audit reference. Unsafe, identifying and state-changing prompts are refused. See `src/hcia/planner.py` and `tests/test_orchestrator_api.py`.
 
 ## Model integration
 The analytics engine runs offline without an LLM. An optional operator-approved OpenAI-compatible/sovereign HTTPS endpoint may propose a strictly allowlisted **1–3 step tool plan** and/or summarise synthetic aggregate results. The model never executes a tool directly, cannot edit computed numbers or approve HR outcomes, and outputs require independent validation. No G42 sovereign endpoint or live model inference has been used in this demonstration.

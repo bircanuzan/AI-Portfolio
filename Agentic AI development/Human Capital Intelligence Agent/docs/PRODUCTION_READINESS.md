@@ -14,8 +14,9 @@
 | Explainability and exception handling | **Prototype flags and source references** | Business-verified rationales, runbooks, workflow routing and accepted evidence |
 | Responsible AI and bias assessment | **Risk plan; limited synthetic tests** | Representative ethically approved dataset, bias impact metrics, mitigations and governance |
 | Scenario/latency/reliability benchmarks | **Locally executable tests/scripts** | Production-like staged load, p95/p99, concurrency, failover, model evaluation and independent review |
+| Human–AI workforce design | **Executable synthetic scenario only; no approved organisation or realised redeployment** | Verified workload, professional job evaluation, consultation, CPO/CFO decisions and actual outcomes |
 | Productivity and savings | **No claim** | Measured pre/post baseline, quality controls, Finance validation and counterfactual |
-| Version history and lifecycle | **0.1.0; source-controlled** | Change tickets, release gates, SBOM, deployment records, operational incident history |
+| Version history and lifecycle | **0.2.0; source-controlled prototype** | Change tickets, release gates, SBOM, deployment records, operational incident history |
 | Agent and developer resumes | **Drafted; factual** | Verified authorship, ownership and references |
 | Agent video demonstration | **Synthetic CI-generated MP4 exists; not enterprise-production footage** | Authorised live-enterprise recording, source trace and version/build identifiers |
 | Prior client references | **None supplied** | Permissioned production clients/testimonials, not invented |

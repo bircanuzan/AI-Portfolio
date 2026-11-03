@@ -29,9 +29,12 @@ jobs:
           src="Agentic AI development/Human Capital Intelligence Agent/demo/generated/human_capital_intelligence_agent_synthetic_demo.mp4"
           dest="Agentic AI development/Human Capital Intelligence Agent/demo/Human_Capital_Intelligence_Agent_Synthetic_Demo.mp4"
           cp "$src" "$dest"
+          captions_src="Agentic AI development/Human Capital Intelligence Agent/demo/generated/linkedin_captions.srt"
+          captions_dest="Agentic AI development/Human Capital Intelligence Agent/demo/LinkedIn_Captions.srt"
+          cp "$captions_src" "$captions_dest"
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -- "$dest"
+          git add -- "$dest" "$captions_dest"
           if ! git diff --cached --quiet; then
             git commit -m "Publish repeatable synthetic Human Capital Intelligence Agent video"
             git pull --rebase origin main

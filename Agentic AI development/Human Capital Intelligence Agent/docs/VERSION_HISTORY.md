@@ -15,7 +15,15 @@
 - Generated a labelled 28-second synthetic MP4 demonstrating actual local engine outputs.
 - Documented evidence and remaining production eligibility requirements.
 
+## 0.2.0 — 3 November 2026
+- Added an independent, executable Human–AI workforce redesign scenario on fictional Group People Services: seven activities, eight role profiles, proposed Group organisation structure and reserved human-only HR decisions.
+- Added adoption-adjusted task capacity model including quality rework, oversight burden, zero-adoption alternative and capacity reinvestment; no approved headcount changes or verified savings.
+- Integrated `workforce_redesign` into the authenticated read-only agent endpoint and bounded planning allowlist.
+- Added regression tests covering reporting-line integrity, job architecture, capacity accounting and no automation of sensitive people decisions.
+- Produced a revised portrait LinkedIn demonstration connecting activity analysis, role/job redesign, capacity and organisational structures. All footage is synthetic code-derived motion graphics.
+- Recorded 67 passed tests and 12/12 numeric scenarios on GitHub-hosted CI, before the final video documentation updates.
+
 ## Future releases — not implemented
-0.2: signed enterprise OIDC and policy-as-code identity; data lineage and secure integration contracts; red-team tests.  
-0.3: protected Azure/sovereign model nonproduction deployment and load testing.  
+0.3: signed enterprise OIDC and policy-as-code identity; data lineage and secure integration contracts; red-team tests.  
+0.4: protected Azure/sovereign model nonproduction deployment and load testing.  
 1.0: permitted enterprise production rollout only after independent security, privacy, business and operational sign-offs.

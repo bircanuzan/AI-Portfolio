@@ -24,7 +24,7 @@ class GoalJob(BaseModel):
 
 def create_app(auth=None,audit=None,data=None):
     app=FastAPI(title="Human Capital Intelligence Agent — synthetic prototype",
-                version="0.1.0",docs_url=None,redoc_url=None,openapi_url=None)
+                version="0.2.0",docs_url=None,redoc_url=None,openapi_url=None)
     authorizer=auth if auth is not None else Authorizer()
     dataset=data if data is not None else load_data()
 
@@ -56,7 +56,7 @@ def create_app(auth=None,audit=None,data=None):
                                (time.perf_counter()-started)*1000)
         except Exception:
             raise HTTPException(status_code=503,detail="Agent processing or audit failed")
-        answer.update(event_id=event,agent_version="0.1.0",deployment_status="LOCAL_PROTOTYPE")
+        answer.update(event_id=event,agent_version="0.2.0",deployment_status="LOCAL_PROTOTYPE")
         return answer
 
     @app.post("/v1/agent/orchestrate")
