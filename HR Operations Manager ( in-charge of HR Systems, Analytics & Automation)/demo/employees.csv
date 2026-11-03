@@ -1,0 +1,5 @@
+employee_id,legal_entity,status,basic_salary_aed,allowances_aed,wps_applicability
+F001,FINCO-01,active,14000.00,4000.00,applies
+F002,FINCO-01,active,12000.00,3000.00,applies
+F003,FINCO-01,exited,9000.00,1000.00,applies
+F004,FINCO-01,active,11000.00,2000.00,review

@@ -1,0 +1,5 @@
+period,employee_id,variable_pay_aed,deductions_aed,proposed_net_aed,approval_status,bank_reference,eos_review_status
+2026-10,F001,0.00,0.00,18000.00,approved,REF-001,not_applicable
+2026-10,F002,0.00,0.00,15200.00,pending,REF-002,not_applicable
+2026-10,F003,0.00,0.00,10000.00,approved,REF-003,pending
+2026-10,F004,0.00,0.00,13000.00,approved,,not_applicable

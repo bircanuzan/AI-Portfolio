@@ -8,6 +8,8 @@
 
 ## HR Operations & Workflow Automation
 
+**[HR Operations Manager ( in-charge of HR Systems, Analytics & Automation)](HR%20Operations%20Manager%20(%20in-charge%20of%20HR%20Systems%2C%20Analytics%20%26%20Automation)/)** — Al Ramz-aligned case featuring synthetic HRMS/payroll controls, Power BI metrics, automation and governance and a 90-day plan.
+
 [Explore HR Operations & Workflow Automation](HR%20Operations%20%26%20Workflow%20Automation/) — HR service automation, HRMS/payroll control checks, workflow mapping and Microsoft Power Automate solution-design work samples.
 
 ## Oracle Fusion HCM
