@@ -24,6 +24,6 @@ python -m scripts.demo_agent_runtime
 python -m unittest discover -s tests -v
 ```
 
-**Video:** `demo/Agent_Runtime_Live_Execution_Trace.mp4` is generated from the **actual execution trace JSON emitted by the working code**, with captions on screen. It is an animated CLI trace replay—not a production screencast or a filmed live external LLM session.
+**Video:** `demo/Agent_Runtime_Executed_Tool_Trace.mp4` is generated from the **actual execution trace JSON emitted by the working code**, with captions on screen. It is an animated CLI trace replay—not a production screencast or a filmed live external LLM session.
 
 **Strong next evidence milestone:** configure a permitted, real model endpoint and verify native model-initiated tool decisions and recoveries on a hosted agent instance before describing it as a production-grade agentic AI solution.
