@@ -1,0 +1,41 @@
+name: Organizational Effectiveness - Synthetic Control Tests
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'Organizational Effectiveness/**'
+      - '.github/workflows/organizational-effectiveness-ci.yml'
+  pull_request:
+    paths:
+      - 'Organizational Effectiveness/**'
+      - '.github/workflows/organizational-effectiveness-ci.yml'
+  workflow_dispatch:
+
+jobs:
+  evaluate-offline-controls:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: read
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Run Group OE unit tests
+        run: python -m unittest discover -s "Organizational Effectiveness/tests" -v
+      - name: Execute deterministic report on synthetic data
+        run: python "Organizational Effectiveness/src/oe_control_engine.py" > /tmp/oe_report.json
+      - name: Confirm no automatic HR decision occurs
+        run: |
+          python - <<'PY'
+          import json
+          with open('/tmp/oe_report.json', encoding='utf-8') as f:
+              report=json.load(f)
+          assert report['synthetic'] is True
+          assert report['action'].startswith('NONE')
+          assert all(not r['automatic_approval'] for r in report['hiring_decision_support'])
+          print("Human approval and synthetic-input assertions passed")
+          PY
