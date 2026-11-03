@@ -12,6 +12,10 @@
 | [52 — HR & People Analytics Dashboard Library](52_HR_People_Analytics_Research_Dashboard_Library/) | Visual insight and executive communication, original 60 concepts | [Executive scorecard HTML](52_HR_People_Analytics_Research_Dashboard_Library/workforce_intelligence_scorecard.html) with [source lineage / release gates](52_HR_People_Analytics_Research_Dashboard_Library/EXECUTIVE_MEASUREMENT_AND_LINEAGE_GATE.md); existing 60 dashboards unchanged |
 | [54 — Attrition Analysis / Workforce Scenario Methods](54_Attrition_Analysis_200_Employee_Synthetic_Case/) | Original 200-person cohort description, plus distinct **aggregate** workforce scenarios and time-series benchmarking | [Model card](54_Attrition_Analysis_200_Employee_Synthetic_Case/FORECAST_MODEL_CARD_AND_VALIDATION.md), [24-month fictional history](54_Attrition_Analysis_200_Employee_Synthetic_Case/data/synthetic_monthly_workforce.csv), [forecast code](54_Attrition_Analysis_200_Employee_Synthetic_Case/src/workforce_scenario_forecast.py), [tests](54_Attrition_Analysis_200_Employee_Synthetic_Case/tests/) and [executive decision review](54_Attrition_Analysis_200_Employee_Synthetic_Case/DECISION_SIMULATION_REVIEW.md) |
 
+
+## Continuous verification
+[GitHub Actions — People Analytics Checks](../.github/workflows/people-analytics-ci.yml) runs the Project 11 data-quality tests, the Project 54 descriptive and forecasting tests, checks headcount conservation, regenerates both synthetic snapshots, and compares the scorecard's embedded data to committed evidence. A workflow file is not proof it has run or passed; check the Actions run status.
+
 ## Methods and evidence boundary
 **Actually authored:** SQL/DAX templates from the original work, Python descriptive analytics, new stdlib data checks, chronological holdout model comparison, assumptions-based workforce projections, local tests, JSON snapshots, SVG concepts and interactive HTML.
 

@@ -1,0 +1,67 @@
+name: People Analytics - Synthetic Intelligence Checks
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'People Analytics & HR Data/**'
+      - '.github/workflows/people-analytics-ci.yml'
+  pull_request:
+    paths:
+      - 'People Analytics & HR Data/**'
+      - '.github/workflows/people-analytics-ci.yml'
+  workflow_dispatch:
+
+jobs:
+  synthetic-intelligence-tests:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    permissions:
+      contents: read
+    steps:
+      - name: Checkout portfolio
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Verify Project 11 data quality and metric contract
+        run: python -m unittest discover -s "People Analytics & HR Data/11_Data_Analytics_for_AI_in_HR/tests" -v
+
+      - name: Verify Project 54 descriptive attrition and time-ordered scenario tests
+        run: python -m unittest discover -s "People Analytics & HR Data/54_Attrition_Analysis_200_Employee_Synthetic_Case/tests" -v
+
+      - name: Reproduce synthetic metric snapshots
+        run: |
+          python "People Analytics & HR Data/11_Data_Analytics_for_AI_in_HR/src/trusted_workforce_metrics.py" --out /tmp/trusted_workforce_metrics.json > /dev/null
+          python "People Analytics & HR Data/54_Attrition_Analysis_200_Employee_Synthetic_Case/src/workforce_scenario_forecast.py" --out /tmp/workforce_scenarios.json > /dev/null
+
+      - name: Detect snapshot drift and verify dashboard embeds
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          root = Path('People Analytics & HR Data')
+          actual_metrics = json.loads(Path('/tmp/trusted_workforce_metrics.json').read_text())
+          actual_forecast = json.loads(Path('/tmp/workforce_scenarios.json').read_text())
+          stored_metrics = json.loads((root / '11_Data_Analytics_for_AI_in_HR/evidence/trusted_workforce_metrics.json').read_text())
+          stored_forecast = json.loads((root / '54_Attrition_Analysis_200_Employee_Synthetic_Case/evidence/forecast_scenario_synthetic.json').read_text())
+          assert actual_metrics == stored_metrics, 'Project 11 snapshot differs from source script'
+          assert actual_forecast == stored_forecast, 'Project 54 forecast differs from source script'
+
+          html = (root / '52_HR_People_Analytics_Research_Dashboard_Library/workforce_intelligence_scorecard.html').read_text()
+          def extract(name):
+              fragment = html.split(f'const {name}=', 1)[1]
+              parsed, _ = json.JSONDecoder().raw_decode(fragment)
+              return parsed
+          assert extract('trusted') == stored_metrics, 'Embedded scorecard Project 11 snapshot drift'
+          assert extract('forecast') == stored_forecast, 'Embedded scorecard Project 54 snapshot drift'
+          assert stored_metrics['provenance']['classification'] == 'SYNTHETIC'
+          assert stored_forecast['distinct_from_200_employee_quarterly_cohort'] is True
+          assert all(row['end_headcount'] == row['start_headcount'] + row['planned_hires'] - row['assumed_exits']
+                     for scenario in stored_forecast['scenarios'] for row in scenario['months'])
+          print('Synthetic snapshots, dashboard embeds and scenario balances match source.')
+          PY
