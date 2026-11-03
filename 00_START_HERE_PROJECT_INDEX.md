@@ -1,3 +1,7 @@
+## Organizational Effectiveness — Group Organisation Design & People Governance
+
+**[Explore the Executive Director–level Organizational Effectiveness case](Organizational%20Effectiveness/README.md)** — a distinct fictional diversified-group decision-control system: Group People Strategy, scorecards, organisation restructuring, job architecture/evaluation, workforce and people-cost controls, hiring exceptions, people data reconciliation, AI workforce impact, new-entity launches, CPO/HCC advisory and OE team leadership. Includes a synthetic 3-entity case, offline Python decision-support engine and unit tests; no Dubai Holding affiliation, live system access or certified vendor grading claims.
+
 ## Agentic AI Automation
 
 [Open Agentic AI Automation](Agentic%20AI%20Automation/) — [Claude Agentic AI in HR - HR Service & Policy AI Assistants](Agentic%20AI%20Automation/Claude%20Agentic%20AI%20in%20HR%20-%20HR%20Service%20%26%20Policy%20AI%20Assistants/) brings together eight existing HR-service, policy, relations and communications projects, retaining original files and designs.

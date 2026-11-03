@@ -1,3 +1,7 @@
+## Organizational Effectiveness — Group Organisation Design & People Governance
+
+**[Explore the Executive Director–level Organizational Effectiveness case](Organizational%20Effectiveness/README.md)** — a distinct fictional diversified-group decision-control system: Group People Strategy, scorecards, organisation restructuring, job architecture/evaluation, workforce and people-cost controls, hiring exceptions, people data reconciliation, AI workforce impact, new-entity launches, CPO/HCC advisory and OE team leadership. Includes a synthetic 3-entity case, offline Python decision-support engine and unit tests; no Dubai Holding affiliation, live system access or certified vendor grading claims.
+
 ## Workforce Transformation and AI Transformation — practical HumanEvoX case labs
 
 - [Workforce Transformation](Workforce%20Transformation/): eight integrated Human–AI Future of Work Architecture modules (01–08), spanning workload, role/skill redesign, employee transition, organization architecture, digital worker orchestration, workforce intelligence, product/AI solution architecture and workforce economics. Includes independent local Python prototypes, tests and an attributed UAE leadership evidence map. No live enterprise deployment or verified ROI.
