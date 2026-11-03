@@ -1,0 +1,7 @@
+employee_id,legal_entity,manager_employee_id,effective_start,employment_status,pay_change,change_approved
+E100,ENTITY01,,2026-10-01,active,N,Y
+E101,ENTITY01,E100,2026-10-03,active,Y,Y
+E102,ENTITY01,E999,2026-13-01,active,N,Y
+E103,ENTITY01,E100,2026-10-15,active,Y,N
+E103,ENTITY01,E100,2026-10-15,active,Y,N
+E104,ENTITY02,E100,2026-10-20,pending,N,Y
