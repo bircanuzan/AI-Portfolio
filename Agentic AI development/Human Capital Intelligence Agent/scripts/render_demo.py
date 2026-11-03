@@ -161,20 +161,35 @@ make(5,"04 / decision authority","Keep sensitive decisions human-owned",
      "The design reserves job grading, employee relations, hiring and pay approval to accountable people.")
 
 def org_structure(d):
-    def unit(y,label,small="",w=928,x=M):
-        d.rounded_rectangle((x,y,x+w,y+96),radius=16,fill=PANEL,outline=GOLD_D,width=2)
-        text(d,x+25,y+17,label,26,WHITE,True)
-        if small:text(d,x+25,y+60,small,18,MUTED)
-    unit(418,"GROUP PEOPLE OFFICE","CPO - business strategy and reserved matters")
-    d.line((540,514,540,543),fill=GOLD,width=3)
-    unit(545,"GROUP OE & WORKFORCE ARCHITECTURE","Org design, job architecture, structural change control")
-    d.line((540,641,540,670),fill=GOLD,width=3)
-    unit(672,"PEOPLE DATA & WORKFORCE INTELLIGENCE","Position and capacity modelling, reconciled data")
-    d.line((540,768,540,795),fill=GOLD,width=3)
-    unit(799,"HUMAN–AI HC SERVICE OPERATIONS","Service delivery, oversight and human exceptions")
-    d.line((540,895,540,923),fill=GOLD,width=3)
-    unit(926,"TALENT & CAPABILITY INTELLIGENCE","Succession, mobility and responsible TA analytics")
-    wrapped(d,M,1060,"Other matrix controls: Reward / ER governance and Agent Risk & Assurance. Diagram shows a subset of the proposed seven-unit structure.",width=66,size=21,color=MUTED)
+    """Reflect the actual parent links in the fictional reporting hierarchy."""
+    hierarchy={unit["unit"]:unit for unit in RESULT["future_structure"]}
+    def unit(y,key,x=170,w=830,h=80,fsize=24):
+        u=hierarchy[key]
+        d.rounded_rectangle((x,y,x+w,y+h),radius=13,fill=PANEL,outline=GOLD_D,width=2)
+        text(d,x+20,y+10,u["unit"].upper(),fsize,WHITE,True)
+        text(d,x+20,y+h-33,u["human_accountability"],18,MUTED)
+    unit(417,"Group People Office",x=170,w=830,h=81)
+    # CPO is parent of OE, Services, Talent and Reward. They are NOT
+    # subordinated to each other; only People Data reports into Group OE.
+    d.line((170,460,130,460),fill=GOLD,width=3)
+    d.line((130,460,130,993),fill=GOLD,width=3)
+    peers=[
+      (541,"Group OE & Workforce Architecture"),
+      (764,"Human–AI HC Service Operations"),
+      (856,"Talent & Capability Intelligence"),
+      (948,"Reward & Employee Risk Governance")
+    ]
+    for y,name in peers:
+        d.line((130,y+40,170,y+40),fill=GOLD,width=3)
+        unit(y,name,x=170,w=830,h=80,fsize=23)
+    # One explicit second-level reporting relationship: Data -> Group OE.
+    d.line((224,621,224,660),fill=GOLD,width=2)
+    d.line((224,660,255,660),fill=GOLD,width=2)
+    unit(658,"People Data & Workforce Intelligence",x=255,w=745,h=76,fsize=21)
+    wrapped(d,M,1049,
+        "Matrix: Agent Risk & Assurance reports through Group OE, with CIO/CISO risk partnership.",
+        width=67,size=21,color=SOFT)
+    text(d,M,1128,"ILLUSTRATIVE / UNAPPROVED TARGET STRUCTURE",18,GOLD,True)
 make(6,"05 / organisation design","Design the future operating model",
      "Illustrative reporting interfaces, not approved organisational changes.",
      org_structure,
