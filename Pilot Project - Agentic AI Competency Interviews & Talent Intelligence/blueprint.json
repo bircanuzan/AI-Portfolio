@@ -1,0 +1,64 @@
+{
+  "id": "humanevox-synthetic-ai-integration-engineer",
+  "version": "demo-1",
+  "role": "AI Integration Engineer — synthetic job",
+  "usage": "Education and design only, not candidate selection",
+  "competencies": [
+    {
+      "id": "api",
+      "name": "API Integration and Reliability",
+      "weight": 35,
+      "question": "Describe an integration you personally implemented. How did you handle authentication, retries, failure cases and monitoring?",
+      "probe": "What specifically failed, what did you personally change, and how did you verify recovery?",
+      "anchors": {
+        "1": "No relevant example or unsafe approach",
+        "2": "Basic concepts but gaps on ownership and reliability",
+        "3": "Specific implemented design and problem response",
+        "4": "Trade-offs, testing and measurable reliability outcomes",
+        "5": "Independent validation and reusable architecture with quantified impact"
+      }
+    },
+    {
+      "id": "security",
+      "name": "Responsible AI and Security",
+      "weight": 25,
+      "question": "Explain an AI or HR automation workflow involving sensitive information. Which permissions, privacy controls and human approvals were used?",
+      "probe": "What misuse or data exposure scenario did you explicitly prevent?",
+      "anchors": {
+        "1": "No safeguards or clear unsafe handling",
+        "2": "Principles named without concrete implementation",
+        "3": "Documented access and human-review safeguards",
+        "4": "Tested misuse cases and traceable enforcement",
+        "5": "Independently verified control effectiveness and incident readiness"
+      }
+    },
+    {
+      "id": "evaluation",
+      "name": "Debugging and Evaluation",
+      "weight": 25,
+      "question": "Walk through a difficult API or AI system defect. How did you reproduce it, identify root cause and verify the fix?",
+      "probe": "Which evidence ruled out your initial hypothesis?",
+      "anchors": {
+        "1": "No credible diagnostic process",
+        "2": "Troubleshooting attempts lack reproducibility",
+        "3": "Reproduced issue with a verified corrective test",
+        "4": "Systematic alternatives and regression controls",
+        "5": "Measured prevention, diagnostics and reusable lessons"
+      }
+    },
+    {
+      "id": "stakeholder",
+      "name": "Stakeholder Judgment",
+      "weight": 15,
+      "question": "Describe a time a stakeholder wanted automation that introduced risk. What was the situation, your specific action and the result?",
+      "probe": "What changed after your trade-off discussion?",
+      "anchors": {
+        "1": "No clear job-relevant experience",
+        "2": "Limited ownership or unclear outcome",
+        "3": "Concrete stakeholder action and reasoned outcome",
+        "4": "Evidence-led challenge and collaborative follow-through",
+        "5": "Enduring safeguards and transferable documented impact"
+      }
+    }
+  ]
+}
