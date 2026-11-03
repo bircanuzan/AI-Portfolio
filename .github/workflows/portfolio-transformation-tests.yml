@@ -34,6 +34,17 @@ jobs:
         run: python -m unittest discover -s "Workforce Transformation/07_Workforce_Intelligence_Product_and_Solution_Architecture/tests" -v
       - name: Workforce economics and value assurance tests (08)
         run: python -m unittest discover -s "Workforce Transformation/08_Workforce_Economics_and_Enterprise_Value_Realization/tests" -v
+      - name: End-to-end eight-project architecture integration tests
+        run: python -m unittest discover -s "Workforce Transformation/00_Integrated_Architecture_Workbench/tests" -v
+      - name: Generate full executive pack, machine-readable evidence and interactive dashboard
+        run: python "Workforce Transformation/00_Integrated_Architecture_Workbench/src/architect_workbench.py" --out workforce-evidence-artifact
+      - name: Publish workforce architecture evidence artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: human-ai-workforce-executive-demo
+          path: workforce-evidence-artifact/
+          retention-days: 30
+          if-no-files-found: error
       - name: Enterprise tool portfolio diagnostics
         run: python -m unittest discover -s "AI Transformation/01_Enterprise_AI_Discovery_and_Subscription_Rationalisation/tests" -v
       - name: Controlled human-AI workflow negative tests

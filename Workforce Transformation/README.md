@@ -9,6 +9,10 @@ The emerging AI workforce requires leaders to redesign **business outcomes, work
 
 **Unified case:** fictional Atlas UAE Shared Services, incorporating HR service, recruitment coordination, customer operations and finance interfaces. It has no real clients, employees, tenant accounts or enterprise performance results.
 
+## Open the integrated, working demonstration
+
+**[Run the eight-module architecture decision workbench](00_Integrated_Architecture_Workbench/)** — imports the existing source models from Projects 01–08 and produces a JSON evidence file, a CFO/CHRO/CTO-ready Markdown executive decision pack and a responsive interactive HTML dashboard with real scenario controls. All data is synthetic. GitHub Actions executes integration tests and publishes the three outputs as a downloadable artifact; no API keys required.
+
 ## Eight complementary project modules
 | # | Project | Different strategic question | Practical evidence |
 |---|---|---|---|

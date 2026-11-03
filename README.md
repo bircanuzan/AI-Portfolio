@@ -1,3 +1,7 @@
+## Human–AI Workforce Architecture — Integrated Executive Workbench
+
+[Open the connected eight-module executive demonstration](Workforce%20Transformation/00_Integrated_Architecture_Workbench/) — combines workforce capacity, job/skills architecture, transition, AI-native organization design, agent orchestration, 2027–2029 scenarios, product intake and workforce economics. Produces a runnable local interactive HTML dashboard, decision pack and JSON evidence, with GitHub Actions verification. **Synthetic work samples only, not live enterprise deployment.**
+
 ## Agentic AI development — Human Capital Intelligence Agent
 
 [Open the Human Capital Intelligence Agent engineering project](Agentic%20AI%20development/Human%20Capital%20Intelligence%20Agent/) — G42 role-requirement-aligned independent prototype for six HC intelligence domains and read-only six-tool executive orchestration, guarded API/RBAC, HMAC audit, optional sovereign-compatible LLM summarisation, mocked HTTPS enterprise interfaces, automated synthetic tests, benchmark runner and agent/developer submission pack. **Not production deployed or currently eligible for an agent-only production hiring brief.**

@@ -16,7 +16,7 @@ Atlas UAE Shared Services faces changing customer/employee support demand and po
 | Guarded assist | Estimated case volumes | Eligibility and useful assistance bounded by test evidence | Explicit reviewed minutes per assisted case | Conditional pilot hypothesis |
 | Demand shock | Demand +20% illustrative | Guarded assist; may face bottlenecks | Review load retained | Stress-test service coverage |
 
-**Do not** interpret synthetic monthly case inputs as actual corporate workload. "AI eligible" does not mean "AI successful" in the real world; the script assumes success for illustration and must be recalibrated after a pilot.
+**Do not** interpret synthetic monthly case inputs as actual corporate workload. "AI eligible" does not mean "AI successful" in the real world; the script now models an explicit **synthetic assistance success rate (0.55–0.72)**. Only successful assisted cases receive time-saved credit, while every eligible attempt still incurs review cost. Recalibrate from independent observed tests before any business use.
 
 ## Skills and capability strategy
 Capability demand dimensions: AI literacy, agent supervision, critical judgment, service empathy, data interpretation, process design, cyber/privacy awareness and work-specific expertise. Score required versus current aggregate proficiency; provide training/redeployment options and human assessment. Do not rank actual employees.

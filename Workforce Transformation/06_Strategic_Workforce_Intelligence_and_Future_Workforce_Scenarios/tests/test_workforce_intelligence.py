@@ -31,6 +31,16 @@ class PlanningTests(unittest.TestCase):
     def test_bad_capacity(self):
         with self.assertRaises(ValueError):
             estimate(row(productive_hours_per_fte="0"))
+    def test_failed_assistance_not_assumed_successful(self):
+        r_high = estimate(row(assistance_success_rate="0.9"))
+        r_low = estimate(row(assistance_success_rate="0.1"))
+        self.assertLess(r_high["scenario_fte"], r_low["scenario_fte"])
+    def test_zero_success_can_add_review_overhead(self):
+        r = estimate(row(assistance_success_rate="0"))
+        self.assertGreater(r["scenario_fte"], r["baseline_fte"])
+    def test_invalid_success_rate(self):
+        with self.assertRaises(ValueError):
+            estimate(row(assistance_success_rate="1.2"))
     def test_scenario_rows(self):
         self.assertEqual(len(forecast_run()), 9)
     def test_skills_priority(self):
