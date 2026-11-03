@@ -1,0 +1,51 @@
+1
+00:00:00,000 --> 00:00:04,400
+An executable fictional case connects tasks, roles, capacity scenarios and a proposed organisation structure.
+
+2
+00:00:04,400 --> 00:00:08,800
+The synthetic activity model contains seven work groups, totalling 4,813 annual workload hours.
+
+3
+00:00:08,800 --> 00:00:13,200
+Illustrative capacity exposure is task-specific. Job evaluation and employee relations decisions remain human owned.
+
+4
+00:00:13,200 --> 00:00:17,600
+Eight fictional future role profiles include human AI service operations, workforce intelligence and agent assurance.
+
+5
+00:00:17,600 --> 00:00:22,000
+The design reserves job grading, employee relations, hiring and pay approval to accountable people.
+
+6
+00:00:22,000 --> 00:00:26,400
+A future-state Group structure proposes organisation effectiveness, people analytics, service operations and talent capability governance.
+
+7
+00:00:26,400 --> 00:00:30,800
+The hypothetical model calculates 1,460.55 net hours of potentially redeployable work, equivalent to about 0.974 FTE of workload, not layoffs.
+
+8
+00:00:30,800 --> 00:00:35,200
+Potential capacity is allocated to service quality, workforce modelling, reskilling and agent service assurance.
+
+9
+00:00:35,200 --> 00:00:39,600
+Zero, base and higher adoption scenarios are simulated. No financial benefit or employee impact is verified.
+
+10
+00:00:39,600 --> 00:00:44,000
+Employment, reward, budget, security and organisational decisions require human approval, consultation and validation.
+
+11
+00:00:44,000 --> 00:00:48,400
+The prototype combines six intelligence tools with an executable workforce design simulation and human-centred decision controls.
+
+12
+00:00:48,400 --> 00:00:52,800
+This is an independent synthetic engineering demonstration, not a production agent or completed workforce transformation.
+
+13
+00:00:52,800 --> 00:00:57,200
+The next frontier is accountable Human AI workforce design. See the open source prototype and methods in GitHub.
