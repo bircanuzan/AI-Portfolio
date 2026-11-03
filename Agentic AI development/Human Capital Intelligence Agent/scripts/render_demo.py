@@ -303,7 +303,9 @@ subprocess.run([
     imageio_ffmpeg.get_ffmpeg_exe(),"-hide_banner","-loglevel","error","-y",
     "-f","concat","-safe","0","-i",str(concat),
     "-vf","fps=24,format=yuv420p","-c:v","libx264","-pix_fmt","yuv420p",
-    "-preset","medium","-crf","25","-movflags","+faststart",str(dest)
+    "-preset","medium","-b:v","650k","-minrate","650k","-maxrate","650k",
+    "-bufsize","1300k","-x264-params","nal-hrd=cbr:filler=1",
+    "-movflags","+faststart",str(dest)
 ],check=True)
 print(json.dumps({
     "video":str(dest),"dimensions":[W,H],"duration_approx_sec":round(len(slides)*DURATION,1),
