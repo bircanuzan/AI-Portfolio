@@ -1,0 +1,153 @@
+{
+  "execution": {
+    "synthetic": true,
+    "planning_mode": "OFFLINE_ADAPTIVE_POLICY_NOT_AN_LLM",
+    "trace": [
+      {
+        "type": "USER_GOAL",
+        "text": "evaluate if 0.8 fte of hr tasks can be redeployed through workforce redesign"
+      },
+      {
+        "type": "PLANNER_MODE",
+        "text": "OFFLINE_ADAPTIVE_POLICY_NOT_AN_LLM"
+      },
+      {
+        "type": "AGENT_ACTION",
+        "turn": 1,
+        "tool": "read_workforce",
+        "args": {},
+        "reason": "Establish baseline vacancies and aggregate positions"
+      },
+      {
+        "type": "TOOL_OBSERVATION",
+        "turn": 1,
+        "tool": "read_workforce",
+        "result": {
+          "approved_positions": 102,
+          "occupied": 89,
+          "vacancies": 13,
+          "source": "fictional workforce fixture"
+        }
+      },
+      {
+        "type": "AGENT_ACTION",
+        "turn": 2,
+        "tool": "model_capacity",
+        "args": {},
+        "reason": "Analyse job architecture and task-level human/agent allocation"
+      },
+      {
+        "type": "TOOL_OBSERVATION",
+        "turn": 2,
+        "tool": "model_capacity",
+        "result": {
+          "baseline_hours": 4813.0,
+          "net_candidate_hours": 1460.55,
+          "capacity_fte": 0.974,
+          "future_human_roles": 8,
+          "future_org_units": 7,
+          "headcount_reductions_approved": 0,
+          "source": "fictional work redesign fixture"
+        }
+      },
+      {
+        "type": "AGENT_ACTION",
+        "turn": 3,
+        "tool": "stress_test",
+        "args": {
+          "adoption_multiplier": 0.65
+        },
+        "reason": "Base scenario meets target: test lower adoption"
+      },
+      {
+        "type": "TOOL_OBSERVATION",
+        "turn": 3,
+        "tool": "stress_test",
+        "result": {
+          "adoption_multiplier": 0.65,
+          "capacity_fte": 0.633,
+          "candidate_hours": 949.36,
+          "source": "synthetic adoption sensitivity"
+        }
+      },
+      {
+        "type": "AGENT_ACTION",
+        "turn": 4,
+        "tool": "review_governance",
+        "args": {},
+        "reason": "Sensitive decisions require human approval"
+      },
+      {
+        "type": "TOOL_OBSERVATION",
+        "turn": 4,
+        "tool": "review_governance",
+        "result": {
+          "decision": "HUMAN_REVIEW_REQUIRED",
+          "reserved_actions": [
+            "job grade approval",
+            "hiring",
+            "pay",
+            "employee relations"
+          ],
+          "approval_owners": [
+            "CPO",
+            "Finance",
+            "Legal/ER",
+            "AI assurance"
+          ],
+          "agent_write_authority": false,
+          "source": "illustrative human oversight policy"
+        }
+      },
+      {
+        "type": "AGENT_FINAL",
+        "result": {
+          "outcome": "PROPOSAL_FOR_HUMAN_REVIEW",
+          "goal": "evaluate if 0.8 fte of hr tasks can be redeployed through workforce redesign",
+          "target_fte": 0.8,
+          "base_capacity_fte": 0.974,
+          "stress_capacity_fte": 0.633,
+          "base_meets_target": true,
+          "stress_meets_target": false,
+          "vacancies": 13,
+          "proposed_roles": 8,
+          "proposed_org_units": 7,
+          "actual_staff_changes": 0,
+          "financial_savings_evidenced": false,
+          "human_approval_required": true,
+          "synthetic": true,
+          "sources": [
+            "fictional workforce fixture",
+            "fictional work redesign fixture",
+            "synthetic adoption sensitivity",
+            "illustrative human oversight policy"
+          ]
+        }
+      }
+    ],
+    "final": {
+      "outcome": "PROPOSAL_FOR_HUMAN_REVIEW",
+      "goal": "evaluate if 0.8 fte of hr tasks can be redeployed through workforce redesign",
+      "target_fte": 0.8,
+      "base_capacity_fte": 0.974,
+      "stress_capacity_fte": 0.633,
+      "base_meets_target": true,
+      "stress_meets_target": false,
+      "vacancies": 13,
+      "proposed_roles": 8,
+      "proposed_org_units": 7,
+      "actual_staff_changes": 0,
+      "financial_savings_evidenced": false,
+      "human_approval_required": true,
+      "synthetic": true,
+      "sources": [
+        "fictional workforce fixture",
+        "fictional work redesign fixture",
+        "synthetic adoption sensitivity",
+        "illustrative human oversight policy"
+      ]
+    },
+    "tool_calls": 4
+  },
+  "safety_refusal": "Goal contains potentially identifying or state-changing text; human review required"
+}
