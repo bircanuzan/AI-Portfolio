@@ -1,3 +1,8 @@
+## Downloadable GitHub PDF outputs
+
+- [Oracle 3-slide executive board PDF](02_Executive_Talent_Dashboard_Oracle_Fusion_HCM/board/Oracle_Executive_Talent_Board_Presentation.pdf)
+- [Power BI executive dashboard PDF](01_Executive_Talent_Dashboard_Power_BI/PowerBI_Executive_Talent_Dashboard.pdf)
+
 # Executive Talent Dashboard in Power BI and Board Presentation
 
 > **INDEPENDENT INTERVIEW PORTFOLIO CASE • SYNTHETIC DATA • NOT A COMPANY'S INTERNAL RESULTS**
