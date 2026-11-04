@@ -1,0 +1,11 @@
+metric_id,category,metric,unit,fy2024_actual,fy2025_target,fy2025_actual,direction,owner
+T01,Performance,Performance review completion,percent,88,98,94,higher,Head of Talent
+T02,Performance,Approved goal alignment,percent,76,90,82,higher,Head of Talent
+T03,Talent,Talent review completion,percent,79,100,90,higher,Head of Talent
+T04,Succession,Critical role successor coverage,percent,51,85,62,higher,Head of Talent
+T05,Succession,Ready-now successor coverage,percent,38,70,45,higher,Head of Talent
+T06,Retention,Regretted voluntary attrition,percent,9.2,8,10.4,lower,CHRO
+L01,Learning,Professional development hours,hours,5900,7000,6850,higher,Head of Talent Development
+L02,Learning,Leadership pathway completion,percent,68,85,76,higher,Head of Talent Development
+L03,Capability,Critical skill proficiency,percent,64,85,71,higher,Head of Talent Development
+H01,Workforce,Year end headcount,people,446,510,519,higher,CHRO
