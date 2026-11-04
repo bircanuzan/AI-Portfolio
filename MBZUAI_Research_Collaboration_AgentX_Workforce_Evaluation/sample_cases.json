@@ -1,0 +1,15 @@
+[
+  {"id":"RECRUITMENT-001","domain":"recruitment","goal_success":true,"steps":[
+    {"tool":"search_applicants","expected_tool":"search_applicants","correct":true,"action":"rank_for_review","timestamp":"2026-11-04T12:00:00Z","actor":"agent:recruitment","evidence_ref":"synthetic-profile-1"},
+    {"tool":"review_portal","expected_tool":"review_portal","correct":true,"action":"offer_candidate","human_approved":true,"timestamp":"2026-11-04T12:01:00Z","actor":"human:recruiter","evidence_ref":"synthetic-approval-1"}
+  ]},
+  {"id":"TALENT-ASSESSMENT-002","domain":"talent_assessment","goal_success":true,"steps":[
+    {"tool":"assessment_bank","expected_tool":"assessment_bank","correct":true,"action":"generate_questions","timestamp":"2026-11-04T12:03:00Z","actor":"agent:assessment","evidence_ref":"synthetic-rubric-1"},
+    {"tool":"assessment_scoring","expected_tool":"assessment_scoring","correct":true,"action":"assign_assessment_score","human_approved":false,"timestamp":"2026-11-04T12:04:00Z","actor":"agent:assessment","evidence_ref":"synthetic-score-1"}
+  ]},
+  {"id":"TALENT-LND-003","domain":"talent_management_instructional_design","goal_success":true,"steps":[
+    {"tool":"skills_inventory","expected_tool":"skills_inventory","correct":true,"action":"identify_skill_gaps","timestamp":"2026-11-04T12:05:00Z","actor":"agent:lnd","evidence_ref":"synthetic-skills-1"},
+    {"tool":"learning_designer","expected_tool":"learning_designer","correct":true,"action":"draft_learning_path","timestamp":"2026-11-04T12:06:00Z","actor":"agent:lnd","evidence_ref":"synthetic-journey-1"},
+    {"tool":"approval_queue","expected_tool":"approval_queue","correct":true,"action":"approve_personal_development_plan","human_approved":true,"timestamp":"2026-11-04T12:07:00Z","actor":"human:talent_manager","evidence_ref":"synthetic-approval-2"}
+  ]}
+]
