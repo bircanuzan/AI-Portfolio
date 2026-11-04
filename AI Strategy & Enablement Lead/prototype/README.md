@@ -13,7 +13,7 @@ A minimal, reproducible Python standard-library example for an **AI-ready** KYC/
 OCR/LLM extraction, confidence calibration, MCP integration, live API access, identity verification, sanctions screening, secure storage, access controls, production auditing and model quality evaluation.
 
 ## Usage
-Python >=3.9, no package installations:
+Python >=3.10, no package installations:
 ```bash
 python regtech_demo.py data/synthetic_cases.json
 python -m unittest discover -s tests -v
