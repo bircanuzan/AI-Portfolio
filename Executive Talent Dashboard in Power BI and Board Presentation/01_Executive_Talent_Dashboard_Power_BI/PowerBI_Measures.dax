@@ -1,0 +1,7 @@
+-- Power BI: Create each measure separately; filter every KPI card to one metric_id (units differ).
+FY25 Actual = SUM(annual_kpi_registry[fy2025_actual])
+FY25 Target = SUM(annual_kpi_registry[fy2025_target])
+FY24 Baseline = SUM(annual_kpi_registry[fy2024_actual])
+KPI Gap = [FY25 Actual] - [FY25 Target]
+Favourable Gap = IF(SELECTEDVALUE(annual_kpi_registry[direction],"higher")="lower",-[KPI Gap],[KPI Gap])
+KPI RAG = VAR A=[FY25 Actual] VAR T=[FY25 Target] VAR D=SELECTEDVALUE(annual_kpi_registry[direction],"higher") RETURN IF(NOT HASONEVALUE(annual_kpi_registry[metric_id]),"SELECT ONE KPI",SWITCH(TRUE(),IF(D="lower",A<=T,A>=T),"GREEN",IF(D="lower",A<=T*1.1,A>=T*.9),"AMBER","RED"))
