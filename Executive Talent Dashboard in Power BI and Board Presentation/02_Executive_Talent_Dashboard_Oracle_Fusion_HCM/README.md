@@ -1,3 +1,10 @@
+## Executive board presentation PDF
+
+- [Oracle executive board presentation (3-slide PDF)](board/Oracle_Executive_Talent_Board_Presentation.pdf)
+- [Oracle OTBI-style interactive talent dashboard](Oracle_OTBI_Executive_Dashboard_Demo.html)
+
+The GitHub PDF is a standalone vector rendering of the independent illustrative three-slide board case. The PowerPoint and fully formatted companion PDF are also available in the conversation download pack. No live Oracle tenancy is claimed.
+
 # Project 02 — Executive Talent Dashboard & Executive Reporting Using Oracle Fusion HCM
 
 > **INDEPENDENT INTERVIEW PORTFOLIO CASE • SYNTHETIC DATA • NOT A COMPANY'S INTERNAL RESULTS**
