@@ -1,0 +1,5 @@
+risk_id,severity,workstream,risk,actual,target,owner,mitigation
+R01,High,Project delivery,Uncovered critical roles,7,0,CHRO,Validated deputies and successor sprint
+R02,High,Engineering,Verified skills,71%,85%,Talent Development,Skill academy and assessment
+R03,High,Operations,Regretted attrition,10.4%,8%,CHRO,Retain scarce capabilities
+R04,Medium,Corporate,Performance closeout,94%,98%,HRBPs,Manager exception escalation
