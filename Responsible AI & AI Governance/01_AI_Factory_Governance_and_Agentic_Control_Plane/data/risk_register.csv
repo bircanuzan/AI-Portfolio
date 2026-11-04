@@ -1,0 +1,10 @@
+risk_id,system_id,risk,impact,likelihood,inherent_score,owner,control,validation,residual_status,decision
+R01,HR-FAQ,Unsupported hallucinated policy advice,4,3,12,Knowledge Owner,Grounded source review and human check,Source approval and freshness tests,OPEN,No live deployment
+R02,HR-FAQ,Prompt injection or malicious instruction,4,4,16,CISO,Tool allowlisting and untrusted input controls,Indicative attack regression,OPEN,Red team with real model required
+R03,HR-SELECTION,Unfair candidate outcomes,5,4,20,CHRO,Independent fairness test and human hiring decisions,Incomplete evaluation blocks release,OPEN,Do not release
+R04,HR-SELECTION,Candidate privacy loss,5,4,20,DPO,Lawful processing and data access review,Pending privacy approval blocks release,OPEN,Do not release
+R05,FIN-CASE,Unauthorized external disclosure,5,3,15,CISO,Destination allowlist and data minimization,Outbound attempt denied,OPEN,Live IAM and egress checks required
+R06,FIN-CASE,Delegated decision without human authority,5,3,15,Finance Risk,Named accountable reviewer and task rights,Approval gate negative tests,OPEN,No autonomous consequential acts
+R07,ALL,Insufficient event traceability,4,3,12,AI Governance Lead,Hash chained offline audit and log retention,Self verification and tamper test,OPEN,Enterprise immutable evidence not implemented
+R08,ALL,Unverified model performance,4,4,16,Model Risk Lead,Independent TEVV and monitoring,Not executed on a real model,OPEN,Required before production
+R09,ALL,Sovereignty or residency exposure,5,3,15,CDO/Legal,Data flow and vendor location due diligence,Proposed applicability screening,OPEN,Review by counsel
