@@ -1,3 +1,7 @@
+## NEW — Executive Talent Dashboard, Oracle Fusion HCM and Board Reporting (Interview Case)
+
+**[Open the two-project Executive Talent Dashboard portfolio](Executive%20Talent%20Dashboard%20in%20Power%20BI%20and%20Board%20Presentation/)** — independent fictional clean-energy case, with **[Oracle OTBI-style interactive dashboard](Executive%20Talent%20Dashboard%20in%20Power%20BI%20and%20Board%20Presentation/02_Executive_Talent_Dashboard_Oracle_Fusion_HCM/Oracle_OTBI_Executive_Dashboard_Demo.html)**, Oracle Goal/Performance/Talent Review/Succession reporting architecture, Analytics Publisher sample and a **[Power BI cross-domain reporting case](Executive%20Talent%20Dashboard%20in%20Power%20BI%20and%20Board%20Presentation/01_Executive_Talent_Dashboard_Power_BI/)**. Includes a three-slide board narrative, editable PowerPoint generator, synthetic operating KPIs, budget/risks, and an interview walkthrough. **No employer affiliation, verified internal KPIs, production Oracle or Power BI access claimed.**
+
 ## Human–AI Workforce Architecture — Integrated Executive Workbench
 
 [Open the connected eight-module executive demonstration](Workforce%20Transformation/00_Integrated_Architecture_Workbench/) — combines workforce capacity, job/skills architecture, transition, AI-native organization design, agent orchestration, 2027–2029 scenarios, product intake and workforce economics. Produces a runnable local interactive HTML dashboard, decision pack and JSON evidence, with GitHub Actions verification. **Synthetic work samples only, not live enterprise deployment.**
