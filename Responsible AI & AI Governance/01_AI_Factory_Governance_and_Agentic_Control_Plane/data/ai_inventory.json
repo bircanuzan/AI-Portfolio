@@ -1,0 +1,92 @@
+[
+  {
+    "system_id": "HR-FAQ",
+    "purpose": "HR policy information assistant",
+    "owner": "HR Operations Lead",
+    "risk_owner": "AI Risk Lead",
+    "sector": "corporate HR",
+    "jurisdiction": "UAE",
+    "high_impact": false,
+    "personal_data": false,
+    "environment": "sandbox",
+    "risk_assessment": "COMPLETE",
+    "privacy_review": "PASS_SYNTHETIC",
+    "security_review": "PASS_SYNTHETIC",
+    "model_evaluation": "PASS_SYNTHETIC",
+    "fairness_review": "NOT_APPLICABLE_DOCUMENTED",
+    "human_oversight": "DOCUMENTED",
+    "roles": [
+      "hr_advisor"
+    ],
+    "tools": [
+      "read_policy",
+      "draft_answer"
+    ],
+    "sources": [
+      "SYN-POL-01"
+    ],
+    "approval_required": [
+      "draft_answer"
+    ]
+  },
+  {
+    "system_id": "HR-SELECTION",
+    "purpose": "Recruitment assessment support agent",
+    "owner": "Talent Acquisition Director",
+    "risk_owner": "Head of AI Risk",
+    "sector": "HR/recruitment",
+    "jurisdiction": "UAE",
+    "high_impact": true,
+    "personal_data": true,
+    "environment": "sandbox",
+    "risk_assessment": "COMPLETE",
+    "privacy_review": "PENDING",
+    "security_review": "PASS_SYNTHETIC",
+    "model_evaluation": "PENDING",
+    "fairness_review": "PENDING",
+    "human_oversight": "DOCUMENTED",
+    "roles": [
+      "ta_lead"
+    ],
+    "tools": [
+      "read_role_description",
+      "summarize_evidence"
+    ],
+    "sources": [
+      "SYN-ROLE-01"
+    ],
+    "approval_required": [
+      "summarize_evidence"
+    ]
+  },
+  {
+    "system_id": "FIN-CASE",
+    "purpose": "Financial services case support copilot",
+    "owner": "Finance Operations Director",
+    "risk_owner": "Finance Risk Officer",
+    "sector": "regulated-sector simulation",
+    "jurisdiction": "UAE",
+    "high_impact": true,
+    "personal_data": true,
+    "environment": "sandbox",
+    "risk_assessment": "COMPLETE",
+    "privacy_review": "PASS_SYNTHETIC",
+    "security_review": "PASS_SYNTHETIC",
+    "model_evaluation": "PASS_SYNTHETIC",
+    "fairness_review": "PASS_SYNTHETIC",
+    "human_oversight": "DOCUMENTED",
+    "roles": [
+      "finance_reviewer"
+    ],
+    "tools": [
+      "read_sample_case",
+      "draft_case_memo"
+    ],
+    "sources": [
+      "SYN-FIN-01"
+    ],
+    "approval_required": [
+      "draft_case_memo"
+    ]
+  }
+]
