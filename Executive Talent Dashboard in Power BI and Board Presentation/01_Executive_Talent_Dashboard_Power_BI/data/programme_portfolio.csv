@@ -1,0 +1,6 @@
+programme_id,programme,baseline,annual_target,annual_actual,approved_budget_aed,spent_aed,fy_end_forecast_aed,sponsor,owner
+P01,Succession accelerator,51%,85%,62%,1100000,990000,1150000,CHRO,Head of Talent
+P02,Critical skills academy,64%,85%,71%,1200000,1050000,1290000,CTO,Head of Talent Development
+P03,National talent pipeline,42%,46%,44%,750000,640000,710000,CHRO,Head of National Talent
+P04,Performance framework,88%,98%,94%,650000,620000,670000,COO,Head of Talent
+P05,Workforce readiness,68 days,50 days,63 days,950000,860000,980000,COO,Talent Acquisition
