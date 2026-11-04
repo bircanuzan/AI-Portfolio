@@ -1,0 +1,9 @@
+metric,actual,target,unit,source_module,reporting_tool,risk_status
+Performance reviews complete,94,98,percent,Performance Management,Oracle OTBI,Amber
+Approved goal alignment,82,90,percent,Goal Management,Oracle OTBI,Amber
+Talent reviews complete,90,100,percent,Talent Review,Oracle OTBI,Amber
+Critical role succession,62,85,percent,Succession Management,Oracle OTBI,Red
+Ready-now successor coverage,45,70,percent,Succession Management,Oracle OTBI,Red
+Talent action closure,74,90,percent,Talent Review,Oracle OTBI,Red
+Leadership pathway completion,76,85,percent,Learning,Optional Fusion HCM Analytics,Amber
+Regretted attrition,10.4,8,percent,Core HCM,Optional Fusion HCM Analytics,Red
