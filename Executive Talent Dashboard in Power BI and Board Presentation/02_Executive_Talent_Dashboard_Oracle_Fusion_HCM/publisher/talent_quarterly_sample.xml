@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QuarterlyTalentReport mock="true" source="FICTIONAL_SAMPLE">
+<Period>FY2025-Q4</Period><ReportOwner>Head of Talent Development</ReportOwner>
+<KPIs>
+<KPI name="PerformanceReviewCompletion" actual="94" target="98" unit="percent" />
+<KPI name="ApprovedGoalAlignment" actual="82" target="90" unit="percent" />
+<KPI name="CriticalSuccessionCoverage" actual="62" target="85" unit="percent" />
+<KPI name="ReadyNowSuccessionCoverage" actual="45" target="70" unit="percent" />
+</KPIs>
+<Decisions><Decision id="D01" askAED="1200000">Successor readiness sprint</Decision><Decision id="D02" askAED="850000">Critical skill verification cohort</Decision><Decision id="D03" askAED="0">Performance action closure directive</Decision></Decisions>
+</QuarterlyTalentReport>
