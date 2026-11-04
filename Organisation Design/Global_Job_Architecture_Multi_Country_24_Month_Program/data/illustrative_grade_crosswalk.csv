@@ -1,0 +1,9 @@
+market,current_local_grade,global_track_level,proposed_global_profile,decision_status,required_approval
+Market A,A-G4,IC2,OPS-STATION-IC2,pending_review,Local HR and Reward
+Market A,A-G6,M1,OPS-STATION-M1,pending_review,Operations and Reward
+Market B,B-G3,IC2,CX-PASSENGER-IC2,pending_review,Local HR and Reward
+Market B,B-G5,IC3,COM-ACCOUNT-IC3,pending_review,Commercial and Reward
+Market B,B-G6,M1,CX-QUALITY-M1,pending_review,Customer Experience and Reward
+Market C,C-G5,IC3,COR-HR-IC3,pending_review,Corporate HR and Reward
+Market C,C-G6,M1,OPS-RAMP-M1,pending_review,Operations and Reward
+Market A,A-G4,IC2,TECH-DATA-IC2,pending_review,Technology and Reward

@@ -1,0 +1,9 @@
+position_id,market,business_unit,current_title,manager_position_id,job_family,job_subfamily,track_level,global_job_code,local_grade,role_profile_version,review_status
+POS-001,Market A,Ground Operations,Station Operations Manager,,Ground Operations,Station Operations,M1,OPS-STATION-M1,A-G6,1.0,approved_sample
+POS-002,Market A,Ground Operations,Operations Specialist,POS-001,Ground Operations,Station Operations,IC2,OPS-STATION-IC2,A-G4,1.0,pending_calibration
+POS-003,Market B,Customer Service,Passenger Service Officer,,Customer Experience,Passenger Services,IC2,CX-PASSENGER-IC2,B-G3,1.0,pending_calibration
+POS-004,Market B,Commercial,Account Manager,,Commercial,Account Management,IC3,COM-ACCOUNT-IC3,B-G5,1.0,pending_calibration
+POS-005,Market C,Digital,HRIS Analyst,,Corporate Services,HR,IC3,COR-HR-IC3,C-G5,1.0,approved_sample
+POS-006,Market C,Ground Operations,Ramp Team Lead,,Ground Operations,Ramp Services,M1,OPS-RAMP-M1,C-G6,1.0,pending_calibration
+POS-007,Market A,Technology,Data Analyst,,Technology & Data,Data Analytics,IC2,TECH-DATA-IC2,A-G4,1.0,pending_calibration
+POS-008,Market B,Customer Service,Service Quality Manager,,Customer Experience,Service Quality,M1,CX-QUALITY-M1,B-G6,1.0,pending_calibration

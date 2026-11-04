@@ -1,0 +1,11 @@
+lead_id,agency_id,received_at,response_at,channel,language,consent_to_contact,listing_id,booked_viewing
+L001,A01,2026-10-01T08:00:00+00:00,2026-10-01T08:03:00+00:00,portal,en,true,P101,true
+L002,A01,2026-10-01T08:03:00+00:00,2026-10-01T08:17:00+00:00,portal,en,true,P102,false
+L003,A01,2026-10-01T08:07:00+00:00,,web,en,true,P103,false
+L004,A02,2026-10-01T09:00:00+00:00,2026-10-01T09:04:00+00:00,portal,ar,true,P104,true
+L005,A02,2026-10-01T09:03:00+00:00,,portal,en,false,P105,false
+L006,A02,2026-10-01T09:30:00+00:00,2026-10-01T10:10:00+00:00,web,en,true,P106,false
+L007,A03,2026-10-01T10:00:00+00:00,2026-10-01T10:05:00+00:00,portal,en,true,P107,true
+L008,A03,2026-10-01T10:07:00+00:00,,web,ur,true,P108,false
+L009,A03,2026-10-01T11:00:00+00:00,2026-10-01T11:02:00+00:00,portal,en,true,P109,true
+L010,A01,2026-10-01T12:00:00+00:00,,web,en,true,P110,false
