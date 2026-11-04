@@ -1,3 +1,10 @@
+## Download the Power BI dashboard PDF
+
+- [Power BI executive talent dashboard (one-page printable PDF)](PowerBI_Executive_Talent_Dashboard.pdf)
+- [Interactive dashboard (standalone HTML)](Executive_Talent_PowerBI_Dashboard_Demo.html)
+
+The PDF is a printable, synthetic example of the dashboard reporting design. It is not an exported Power BI Service or PBIX artifact.
+
 # Project 01 — Executive Talent Dashboard in Power BI and Board Presentation
 
 > INDEPENDENT INTERVIEW PORTFOLIO CASE • SYNTHETIC DATA • NOT A COMPANY'S INTERNAL RESULTS
