@@ -1,0 +1,8 @@
+function,oracle_module,reporting_tool,reporting_object,executive_use
+Employee performance,Fusion Talent Management - Performance Management,Oracle OTBI,Workforce Performance - Performance Document Status Real Time,Performance cycle closeout
+Employee goals,Fusion Talent Management - Goal Management,Oracle OTBI,Workforce Goals - Goal Alignments Real Time,Goal achievement and corporate objective alignment
+Talent reviews,Fusion Talent Management - Talent Review,Oracle OTBI,Workforce Talent Review - Talent Review Meeting Real Time,Calibrated Talent Review summaries
+Succession,Fusion Talent Management - Succession Management,Oracle OTBI,Workforce Succession Management - Plan Candidates Real Time,Successor and readiness plans
+Monthly and quarterly reporting,Fusion HCM Reports and Analytics,Oracle Analytics Publisher,Approved Publisher data model and RTF template,Formatted scheduled PDF/Excel reporting
+Historical talent trends,Fusion HCM Analytics,Oracle Fusion Data Intelligence,Curated HCM analytics subject areas,Optional separately licensed analytic layer
+Board scorecards,PMR reporting framework,Actual system unknown,Approved performance reporting pack,Executive and board governance
