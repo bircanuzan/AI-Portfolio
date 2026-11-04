@@ -1,0 +1,2 @@
+case_id,initiative,business_problem,baseline_value,baseline_date,evidence_source,proposed_action,accountable_owner,sponsor,approved_budget_aed,target_value,target_date,actual_value,control_review,decision_status
+"02.03-01","Learning Demand Intake and Triage Form","A solar team requests negotiation training after recurrent procurement delays",,"","TO_VALIDATE","Test whether the problem is a skill gap or a procurement workflow failure before purchasing courses","Head of Talent Development","TO_APPROVE",,,,"","Training is not default remedy for non-skill problems","PROPOSED"

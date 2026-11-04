@@ -1,0 +1,2 @@
+case_id,initiative,business_problem,baseline_value,baseline_date,evidence_source,proposed_action,accountable_owner,sponsor,approved_budget_aed,target_value,target_date,actual_value,control_review,decision_status
+"12.01-01","Talent Information Access and Retention Matrix","A shared talent review export exposes confidential successor ratings",,"","TO_VALIDATE","Restrict roles enforce audit and retention with privacy response procedure","Head of Talent Development","TO_APPROVE",,,,"","Avoid exporting identifiable records to public AI services","PROPOSED"

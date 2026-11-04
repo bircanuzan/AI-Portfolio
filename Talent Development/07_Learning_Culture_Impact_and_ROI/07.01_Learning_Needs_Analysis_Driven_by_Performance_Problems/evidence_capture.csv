@@ -1,0 +1,2 @@
+case_id,initiative,business_problem,baseline_value,baseline_date,evidence_source,proposed_action,accountable_owner,sponsor,approved_budget_aed,target_value,target_date,actual_value,control_review,decision_status
+"07.01-01","Operational Performance Root-Cause Study","Repeated project handover errors continue after staff complete training",,"","TO_VALIDATE","Compare process defects tool constraints and skill evidence before intervention","Head of Talent Development","TO_APPROVE",,,,"","Distinguish 07.01 diagnostic study from 02.03 request-intake triage","PROPOSED"

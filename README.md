@@ -1,3 +1,7 @@
+## Talent Development — Executive Global Capability Portfolio (60 subsection projects)
+
+**[Open the Talent Development portfolio](Talent%20Development/README.md)** — 12 strategic sections, 60 standalone projects with tailored working decision artifacts and evidence capture, covering leadership, technical skills, LMS/SCORM/xAPI, succession, Emirati development, learning ROI, AI safeguards and board reporting. All scenarios are **synthetic interview case designs**, not Masdar-delivered work, current vendor confirmations or verified outcomes.
+
 ## NEW — Executive Talent Dashboard, Oracle Fusion HCM and Board Reporting (Interview Case)
 
 **[Open the two-project Executive Talent Dashboard portfolio](Executive%20Talent%20Dashboard%20in%20Power%20BI%20and%20Board%20Presentation/)** — independent fictional clean-energy case, with **[Oracle OTBI-style interactive dashboard](Executive%20Talent%20Dashboard%20in%20Power%20BI%20and%20Board%20Presentation/02_Executive_Talent_Dashboard_Oracle_Fusion_HCM/Oracle_OTBI_Executive_Dashboard_Demo.html)**, Oracle Goal/Performance/Talent Review/Succession reporting architecture, Analytics Publisher sample and a **[Power BI cross-domain reporting case](Executive%20Talent%20Dashboard%20in%20Power%20BI%20and%20Board%20Presentation/01_Executive_Talent_Dashboard_Power_BI/)**. Includes a three-slide board narrative, editable PowerPoint generator, synthetic operating KPIs, budget/risks, and an interview walkthrough. **No employer affiliation, verified internal KPIs, production Oracle or Power BI access claimed.**

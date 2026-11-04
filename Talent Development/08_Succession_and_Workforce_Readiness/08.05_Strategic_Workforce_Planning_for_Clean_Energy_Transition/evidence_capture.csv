@@ -1,0 +1,2 @@
+case_id,initiative,business_problem,baseline_value,baseline_date,evidence_source,proposed_action,accountable_owner,sponsor,approved_budget_aed,target_value,target_date,actual_value,control_review,decision_status
+"08.05-01","Three-Year Build Buy Borrow Bot Scenario","Storage expansion raises future commissioning and analytics demand",,"","TO_VALIDATE","Compare hiring reskilling contractors and approved automation on cost speed and risk","Head of Talent Development","TO_APPROVE",,,,"","Automation scenarios require human safety and control review","PROPOSED"

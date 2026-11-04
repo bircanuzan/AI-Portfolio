@@ -1,3 +1,7 @@
+## Talent Development — Executive Global Capability Portfolio (60 subsection projects)
+
+**[Open the Talent Development portfolio](Talent%20Development/README.md)** — 12 strategic sections, 60 standalone projects with tailored working decision artifacts and evidence capture, covering leadership, technical skills, LMS/SCORM/xAPI, succession, Emirati development, learning ROI, AI safeguards and board reporting. All scenarios are **synthetic interview case designs**, not Masdar-delivered work, current vendor confirmations or verified outcomes.
+
 ## Agentic AI development — Human Capital Intelligence Agent
 
 [Open the Human Capital Intelligence Agent engineering project](Agentic%20AI%20development/Human%20Capital%20Intelligence%20Agent/) — G42 role-requirement-aligned independent prototype for six HC intelligence domains and read-only six-tool executive orchestration, guarded API/RBAC, HMAC audit, optional sovereign-compatible LLM summarisation, mocked HTTPS enterprise interfaces, automated synthetic tests, benchmark runner and agent/developer submission pack. **Not production deployed or currently eligible for an agent-only production hiring brief.**

@@ -1,0 +1,2 @@
+case_id,initiative,business_problem,baseline_value,baseline_date,evidence_source,proposed_action,accountable_owner,sponsor,approved_budget_aed,target_value,target_date,actual_value,control_review,decision_status
+"03.02-01","New Manager 90-Day Transition Kit","A promoted engineer manages six colleagues for the first time",,"","TO_VALIDATE","Use manager scenarios delegation practice and checkpoints at 30 60 90 days","Head of Talent Development","TO_APPROVE",,,,"","Avoid assessment of managers solely on satisfaction surveys","PROPOSED"

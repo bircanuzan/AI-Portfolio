@@ -1,0 +1,5 @@
+role_id,role_family,region,criticality,successor_ready_now,successor_ready_1_2_years,source
+CR-001,BESS Commissioning Director,UAE,Critical,0,1,SYNTHETIC
+CR-002,Wind Asset Operations Lead,Europe,Critical,1,0,SYNTHETIC
+CR-003,Grid Integration SME,Central Asia,Critical,0,1,SYNTHETIC
+CR-004,Investment Portfolio Director,UAE,Critical,1,1,SYNTHETIC

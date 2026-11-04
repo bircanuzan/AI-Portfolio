@@ -1,0 +1,5 @@
+role_id,skill,required_level,assessed_level,evidence,source
+CR-001,BESS Safety Systems,4,3,Simulation,SYNTHETIC
+CR-002,Wind Reliability Analysis,4,4,Observed Project,SYNTHETIC
+CR-003,Grid Protection Configuration,4,2,Practical Test,SYNTHETIC
+CR-004,Project Finance Risk,4,3,Case Assessment,SYNTHETIC

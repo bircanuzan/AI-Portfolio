@@ -1,0 +1,2 @@
+case_id,initiative,business_problem,baseline_value,baseline_date,evidence_source,proposed_action,accountable_owner,sponsor,approved_budget_aed,target_value,target_date,actual_value,control_review,decision_status
+"01.03-01","Investment Case and Vendor Spend Ledger","A leadership academy renewal would absorb funds earmarked for critical technical training",,"","TO_VALIDATE","Compare total cost of ownership benefit uncertainty and alternative investments","Head of Talent Development","TO_APPROVE",,,,"","Never claim unvalidated ROI or vendor usage","PROPOSED"

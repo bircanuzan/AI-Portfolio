@@ -1,0 +1,38 @@
+# Reskilling Investment Priority Matrix
+**Project:** 02.04 — Prioritize Business-Critical Reskilling vs Popular Training
+
+> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at Masdar.
+
+## Executive decision
+Score criticality safety scarcity urgency and deployment need.
+
+## Worked fictional scenario
+**Operational signal:** BESS commissioning certification competes with popular general productivity courses.
+
+| Evidence field | Illustrative design / decision entry |
+|---|---|
+| Business problem | BESS commissioning certification competes with popular general productivity courses |
+| Decision supported | Score criticality safety scarcity urgency and deployment need |
+| Proposed approach | Weighted prioritization; risk matrix; finance checkpoints |
+| Mandatory validation | Do not neglect legally required compliance learning |
+| Primary effectiveness measure | Share of funded activity addressing tier-one skill risks |
+| Executive owner | Business sponsor with Head of Talent Development as process owner |
+| Implementation status | Design / decision proposal — not implemented |
+| Review gate | Data validated -> impacted owners consulted -> Finance or risk review as needed -> sponsor decision -> follow-up |
+
+## Reusable operating worksheet
+| Case ID | Evidence / source | Gap or trigger | Recommendation | Owner | Milestone | Status |
+|---|---|---|---|---|---|---|
+| 02.04-CASE-01 | To be confirmed with authorized process/data owner | BESS commissioning certification competes with popular general productivity courses | Score criticality safety scarcity urgency and deployment need | Named business sponsor | First quarterly review | Proposed |
+| 02.04-CASE-02 | Validate with business owner, HRIS and SMEs | Measure against: Share of funded activity addressing tier-one skill risks | Reassess after controlled pilot | Head of Talent Development | Next quarterly review | Awaiting evidence |
+
+## Decision-quality checklist
+- [ ] Confirm whether training, process change, resource allocation, system configuration or hiring is the correct intervention.
+- [ ] Confirm baseline, population, relevant operational risk and data provenance before presenting results.
+- [ ] Define decision rights, financial owner, control evidence and risk acceptance explicitly.
+- [ ] Record evidence at baseline and at an agreed follow-up; report variance and uncertainties.
+- [ ] Escalate any safety, privacy, fairness or materially adverse workforce impact to qualified reviewers.
+
+## Evidence needed to make this real
+A signed requirements brief; lawful dataset access; validated baselines; approved business sponsor; tested controls; implementation/change records; post-intervention outcome evidence.
+No completion, impact, vendor implementation or certification is claimed in this demo.

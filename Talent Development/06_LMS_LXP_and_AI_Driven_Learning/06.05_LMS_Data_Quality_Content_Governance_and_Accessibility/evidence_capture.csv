@@ -1,0 +1,2 @@
+case_id,initiative,business_problem,baseline_value,baseline_date,evidence_source,proposed_action,accountable_owner,sponsor,approved_budget_aed,target_value,target_date,actual_value,control_review,decision_status
+"06.05-01","SCORM xAPI Content Quality and WCAG Checklist","An e-learning module reports completion incorrectly and lacks keyboard navigation",,"","TO_VALIDATE","Test SCORM status track versions and remediate WCAG failures","Head of Talent Development","TO_APPROVE",,,,"","xAPI/cmi5 only where LMS and LRS support is confirmed","PROPOSED"

@@ -1,0 +1,2 @@
+case_id,initiative,business_problem,baseline_value,baseline_date,evidence_source,proposed_action,accountable_owner,sponsor,approved_budget_aed,target_value,target_date,actual_value,control_review,decision_status
+"07.03-01","Finance-Assured ROI Calculation Workbook Spec","A technical academy claims savings without isolating effects of training",,"","TO_VALIDATE","Quantify eligible benefits and full costs and show attribution uncertainty","Head of Talent Development","TO_APPROVE",,,,"","Record benefit exclusions and non-financial outcomes","PROPOSED"
