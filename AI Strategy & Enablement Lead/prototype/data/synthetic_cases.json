@@ -1,0 +1,55 @@
+[
+  {
+    "case_id": "SYN-001",
+    "declared": {
+      "legal_name": "Example Crescent LLC",
+      "registry_number": "REG-0001",
+      "jurisdiction": "AE",
+      "beneficial_owners": [
+        {"name": "Synthetic Owner A", "ownership_pct": 60},
+        {"name": "Synthetic Owner B", "ownership_pct": 40}
+      ]
+    },
+    "mock_extracted_document": {
+      "legal_name": "Example Crescent LLC",
+      "registry_number": "REG-0001",
+      "jurisdiction": "AE",
+      "expiry_date": "2028-01-01"
+    }
+  },
+  {
+    "case_id": "SYN-002",
+    "declared": {
+      "legal_name": "Example Meridian Ltd",
+      "registry_number": "REG-0002",
+      "jurisdiction": "SE",
+      "beneficial_owners": [
+        {"name": "Synthetic Owner C", "ownership_pct": 100}
+      ]
+    },
+    "mock_extracted_document": {
+      "legal_name": "Example Meridian Ltd",
+      "registry_number": "REG-0020",
+      "jurisdiction": "SE",
+      "expiry_date": "2026-01-01"
+    }
+  },
+  {
+    "case_id": "SYN-003",
+    "declared": {
+      "legal_name": "Example Beacon SA",
+      "registry_number": "REG-0003",
+      "jurisdiction": "GR",
+      "beneficial_owners": [
+        {"name": "Synthetic Owner D", "ownership_pct": 55},
+        {"name": "Synthetic Owner E", "ownership_pct": 35}
+      ]
+    },
+    "mock_extracted_document": {
+      "legal_name": "Example Beacon SA",
+      "registry_number": "REG-0003",
+      "jurisdiction": "GR",
+      "expiry_date": "2030-10-30"
+    }
+  }
+]
