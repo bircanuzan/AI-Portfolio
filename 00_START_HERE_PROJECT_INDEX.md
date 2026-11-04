@@ -1,3 +1,7 @@
+## Organizational Transformation Advisory — Integrated Enterprise Transformation Case
+
+**[Open the independent Organizational Transformation Advisory case](Organizational%20Transformation%20Advisory/)** — a distinct CEO/CHRO advisory case connecting organization redesign, a scored and evidence-gated capability gap assessment, cultural transformation, outcome-based performance framework, and HR operating-model modernization. Includes synthetic datasets, a runnable stdlib Python prioritization tool, unit tests, executive decisions and benefits governance. No client engagement or implemented financial return is claimed.
+
 ## Talent Development — Executive Global Capability Portfolio (60 subsection projects)
 
 **[Open the Talent Development portfolio](Talent%20Development/README.md)** — 12 strategic sections, 60 standalone projects with tailored working decision artifacts and evidence capture, covering leadership, technical skills, LMS/SCORM/xAPI, succession, Emirati development, learning ROI, AI safeguards and board reporting. All scenarios are **synthetic interview case designs**, not Masdar-delivered work, current vendor confirmations or verified outcomes.

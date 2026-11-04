@@ -1,0 +1,8 @@
+benefit_id,benefit,unit,baseline_assumption,target_hypothesis,accountable_owner,system_of_record,frequency,verification_rule,status
+B01,Cross-functional approval cycle,business_days,18,10,COO,workflow_event_logs,monthly,Comparable case mix and signed timestamps,UNVERIFIED_SYNTHETIC
+B02,Manager quarterly check-ins,percent,46,90,CHRO,performance_checkin_audit,quarterly,Denominator all eligible managers and quality spot check,UNVERIFIED_SYNTHETIC
+B03,Critical-role skill coverage,percent,35,85,Talent Director,role_skills_validation,quarterly,Independent job analysis and qualified validation,UNVERIFIED_SYNTHETIC
+B04,Employee case first response median,business_days,4.5,1.0,HR Operations Director,case_management_logs,monthly,Compare similar categories and exclusions,UNVERIFIED_SYNTHETIC
+B05,Internal fill rate priority roles,percent,19,30,Talent Acquisition Lead,approved_hiring_ledger,quarterly,Agreed priority role definition and denominator,UNVERIFIED_SYNTHETIC
+B06,Employee trust favorable,percent,58,70,People Analytics Lead,anonymous_employee_pulse,quarterly,Stratified response coverage and confidence limits,UNVERIFIED_SYNTHETIC
+B07,Voluntary attrition trailing twelve months,percent,16,12,CHRO,hris_termination_and_headcount,quarterly,Voluntary classifications and average population,UNVERIFIED_SYNTHETIC

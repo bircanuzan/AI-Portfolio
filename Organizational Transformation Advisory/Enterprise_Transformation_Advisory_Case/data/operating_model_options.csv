@@ -1,0 +1,4 @@
+option,model,one_off_investment_aed,illustrative_annual_benefit_aed,annual_incremental_run_cost_aed,transition_risk,approval_status
+A,Function-led process optimization,650000,450000,120000,LOW,Comparator only
+B,Value-stream matrix and HR operating-model redesign,2400000,1600000,400000,MEDIUM,Pilot candidate - not approved
+C,Centralized regional shared-services model,4100000,2300000,500000,HIGH,Deferred pending evidence

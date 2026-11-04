@@ -1,0 +1,9 @@
+capability_id,domain,capability,owner,current,target,criticality,impacted_roles,sample_size,evidence_confidence
+C01,Organization Design,Decision rights and accountability,COO,2.0,4.0,5,90,12,medium
+C02,Process Excellence,Process ownership and service design,COO,2.5,4.0,4,160,16,high
+C03,Data & Digital,HRIS data stewardship,CHRO,2.1,4.0,5,45,8,low
+C04,Talent,Mapping critical skills to roles,CHRO,2.3,4.3,5,210,20,medium
+C05,Culture,Cross-functional collaboration,CHRO,2.8,4.0,4,300,30,medium
+C06,Performance,Performance calibration and coaching,CHRO,2.0,4.2,5,110,10,medium
+C07,Leadership,Leader change sponsorship,CEO,2.7,4.0,5,50,9,low
+C08,HR Operating Model,Employee service case ownership,HR Operations Director,2.4,4.1,4,600,18,medium
