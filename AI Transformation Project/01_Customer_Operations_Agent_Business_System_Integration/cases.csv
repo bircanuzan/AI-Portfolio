@@ -1,0 +1,4 @@
+case_id,alias,email,policy_status,required_docs,received_docs
+SYN1001,Test Alpha,alpha@example.invalid,active,ID|Address Proof,ID
+SYN1002,Test Beta,beta@example.invalid,active,ID|Address Proof,ID|Address Proof
+SYN1003,Test Gamma,gamma@example.invalid,expired,ID|Consent,ID
