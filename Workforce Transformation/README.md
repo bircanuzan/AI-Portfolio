@@ -56,7 +56,7 @@ Check GitHub Actions for the current run result; **code presence is not proof of
 - [People Analytics & HR Data](../People%20Analytics%20%26%20HR%20Data/) — dashboard and descriptive analytics; **Module 06** focuses on longer-horizon decision scenarios.
 - [Organizational Development](../Organizational%20Effectiveness/Organizational%20Development/) — wider organizational effectiveness roadmap; **Module 04** is the narrower AI-native organization architecture.
 - [AI Transformation](../AI%20Transformation/) — AI tool/subscription governance and rollout; **Module 07** designs an enterprise workforce intelligence product.
-- [Oracle Solution Architecture](../Oracle%20Solution%20Architecture/) and [HRIS & HCM Systems](../HR%20Technology%20%26%20Digital%20Transformation/HRIS%20%26%20HCM%20Systems/) — implementation/integration learning, not replicated.
+- [Oracle Solution Architecture](../HR%20Technology%20%26%20Digital%20Transformation/Oracle%20Fusion%20HCM/Oracle%20Solution%20Architecture/) and [HRIS & HCM Systems](../HR%20Technology%20%26%20Digital%20Transformation/HRIS%20%26%20HCM%20Systems/) — implementation/integration learning, not replicated.
 - [AI Governance, Risk & Responsible AI Portfolio](../AI%20Governance%2C%20Risk%20%26%20Responsible%20AI%20Portfolio/) — formal AI assurance approaches, cross-referenced rather than duplicated.
 
 ## Accuracy and portfolio CV guidance
