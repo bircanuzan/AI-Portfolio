@@ -52,7 +52,7 @@ The proposed agent handles approved-policy questions, classifies incoming servic
 - **Project 56** has a local deterministic policy-answer/evaluation lab, not a deployed LLM agent.
 - This new project is the **enterprise adoption method**, not a third claim of a successfully deployed production agent. The supporting cost model, scoring and thresholds are explicitly illustrative.
 
-[Related Project 43](../../../43_Microsoft_Copilot_Studio_HR_Service_Agent_Prototype/) · [Related Project 56](../../../56_HR_Policy_Assistant_20_Question_Evaluation/) · [Agent risk project](../../../AI%20Governance%2C%20Risk%20%26%20Responsible%20AI%20Portfolio/Managing%20Risk%2C%20Security%2C%20and%20Ethical%20Considerations%20for%20Agentic%20AI./)
+[Related Project 43](../../../Agentic%20AI%20development/AI%20in%20HR%20%26%20Agentic%20Automation/43_Microsoft_Copilot_Studio_HR_Service_Agent_Prototype/) · [Related Project 56](../../../Agentic%20AI%20development/AI%20in%20HR%20%26%20Agentic%20Automation/56_HR_Policy_Assistant_20_Question_Evaluation/) · [Agent risk project](../../../AI%20Governance%2C%20Risk%20%26%20Responsible%20AI%20Portfolio/Managing%20Risk%2C%20Security%2C%20and%20Ethical%20Considerations%20for%20Agentic%20AI./)
 
 ### What would demonstrate professional competence?
 
