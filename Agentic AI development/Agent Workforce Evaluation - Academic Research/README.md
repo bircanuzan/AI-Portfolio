@@ -1,11 +1,11 @@
 # Human–AI Workforce Agent Evaluation — Agent-X-Informed Extension Proposal
 
-**Author:** Bircan Uzan | HumanEvoX Talent Consultancy | 4 November 2026
-**Status:** Standalone, locally tested synthetic research prototype; **not** an upstream MBZUAI Agent-X contribution or university-affiliated project.
+**Author:** Bircan Uzan | the independent portfolio author | 4 November 2026
+**Status:** Standalone, locally tested synthetic research prototype; **not** an upstream a named academic institution Agent-X contribution or university-affiliated project.
 
 ## Research origin and distinction
 
-The MBZUAI Oryx **Agent-X** benchmark evaluates multi-step reasoning, tool use, and outcomes in **vision-centric multimodal tasks**. See https://github.com/mbzuai-oryx/Agent-X and Ashraf et al., *Agent-X: Evaluating Deep Multimodal Reasoning in Vision-Centric Agentic Tasks* (ICLR 2026). This project **does not claim equivalence** to Agent-X's dataset, tasks, or scoring protocol. It is a domain-focused research extension **proposal** inspired by evaluating agents at step, tool and outcome levels.
+The public research **Agent-X** benchmark evaluates multi-step reasoning, tool use, and outcomes in **vision-centric multimodal tasks**. See publicly available Agent-X research and Ashraf et al., *Agent-X: Evaluating Deep Multimodal Reasoning in Vision-Centric Agentic Tasks* (ICLR 2026). This project **does not claim equivalence** to Agent-X's dataset, tasks, or scoring protocol. It is a domain-focused research extension **proposal** inspired by evaluating agents at step, tool and outcome levels.
 
 ## Implemented and locally tested
 
