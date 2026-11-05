@@ -1,6 +1,6 @@
 # AI Solutions Engineering — Agentic Employee Service Implementation
 
-**Status:** independently designed synthetic portfolio demonstration, not a production deployment. **Vacancy:** EatEasily AI Solutions Engineer, Dubai (https://ae.indeed.com/viewjob?jk=6adfd74623d03c67).
+**Status:** independently designed synthetic portfolio demonstration, not a production deployment. **Vacancy:** an independent AI solutions engineering role brief (https://ae.indeed.com/viewjob?jk=6adfd74623d03c67).
 
 ## Problem & outcome
 A UAE employee-services operation needs an assistant to answer approved HR policy questions, escalate exceptions and prepare helpdesk requests only after explicit user confirmation. Success is measured by policy answer correctness, safe escalation, UAT pass rate, absence of unauthorized actions, adoption and ticket resolution time. No results are yet measured.
