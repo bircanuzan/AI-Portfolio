@@ -108,13 +108,13 @@ For a plain-English overview of **all** portfolio folders, use [START HERE — p
 - [AI-Enabled HR Transformation](HR%20Technology%20%26%20Digital%20Transformation/02_AI_Enabled_HR_Transformation/)
 - [People Analytics & AI](People%20Analytics%20%26%20HR%20Data/03_People_Analytics_AI/)
 - [HR Technology & Digital Employee Experience](HR%20Technology%20%26%20Digital%20Transformation/04_HR_Technology_Digital_Employee_Experience/)
-- [AI Agents & HR Automation](05_AI_Agents_Chatbots_HR_Automation/)
+- [AI Agents & HR Automation](Agentic%20AI%20development/AI%20in%20HR%20%26%20Agentic%20Automation/05_AI_Agents_Chatbots_HR_Automation/)
 - [Strategic Workforce Planning](Workforce%20Transformation/06_Workforce_Planning/)
 - [Talent & Workforce Intelligence](AI-enabled%20Recruitment%20Portfolio/07_Talent_Workforce_Intelligence/)
 - [Talent Management & Assessment](Talent%20Assessment/08_Talent_Management_Assessment/)
 - [AI Automation in HR Operations](HR%20Operations%20%26%20Workflow%20Automation/09_AI_Automation_HR_Operations/)
 - [Data & Analytics for AI in HR](People%20Analytics%20%26%20HR%20Data/11_Data_Analytics_for_AI_in_HR/)
-- [Agentic AI for Full HR Lifecycle](12_Building_Agentic_AI_for_Full_HR_Lifecycle/)
+- [Agentic AI for Full HR Lifecycle](Agentic%20AI%20development/AI%20in%20HR%20%26%20Agentic%20Automation/12_Building_Agentic_AI_for_Full_HR_Lifecycle/)
 - [Oracle Fusion HCM Portfolio & Governance](HR%20Technology%20%26%20Digital%20Transformation/Oracle%20Fusion%20HCM/13_Oracle_Fusion_HCM/)
 - [14 - Teach Machine Learning: Model Training and Evaluation](AI%20Model%20Training%20%26%20Evaluation%20Freelancer%20Project/14_Machine_Learning_Training_and_Model_Evaluation/)
 - [15 - Teach DevOps: AI-Supported CI/CD and Kubernetes](AI%20Model%20Training%20%26%20Evaluation%20Freelancer%20Project/15_AI_DevOps_Training_CI_CD_and_Kubernetes/)
@@ -259,7 +259,7 @@ The projects demonstrate how Generative AI, LLMs, Microsoft Copilot, Power Autom
 
 Human-in-the-loop controls are embedded throughout. AI supports HR professionals and managers rather than independently making consequential employment decisions.
 
-[VIEW THE FULL AI AGENTS, CHATBOTS & HR AUTOMATION PORTFOLIO (PDF)](05_AI_Agents_Chatbots_HR_Automation/independent_portfolio_AI_Agents_Chatbots_HR_Automation_Portfolio.pdf)
+[VIEW THE FULL AI AGENTS, CHATBOTS & HR AUTOMATION PORTFOLIO (PDF)](Agentic%20AI%20development/AI%20in%20HR%20%26%20Agentic%20Automation/05_AI_Agents_Chatbots_HR_Automation/independent_portfolio_AI_Agents_Chatbots_HR_Automation_Portfolio.pdf)
 
 ### AI-Enabled Strategic Workforce Planning | UAE & KSA
 
@@ -422,7 +422,7 @@ The technical portfolio includes detailed agent specifications, system prompts, 
 
 Consequential employment decisions remain human-owned. Agents support evidence preparation, analysis, workflow coordination and decision support rather than autonomously making employment decisions.
 
-[VIEW THE FULL BUILDING AGENTIC AI FOR FULL HR LIFECYCLE PORTFOLIO (PDF)](12_Building_Agentic_AI_for_Full_HR_Lifecycle/independent_portfolio_Building_Agentic_AI_for_Full_HR_Lifecycle.pdf)
+[VIEW THE FULL BUILDING AGENTIC AI FOR FULL HR LIFECYCLE PORTFOLIO (PDF)](Agentic%20AI%20development/AI%20in%20HR%20%26%20Agentic%20Automation/12_Building_Agentic_AI_for_Full_HR_Lifecycle/independent_portfolio_Building_Agentic_AI_for_Full_HR_Lifecycle.pdf)
 
 
 
