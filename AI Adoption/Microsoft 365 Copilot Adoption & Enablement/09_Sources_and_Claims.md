@@ -10,9 +10,9 @@
 ## Candidate evidence and source hierarchy
 1. Candidate's latest CV: `Bircan_Uzan_AI_Enabled_HR_Transformation_CV_2026_Updated_Certifications.pdf`. It states 18+ years corporate consulting, 13+ years HR, ~5 years L&D/instructional design and practical AI/HR programme work.
 2. GitHub [Project 34](../34_Business_Oriented_Microsoft_365_Copilot_Adoption_and_Enablement_Consultant/) has detailed business-first Microsoft 365 Copilot scenarios, workshop designs, champions and measurement plan.
-3. GitHub [Project 41](../41_HR_Operations_Process_Mapping_Workflow_Automation_Power_Automate/) documents fictional HR approval workflow design.
-4. GitHub [Project 43](../43_Microsoft_Copilot_Studio_HR_Service_Agent_Prototype/) holds an actual local rules-based HR assistant and a separately **unexecuted** Copilot Studio tenant build guide.
-5. GitHub [Project 44](../44_AI_Ethics_Responsible_AI_and_AI_Governance/) documents synthetic Responsible AI governance and risk-management case work.
+3. GitHub [Project 41](../../HR%20Operations%20%26%20Workflow%20Automation/41_HR_Operations_Process_Mapping_Workflow_Automation_Power_Automate/) documents fictional HR approval workflow design.
+4. GitHub [Project 43](../../Agentic%20AI%20development/AI%20in%20HR%20%26%20Agentic%20Automation/43_Microsoft_Copilot_Studio_HR_Service_Agent_Prototype/) holds an actual local rules-based HR assistant and a separately **unexecuted** Copilot Studio tenant build guide.
+5. GitHub [Project 44](../../AI%20Governance%2C%20Risk%20%26%20Responsible%20AI%20Portfolio/44_AI_Ethics_Responsible_AI_and_AI_Governance/) documents synthetic Responsible AI governance and risk-management case work.
 
 ## What you may claim
 - 18+ years international business consulting / programme experience (as stated in CV).
