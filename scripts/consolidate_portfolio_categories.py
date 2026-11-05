@@ -347,7 +347,12 @@ def main():
             directory.rmdir()
         except OSError:
             pass
-    final_roots = sorted(p.name for p in ROOT.iterdir() if p.is_dir() and p.name != ".git")
+    # Git tracks files, not empty directories. Count only roots containing file artifacts.
+    final_roots = sorted({
+        p.relative_to(ROOT).parts[0]
+        for p in ROOT.rglob("*")
+        if p.is_file() and ".git" not in p.parts and len(p.relative_to(ROOT).parts) > 1
+    })
     if set(final_roots) != set(PRIMARY) | INFRA:
         raise RuntimeError("Unexpected root taxonomy: " + str(final_roots))
     print("MOVED_FILES", moved)
