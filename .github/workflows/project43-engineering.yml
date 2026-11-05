@@ -2,7 +2,7 @@ name: Project 43 Python engineering lab CI
 on:
   push:
     paths:
-      - '43_Microsoft_Copilot_Studio_HR_Service_Agent_Prototype/engineering/**'
+      - 'Agentic AI development/AI in HR & Agentic Automation/43_Microsoft_Copilot_Studio_HR_Service_Agent_Prototype/engineering/**'
       - '.github/workflows/project43-engineering.yml'
   workflow_dispatch:
 jobs:
