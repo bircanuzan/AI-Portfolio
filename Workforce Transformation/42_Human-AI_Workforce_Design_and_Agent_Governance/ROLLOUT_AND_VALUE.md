@@ -2,7 +2,7 @@
 
 ## Completed as of 29 October 2026
 - Defined a realistic **UAE professional-services** HR policy use case, process boundaries, RACI and a staged assessment framework.
-- Built [working offline JavaScript decision prototype + browser interface](../43_Microsoft_Copilot_Studio_HR_Service_Agent_Prototype/), executed 28 authored prompts and captured actual JSON outcomes.
+- Built [working offline JavaScript decision prototype + browser interface](../../Agentic%20AI%20development/AI%20in%20HR%20%26%20Agentic%20Automation/43_Microsoft_Copilot_Studio_HR_Service_Agent_Prototype/), executed 28 authored prompts and captured actual JSON outcomes.
 - Documented the two failed synonym routes and set the release decision to **HOLD**.
 
 ## Not completed
@@ -28,4 +28,4 @@ Microsoft Copilot Studio setup, SharePoint live grounding, Teams/Power Automate 
 3. Python/JS: enhance evaluation harness and independent holdout data.
 4. Azure AI Foundry: enterprise architecture, monitoring, red teaming and CI/CD with engineering partners.
 
-See [Project 43 actual evidence](../43_Microsoft_Copilot_Studio_HR_Service_Agent_Prototype/evidence/2026-10-29_test_run.json) and [Microsoft build checklist](../43_Microsoft_Copilot_Studio_HR_Service_Agent_Prototype/COPILOT_STUDIO_BUILD_GUIDE.md).
+See [Project 43 actual evidence](../../Agentic%20AI%20development/AI%20in%20HR%20%26%20Agentic%20Automation/43_Microsoft_Copilot_Studio_HR_Service_Agent_Prototype/evidence/2026-10-29_test_run.json) and [Microsoft build checklist](../../Agentic%20AI%20development/AI%20in%20HR%20%26%20Agentic%20Automation/43_Microsoft_Copilot_Studio_HR_Service_Agent_Prototype/COPILOT_STUDIO_BUILD_GUIDE.md).
