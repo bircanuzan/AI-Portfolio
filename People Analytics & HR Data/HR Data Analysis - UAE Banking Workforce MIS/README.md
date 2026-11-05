@@ -50,4 +50,4 @@ Python 3.10+, standard library only. Output is a JSON management summary, not a 
 ### Responsible handling
 Use fictional data only. Real implementation must use least-privilege HR/Finance access, encryption, restricted distribution, cell-level suppression where appropriate, retention controls, approved data classifications, audit trails and Legal/Compliance review of UAE and CBUAE-specific obligations.
 
-**Related independent portfolio:** [HR Strategy & Planning](../../../HR%20Strategy%20%26%20Planning/README.md) | [People Analytics & HR Data](../) | [Executive Talent Dashboard](../Executive%20Talent%20Dashboard%20in%20Power%20BI%20and%20Board%20Presentation/)
+**Related independent portfolio:** [HR Strategy & Planning](../../HR%20Strategy%20%26%20Planning/README.md) | [People Analytics & HR Data](../) | [Executive Talent Dashboard](../Executive%20Talent%20Dashboard%20in%20Power%20BI%20and%20Board%20Presentation/)
