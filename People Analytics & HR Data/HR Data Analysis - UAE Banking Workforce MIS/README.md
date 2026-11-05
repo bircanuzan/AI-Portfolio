@@ -1,11 +1,11 @@
-# HR Data Analysis for UAE Banking Client
+# HR Data Analysis - UAE Banking Workforce MIS
 ## Workforce MIS, Headcount Forecasting, Manpower Budget & Emiratisation Reporting Controls
 
-**Author:** Bircan Uzan | HumanEvoX Talent Consultancy  
-**Naming note:** “UAE Banking Client” describes the fictional sector case, not a real bank engagement. No ADIB client relationship or banking client work is claimed.\n\n**Portfolio classification:** Independent, fictional UAE banking-sector HR data-analyst case study (November 2026).  
+**Author:** Bircan Uzan | the independent portfolio author  
+**Naming note:** “UAE Banking Client” describes the fictional sector case, not a real bank engagement. No the bank client relationship or banking client work is claimed.\n\n**Portfolio classification:** Independent, fictional UAE banking-sector HR data-analyst case study (November 2026).  
 **Purpose:** Demonstrate a rigorous monthly workforce reporting and reconciliation workflow aligned to a published HR Data Analyst role.
 
-> **Evidence boundary:** Not work delivered for Abu Dhabi Islamic Bank (ADIB), another bank, CBUAE or a government authority. All people records, budgets, division labels, staffing targets and outputs are fictional. There is no access to internal HRMS/finance systems, personal HR data, production dashboards, or confidential regulatory filings. Example Emiratisation targets are arbitrary teaching assumptions **not** legal or bank-specific requirements.
+> **Evidence boundary:** Not work delivered for a named banking institution, another bank, CBUAE or a government authority. All people records, budgets, division labels, staffing targets and outputs are fictional. There is no access to internal HRMS/finance systems, personal HR data, production dashboards, or confidential regulatory filings. Example Emiratisation targets are arbitrary teaching assumptions **not** legal or bank-specific requirements.
 
 ### Executive business question
 How can HR produce reliable monthly headcount and cost MIS across divisions, forecast changes, support an annual manpower budget, and explain national workforce target variances without mixing up employees, FTE, funded positions, recruitment requests or expected exits?
@@ -30,8 +30,8 @@ How can HR produce reliable monthly headcount and cost MIS across divisions, for
 
 ### Run locally
 ```bash
-python "HR Data Analysis for UAE Banking Client/analysis.py"
-python -m unittest discover -s "HR Data Analysis for UAE Banking Client/tests" -p "test_*.py" -v
+python "People Analytics & HR Data/HR Data Analysis - UAE Banking Workforce MIS/analysis.py"
+python -m unittest discover -s "People Analytics & HR Data/HR Data Analysis - UAE Banking Workforce MIS/tests" -p "test_*.py" -v
 ```
 Python 3.10+, standard library only. Output is a JSON management summary, not a production regulatory submission.
 
@@ -50,4 +50,4 @@ Python 3.10+, standard library only. Output is a JSON management summary, not a 
 ### Responsible handling
 Use fictional data only. Real implementation must use least-privilege HR/Finance access, encryption, restricted distribution, cell-level suppression where appropriate, retention controls, approved data classifications, audit trails and Legal/Compliance review of UAE and CBUAE-specific obligations.
 
-**Related independent portfolio:** [HR Strategy & Planning](../HR%20Strategy%20%26%20Planning/README.md) | [People Analytics & HR Data](../People%20Analytics%20%26%20HR%20Data/) | [Executive Talent Dashboard](../Executive%20Talent%20Dashboard%20in%20Power%20BI%20and%20Board%20Presentation/)
+**Related independent portfolio:** [HR Strategy & Planning](../../HR%20Strategy%20%26%20Planning/README.md) | [People Analytics & HR Data](../) | [Executive Talent Dashboard](../Executive%20Talent%20Dashboard%20in%20Power%20BI%20and%20Board%20Presentation/)
