@@ -1,0 +1,30 @@
+name: Stage portfolio anonymization
+on:
+  push:
+    paths:
+      - scripts/anonymize_public_portfolio.py
+      - .github/workflows/stage-portfolio-anonymization.yml
+permissions:
+  contents: write
+jobs:
+  anonymize:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: python -m pip install pypdf openpyxl pymupdf
+      - name: Prepare sanitized worktree and validate complete portfolio
+        run: python scripts/anonymize_public_portfolio.py
+      - name: Push proposed anonymized revision for review
+        run: |
+          git config user.name "Portfolio Privacy Automation"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git switch -c portfolio-identity-cleanup
+          git add -A
+          git commit -m "Anonymize portfolio naming and case content across projects"
+          git push -u origin portfolio-identity-cleanup
