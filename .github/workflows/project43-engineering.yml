@@ -12,7 +12,7 @@ jobs:
       contents: read
     defaults:
       run:
-        working-directory: 43_Microsoft_Copilot_Studio_HR_Service_Agent_Prototype/engineering
+        working-directory: Agentic AI development/AI in HR & Agentic Automation/43_Microsoft_Copilot_Studio_HR_Service_Agent_Prototype/engineering
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -29,5 +29,5 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: project43-offline-evidence
-          path: 43_Microsoft_Copilot_Studio_HR_Service_Agent_Prototype/engineering/evidence/ci_local_run.json
+          path: Agentic AI development/AI in HR & Agentic Automation/43_Microsoft_Copilot_Studio_HR_Service_Agent_Prototype/engineering/evidence/ci_local_run.json
           retention-days: 14
