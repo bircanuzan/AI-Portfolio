@@ -5,7 +5,7 @@
 ## What was actually built
 A locally runnable **HR service automation prototype** built with JavaScript. It takes employee questions, retrieves fixed, invented policy texts, cites the sample policy versions, and flags private or high-stakes HR requests for human handling. A browser UI shows the response and a decision trace. It does not access HRIS, employee data, email, SharePoint or Microsoft 365.
 
-**Accuracy of the claim:** This is a **rules-based prototype, not an LLM-powered AI agent or deployed Microsoft Copilot Studio application**. The runnable files and evaluations were originally developed in [Project 43](../43_Microsoft_Copilot_Studio_HR_Service_Agent_Prototype/) and are curated here as a practical agent-building/automation case study, **not** as a second independently developed product.
+**Accuracy of the claim:** This is a **rules-based prototype, not an LLM-powered AI agent or deployed Microsoft Copilot Studio application**. The runnable files and evaluations were originally developed in [Project 43](../AI%20in%20HR%20%26%20Agentic%20Automation/43_Microsoft_Copilot_Studio_HR_Service_Agent_Prototype/) and are curated here as a practical agent-building/automation case study, **not** as a second independently developed product.
 
 ## Architecture
 ```mermaid
@@ -49,7 +49,7 @@ These are **small synthetic test-set results**, not independent AI quality, safe
 - [Observed limitations](evidence/REVIEW_FINDINGS.md)
 
 ## Microsoft AI agent implementation — proposed, not deployed
-The next phase is to build the HR service assistant in an authenticated **Microsoft Copilot Studio** environment, connect only approved *synthetic* policy content, use **Power Automate** to request human approvals, and capture real agent responses for independent QA. [Copilot Studio build guide](../43_Microsoft_Copilot_Studio_HR_Service_Agent_Prototype/COPILOT_STUDIO_BUILD_GUIDE.md) and [Power Automate flow design](../43_Microsoft_Copilot_Studio_HR_Service_Agent_Prototype/POWER_AUTOMATE_FLOW_SPEC.md) are **design documents**, not completed implementations.
+The next phase is to build the HR service assistant in an authenticated **Microsoft Copilot Studio** environment, connect only approved *synthetic* policy content, use **Power Automate** to request human approvals, and capture real agent responses for independent QA. [Copilot Studio build guide](../AI%20in%20HR%20%26%20Agentic%20Automation/43_Microsoft_Copilot_Studio_HR_Service_Agent_Prototype/COPILOT_STUDIO_BUILD_GUIDE.md) and [Power Automate flow design](../AI%20in%20HR%20%26%20Agentic%20Automation/43_Microsoft_Copilot_Studio_HR_Service_Agent_Prototype/POWER_AUTOMATE_FLOW_SPEC.md) are **design documents**, not completed implementations.
 
 ## Practical skills demonstrated
 HR process definition • low-code agent design planning • simple coded automation • test-case design • reproducible evaluation • source validation • human-in-the-loop controls • performance monitoring and defect review.
