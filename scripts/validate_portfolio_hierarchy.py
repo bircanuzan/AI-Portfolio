@@ -49,7 +49,25 @@ def validate_links(files, dirs):
             continue
         text = (ROOT / file).read_text(encoding="utf-8", errors="replace")
         values = []
-        values.extend(m.group(1) for m in re.finditer(r"\]\(([^\n)]+)\)", text))
+        # Markdown permits balanced parentheses in relative links. A simple
+        # [^)]+ expression misidentifies valid directory names as bad links.
+        for opening in re.finditer(r"\]\(", text):
+            start = opening.end()
+            depth = 1
+            offset = start
+            while offset < len(text):
+                ch = text[offset]
+                if ch == "\\" and offset + 1 < len(text):
+                    offset += 2
+                    continue
+                if ch == "(":
+                    depth += 1
+                elif ch == ")":
+                    depth -= 1
+                    if depth == 0:
+                        values.append(text[start:offset])
+                        break
+                offset += 1
         values.extend(m.group(1) for m in re.finditer(r"(?m)^\[[^\]]+\]:\s*(\S+)", text))
         base = posixpath.dirname(file)
         for raw in values:
