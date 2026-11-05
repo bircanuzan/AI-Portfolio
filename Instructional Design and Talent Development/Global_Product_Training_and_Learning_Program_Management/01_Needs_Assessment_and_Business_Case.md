@@ -32,6 +32,6 @@ The future-state sales team must sell outcomes, not recite specifications. In an
 
 ## Decision brief
 - **In:** product positioning, buyer diagnosis, approved features, service comparison, solution-demo flow, safe claims, objection handling, regional adaptation, manager follow-up.
-- **Out:** real sales certification, Lenovo-specific specifications, technical deployment instructions, personal-data collection, regulatory assurance claims.
+- **Out:** real sales certification, sector_organization-specific specifications, technical deployment instructions, personal-data collection, regulatory assurance claims.
 - **Dependencies:** product and security sign-off; sample demo environment; legal-marketing approval of sales language; LMS accessibility check; regional scheduling.
 - **Go / no-go:** Sponsor, product, security, regional lead, L&D and operations sign the scope and current claims baseline before learners receive material.

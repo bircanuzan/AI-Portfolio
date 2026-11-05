@@ -1,6 +1,6 @@
 # 08.02 — Talent Calibration and Nine-Box Interpretation
 
-**Portfolio status:** original strategy/design case with a worked artifact; synthetic clean-energy scenario; not a deployed Masdar system.
+**Portfolio status:** original strategy/design case with a worked artifact; synthetic clean-energy scenario; not a deployed clean_energy_group system.
 
 ## The business mandate
 High technical performance is mistaken for readiness to lead larger teams. The proposed executive intervention is: **Separate performance potential aspiration and readiness and define actions for each box**.
@@ -11,7 +11,7 @@ High technical performance is mistaken for readiness to lead larger teams. The p
 - [Shared case assumptions](../../00_SYNTHETIC_CASE_AND_EVIDENCE_BOUNDARY.md).
 
 ## Methods and proposed tools
-Nine-box; talent panels; evidence notes. Technology references are proposed integration/assessment options only; current Masdar systems and software licenses are unverified.
+Nine-box; talent panels; evidence notes. Technology references are proposed integration/assessment options only; current clean_energy_group systems and software licenses are unverified.
 
 ## Outcomes to demonstrate
 **Primary KPI:** Talent rating consistency and differentiated action completion. An authentic claim requires a signed baseline, real measured outcome, confounder assessment and owner approval.

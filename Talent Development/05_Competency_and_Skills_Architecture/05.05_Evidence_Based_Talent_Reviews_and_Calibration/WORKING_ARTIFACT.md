@@ -1,7 +1,7 @@
 # Global Talent Review Panel Evidence Pack
 **Project:** 05.05 — Evidence-Based Talent Reviews and Calibration
 
-> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at Masdar.
+> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at clean_energy_group.
 
 ## Executive decision
 Require documented performance competency aspiration and context evidence.

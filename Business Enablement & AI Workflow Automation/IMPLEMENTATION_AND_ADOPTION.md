@@ -24,7 +24,7 @@
 10 min process demo; 10 min create fictional brief; 10 min review validation and ownership; 10 min exception-handling exercise; 5 min short knowledge check. Measure: participant task success, post-training confidence and support tickets; outcomes pending.
 
 ## Dashboard logic
-Use `data/synthetic_campaigns.csv` to calculate processed count, completion rate, validation pass rate and illustrative handling-time difference. These measures are **not** a MoonTech result and cannot be marketed as savings. Use verified source records and baseline measurement before benefit claims.
+Use `data/synthetic_campaigns.csv` to calculate processed count, completion rate, validation pass rate and illustrative handling-time difference. These measures are **not** a operations_group result and cannot be marketed as savings. Use verified source records and baseline measurement before benefit claims.
 
 ## Technology map
 n8n workflow JSON (draft import); equivalent Zapier/Make trigger/filter/action design; CRM/SaaS REST/OAuth concepts; Python CSV analysis; Excel/Power BI visualization pathway; Jira/Asana task ownership model; AI-powered classification requiring supervision. No actual live subscriptions or external automation are claimed.

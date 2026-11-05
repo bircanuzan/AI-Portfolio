@@ -5,7 +5,7 @@
 ## Executive case
 A **fictional UAE diversified enterprise** is adopting GenAI, agentic AI and predictive AI in recruitment, claims triage, employee services and general productivity. Executive leadership needs a consistent answer to **which AI systems may be used, by whom, under what conditions, with what evidence, and when a human must intervene**. The project builds a practical governance operating model, rather than merely discussing ethical principles.
 
-The design consolidates four UAE vacancy descriptions: Capgemini Invent (Responsible AI & AI Governance); Al-Futtaim/Orient (AI, Data Governance & Privacy Officer); byteSpark.ai client vacancy (Head of AI Ethics & Responsible AI); and Q-REF (AI Governance Specialist / AI Ethics Specialist). The RTA Manager - AI Solutions Quality Assurance description is included as a **fifth supplemental QA lens** because it was also displayed in the earlier shortlist. Requirements are summarized, not presented as qualifications already possessed.
+The design consolidates four UAE vacancy descriptions: sector_organization Invent (Responsible AI & AI Governance); sector_organization/Orient (AI, Data Governance & Privacy Officer); sector_organization.ai client vacancy (Head of AI Ethics & Responsible AI); and sector_organization (AI Governance Specialist / AI Ethics Specialist). The sector_organization Manager - AI Solutions Quality Assurance description is included as a **fifth supplemental QA lens** because it was also displayed in the earlier shortlist. Requirements are summarized, not presented as qualifications already possessed.
 
 ## What is built
 1. **Governance office and decision rights:** charter, 3-lines-of-defence-style RACI, committee, AI lifecycle stage gates and escalation paths.
@@ -22,7 +22,7 @@ The design consolidates four UAE vacancy descriptions: Capgemini Invent (Respons
 ## Project files
 | File | What it proves |
 |---|---|
-| [01_JD_SKILLS_MATRIX.md](01_JD_SKILLS_MATRIX.md) | Four-role requirement analysis plus supplemental RTA quality controls |
+| [01_JD_SKILLS_MATRIX.md](01_JD_SKILLS_MATRIX.md) | Four-role requirement analysis plus supplemental sector_organization quality controls |
 | [02_GOVERNANCE_CHARTER.md](02_GOVERNANCE_CHARTER.md) | Policy, ownership, decision rights, committees and lifecycle |
 | [03_AI_SYSTEM_INVENTORY.csv](03_AI_SYSTEM_INVENTORY.csv) | Risk-tiered model / AI use-case register |
 | [04_AI_IMPACT_ASSESSMENT.md](04_AI_IMPACT_ASSESSMENT.md) | Completed sample AI impact review and conditional decision |

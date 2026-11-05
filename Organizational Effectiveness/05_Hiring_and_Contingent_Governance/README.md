@@ -21,7 +21,7 @@ Requisition ID; approved position ID; vacancy ageing; business criticality; fund
 | Unvetted contingent supplier | HOLD_VENDOR | Procurement + Legal + Finance |
 | Any questionable role parity / master data | HOLD_JOB_ARCH / HOLD_MASTER_DATA | Reward or Data Steward |
 
-These are illustrative routing thresholds only, not Dubai Holding policy.
+These are illustrative routing thresholds only, not sector_organization policy.
 
 ## Cost and compliance
 Assess contractor true cost including supplier margin, benefits/taxes where applicable, equipment, supervision, visa/employment classification, data security, conversion/early termination and procurement procurement policies. Compare total cost and risk against permanent employment; no blanket assumption that contractors are cheaper.

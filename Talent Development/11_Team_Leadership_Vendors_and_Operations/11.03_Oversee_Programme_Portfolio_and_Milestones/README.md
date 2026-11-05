@@ -1,6 +1,6 @@
 # 11.03 — Oversee Programme Portfolio and Milestones
 
-**Portfolio status:** original strategy/design case with a worked artifact; synthetic clean-energy scenario; not a deployed Masdar system.
+**Portfolio status:** original strategy/design case with a worked artifact; synthetic clean-energy scenario; not a deployed clean_energy_group system.
 
 ## The business mandate
 Three global programmes share limited SME capacity and deadlines. The proposed executive intervention is: **Sequence dependencies escalate bottlenecks and seek formal stage-gate signoff**.
@@ -11,7 +11,7 @@ Three global programmes share limited SME capacity and deadlines. The proposed e
 - [Shared case assumptions](../../00_SYNTHETIC_CASE_AND_EVIDENCE_BOUNDARY.md).
 
 ## Methods and proposed tools
-RAID; PRINCE2 or PMI; Project/Planner candidate. Technology references are proposed integration/assessment options only; current Masdar systems and software licenses are unverified.
+RAID; PRINCE2 or PMI; Project/Planner candidate. Technology references are proposed integration/assessment options only; current clean_energy_group systems and software licenses are unverified.
 
 ## Outcomes to demonstrate
 **Primary KPI:** Milestone adherence and open critical risks. An authentic claim requires a signed baseline, real measured outcome, confounder assessment and owner approval.

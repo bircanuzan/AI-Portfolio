@@ -2,7 +2,7 @@
 
 Part of the HumanEvoX AI in HR portfolio. This folder is the navigation home for the ai-enabled talent management & assessment case-study collection.
 
-**Portfolio PDF:** [Open the full portfolio](HumanEvoX_AI_Enabled_Talent_Management_Assessment_Portfolio.pdf)
+**Portfolio PDF:** [Open the full portfolio](independent_portfolio_AI_Enabled_Talent_Management_Assessment_Portfolio.pdf)
 
 > The original PDF is preserved in this project directory. This is a business-side portfolio; it does not assert hands-on HRIS configuration or systems integration.
 

@@ -33,7 +33,7 @@
 7. **Failure-by-default:** no API token, missing audit store or unallowlisted tool causes rejection or operational unavailability.
 
 ## Empirical evidence
-See evaluation plan and executed CI/test artifacts when available. Tests evaluate synthetic fixtures; benchmark timing measures **in-process Python execution only**. No measured HR productivity/time saving, external LLM reliability, production SLA, G42 trial or bias evaluation across real employee groups has occurred.
+See evaluation plan and executed CI/test artifacts when available. Tests evaluate synthetic fixtures; benchmark timing measures **in-process Python execution only**. No measured HR productivity/time saving, external LLM reliability, production SLA, ai_enterprise trial or bias evaluation across real employee groups has occurred.
 
 ## Deployment and references
 **Production deployments:** none claimed. **Client organisations:** none claimed. **Enterprise integrations:** mock-tested contract only. **Testimonials:** none supplied. **Video demo:** [Synthetic MP4 hosted in the project GitHub folder](https://github.com/bircanuzan/AI-in-HR-Portfolio/blob/main/Agentic%20AI%20development/Human%20Capital%20Intelligence%20Agent/demo/Human_Capital_Intelligence_Agent_Synthetic_Demo.mp4), built from actual local code outputs; not a production deployment recording.

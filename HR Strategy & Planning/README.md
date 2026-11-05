@@ -4,7 +4,7 @@
 **Project status:** Independent executive portfolio case study and proposed operating model (November 2026)  
 **Context:** Hypothetical UAE regulated banking environment; inspired by published senior HR strategy role requirements.  
 **Author:** Bircan Uzan | HumanEvoX Talent Consultancy  
-**Evidence boundary:** This is **not** work delivered for Abu Dhabi Islamic Bank or another bank. It uses no ADIB internal documents, personnel data, policies, budgets, or confidential information. The framework is proposed; example KPIs and assumptions are illustrative, not observed institutional performance.
+**Evidence boundary:** This is **not** work delivered for fictional_bank or another bank. It uses no fictional_bank internal documents, personnel data, policies, budgets, or confidential information. The framework is proposed; example KPIs and assumptions are illustrative, not observed institutional performance.
 
 ## Executive thesis
 A bank-wide HR strategy becomes executable when four related functions — Talent Acquisition, Strategic Workforce Planning/HR Governance, Learning, and Talent Development & Performance — operate to one planning cadence, common people-data definitions and GCHRO-level decisions. Hiring volume alone is not a people strategy: it needs to connect to enterprise capability, succession risk, Emiratization obligations, people cost, control effectiveness and business outcomes.

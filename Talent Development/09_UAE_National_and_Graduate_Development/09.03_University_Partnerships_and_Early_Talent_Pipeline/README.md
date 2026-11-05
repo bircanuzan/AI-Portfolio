@@ -1,6 +1,6 @@
 # 09.03 — University Partnerships and Early Talent Pipeline
 
-**Portfolio status:** original strategy/design case with a worked artifact; synthetic clean-energy scenario; not a deployed Masdar system.
+**Portfolio status:** original strategy/design case with a worked artifact; synthetic clean-energy scenario; not a deployed clean_energy_group system.
 
 ## The business mandate
 Clean-energy teams need graduates with applied power-systems and AI skills. The proposed executive intervention is: **Co-design internships capstone projects and transparent conversion criteria**.
@@ -11,7 +11,7 @@ Clean-energy teams need graduates with applied power-systems and AI skills. The 
 - [Shared case assumptions](../../00_SYNTHETIC_CASE_AND_EVIDENCE_BOUNDARY.md).
 
 ## Methods and proposed tools
-Khalifa University UAEU MBZUAI as possible partners; MoU template. Technology references are proposed integration/assessment options only; current Masdar systems and software licenses are unverified.
+Khalifa University UAEU research_university as possible partners; MoU template. Technology references are proposed integration/assessment options only; current clean_energy_group systems and software licenses are unverified.
 
 ## Outcomes to demonstrate
 **Primary KPI:** Qualified intern conversion and one-year retention. An authentic claim requires a signed baseline, real measured outcome, confounder assessment and owner approval.

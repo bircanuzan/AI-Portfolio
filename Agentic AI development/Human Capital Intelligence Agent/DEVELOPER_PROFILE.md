@@ -17,7 +17,7 @@ Python analytical domain tools; a restricted multi-tool orchestration plan; Fast
 
 **Designed or studied but not evidenced as enterprise production operations:** sovereign model serving, OpenAI/LLM model operations, Kubernetes, Azure infrastructure, managed IAM/OIDC and RBAC, enterprise SIEM, HSM-backed audit, real HRIS integration, bias/impact assessment with lawfully processed live records, high-availability SRE.
 
-**Actual client deployments and reference organisations for this specific agent:** none documented. This document is **not** an invented AI engineering employment history, certification transcript or a substitute for G42's mandatory developer verification.
+**Actual client deployments and reference organisations for this specific agent:** none documented. This document is **not** an invented AI engineering employment history, certification transcript or a substitute for ai_enterprise's mandatory developer verification.
 
 ## Accountabilities in a future enterprise deployment
 Secure the enterprise sponsor and authorised data-protection agreements; enlist infrastructure, security, privacy, reward and HRIS engineers; implement genuine SSO, telemetry and deployment pipeline; validate model and domain controls; conduct controlled pilot; produce signed reproducible evidence and reference permission. The developer remains accountable for deployment and remediation; the agent is not a legal person or independent approver.

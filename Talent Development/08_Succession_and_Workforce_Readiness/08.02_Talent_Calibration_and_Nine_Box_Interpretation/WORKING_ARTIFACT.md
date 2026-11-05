@@ -1,7 +1,7 @@
 # 9-Box Interpretation and Treatment Guide
 **Project:** 08.02 — Talent Calibration and Nine-Box Interpretation
 
-> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at Masdar.
+> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at clean_energy_group.
 
 ## Executive decision
 Separate performance potential aspiration and readiness and define actions for each box.

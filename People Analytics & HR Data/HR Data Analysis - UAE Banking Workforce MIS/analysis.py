@@ -1,6 +1,6 @@
 """Synthetic month-end HR MIS and workforce planning example.
 
-Offline standard-library demo. NOT ADIB/CBUAE data or a regulatory submission.
+Offline standard-library demo. NOT fictional_bank/CBUAE data or a regulatory submission.
 No real employee details or production access are involved.
 """
 from __future__ import annotations

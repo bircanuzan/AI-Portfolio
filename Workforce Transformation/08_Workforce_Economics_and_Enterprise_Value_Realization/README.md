@@ -14,7 +14,7 @@ Distinct from [Project 01](../01_Capacity_and_Headcount_Decision_Lab/): 01 model
 - [Deterministic Python cost/capacity model](src/value_model.py) and [unit tests](tests/test_value_model.py).
 
 ## Research attribution
-Debabrat Mishra / reAImagination publicly discusses role/task decomposition, Activity-Skills Based Costing (ASBC), an Occupation Classification Framework (OCF), and BOT/BUILD/BORROW/BUY choices. **These concepts are attributed, not invented or commercially implemented by HumanEvoX.** Our model is independently written, basic task arithmetic, not a copy of a proprietary method. The G42 leadership research also prioritizes quality and capability over simple headcount.
+Debabrat Mishra / reAImagination publicly discusses role/task decomposition, Activity-Skills Based Costing (ASBC), an Occupation Classification Framework (OCF), and BOT/BUILD/BORROW/BUY choices. **These concepts are attributed, not invented or commercially implemented by HumanEvoX.** Our model is independently written, basic task arithmetic, not a copy of a proprietary method. The ai_enterprise leadership research also prioritizes quality and capability over simple headcount.
 
 ## Run locally from portfolio root
 

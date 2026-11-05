@@ -1,6 +1,6 @@
 # Organizational Effectiveness | Group Executive Decision & Control System
 
-**HumanEvoX independent portfolio case** — a complete, *fictional* diversified-group operating model for the responsibilities of an Executive Director – Organisation Effectiveness. The supplied Dubai Holding role description is a **requirements benchmark**, not an employer engagement, proprietary framework or claim of work performed at Dubai Holding.
+**HumanEvoX independent portfolio case** — a complete, *fictional* diversified-group operating model for the responsibilities of an Executive Director – Organisation Effectiveness. The supplied sector_organization role description is a **requirements benchmark**, not an employer engagement, proprietary framework or claim of work performed at sector_organization.
 
 ## Executive mandate
 Make the connection between Group strategy, legal entity structure, organization design, work allocation, jobs/grades, approved positions, people cost, hiring controls, HR data and governance decisions demonstrable and auditable.
@@ -39,4 +39,4 @@ The engine **never approves hires, changes grades, restructures, processes salar
 ## Positioning and non-duplication
 This is **Group-level decision governance** rather than the diagnostic/learning focus of [Organizational Development](../Organizational%20Development/), the Human–AI workforce architecture in [Workforce Transformation](../Workforce%20Transformation/), general dashboards in [People Analytics & HR Data](../People%20Analytics%20%26%20HR%20Data/), or the cross-platform implementation in [HR Technology & Digital Transformation](../HR%20Technology%20%26%20Digital%20Transformation/).
 
-**Status:** independent authored design + runnable, reproducible local code and tests. No Dubai Holding relationship, real client implementation, actual job evaluation license, SAP/Oracle/Workday connection, Power BI deployment, approved organisational change, claimed benefit or financial saving.
+**Status:** independent authored design + runnable, reproducible local code and tests. No sector_organization relationship, real client implementation, actual job evaluation license, SAP/Oracle/Workday connection, Power BI deployment, approved organisational change, claimed benefit or financial saving.

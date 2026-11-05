@@ -1,7 +1,7 @@
 # Dual Technical and Leadership Career Ladders
 **Project:** 04.01 — Career Architecture and Transparent Progression
 
-> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at Masdar.
+> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at clean_energy_group.
 
 ## Executive decision
 Build lateral vertical and expert routes with published entry standards.
@@ -13,7 +13,7 @@ Build lateral vertical and expert routes with published entry standards.
 |---|---|
 | Business problem | A senior grid engineer wants growth without becoming a people manager |
 | Decision supported | Build lateral vertical and expert routes with published entry standards |
-| Proposed approach | Job families; Mercer IPE or Korn Ferry Hay optional; proficiency levels |
+| Proposed approach | Job families; Mercer IPE or sector_organization Hay optional; proficiency levels |
 | Mandatory validation | Job evaluation tools require authorized access and expert oversight |
 | Primary effectiveness measure | Employee career clarity and internal progression |
 | Executive owner | Business sponsor with Head of Talent Development as process owner |

@@ -4,15 +4,15 @@
 
 ## Talent Development — Executive Global Capability Portfolio (60 subsection projects)
 
-**[Open the Talent Development portfolio](Talent%20Development/README.md)** — 12 strategic sections, 60 standalone projects with tailored working decision artifacts and evidence capture, covering leadership, technical skills, LMS/SCORM/xAPI, succession, Emirati development, learning ROI, AI safeguards and board reporting. All scenarios are **synthetic interview case designs**, not Masdar-delivered work, current vendor confirmations or verified outcomes.
+**[Open the Talent Development portfolio](Talent%20Development/README.md)** — 12 strategic sections, 60 standalone projects with tailored working decision artifacts and evidence capture, covering leadership, technical skills, LMS/SCORM/xAPI, succession, Emirati development, learning ROI, AI safeguards and board reporting. All scenarios are **synthetic interview case designs**, not clean_energy_group-delivered work, current vendor confirmations or verified outcomes.
 
 ## Agentic AI development — Human Capital Intelligence Agent
 
-[Open the Human Capital Intelligence Agent engineering project](Agentic%20AI%20development/Human%20Capital%20Intelligence%20Agent/) — G42 role-requirement-aligned independent prototype for six HC intelligence domains and read-only six-tool executive orchestration, guarded API/RBAC, HMAC audit, optional sovereign-compatible LLM summarisation, mocked HTTPS enterprise interfaces, automated synthetic tests, benchmark runner and agent/developer submission pack. **Not production deployed or currently eligible for an agent-only production hiring brief.**
+[Open the Human Capital Intelligence Agent engineering project](Agentic%20AI%20development/Human%20Capital%20Intelligence%20Agent/) — ai_enterprise role-requirement-aligned independent prototype for six HC intelligence domains and read-only six-tool executive orchestration, guarded API/RBAC, HMAC audit, optional sovereign-compatible LLM summarisation, mocked HTTPS enterprise interfaces, automated synthetic tests, benchmark runner and agent/developer submission pack. **Not production deployed or currently eligible for an agent-only production hiring brief.**
 
 ## Organizational Effectiveness — Group Organisation Design & People Governance
 
-**[Explore the Executive Director–level Organizational Effectiveness case](Organizational%20Effectiveness/README.md)** — a distinct fictional diversified-group decision-control system: Group People Strategy, scorecards, organisation restructuring, job architecture/evaluation, workforce and people-cost controls, hiring exceptions, people data reconciliation, AI workforce impact, new-entity launches, CPO/HCC advisory and OE team leadership. Includes a synthetic 3-entity case, offline Python decision-support engine and unit tests; no Dubai Holding affiliation, live system access or certified vendor grading claims.
+**[Explore the Executive Director–level Organizational Effectiveness case](Organizational%20Effectiveness/README.md)** — a distinct fictional diversified-group decision-control system: Group People Strategy, scorecards, organisation restructuring, job architecture/evaluation, workforce and people-cost controls, hiring exceptions, people data reconciliation, AI workforce impact, new-entity launches, CPO/HCC advisory and OE team leadership. Includes a synthetic 3-entity case, offline Python decision-support engine and unit tests; no sector_organization affiliation, live system access or certified vendor grading claims.
 
 ## Agentic AI Automation
 
@@ -40,7 +40,7 @@
 
 ## HR Operations & Workflow Automation
 
-**[HR Operations Manager ( in-charge of HR Systems, Analytics & Automation)](HR%20Operations%20%26%20Workflow%20Automation/HR%20Operations%20Manager%20(%20in-charge%20of%20HR%20Systems%2C%20Analytics%20%26%20Automation)/)** — Al Ramz-aligned case featuring synthetic HRMS/payroll controls, Power BI metrics, automation and governance and a 90-day plan.
+**[HR Operations Manager ( in-charge of HR Systems, Analytics & Automation)](HR%20Operations%20%26%20Workflow%20Automation/HR%20Operations%20Manager%20(%20in-charge%20of%20HR%20Systems%2C%20Analytics%20%26%20Automation)/)** — sector_organization-aligned case featuring synthetic HRMS/payroll controls, Power BI metrics, automation and governance and a 90-day plan.
 
 [Explore HR Operations & Workflow Automation](HR%20Operations%20%26%20Workflow%20Automation/) — HR service automation, HRMS/payroll control checks, workflow mapping and Microsoft Power Automate solution-design work samples.
 
@@ -52,16 +52,16 @@
 
 **[Browse the four consolidated AI project and programme management work samples](AI%20Project%20%26%20Program%20Management/)** — AI project documentation and implementation support, enterprise AI portfolio/PMO governance, technical integration programme delivery, and portfolio prioritisation. All examples disclose their simulated scope.
 
-## NEW — Creatio AI Consultant, MoonTech Business Enablement & Stellar QA job-aligned extensions
+## NEW — enterprise_crm AI Consultant, operations_group Business Enablement & software_group QA job-aligned extensions
 
 ## Specialist project portfolios
 
 - **[Talent Assessment](Talent%20Assessment/)** — four assessment and evidence-led evaluation projects, including psychometric interpretation and assessment-centre methods.
 - **[Instructional Design and Talent Development](Instructional%20Design%20and%20Talent%20Development/)** — 16 learning design, learning measurement, capability development and enablement projects.
 
-- [Enterprise agent consulting and CRM opportunity value mapping](24_Applied_AI_Transformation_Manager_MENA/05_Creatio_Enterprise_Agent_Consulting_and_CRM_Transformation.md) — no-code/process redesign, agent architecture, APIs/MCP, scenario scoring and executive rollout proposal.
-- [Business Enablement & AI Workflow Automation](Business%20Enablement%20%26%20AI%20Workflow%20Automation/README.md) — a new parent project for MoonTech-style OKRs, n8n draft workflows, SOPs, RACI, change adoption and synthetic KPI reporting.
-- [QA Engineering API Automation Lab](28_AI_Testing_and_Quality_Review/qa_demo/README.md) — Stellar-style functional, API, integration and regression tests, defect template, Postman, optional Playwright and GitHub Actions CI.
+- [Enterprise agent consulting and CRM opportunity value mapping](24_Applied_AI_Transformation_Manager_MENA/05_enterprise_crm_Enterprise_Agent_Consulting_and_CRM_Transformation.md) — no-code/process redesign, agent architecture, APIs/MCP, scenario scoring and executive rollout proposal.
+- [Business Enablement & AI Workflow Automation](Business%20Enablement%20%26%20AI%20Workflow%20Automation/README.md) — a new parent project for operations_group-style OKRs, n8n draft workflows, SOPs, RACI, change adoption and synthetic KPI reporting.
+- [QA Engineering API Automation Lab](28_AI_Testing_and_Quality_Review/qa_demo/README.md) — software_group-style functional, API, integration and regression tests, defect template, Postman, optional Playwright and GitHub Actions CI.
 
 **Evidence boundary:** synthetic projects, no employer client data or real-system integrations; run results must be independently verified.
 

@@ -1,7 +1,7 @@
 # 12-Month Talent Portfolio Charter
 **Project:** 01.02 — Enterprise Talent Operating Plan and Annual KPIs
 
-> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at Masdar.
+> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at clean_energy_group.
 
 ## Executive decision
 Assign each programme sponsor owner baseline cost and quarterly stage gate.

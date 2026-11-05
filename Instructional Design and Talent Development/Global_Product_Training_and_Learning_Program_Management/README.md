@@ -1,7 +1,7 @@
 # Global Product Training & Learning Program Management
 ## Independent portfolio case | Enterprise sales / partner enablement | 2 November 2026
 
-**Role alignment:** Learning Program Manager, global technology product training (including the type of scope in Pickado's advertised vacancy). This is **not** an assignment for Pickado, Lenovo, or their clients.
+**Role alignment:** Learning Program Manager, global technology product training (including the type of scope in sector_organization's advertised vacancy). This is **not** an assignment for sector_organization, sector_organization, or their clients.
 
 ### What problem this project solves
 A *fictional* enterprise technology company, **NovaLink**, plans to introduce its invented **ConnectHub** collaboration endpoint and **ConnectCare** managed support service. Its international account executives and channel partners need to uncover customer needs, explain approved capabilities, demonstrate a solution workflow, handle objections and escalate uncertain security claims.
@@ -38,6 +38,6 @@ A *fictional* enterprise technology company, **NovaLink**, plans to introduce it
 - [Project 47 - AI Adoption Program Management](../../AI%20Adoption/47_AI_Adoption_Program_Management/): programme governance and operational gates.
 
 ### Evidence and honesty
-The company, device, service, learner names, programme numbers, business objectives, price examples, quiz outputs and metrics are **synthetic**. The curriculum and templates are **independently authored demonstration documents**. No client engagement, sales uplift, learner delivery, completed SCORM package, launched LMS course, product demonstration, Lenovo relationship or application to Pickado is claimed. The offline calculator can be reproduced on the bundled fictional data. This portfolio shows planning and learning design ability, not proof of prior dedicated product-sales trainer employment.
+The company, device, service, learner names, programme numbers, business objectives, price examples, quiz outputs and metrics are **synthetic**. The curriculum and templates are **independently authored demonstration documents**. No client engagement, sales uplift, learner delivery, completed SCORM package, launched LMS course, product demonstration, sector_organization relationship or application to sector_organization is claimed. The offline calculator can be reproduced on the bundled fictional data. This portfolio shows planning and learning design ability, not proof of prior dedicated product-sales trainer employment.
 
 **Skills illustrated:** TNA, global programme management, instructional design, curriculum planning, subject-matter expert and stakeholder management, product/solution value, partner enablement, classroom and digital blended learning, quality gates, assessment, accessibility, localisation, learning analytics, lifecycle retirement.

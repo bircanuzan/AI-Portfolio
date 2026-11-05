@@ -1,7 +1,7 @@
 # Portfolio RAID and Stage-Gate Register
 **Project:** 11.03 — Oversee Programme Portfolio and Milestones
 
-> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at Masdar.
+> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at clean_energy_group.
 
 ## Executive decision
 Sequence dependencies escalate bottlenecks and seek formal stage-gate signoff.

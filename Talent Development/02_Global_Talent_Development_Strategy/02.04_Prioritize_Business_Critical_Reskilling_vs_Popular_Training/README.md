@@ -1,6 +1,6 @@
 # 02.04 — Prioritize Business-Critical Reskilling vs Popular Training
 
-**Portfolio status:** original strategy/design case with a worked artifact; synthetic clean-energy scenario; not a deployed Masdar system.
+**Portfolio status:** original strategy/design case with a worked artifact; synthetic clean-energy scenario; not a deployed clean_energy_group system.
 
 ## The business mandate
 BESS commissioning certification competes with popular general productivity courses. The proposed executive intervention is: **Score criticality safety scarcity urgency and deployment need**.
@@ -11,7 +11,7 @@ BESS commissioning certification competes with popular general productivity cour
 - [Shared case assumptions](../../00_SYNTHETIC_CASE_AND_EVIDENCE_BOUNDARY.md).
 
 ## Methods and proposed tools
-Weighted prioritization; risk matrix; finance checkpoints. Technology references are proposed integration/assessment options only; current Masdar systems and software licenses are unverified.
+Weighted prioritization; risk matrix; finance checkpoints. Technology references are proposed integration/assessment options only; current clean_energy_group systems and software licenses are unverified.
 
 ## Outcomes to demonstrate
 **Primary KPI:** Share of funded activity addressing tier-one skill risks. An authentic claim requires a signed baseline, real measured outcome, confounder assessment and owner approval.

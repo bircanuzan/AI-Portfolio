@@ -1,6 +1,6 @@
 # 08.04 — Scarce Technical Experts and Knowledge Continuity
 
-**Portfolio status:** original strategy/design case with a worked artifact; synthetic clean-energy scenario; not a deployed Masdar system.
+**Portfolio status:** original strategy/design case with a worked artifact; synthetic clean-energy scenario; not a deployed clean_energy_group system.
 
 ## The business mandate
 One grid-protection expert is needed on three sites. The proposed executive intervention is: **Create deputy coverage and retention mitigation with knowledge transfer**.
@@ -11,7 +11,7 @@ One grid-protection expert is needed on three sites. The proposed executive inte
 - [Shared case assumptions](../../00_SYNTHETIC_CASE_AND_EVIDENCE_BOUNDARY.md).
 
 ## Methods and proposed tools
-Talent risk scoring; expert interviews; technical playbooks. Technology references are proposed integration/assessment options only; current Masdar systems and software licenses are unverified.
+Talent risk scoring; expert interviews; technical playbooks. Technology references are proposed integration/assessment options only; current clean_energy_group systems and software licenses are unverified.
 
 ## Outcomes to demonstrate
 **Primary KPI:** Critical skills with verified backup coverage. An authentic claim requires a signed baseline, real measured outcome, confounder assessment and owner approval.

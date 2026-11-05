@@ -1,8 +1,8 @@
-# Production-readiness gap analysis | G42 AI Agent invitation
+# Production-readiness gap analysis | ai_enterprise AI Agent invitation
 
 **Verdict: NOT ELIGIBLE as of 3 November 2026.** The posting requires a previously deployed, production-operating enterprise AI agent. The current work is a local prototype and can only support an engineering roadmap, not an eligible submission.
 
-| G42 acceptance criterion | Actual status | Required evidence |
+| ai_enterprise acceptance criterion | Actual status | Required evidence |
 |---|---|---|
 | Live production enterprise deployment | **Not done** | Real enterprise URL, sponsor, signed operations acceptance, measured incident/SLA history |
 | HRIS/ATS/payroll/talent system integration | **Mock-tested interface only** | Real system owners, permissioned credentials, UAT traces and reconciliation |

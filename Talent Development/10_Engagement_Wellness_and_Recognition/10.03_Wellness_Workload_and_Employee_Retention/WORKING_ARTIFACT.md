@@ -1,7 +1,7 @@
 # Workload and Retention Intervention Register
 **Project:** 10.03 — Wellness Workload and Employee Retention
 
-> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at Masdar.
+> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at clean_energy_group.
 
 ## Executive decision
 Change capacity or delivery assumptions and provide wellness support.

@@ -1,7 +1,7 @@
 # Global Secondment Governance Checklist
 **Project:** 04.04 — Cross-Border Assignments and Global Talent Mobility
 
-> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at Masdar.
+> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at clean_energy_group.
 
 ## Executive decision
 Define immigration tax payroll duty of care and repatriation before assignment.

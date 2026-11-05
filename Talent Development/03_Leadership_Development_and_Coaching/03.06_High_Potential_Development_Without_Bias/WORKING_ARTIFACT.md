@@ -1,7 +1,7 @@
 # HiPo Selection and Opportunity Equity Protocol
 **Project:** 03.06 — High-Potential Development Without Bias
 
-> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at Masdar.
+> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at clean_energy_group.
 
 ## Executive decision
 Apply open evidence criteria calibrated reviews and fair access monitoring.

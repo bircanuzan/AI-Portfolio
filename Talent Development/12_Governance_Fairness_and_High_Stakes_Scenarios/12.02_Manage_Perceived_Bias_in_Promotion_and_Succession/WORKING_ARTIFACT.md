@@ -1,7 +1,7 @@
 # Promotion Fairness Review and Appeal Case File
 **Project:** 12.02 — Manage Perceived Bias in Promotion and Succession
 
-> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at Masdar.
+> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at clean_energy_group.
 
 ## Executive decision
 Preserve evidence run independent review and correct substantiated defects.

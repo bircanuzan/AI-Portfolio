@@ -1,6 +1,6 @@
 # 05.01 — Technical Competency Models Across Energy Divisions
 
-**Portfolio status:** original strategy/design case with a worked artifact; synthetic clean-energy scenario; not a deployed Masdar system.
+**Portfolio status:** original strategy/design case with a worked artifact; synthetic clean-energy scenario; not a deployed clean_energy_group system.
 
 ## The business mandate
 BESS commissioning and solar O&M roles need distinct practical assessment criteria. The proposed executive intervention is: **Define observable four-level proficiency by discipline and task**.
@@ -11,7 +11,7 @@ BESS commissioning and solar O&M roles need distinct practical assessment criter
 - [Shared case assumptions](../../00_SYNTHETIC_CASE_AND_EVIDENCE_BOUNDARY.md).
 
 ## Methods and proposed tools
-IEC/ISO references as applicable; SME panels; practical tests. Technology references are proposed integration/assessment options only; current Masdar systems and software licenses are unverified.
+IEC/ISO references as applicable; SME panels; practical tests. Technology references are proposed integration/assessment options only; current clean_energy_group systems and software licenses are unverified.
 
 ## Outcomes to demonstrate
 **Primary KPI:** Assessed technical role coverage. An authentic claim requires a signed baseline, real measured outcome, confounder assessment and owner approval.

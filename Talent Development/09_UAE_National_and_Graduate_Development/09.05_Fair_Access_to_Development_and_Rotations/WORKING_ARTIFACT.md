@@ -1,7 +1,7 @@
 # Development Access Equity Audit
 **Project:** 09.05 — Fair Access to Development and Rotations
 
-> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at Masdar.
+> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at clean_energy_group.
 
 ## Executive decision
 Publish eligibility and assess participation against eligible applicant pools.

@@ -13,7 +13,7 @@ def weighted(r):
 ready = [r for r in done if weighted(r) >= 3 and float(r["privacy_score"]) >= 3]
 blockers = [r["blocker"] for r in rows if r["blocker"].strip()]
 feedback = [float(r["feedback_1to5"]) for r in done if r["feedback_1to5"].strip()]
-print("DEMO DATA ONLY — not Concentrix or real agent scores")
+print("DEMO DATA ONLY — not sector_organization or real agent scores")
 print(f"Completion: {len(done)} of {len(rows)} ({len(done)/len(rows):.0%})")
 print(f"Ready for supervised release: {len(ready)} of {len(done)} ({len(ready)/len(done):.0%})")
 print(f"Average feedback 1–5: {mean(feedback):.2f}" if feedback else "No feedback")

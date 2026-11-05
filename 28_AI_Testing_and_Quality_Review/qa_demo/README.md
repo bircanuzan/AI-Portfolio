@@ -1,6 +1,6 @@
 # Runnable QA Lab — Local Mock HTTP API
 
-**Purpose:** transition from document-only AI answer reviews to practical manual/API/integration/regression QA, based on Stellar Technologies QA Engineer JD.
+**Purpose:** transition from document-only AI answer reviews to practical manual/API/integration/regression QA, based on software_group QA Engineer JD.
 
 Python 3.10+; no third-party packages for the API and its tests. Local-only loopback service; no user accounts or employer data.
 
@@ -19,7 +19,7 @@ Optional Playwright UI smoke (not part of required CI): `python -m pip install p
 Create valid case; reject unconfirmed/disallowed categories, invalid JSON; check idempotent retry; retrieve case; inspect status codes and JSON schemas. Tests launch server on an automatically assigned localhost port and shut it down after tests.
 
 ## Limitations
-Demo has no production OAuth, durable database, multi-user tenancy, LLM, external network or UI integration. It is not security audited. Track defects with the parent [traceability plan](../04_Stellar_QA_Engineer_JD_Skills_Test_Plan_and_Defects.md).
+Demo has no production OAuth, durable database, multi-user tenancy, LLM, external network or UI integration. It is not security audited. Track defects with the parent [traceability plan](../04_software_group_QA_Engineer_JD_Skills_Test_Plan_and_Defects.md).
 
 ## Next enhancements
 Add pytest reports/JUnit artifacts, publish CI run link, Playwright tests against a sandbox browser application, contract testing, authenticated API, simulated rate limiting, mobile test harness and load/security testing (k6, JMeter) after building a safe sandbox. Never claim unrun tests.

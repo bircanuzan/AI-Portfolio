@@ -1,7 +1,7 @@
 # Talent Development Team Capability and OKR Charter
 **Project:** 11.01 — Lead and Develop the Talent Development Team
 
-> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at Masdar.
+> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at clean_energy_group.
 
 ## Executive decision
 Clarify roles skill gaps delegation and coaching priorities.

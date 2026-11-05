@@ -1,6 +1,6 @@
 # 10.03 — Wellness Workload and Employee Retention
 
-**Portfolio status:** original strategy/design case with a worked artifact; synthetic clean-energy scenario; not a deployed Masdar system.
+**Portfolio status:** original strategy/design case with a worked artifact; synthetic clean-energy scenario; not a deployed clean_energy_group system.
 
 ## The business mandate
 Project team overtime spikes ahead of commissioning and regretted exits rise. The proposed executive intervention is: **Change capacity or delivery assumptions and provide wellness support**.
@@ -11,7 +11,7 @@ Project team overtime spikes ahead of commissioning and regretted exits rise. Th
 - [Shared case assumptions](../../00_SYNTHETIC_CASE_AND_EVIDENCE_BOUNDARY.md).
 
 ## Methods and proposed tools
-HSE and HR data; workload analysis; EAP where approved. Technology references are proposed integration/assessment options only; current Masdar systems and software licenses are unverified.
+HSE and HR data; workload analysis; EAP where approved. Technology references are proposed integration/assessment options only; current clean_energy_group systems and software licenses are unverified.
 
 ## Outcomes to demonstrate
 **Primary KPI:** Sustained overtime and regretted attrition trends. An authentic claim requires a signed baseline, real measured outcome, confounder assessment and owner approval.

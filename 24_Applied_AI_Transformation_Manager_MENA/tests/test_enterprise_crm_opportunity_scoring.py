@@ -2,7 +2,7 @@ import sys
 import unittest
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "src"))
-from creatio_opportunity_scoring import score, prioritize
+from enterprise_crm_opportunity_scoring import score, prioritize
 
 class PrioritizationTests(unittest.TestCase):
     def make(self,name,impact=4,feasibility=5,confidence=4,risk=1):

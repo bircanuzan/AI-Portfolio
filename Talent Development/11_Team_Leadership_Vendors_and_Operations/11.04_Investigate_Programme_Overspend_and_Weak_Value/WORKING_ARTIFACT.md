@@ -1,7 +1,7 @@
 # Learning Spend Recovery and Stop-Go Memo
 **Project:** 11.04 — Investigate Programme Overspend and Weak Value
 
-> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at Masdar.
+> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at clean_energy_group.
 
 ## Executive decision
 Reconcile invoices scope and benefit evidence then recommend stop redesign or continue.

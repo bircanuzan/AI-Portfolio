@@ -1,8 +1,8 @@
-# Business Enablement & AI Workflow Automation — MoonTech JD-aligned project
+# Business Enablement & AI Workflow Automation — operations_group JD-aligned project
 
-**Role benchmark:** [MoonTech / ITCAN Business Enablement Specialist](https://ae.indeed.com/viewjob?jk=84c72f6cdbe6e80c), Dubai remote.
+**Role benchmark:** [operations_group / ITCAN Business Enablement Specialist](https://ae.indeed.com/viewjob?jk=84c72f6cdbe6e80c), Dubai remote.
 
-**Project nature:** Independent **synthetic** creator-commerce business operations case, not a MoonTech engagement or integration with proprietary Moon AI agents. The n8n example is an importable *draft* and has not been executed in a live n8n instance. Input data and sample KPI numbers are fictional.
+**Project nature:** Independent **synthetic** creator-commerce business operations case, not a operations_group engagement or integration with proprietary Moon AI agents. The n8n example is an importable *draft* and has not been executed in a live n8n instance. Input data and sample KPI numbers are fictional.
 
 ## Problem
 A campaign operations organization loses time moving campaign briefs across sales, creator matching, approvals, campaign execution and attribution reporting. Leadership needs clear quarterly objectives, defined ownership, automated handoffs, CRM visibility and evidence of adoption.

@@ -1,7 +1,7 @@
 # Skills Data Dictionary and Cleansing Rules
 **Project:** 05.04 — Build or Cleanse a Global Talent Skills Database
 
-> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at Masdar.
+> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at clean_energy_group.
 
 ## Executive decision
 Normalize skill IDs validate expiry and assign records to owners.

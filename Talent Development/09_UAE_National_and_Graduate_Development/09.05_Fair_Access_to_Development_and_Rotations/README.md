@@ -1,6 +1,6 @@
 # 09.05 — Fair Access to Development and Rotations
 
-**Portfolio status:** original strategy/design case with a worked artifact; synthetic clean-energy scenario; not a deployed Masdar system.
+**Portfolio status:** original strategy/design case with a worked artifact; synthetic clean-energy scenario; not a deployed clean_energy_group system.
 
 ## The business mandate
 Employees outside headquarters receive fewer international rotations. The proposed executive intervention is: **Publish eligibility and assess participation against eligible applicant pools**.
@@ -11,7 +11,7 @@ Employees outside headquarters receive fewer international rotations. The propos
 - [Shared case assumptions](../../00_SYNTHETIC_CASE_AND_EVIDENCE_BOUNDARY.md).
 
 ## Methods and proposed tools
-Selection rubric; adverse impact checks; applicant audit. Technology references are proposed integration/assessment options only; current Masdar systems and software licenses are unverified.
+Selection rubric; adverse impact checks; applicant audit. Technology references are proposed integration/assessment options only; current clean_energy_group systems and software licenses are unverified.
 
 ## Outcomes to demonstrate
 **Primary KPI:** Selection rate parity and appeal resolution time. An authentic claim requires a signed baseline, real measured outcome, confounder assessment and owner approval.

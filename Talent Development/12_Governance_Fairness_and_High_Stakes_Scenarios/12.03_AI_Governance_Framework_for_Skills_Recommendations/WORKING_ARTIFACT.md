@@ -1,7 +1,7 @@
 # Skills Recommendation Model Card and Control Register
 **Project:** 12.03 — AI Governance Framework for Skills Recommendations
 
-> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at Masdar.
+> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at clean_energy_group.
 
 ## Executive decision
 Document data provenance validation thresholds bias tests and human corrections.

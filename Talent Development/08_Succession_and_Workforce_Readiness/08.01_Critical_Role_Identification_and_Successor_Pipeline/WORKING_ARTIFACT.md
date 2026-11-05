@@ -1,7 +1,7 @@
 # Critical Position and Bench Coverage Register
 **Project:** 08.01 — Critical Role Identification and Successor Pipeline
 
-> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at Masdar.
+> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at clean_energy_group.
 
 ## Executive decision
 Rate continuity impact replacement difficulty and successor options.

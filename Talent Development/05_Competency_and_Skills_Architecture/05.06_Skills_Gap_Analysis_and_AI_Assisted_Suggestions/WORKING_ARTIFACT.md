@@ -1,7 +1,7 @@
 # Skills Gap Heatmap and Human-Validated Recommender
 **Project:** 05.06 — Skills Gap Analysis and AI-Assisted Suggestions
 
-> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at Masdar.
+> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at clean_energy_group.
 
 ## Executive decision
 Quantify gap and offer learning mentoring or mobility suggestions for review.

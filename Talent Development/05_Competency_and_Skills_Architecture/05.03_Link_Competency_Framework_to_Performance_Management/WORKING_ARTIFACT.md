@@ -1,7 +1,7 @@
 # Goal-to-Competency Performance Mapping
 **Project:** 05.03 — Link Competency Framework to Performance Management
 
-> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at Masdar.
+> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at clean_energy_group.
 
 ## Executive decision
 Assess outcomes and behavior as separate evidenced dimensions.

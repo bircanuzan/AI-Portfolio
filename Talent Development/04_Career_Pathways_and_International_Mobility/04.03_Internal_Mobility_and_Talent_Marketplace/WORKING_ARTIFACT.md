@@ -1,7 +1,7 @@
 # Skills-Based Opportunity Matching Rules
 **Project:** 04.03 — Internal Mobility and Talent Marketplace
 
-> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at Masdar.
+> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at clean_energy_group.
 
 ## Executive decision
 Use transparent skill and aspiration fit with human-reviewed recommendations.

@@ -1,7 +1,7 @@
 # AI Strategy & Enablement Lead
 ## RegTech SaaS | Enterprise AI Adoption, Product Intelligence & Measurable Value
 
-**Portfolio case study informed by a public role description at norbloc.** Independent, illustrative work; **not commissioned by norbloc**, not a representation of its internal systems, and not evidence of a live deployment.
+**Portfolio case study informed by a public role description at sector_organization.** Independent, illustrative work; **not commissioned by sector_organization**, not a representation of its internal systems, and not evidence of a live deployment.
 
 ### Executive proposition
 Establish an AI capability that improves **how engineering, QA, product, customer-facing teams and leadership work**, while responsibly introducing AI-assisted functionality into a digital onboarding / KYC / KYB platform.
@@ -52,6 +52,6 @@ python regtech_demo.py data/synthetic_cases.json
 python -m unittest discover -s tests -v
 ```
 
-**Demo boundaries:** the extraction stage is deliberately mocked; the runnable code tests deterministic validations, exceptions, human routing and audit-ready output. No production model, norbloc API, live identity data or customer records are used.
+**Demo boundaries:** the extraction stage is deliberately mocked; the runnable code tests deterministic validations, exceptions, human routing and audit-ready output. No production model, sector_organization API, live identity data or customer records are used.
 
 **Authoring perspective:** HumanEvoX | AI transformation, organizational enablement, human-in-the-loop workflow architecture.

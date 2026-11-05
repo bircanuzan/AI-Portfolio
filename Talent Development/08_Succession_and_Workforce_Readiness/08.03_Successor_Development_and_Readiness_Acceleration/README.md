@@ -1,6 +1,6 @@
 # 08.03 — Successor Development and Readiness Acceleration
 
-**Portfolio status:** original strategy/design case with a worked artifact; synthetic clean-energy scenario; not a deployed Masdar system.
+**Portfolio status:** original strategy/design case with a worked artifact; synthetic clean-energy scenario; not a deployed clean_energy_group system.
 
 ## The business mandate
 A potential head of wind operations needs crisis and commercial exposure. The proposed executive intervention is: **Assign acting responsibilities sponsor checkpoints and evidence-based review**.
@@ -11,7 +11,7 @@ A potential head of wind operations needs crisis and commercial exposure. The pr
 - [Shared case assumptions](../../00_SYNTHETIC_CASE_AND_EVIDENCE_BOUNDARY.md).
 
 ## Methods and proposed tools
-Stretch assignments; executive sponsorship; readiness panel. Technology references are proposed integration/assessment options only; current Masdar systems and software licenses are unverified.
+Stretch assignments; executive sponsorship; readiness panel. Technology references are proposed integration/assessment options only; current clean_energy_group systems and software licenses are unverified.
 
 ## Outcomes to demonstrate
 **Primary KPI:** Time from ready-soon to ready-now. An authentic claim requires a signed baseline, real measured outcome, confounder assessment and owner approval.

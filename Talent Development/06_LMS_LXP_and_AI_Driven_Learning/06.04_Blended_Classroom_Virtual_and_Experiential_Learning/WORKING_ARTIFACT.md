@@ -1,7 +1,7 @@
 # ILT VILT Field Simulation Integration Plan
 **Project:** 06.04 — Blended Classroom Virtual and Experiential Learning
 
-> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at Masdar.
+> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at clean_energy_group.
 
 ## Executive decision
 Combine classroom virtual practice and supervised site evidence.

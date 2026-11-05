@@ -1,6 +1,6 @@
 # 08.01 — Critical Role Identification and Successor Pipeline
 
-**Portfolio status:** original strategy/design case with a worked artifact; synthetic clean-energy scenario; not a deployed Masdar system.
+**Portfolio status:** original strategy/design case with a worked artifact; synthetic clean-energy scenario; not a deployed clean_energy_group system.
 
 ## The business mandate
 Two country operations roles have no ready successors. The proposed executive intervention is: **Rate continuity impact replacement difficulty and successor options**.
@@ -11,7 +11,7 @@ Two country operations roles have no ready successors. The proposed executive in
 - [Shared case assumptions](../../00_SYNTHETIC_CASE_AND_EVIDENCE_BOUNDARY.md).
 
 ## Methods and proposed tools
-Criticality matrix; succession slate; Oracle Succession if available. Technology references are proposed integration/assessment options only; current Masdar systems and software licenses are unverified.
+Criticality matrix; succession slate; Oracle Succession if available. Technology references are proposed integration/assessment options only; current clean_energy_group systems and software licenses are unverified.
 
 ## Outcomes to demonstrate
 **Primary KPI:** Coverage of critical positions by ready-now successor. An authentic claim requires a signed baseline, real measured outcome, confounder assessment and owner approval.

@@ -1,6 +1,6 @@
 # 05.04 — Build or Cleanse a Global Talent Skills Database
 
-**Portfolio status:** original strategy/design case with a worked artifact; synthetic clean-energy scenario; not a deployed Masdar system.
+**Portfolio status:** original strategy/design case with a worked artifact; synthetic clean-energy scenario; not a deployed clean_energy_group system.
 
 ## The business mandate
 Regional employee records have duplicate certification names and expired licenses. The proposed executive intervention is: **Normalize skill IDs validate expiry and assign records to owners**.
@@ -11,7 +11,7 @@ Regional employee records have duplicate certification names and expired license
 - [Shared case assumptions](../../00_SYNTHETIC_CASE_AND_EVIDENCE_BOUNDARY.md).
 
 ## Methods and proposed tools
-ESCO; SFIA; entity matching; Oracle HCM or approved skills platform. Technology references are proposed integration/assessment options only; current Masdar systems and software licenses are unverified.
+ESCO; SFIA; entity matching; Oracle HCM or approved skills platform. Technology references are proposed integration/assessment options only; current clean_energy_group systems and software licenses are unverified.
 
 ## Outcomes to demonstrate
 **Primary KPI:** Skills record completeness validity and freshness. An authentic claim requires a signed baseline, real measured outcome, confounder assessment and owner approval.

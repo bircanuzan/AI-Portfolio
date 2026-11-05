@@ -10,7 +10,7 @@
 
 **Flow:** introduction → model process → branching decision point → multi-item knowledge check → score/feedback.
 
-**Design decisions:** realistic field language; no reliance on proprietary EFS data; hypothetical rules shown inside each screen; required user interaction; formative feedback explains *why*; end-of-module feedback.
+**Design decisions:** realistic field language; no reliance on proprietary service_operations data; hypothetical rules shown inside each screen; required user interaction; formative feedback explains *why*; end-of-module feedback.
 
 **Assessment:** three decision questions; 2/3 satisfactory demonstration threshold. No learner personal information is collected.
 

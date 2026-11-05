@@ -23,7 +23,7 @@ flowchart TD
 - A separate workforce_redesign domain performs a deterministic synthetic task-to-role-to-org scenario (group scope only), with explicit reserve-human decision rights and zero headcount changes. Six original HC data tools are deterministic Python functions, with an optional seventh composite planner (executive_brief). Tool outputs have source/section, assumptions, flags, human review and explicit zero write actions.
 - RBAC: development-only bearer token registry, with role and legal-entity scope. Enterprise Azure Entra ID/other signed OIDC token verification is *required but not implemented*.
 - Audit: HMAC-chained records in SQLite; HMAC key from environment. For production use cloud audit service with immutable retention, secret rotation and independent assurance.
-- Sovereign model: OpenAI-compatible HTTPS chat completions adapter on an operator-allowlisted host; optional model-generated narrative **or JSON proposed tool plan**. A separately enforced allowlist and role/entity gate control all local execution. No direct model tool calling. Not configured or verified with G42.
+- Sovereign model: OpenAI-compatible HTTPS chat completions adapter on an operator-allowlisted host; optional model-generated narrative **or JSON proposed tool plan**. A separately enforced allowlist and role/entity gate control all local execution. No direct model tool calling. Not configured or verified with ai_enterprise.
 - Integrations: allowlisted read-only HTTPS aggregate snapshot adapter with external system owner credentials; mocked in tests. No enterprise integration performed.
 - Container: generic Python image and non-root process; suitable as initial baseline for Docker/Kubernetes evaluation, **not a hardened or deployed production image**.
 

@@ -1,7 +1,7 @@
 # Learning Vendor Weighted Evaluation and SLA Pack
 **Project:** 11.02 — Select and Govern External Learning Providers
 
-> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at Masdar.
+> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at clean_energy_group.
 
 ## Executive decision
 Compare total cost validity data handling SLAs and learning impact.
@@ -14,7 +14,7 @@ Compare total cost validity data handling SLAs and learning impact.
 | Business problem | Two assessment vendors offer different price quality and privacy terms |
 | Decision supported | Compare total cost validity data handling SLAs and learning impact |
 | Proposed approach | RFP; weighted scoring; procurement and legal review |
-| Mandatory validation | Vendor names are examples not Masdar suppliers |
+| Mandatory validation | Vendor names are examples not clean_energy_group suppliers |
 | Primary effectiveness measure | Vendor SLA attainment and contract value |
 | Executive owner | Business sponsor with Head of Talent Development as process owner |
 | Implementation status | Design / decision proposal — not implemented |

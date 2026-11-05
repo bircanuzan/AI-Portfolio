@@ -26,7 +26,7 @@ Schema validation requires aggregate scalar values, a period, entity ID and sour
 | Workforce BI | approved financial and HR reporting system | occupancy and FTE/headcount budget | controlled cost centres, effective dates, auditable snapshots |
 
 ## Azure and sovereign interoperability
-The agent core has no cloud SDK dependency; integration code uses standard HTTPS, and optional model narrative uses an OpenAI-compatible chat-completions payload. Adapting a real G42 sovereign endpoint requires documented service contract, approved access, authentication, network policy and test evidence. **No G42 infrastructure integration is represented or claimed.**
+The agent core has no cloud SDK dependency; integration code uses standard HTTPS, and optional model narrative uses an OpenAI-compatible chat-completions payload. Adapting a real ai_enterprise sovereign endpoint requires documented service contract, approved access, authentication, network policy and test evidence. **No ai_enterprise infrastructure integration is represented or claimed.**
 
 ## What remains to integrate safely
 Source-system permissions; enterprise OAuth2/service identities rather than simple tokens; policy-driven API routes; signed canonical data contracts; reconciliation between HRIS/payroll/Finance; real data warehouse or data-mart ingest; employee privacy impact assessment; private network connectivity; error retry/idempotency and batch pagination; observability. The current engine deliberately uses only fictional fixtures, not live connector payloads.

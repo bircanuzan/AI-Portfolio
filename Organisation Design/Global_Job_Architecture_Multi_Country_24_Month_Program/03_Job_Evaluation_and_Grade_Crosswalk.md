@@ -1,7 +1,7 @@
 # 03 | Job Evaluation, Grade Mapping and Equivalence Controls
 
 ## Methodological stance
-Korn Ferry Hay, Mercer IPE and other recognized evaluation methods provide structured ways to assess role size. **This artifact does not reproduce proprietary factor scoring or assert evaluator certification.** Any actual use would be supervised by authorised, trained job evaluators with access to the employer's selected methodology and licensed materials.
+sector_organization Hay, Mercer IPE and other recognized evaluation methods provide structured ways to assess role size. **This artifact does not reproduce proprietary factor scoring or assert evaluator certification.** Any actual use would be supervised by authorised, trained job evaluators with access to the employer's selected methodology and licensed materials.
 
 ## Internal pre-calibration triage rubric (illustrative, not Hay/IPE)
 Assess role content from an approved JD using four original 1–5 descriptive dimensions: technical breadth/depth, problem complexity, decision/accountability scope, and business/operating impact. Values support preparation and anomaly detection only. **No weighted sum is an official grade assignment.**

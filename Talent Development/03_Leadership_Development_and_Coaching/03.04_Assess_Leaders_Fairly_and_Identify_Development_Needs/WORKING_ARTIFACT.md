@@ -1,7 +1,7 @@
 # Leadership Assessment Calibration Rubric
 **Project:** 03.04 — Assess Leaders Fairly and Identify Development Needs
 
-> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at Masdar.
+> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at clean_energy_group.
 
 ## Executive decision
 Triangulate simulations structured interviews and 360 evidence with calibrated scoring.

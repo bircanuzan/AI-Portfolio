@@ -1,7 +1,7 @@
 # Early-Career Cohort Retention Diagnostic
 **Project:** 09.04 — Reduce Graduate and Early-Career Attrition
 
-> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at Masdar.
+> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at clean_energy_group.
 
 ## Executive decision
 Use exit patterns manager interviews and onboarding redesign.

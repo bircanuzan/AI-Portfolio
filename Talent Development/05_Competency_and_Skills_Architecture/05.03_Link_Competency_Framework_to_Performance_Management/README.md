@@ -1,6 +1,6 @@
 # 05.03 — Link Competency Framework to Performance Management
 
-**Portfolio status:** original strategy/design case with a worked artifact; synthetic clean-energy scenario; not a deployed Masdar system.
+**Portfolio status:** original strategy/design case with a worked artifact; synthetic clean-energy scenario; not a deployed clean_energy_group system.
 
 ## The business mandate
 A project manager meets budget yet repeatedly undermines collaboration. The proposed executive intervention is: **Assess outcomes and behavior as separate evidenced dimensions**.
@@ -11,7 +11,7 @@ A project manager meets budget yet repeatedly undermines collaboration. The prop
 - [Shared case assumptions](../../00_SYNTHETIC_CASE_AND_EVIDENCE_BOUNDARY.md).
 
 ## Methods and proposed tools
-Oracle Fusion Goal and Performance modules if available; BARS. Technology references are proposed integration/assessment options only; current Masdar systems and software licenses are unverified.
+Oracle Fusion Goal and Performance modules if available; BARS. Technology references are proposed integration/assessment options only; current clean_energy_group systems and software licenses are unverified.
 
 ## Outcomes to demonstrate
 **Primary KPI:** Proportion of reviews with supported behavior evidence. An authentic claim requires a signed baseline, real measured outcome, confounder assessment and owner approval.

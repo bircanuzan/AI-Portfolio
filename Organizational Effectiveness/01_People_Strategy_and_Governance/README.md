@@ -19,7 +19,7 @@
 ## Group scorecard design
 - **Structural integrity:** approved vs actual positions, orphan employees, multiple incumbents, outdated organisation chart, role without family/grade.
 - **Workforce cost:** occupied, vacant and committed positions at full-year loaded run-rate vs budget; forecasts by entity and function; contingent cost.
-- **Execution:** percentage of DHC-cascaded-style Group People deliverables completed on time, corrective action owner, accepted quality criteria. Here DHC means generic Group-cascaded priorities; no access to Dubai Holding systems is implied.
+- **Execution:** percentage of DHC-cascaded-style Group People deliverables completed on time, corrective action owner, accepted quality criteria. Here DHC means generic Group-cascaded priorities; no access to sector_organization systems is implied.
 - **People:** quality of hire, critical-role bench, internal movement, learning outcomes, employee experience (metrics require valid sources).
 
 ## Department budget and portfolio controls

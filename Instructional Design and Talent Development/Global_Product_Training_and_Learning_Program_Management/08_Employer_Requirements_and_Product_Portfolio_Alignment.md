@@ -1,8 +1,8 @@
 # 08 | Learning Program Manager — employer requirements / product training alignment
 
-**Purpose:** A transparent line-by-line mapping between an advertised *global learning programme manager* job and this independent portfolio. The Pickado vacancy references Lenovo product categories, but **nothing here is a Lenovo-specific training programme or Pickado assignment**; every product brief in this portfolio is invented.
+**Purpose:** A transparent line-by-line mapping between an advertised *global learning programme manager* job and this independent portfolio. The sector_organization vacancy references sector_organization product categories, but **nothing here is a sector_organization-specific training programme or sector_organization assignment**; every product brief in this portfolio is invented.
 
-**Source job posting (accessed 2 November 2026):** https://pickado.tech/careers/2025/12/1751/learning-program-manager-worldwide-remote/
+**Source job posting (accessed 2 November 2026):** https://example.invalid/anonymized-sources/2025/12/1751/learning-program-manager-worldwide-remote/
 
 ## What the employer asks for and what this portfolio actually demonstrates
 
@@ -39,6 +39,6 @@ A sales manager asks participants to identify three buyer needs, choose a releva
 3. Run an actual 3-person volunteer pilot (with informed consent and privacy protections), then separately report anonymised observations versus design targets.
 4. Reconcile every feature claim against a versioned official vendor source before showing a technology brand in the portfolio.
 
-**Interview framing:** “I created an independent learning-programme case demonstrating how I would govern a multi-region technology-product training curriculum from discovery through retirement. The project is design and reproducible synthetic analytics—not evidence that I delivered Lenovo courses or worked for Pickado. My real employment evidence is in my CV; this case makes my methods inspectable.”
+**Interview framing:** “I created an independent learning-programme case demonstrating how I would govern a multi-region technology-product training curriculum from discovery through retirement. The project is design and reproducible synthetic analytics—not evidence that I delivered sector_organization courses or worked for sector_organization. My real employment evidence is in my CV; this case makes my methods inspectable.”
 
-**Scope boundary:** This file does not claim a PMP, a masters degree, professional Articulate production, or a live Lenovo product demonstration.
+**Scope boundary:** This file does not claim a PMP, a masters degree, professional Articulate production, or a live sector_organization product demonstration.

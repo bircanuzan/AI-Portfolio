@@ -1,7 +1,7 @@
 # Reskilling Investment Priority Matrix
 **Project:** 02.04 — Prioritize Business-Critical Reskilling vs Popular Training
 
-> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at Masdar.
+> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at clean_energy_group.
 
 ## Executive decision
 Score criticality safety scarcity urgency and deployment need.

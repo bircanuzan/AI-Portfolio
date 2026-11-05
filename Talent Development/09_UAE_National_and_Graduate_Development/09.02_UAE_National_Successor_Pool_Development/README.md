@@ -1,6 +1,6 @@
 # 09.02 — UAE National Successor-Pool Development
 
-**Portfolio status:** original strategy/design case with a worked artifact; synthetic clean-energy scenario; not a deployed Masdar system.
+**Portfolio status:** original strategy/design case with a worked artifact; synthetic clean-energy scenario; not a deployed clean_energy_group system.
 
 ## The business mandate
 A UAE national investment manager is preparing for broader portfolio governance. The proposed executive intervention is: **Offer committee exposure sponsorship coaching and readiness evidence**.
@@ -11,7 +11,7 @@ A UAE national investment manager is preparing for broader portfolio governance.
 - [Shared case assumptions](../../00_SYNTHETIC_CASE_AND_EVIDENCE_BOUNDARY.md).
 
 ## Methods and proposed tools
-Potential assessment; executive sponsorship; exposure projects. Technology references are proposed integration/assessment options only; current Masdar systems and software licenses are unverified.
+Potential assessment; executive sponsorship; exposure projects. Technology references are proposed integration/assessment options only; current clean_energy_group systems and software licenses are unverified.
 
 ## Outcomes to demonstrate
 **Primary KPI:** Succession readiness of designated national talent pool. An authentic claim requires a signed baseline, real measured outcome, confounder assessment and owner approval.

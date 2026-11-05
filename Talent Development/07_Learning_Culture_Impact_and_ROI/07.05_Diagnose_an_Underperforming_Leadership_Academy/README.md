@@ -1,6 +1,6 @@
 # 07.05 — Diagnose an Underperforming Leadership Academy
 
-**Portfolio status:** original strategy/design case with a worked artifact; synthetic clean-energy scenario; not a deployed Masdar system.
+**Portfolio status:** original strategy/design case with a worked artifact; synthetic clean-energy scenario; not a deployed clean_energy_group system.
 
 ## The business mandate
 Academy completion is high but team leadership indicators remain unchanged. The proposed executive intervention is: **Audit selection design facilitator quality and workplace reinforcement**.
@@ -11,7 +11,7 @@ Academy completion is high but team leadership indicators remain unchanged. The 
 - [Shared case assumptions](../../00_SYNTHETIC_CASE_AND_EVIDENCE_BOUNDARY.md).
 
 ## Methods and proposed tools
-Programme audit; action learning; stop scale redesign gate. Technology references are proposed integration/assessment options only; current Masdar systems and software licenses are unverified.
+Programme audit; action learning; stop scale redesign gate. Technology references are proposed integration/assessment options only; current clean_energy_group systems and software licenses are unverified.
 
 ## Outcomes to demonstrate
 **Primary KPI:** Behavior improvement after pilot redesign. An authentic claim requires a signed baseline, real measured outcome, confounder assessment and owner approval.

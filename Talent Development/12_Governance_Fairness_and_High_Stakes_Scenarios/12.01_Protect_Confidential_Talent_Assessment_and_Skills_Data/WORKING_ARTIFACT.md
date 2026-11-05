@@ -1,7 +1,7 @@
 # Talent Information Access and Retention Matrix
 **Project:** 12.01 — Protect Confidential Talent Assessment and Skills Data
 
-> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at Masdar.
+> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at clean_energy_group.
 
 ## Executive decision
 Restrict roles enforce audit and retention with privacy response procedure.

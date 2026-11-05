@@ -1,7 +1,7 @@
 # Employee Listening to 90-Day Action Tracker
 **Project:** 10.01 — Engagement Survey Follow-Through
 
-> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at Masdar.
+> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at clean_energy_group.
 
 ## Executive decision
 Validate themes assign owner and publish response to employees.

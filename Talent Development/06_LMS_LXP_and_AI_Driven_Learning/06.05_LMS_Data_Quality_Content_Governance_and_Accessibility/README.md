@@ -1,6 +1,6 @@
 # 06.05 — LMS Data Quality Content Governance and Accessibility
 
-**Portfolio status:** original strategy/design case with a worked artifact; synthetic clean-energy scenario; not a deployed Masdar system.
+**Portfolio status:** original strategy/design case with a worked artifact; synthetic clean-energy scenario; not a deployed clean_energy_group system.
 
 ## The business mandate
 An e-learning module reports completion incorrectly and lacks keyboard navigation. The proposed executive intervention is: **Test SCORM status track versions and remediate WCAG failures**.
@@ -11,7 +11,7 @@ An e-learning module reports completion incorrectly and lacks keyboard navigatio
 - [Shared case assumptions](../../00_SYNTHETIC_CASE_AND_EVIDENCE_BOUNDARY.md).
 
 ## Methods and proposed tools
-SCORM 1.2/2004; xAPI; cmi5; WCAG 2.2 AA. Technology references are proposed integration/assessment options only; current Masdar systems and software licenses are unverified.
+SCORM 1.2/2004; xAPI; cmi5; WCAG 2.2 AA. Technology references are proposed integration/assessment options only; current clean_energy_group systems and software licenses are unverified.
 
 ## Outcomes to demonstrate
 **Primary KPI:** Pass rate for completion tracking and WCAG 2.2 AA checks. An authentic claim requires a signed baseline, real measured outcome, confounder assessment and owner approval.

@@ -1,6 +1,6 @@
 # Measurement system: baseline, KPI definitions and ROI
 
-## Proposed leadership dashboard — no actual norbloc measurements
+## Proposed leadership dashboard — no actual sector_organization measurements
 | KPI | Definition | Target / decision rule |
 |---|---|---|
 | Technical weekly active adoption | unique eligible users completing >=1 approved AI-assisted task in previous 7 days / eligible technical staff with access | **>=80% target**, with quality and risk gates |

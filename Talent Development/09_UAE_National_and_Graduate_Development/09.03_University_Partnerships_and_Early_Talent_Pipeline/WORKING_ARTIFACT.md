@@ -1,7 +1,7 @@
 # University-to-Career Partnership Scorecard
 **Project:** 09.03 — University Partnerships and Early Talent Pipeline
 
-> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at Masdar.
+> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at clean_energy_group.
 
 ## Executive decision
 Co-design internships capstone projects and transparent conversion criteria.
@@ -13,7 +13,7 @@ Co-design internships capstone projects and transparent conversion criteria.
 |---|---|
 | Business problem | Clean-energy teams need graduates with applied power-systems and AI skills |
 | Decision supported | Co-design internships capstone projects and transparent conversion criteria |
-| Proposed approach | Khalifa University UAEU MBZUAI as possible partners; MoU template |
+| Proposed approach | Khalifa University UAEU research_university as possible partners; MoU template |
 | Mandatory validation | Institutions are possible partners not claimed existing contracts |
 | Primary effectiveness measure | Qualified intern conversion and one-year retention |
 | Executive owner | Business sponsor with Head of Talent Development as process owner |

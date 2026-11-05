@@ -1,6 +1,6 @@
 # 05.02 — Behavioural Competency and Leadership Behaviours
 
-**Portfolio status:** original strategy/design case with a worked artifact; synthetic clean-energy scenario; not a deployed Masdar system.
+**Portfolio status:** original strategy/design case with a worked artifact; synthetic clean-energy scenario; not a deployed clean_energy_group system.
 
 ## The business mandate
 Cross-border projects require consistent accountability and stakeholder behaviors. The proposed executive intervention is: **Write level-specific behavior indicators grounded in real work**.
@@ -11,7 +11,7 @@ Cross-border projects require consistent accountability and stakeholder behavior
 - [Shared case assumptions](../../00_SYNTHETIC_CASE_AND_EVIDENCE_BOUNDARY.md).
 
 ## Methods and proposed tools
-BARS; role interviews; optional Korn Ferry reference. Technology references are proposed integration/assessment options only; current Masdar systems and software licenses are unverified.
+BARS; role interviews; optional sector_organization reference. Technology references are proposed integration/assessment options only; current clean_energy_group systems and software licenses are unverified.
 
 ## Outcomes to demonstrate
 **Primary KPI:** Behavior rubric reliability across assessors. An authentic claim requires a signed baseline, real measured outcome, confounder assessment and owner approval.

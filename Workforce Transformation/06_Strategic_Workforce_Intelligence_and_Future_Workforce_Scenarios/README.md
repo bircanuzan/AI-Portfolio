@@ -16,8 +16,8 @@ What mix of people, skills, AI assistance and external capacity might an organiz
 - MOHRE research: labour-market intelligence, data integrity, source governance and evidence-based workforce decisions — **not** a claim of access to the MOHRE Labour Market Observatory.
 - e& research: integrated workforce visibility, Oracle Fusion Cloud HCM, Oracle Grow and Dynamic Skills as **company-level platform context**, not tools used in this demo.
 - Bukhatir / Noaman Minhas: unified skills, talent, learning and workforce planning.
-- G42: capacity and capability beyond raw headcount; work decomposition and human accountability.
-- ADNOC: enterprise AI skills, career mobility and frontline enablement; company initiatives only.
+- ai_enterprise: capacity and capability beyond raw headcount; work decomposition and human accountability.
+- sector_organization: enterprise AI skills, career mobility and frontline enablement; company initiatives only.
 
 ## Run (standard-library Python)
 From repository root:

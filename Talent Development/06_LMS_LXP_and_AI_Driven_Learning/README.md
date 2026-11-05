@@ -1,5 +1,5 @@
 # 06 — LMS LXP and AI-Driven Learning
-> **Independent portfolio design** for a fictional international clean-energy company, structured around the Masdar Head of Talent Development interview capability areas. Not an assertion of work delivered to Masdar.
+> **Independent portfolio design** for a fictional international clean-energy company, structured around the clean_energy_group Head of Talent Development interview capability areas. Not an assertion of work delivered to clean_energy_group.
 
 **Purpose:** Enterprise learning ecosystems, interoperability and safe AI.
 

@@ -29,7 +29,7 @@ Assumptions for a single **hypothetical agency**:
 | 1.5 pp | 60 | AED 180,000 |
 
 ## Separate agency value from marketplace value
-An agency's incremental contribution does **not** equal marketplace/platform revenue. Commercial expansion belongs to the existing account team. AI Strategist supplies a measured value hypothesis and adoption narrative; do not book uplift as Property Finder revenue without an agreed causal commercial model.
+An agency's incremental contribution does **not** equal marketplace/platform revenue. Commercial expansion belongs to the existing account team. AI Strategist supplies a measured value hypothesis and adoption narrative; do not book uplift as sector_organization revenue without an agreed causal commercial model.
 
 ## Investment gates
 - Before kickoff: baseline completeness >=95%, technical integration estimate reviewed by both engineers, privacy/security approvals.

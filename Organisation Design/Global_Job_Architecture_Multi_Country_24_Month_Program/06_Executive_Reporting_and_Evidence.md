@@ -25,4 +25,4 @@ One consistent language of work across international businesses, without erasing
 6. **Next 30/60/90 days:** owners, checkpoints, dependencies and sign-off criteria.
 
 ## Demonstrable artifact vs experience claim
-This repository demonstrates how a Head/Manager of OD would *plan and control* a 24-month multinational program. It must **not** be presented as a completed dnata implementation, as a formal Hay/Mercer job-evaluation qualification, or as verified multinational outcomes. Actual use requires employer data, approvals and suitable evaluator credentials.
+This repository demonstrates how a Head/Manager of OD would *plan and control* a 24-month multinational program. It must **not** be presented as a completed sector_organization implementation, as a formal Hay/Mercer job-evaluation qualification, or as verified multinational outcomes. Actual use requires employer data, approvals and suitable evaluator credentials.

@@ -60,4 +60,4 @@ Assessment type: multiple-choice and scenario-based feedback. Every distractor a
 **Approval roles:** HR/L&D content owner, operational SME, safety/compliance owner, LMS administrator.
 
 ## 9. Personal contribution statement
-This 2026 portfolio demonstration was created with generative AI assistance to explore storyboard development, scenario writing, instructional alignment and QA specification. It is not an EFS-approved operating procedure, a client-owned deliverable or evidence of prior Articulate production usage.
+This 2026 portfolio demonstration was created with generative AI assistance to explore storyboard development, scenario writing, instructional alignment and QA specification. It is not an service_operations-approved operating procedure, a client-owned deliverable or evidence of prior Articulate production usage.

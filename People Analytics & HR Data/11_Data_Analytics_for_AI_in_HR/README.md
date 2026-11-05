@@ -19,8 +19,8 @@ python -m unittest discover -s tests -v
 - [Original pandas analytics script](hr_analytics_python_example.py)
 - [SQL example queries](hr_analytics_queries.sql)
 - [Power BI DAX measure patterns](power_bi_dax_measures.txt)
-- [HR analytics Excel workbook](HumanEvoX_AI_in_HR_Analytics_Lab.xlsx)
-- [Portfolio PDF](HumanEvoX_Data_Analytics_for_AI_in_HR_Portfolio.pdf)
+- [HR analytics Excel workbook](independent_portfolio_AI_in_HR_Analytics_Lab.xlsx)
+- [Portfolio PDF](independent_portfolio_Data_Analytics_for_AI_in_HR_Portfolio.pdf)
 
 **Distinct scope:** raw fictional source → strict data quality and denominator control → validated descriptive metrics. Project 52 handles presentation; Project 54 owns independent scenario modelling. `exit_12m` is an invented binary flag, **not a longitudinal employer attrition time series**.
 

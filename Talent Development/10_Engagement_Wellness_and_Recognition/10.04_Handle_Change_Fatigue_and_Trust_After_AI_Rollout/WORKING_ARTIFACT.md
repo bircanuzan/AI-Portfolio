@@ -1,7 +1,7 @@
 # ADKAR Trust and Adoption Recovery Plan
 **Project:** 10.04 — Handle Change Fatigue and Trust After AI Rollout
 
-> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at Masdar.
+> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at clean_energy_group.
 
 ## Executive decision
 Explain model scope choice rights and human approvals then phase adoption.

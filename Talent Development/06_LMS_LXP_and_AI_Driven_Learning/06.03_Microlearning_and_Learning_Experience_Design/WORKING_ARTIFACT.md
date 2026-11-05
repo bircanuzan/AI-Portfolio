@@ -1,7 +1,7 @@
 # SCORM-Ready Microlearning Storyboard
 **Project:** 06.03 — Microlearning and Learning Experience Design
 
-> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at Masdar.
+> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at clean_energy_group.
 
 ## Executive decision
 Design a seven-minute scenario with knowledge check and escalation decision.

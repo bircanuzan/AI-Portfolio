@@ -1,6 +1,6 @@
 # 04.04 — Cross-Border Assignments and Global Talent Mobility
 
-**Portfolio status:** original strategy/design case with a worked artifact; synthetic clean-energy scenario; not a deployed Masdar system.
+**Portfolio status:** original strategy/design case with a worked artifact; synthetic clean-energy scenario; not a deployed clean_energy_group system.
 
 ## The business mandate
 An UAE-based engineer accepts a temporary project deployment to Uzbekistan. The proposed executive intervention is: **Define immigration tax payroll duty of care and repatriation before assignment**.
@@ -11,7 +11,7 @@ An UAE-based engineer accepts a temporary project deployment to Uzbekistan. The 
 - [Shared case assumptions](../../00_SYNTHETIC_CASE_AND_EVIDENCE_BOUNDARY.md).
 
 ## Methods and proposed tools
-Mobility policy; pre-departure training; assignment agreements. Technology references are proposed integration/assessment options only; current Masdar systems and software licenses are unverified.
+Mobility policy; pre-departure training; assignment agreements. Technology references are proposed integration/assessment options only; current clean_energy_group systems and software licenses are unverified.
 
 ## Outcomes to demonstrate
 **Primary KPI:** Assignment capability outcomes and post-return retention. An authentic claim requires a signed baseline, real measured outcome, confounder assessment and owner approval.

@@ -1,7 +1,7 @@
 # National Leadership Bench Acceleration Plan
 **Project:** 09.02 — UAE National Successor-Pool Development
 
-> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at Masdar.
+> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at clean_energy_group.
 
 ## Executive decision
 Offer committee exposure sponsorship coaching and readiness evidence.

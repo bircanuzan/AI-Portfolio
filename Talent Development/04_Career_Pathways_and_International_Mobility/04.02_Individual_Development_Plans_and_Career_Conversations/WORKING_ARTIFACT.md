@@ -1,7 +1,7 @@
 # IDP and Career Conversation Toolkit
 **Project:** 04.02 — Individual Development Plans and Career Conversations
 
-> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at Masdar.
+> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at clean_energy_group.
 
 ## Executive decision
 Translate aspiration into evidence based gaps and quarterly assignments.

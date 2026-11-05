@@ -1,7 +1,7 @@
 # Strategy-to-Capability Alignment Map
 **Project:** 01.01 — Align Enterprise Talent Strategy with Business Priorities
 
-> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at Masdar.
+> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at clean_energy_group.
 
 ## Executive decision
 Prioritize technical capability and leadership supply against investment milestones.

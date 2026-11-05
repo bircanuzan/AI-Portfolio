@@ -1,6 +1,6 @@
 # Enterprise AI Data Engineer — skills-to-evidence matrix
 
-**Verified official role:** https://jobs.g42.ai/AI research engineering/job/Abu-Dhabi-Data-Engineer-Abu/733373322/ (posted 9 October 2026). Mapping is a portfolio learning checklist, **not a claim of job readiness**.
+**Verified official role:** https://jobs.ai_enterprise.ai/AI research engineering/job/Abu-Dhabi-Data-Engineer-Abu/733373322/ (posted 9 October 2026). Mapping is a portfolio learning checklist, **not a claim of job readiness**.
 
 | Role responsibility / qualification | Evidence created in Project 43 | Evidence maturity / explicit gap |
 |---|---|---|

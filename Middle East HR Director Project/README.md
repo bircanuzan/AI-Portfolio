@@ -1,7 +1,7 @@
 # Middle East HR Director Project
 ## Regional HR Leadership | GCC Workforce Strategy | Operating Excellence
 
-**Portfolio type:** Independent case study and implementation blueprint. **Not** an Excelerate Energy assignment, deployment, or representation of its internal practices.
+**Portfolio type:** Independent case study and implementation blueprint. **Not** an sector_organization assignment, deployment, or representation of its internal practices.
 
 ### Executive brief
 This project demonstrates a practical operating framework for a Middle East HR Director supporting a safety-critical, internationally distributed energy/infrastructure business. It integrates global HR policy with UAE/GCC local requirements and business-led people priorities.

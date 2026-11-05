@@ -1,5 +1,5 @@
 # AI Testing, Evaluation, Verification & Validation (TEVV) programme
-**Status:** authored protocol; **no real ML model, sensitive dataset or live LLM tested here**. A separate deterministic policy-gate program is tested only for logic and inputs. Inspired by RTA AI QA requirements and all four ethics/governance roles.
+**Status:** authored protocol; **no real ML model, sensitive dataset or live LLM tested here**. A separate deterministic policy-gate program is tested only for logic and inputs. Inspired by sector_organization AI QA requirements and all four ethics/governance roles.
 
 ## Gates and evidence
 | Stage | Assurance question | Sample acceptance rule | Sign-off |

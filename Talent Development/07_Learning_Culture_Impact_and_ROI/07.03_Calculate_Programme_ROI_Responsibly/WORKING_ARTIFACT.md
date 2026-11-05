@@ -1,7 +1,7 @@
 # Finance-Assured ROI Calculation Workbook Spec
 **Project:** 07.03 — Calculate Programme ROI Responsibly
 
-> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at Masdar.
+> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at clean_energy_group.
 
 ## Executive decision
 Quantify eligible benefits and full costs and show attribution uncertainty.

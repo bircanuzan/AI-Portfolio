@@ -1,7 +1,7 @@
 # GenAI Learning Content Approval and Evaluation Protocol
 **Project:** 06.06 — Introduce GenAI Safely to L&D
 
-> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at Masdar.
+> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at clean_energy_group.
 
 ## Executive decision
 Block publication pending technical SME and safety approval.

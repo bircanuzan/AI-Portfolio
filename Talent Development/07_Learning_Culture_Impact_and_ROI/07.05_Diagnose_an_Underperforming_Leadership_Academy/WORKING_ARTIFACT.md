@@ -1,7 +1,7 @@
 # Leadership Academy Recovery Decision Memo
 **Project:** 07.05 — Diagnose an Underperforming Leadership Academy
 
-> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at Masdar.
+> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at clean_energy_group.
 
 ## Executive decision
 Audit selection design facilitator quality and workplace reinforcement.

@@ -20,7 +20,7 @@ def prioritize(rows):
     return sorted((score(row) for row in rows), key=lambda x: (x["pilot_eligible"], x["priority_score"]), reverse=True)
 
 if __name__ == "__main__":
-    path = Path(__file__).resolve().parents[1] / "data" / "creatio_synthetic_opportunities.csv"
+    path = Path(__file__).resolve().parents[1] / "data" / "enterprise_crm_synthetic_opportunities.csv"
     with path.open(newline="", encoding="utf-8") as f:
         for result in prioritize(list(csv.DictReader(f))):
             print(f"{result['use_case']}: score={result['priority_score']:.2f}, "
