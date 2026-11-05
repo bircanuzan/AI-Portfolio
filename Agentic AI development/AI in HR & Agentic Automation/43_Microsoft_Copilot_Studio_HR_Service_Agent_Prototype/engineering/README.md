@@ -62,7 +62,7 @@ See [`evidence/2026-10-30_python_local_evaluation.json`](evidence/2026-10-30_pyt
 
 ## Read next
 
-- [ai_enterprise requirement-by-requirement skill mapping](docs/ai_enterprise_SKILL_MATRIX.md)
+- [ai_enterprise requirement-by-requirement skill mapping](docs/ROLE_SKILL_MATRIX.md)
 - [Architecture, data flow and technical decisions](docs/ARCHITECTURE.md)
 - [Evidence register, test protocol and limitations](docs/EVIDENCE_REGISTER.md)
 - [Security and agent governance (NIST AI RMF conceptual alignment)](docs/GOVERNANCE_SECURITY.md)
