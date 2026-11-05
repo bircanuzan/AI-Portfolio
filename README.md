@@ -1,3 +1,7 @@
+## HR Policy — Multinational Aviation Policy & Compliance Governance
+
+**[Open the HR Policy project](HR%20Policy/README.md)** — independent fictional six-market aviation policy governance case aligned to HR policy drafting, contract and handbook templates, employment-law monitoring workflow, controlled version release, Legal/Payroll/HRBP approvals, country UAT, employee briefings, synthetic policy effectiveness and cost analytics, plus safe AI-assisted drafting. Includes a local Python document-control checker and 12 authored unit tests. **Not Etihad-delivered work, live legal advice, validated employment law or proven financial savings.**
+
 ## Talent Development — Executive Global Capability Portfolio (60 subsection projects)
 
 **[Open the Talent Development portfolio](Talent%20Development/README.md)** — 12 strategic sections, 60 standalone projects with tailored working decision artifacts and evidence capture, covering leadership, technical skills, LMS/SCORM/xAPI, succession, Emirati development, learning ROI, AI safeguards and board reporting. All scenarios are **synthetic interview case designs**, not Masdar-delivered work, current vendor confirmations or verified outcomes.
