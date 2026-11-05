@@ -1,7 +1,7 @@
 {
-  "model": "Qwen/Qwen2.5-0.5B-Instruct-GGUF (Q4_K_M)",
+  "model": "Qwen/Qwen2.5-1.5B-Instruct-GGUF (Q4_K_M)",
   "provider": "self_hosted_gguf_llama_cpp_inside_github_actions",
-  "timestamp_utc": "2026-11-02T12:58:49.902758+00:00",
+  "timestamp_utc": "2026-11-05T13:14:20.705922+00:00",
   "real_llm_inference_count": 3,
   "routing_pass_count": 6,
   "routing_total": 6,
@@ -29,17 +29,21 @@
         "local_llama_cpp_api:model_completion_observed"
       ],
       "model_called": true,
-      "raw_model_draft": "Human approval remains mandatory.",
-      "model_latency_seconds": 1.044,
+      "raw_model_draft": "The employee may request 25 calendar days of annual leave per year, and their manager must approve the dates. HR Operations will record the approved leave in the HR system.",
+      "model_latency_seconds": 3.18,
       "numeric_check": {
-        "all_policy_numbers_preserved": false,
+        "all_policy_numbers_preserved": true,
         "no_new_numbers": true,
         "expected_numbers": [
           "25"
         ],
-        "draft_numbers": [],
-        "requires_human_semantic_review": true
+        "draft_numbers": [
+          "25"
+        ],
+        "requires_human_semantic_review": true,
+        "numeric_validation_pass": true
       },
+      "draft_numeric_validation_pass": true,
       "served_answer": "DemoCo employees may request 25 calendar days of annual leave per year. Their manager must approve dates and HR Operations records approved leave in the HR system. [Source: HR-LEAVE-01]"
     },
     {
@@ -60,15 +64,17 @@
         "local_llama_cpp_api:model_completion_observed"
       ],
       "model_called": true,
-      "raw_model_draft": "Employee may work remotely two days per week.",
-      "model_latency_seconds": 0.628,
+      "raw_model_draft": "The policy supports the employee's request for up to two remote-working days per week, provided they are eligible for the role and receive manager approval. Requests for more than two days require HR Business Partner review.",
+      "model_latency_seconds": 2.641,
       "numeric_check": {
         "all_policy_numbers_preserved": true,
         "no_new_numbers": true,
         "expected_numbers": [],
         "draft_numbers": [],
-        "requires_human_semantic_review": true
+        "requires_human_semantic_review": true,
+        "numeric_validation_pass": true
       },
+      "draft_numeric_validation_pass": true,
       "served_answer": "Eligible DemoCo roles may request up to two remote-working days per week with manager approval. Requests beyond two days require HR Business Partner review. [Source: HR-FLEX-02]"
     },
     {
@@ -110,15 +116,19 @@
         "local_llama_cpp_api:model_completion_observed"
       ],
       "model_called": true,
-      "raw_model_draft": "During onboarding, employees are introduced to their new roles and responsibilities, and managers are provided with an overview of the organization and the employee's role within it.",
-      "model_latency_seconds": 1.022,
+      "raw_model_draft": "According to the HR-ONB-05 policy, during onboarding at DemoCo, account provisioning, manager introduction, and orientation are conducted during the first five working days. HR Operations is responsible for creating the onboarding checklist.",
+      "model_latency_seconds": 2.886,
       "numeric_check": {
         "all_policy_numbers_preserved": true,
-        "no_new_numbers": true,
+        "no_new_numbers": false,
         "expected_numbers": [],
-        "draft_numbers": [],
-        "requires_human_semantic_review": true
+        "draft_numbers": [
+          "05"
+        ],
+        "requires_human_semantic_review": true,
+        "numeric_validation_pass": false
       },
+      "draft_numeric_validation_pass": false,
       "served_answer": "DemoCo onboarding includes account provisioning, manager introduction and orientation during the first five working days. HR Operations owns the onboarding checklist. [Source: HR-ONB-05]"
     },
     {
