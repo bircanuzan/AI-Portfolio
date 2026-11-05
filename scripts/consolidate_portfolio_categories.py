@@ -335,6 +335,18 @@ def main():
         "",
     ]
     (ROOT / "docs" / "PORTFOLIO_ARCHITECTURE.md").write_text("\n".join(notes), encoding="utf-8")
+    # Files moved successfully; remove now-empty source directories (Git does not track empty dirs).
+    for directory in sorted(
+        (p for p in ROOT.rglob("*") if p.is_dir() and ".git" not in p.parts),
+        key=lambda p: len(p.parts),
+        reverse=True,
+    ):
+        if directory.name in {".github", ".claude", "scripts", "docs"} or directory.parent == ROOT and directory.name in PRIMARY:
+            continue
+        try:
+            directory.rmdir()
+        except OSError:
+            pass
     final_roots = sorted(p.name for p in ROOT.iterdir() if p.is_dir() and p.name != ".git")
     if set(final_roots) != set(PRIMARY) | INFRA:
         raise RuntimeError("Unexpected root taxonomy: " + str(final_roots))
