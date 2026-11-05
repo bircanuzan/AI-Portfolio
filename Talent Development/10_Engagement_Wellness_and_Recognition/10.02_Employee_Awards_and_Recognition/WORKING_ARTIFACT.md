@@ -1,7 +1,7 @@
 # Recognition Equity and Impact Scorecard
-**Project:** 10.02 — Masdar Annual Awards and KAFU Recognition
+**Project:** 10.02 — Employee Awards and Recognition Programme
 
-> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at Masdar.
+> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at a clean-energy employer.
 
 ## Executive decision
 Clarify nomination evidence and review awards distribution by function.
@@ -13,7 +13,7 @@ Clarify nomination evidence and review awards distribution by function.
 |---|---|
 | Business problem | Technical field achievements receive fewer nominations than headquarters work |
 | Decision supported | Clarify nomination evidence and review awards distribution by function |
-| Proposed approach | Annual Awards; KAFU; nomination calibration |
+| Proposed approach | Annual Awards; employee recognition; nomination calibration |
 | Mandatory validation | Do not equate recognition participation with performance |
 | Primary effectiveness measure | Recognition reach and perceived fairness |
 | Executive owner | Business sponsor with Head of Talent Development as process owner |
