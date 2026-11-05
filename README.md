@@ -1,3 +1,7 @@
+## HR Data Analysis for UAE Banking Client — Workforce MIS & People-Cost Reporting
+
+[Open the independent UAE banking-sector HR data analysis project](HR%20Data%20Analysis%20for%20UAE%20Banking%20Client/README.md) — reproducible fictional workforce MIS, active HC/FTE reconciliations, funded vs vacant positions, annualized people costs, illustrative Emiratisation planning metrics, approved requisition scenarios, SQL/Excel/DAX specification, synthetic datasets, Python model, authored tests, 30/60/90-day rollout. **Not ADIB or other bank client delivery or a regulatory submission.**
+
 ## HR Data Analyst — Banking Workforce MIS & Headcount Planning (Independent Case)
 
 **[Open the HR Data Analyst portfolio](HR%20Data%20Analyst/README.md)** — fictional UAE regulated-financial-services data lab with monthly headcount/FTE validation, Finance-aligned budget and cost variance, approved-versus-pending manpower requests, illustrative Emiratisation-target gaps, executive MIS/control matrix, Excel/Power BI/SQL specification, an offline Python analyser and authored regression tests. **Synthetic inputs only; not ADIB delivery, live HRMS data or a CBUAE filing.**
