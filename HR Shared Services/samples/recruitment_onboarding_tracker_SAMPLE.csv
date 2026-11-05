@@ -1,0 +1,4 @@
+requisition_id,account,role_category,approved_openings,candidates_screened,offers_accepted,planned_joiners,ready_to_join,owner,next_review,blocker
+DEMO-R001,Account North,Frontline,12,38,9,8,7,TA Supervisor,2026-11-06,One case pending specialist work-authorisation confirmation
+DEMO-R002,Account South,Supervisor,3,11,2,2,2,TA Supervisor,2026-11-06,None
+DEMO-R003,Account East,Professional,2,6,1,1,0,Recruiter Lead,2026-11-06,Joining documents incomplete
