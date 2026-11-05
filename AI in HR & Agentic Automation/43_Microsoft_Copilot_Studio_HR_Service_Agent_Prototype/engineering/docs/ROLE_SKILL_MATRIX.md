@@ -1,8 +1,8 @@
-# G42 Inception42 Data Engineer — skills-to-evidence matrix
+# Enterprise AI Data Engineer — skills-to-evidence matrix
 
-**Verified official role:** https://jobs.g42.ai/Inception42/job/Abu-Dhabi-Data-Engineer-Abu/733373322/ (posted 9 October 2026). Mapping is a portfolio learning checklist, **not a claim of job readiness**.
+**Verified official role:** https://jobs.g42.ai/AI research engineering/job/Abu-Dhabi-Data-Engineer-Abu/733373322/ (posted 9 October 2026). Mapping is a portfolio learning checklist, **not a claim of job readiness**.
 
-| G42 responsibility / qualification | Evidence created in Project 43 | Evidence maturity / explicit gap |
+| Role responsibility / qualification | Evidence created in Project 43 | Evidence maturity / explicit gap |
 |---|---|---|
 | Develop/deploy AI agents: Azure Agent Foundry | `integrations/azure/foundry_agent.py`: credential-gated creation and invocation of hosted prompt agent | **Not invoked**; subscription, RBAC, real Azure agent execution, model traces and deployment missing |
 | OpenAI + LangChain | `integrations/openai_langchain.py`: `ChatOpenAI` and prompt chain, safety-gated source input | **Coded, unexecuted**; real model evaluation + billing required |
