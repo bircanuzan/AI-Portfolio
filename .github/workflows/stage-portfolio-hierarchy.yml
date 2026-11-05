@@ -1,0 +1,30 @@
+name: Stage competency-based portfolio hierarchy
+on:
+  push:
+    paths:
+      - scripts/consolidate_portfolio_categories.py
+      - .github/workflows/stage-portfolio-hierarchy.yml
+permissions:
+  contents: write
+jobs:
+  stage:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Reorganize standalone project folders by capability
+        run: PYTHONDONTWRITEBYTECODE=1 python scripts/consolidate_portfolio_categories.py
+      - name: Stage a review branch with workflow changes reserved for connector
+        run: |
+          git config user.name "Portfolio Architecture Automation"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git switch -c competency-portfolio-hierarchy
+          git add -A
+          git restore --staged .github/workflows || true
+          git commit -m "Consolidate standalone projects under 15 CHRO and CTO capability domains"
+          git push -u origin competency-portfolio-hierarchy
