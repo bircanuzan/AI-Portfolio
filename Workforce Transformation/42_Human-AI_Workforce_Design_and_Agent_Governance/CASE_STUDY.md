@@ -30,7 +30,7 @@ J --> K[Independent quality, privacy and value review]
 ```
 
 ## Hands-on evidence now linked
-A local browser-accessible JavaScript assistant and its 28-case executed evaluation are in [Project 43](../43_Microsoft_Copilot_Studio_HR_Service_Agent_Prototype/). For the direct interview question **“Which AI agent did you actually test, what did it respond, and how did you capture the evidence?”**, see the exact answer and citations in this project's [README](README.md) and the [verbatim dated JSON trace](../43_Microsoft_Copilot_Studio_HR_Service_Agent_Prototype/evidence/2026-10-29_test_run.json). The local prototype is deterministic and **not** a live LLM/Copilot Studio agent.
+A local browser-accessible JavaScript assistant and its 28-case executed evaluation are in [Project 43](../../Agentic%20AI%20development/AI%20in%20HR%20%26%20Agentic%20Automation/43_Microsoft_Copilot_Studio_HR_Service_Agent_Prototype/). For the direct interview question **“Which AI agent did you actually test, what did it respond, and how did you capture the evidence?”**, see the exact answer and citations in this project's [README](README.md) and the [verbatim dated JSON trace](../../Agentic%20AI%20development/AI%20in%20HR%20%26%20Agentic%20Automation/43_Microsoft_Copilot_Studio_HR_Service_Agent_Prototype/evidence/2026-10-29_test_run.json). The local prototype is deterministic and **not** a live LLM/Copilot Studio agent.
 
 Actual observed: 26/28 expected decision+source matches (92.9%). Two missed phrases resulted in conservative human escalation. No HR data accessed, no third-party connectors invoked, and **no real approvals were routed**. The evidence is suitable for a technical learning demonstration, not a deployment or security-assurance claim.
 
