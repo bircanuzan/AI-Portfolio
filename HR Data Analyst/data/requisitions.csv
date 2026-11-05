@@ -1,5 +1,0 @@
-req_id,division,as_of,approval_status,requested_fte,expected_annual_cost_aed
-REQ001,Technology,2026-10-31,Approved,1,310000
-REQ002,Finance,2026-10-31,Pending,1,280000
-REQ003,Retail,2026-10-31,Approved,1,190000
-REQ004,Technology,2026-10-31,Pending,2,660000

@@ -1,14 +1,6 @@
-## HR Data Analysis for UAE Banking Client — Workforce MIS & People-Cost Reporting
+## HR Data Analysis — UAE Banking Workforce MIS (Independent Portfolio)
 
-[Open the independent UAE banking-sector HR data analysis project](HR%20Data%20Analysis%20for%20UAE%20Banking%20Client/README.md) — reproducible fictional workforce MIS, active HC/FTE reconciliations, funded vs vacant positions, annualized people costs, illustrative Emiratisation planning metrics, approved requisition scenarios, SQL/Excel/DAX specification, synthetic datasets, Python model, authored tests, 30/60/90-day rollout. **Not ADIB or other bank client delivery or a regulatory submission.**
-
-## HR Data Analyst — Banking Workforce MIS & Headcount Planning (Independent Case)
-
-**[Open the HR Data Analyst portfolio](HR%20Data%20Analyst/README.md)** — fictional UAE regulated-financial-services data lab with monthly headcount/FTE validation, Finance-aligned budget and cost variance, approved-versus-pending manpower requests, illustrative Emiratisation-target gaps, executive MIS/control matrix, Excel/Power BI/SQL specification, an offline Python analyser and authored regression tests. **Synthetic inputs only; not ADIB delivery, live HRMS data or a CBUAE filing.**
-
-## AI Model Training & Evaluation Freelancer Project — Independent Consulting Deliverable Lab
-
-**[Open the 21-file project](AI%20Model%20Training%20%26%20Evaluation%20Freelancer%20Project/README.md)** — six management consulting benchmarks covering steering committee decks, market-entry analysis, target operating models, sensitivity-tested business cases, stakeholder synthesis and change roadmaps. Includes a 100-point human-review rubric, critical-defect gates, financial model, editable Office sample generator and deterministic unit tests. **All materials are fictional independent work samples; no paid model-training engagement, model quality uplift or client deployment is claimed.**
+[Explore the worked banking workforce analysis case](People%20Analytics%20%26%20HR%20Data/HR%20Data%20Analysis%20-%20UAE%20Banking%20Workforce%20MIS/README.md). Synthetic month-end HR MIS, headcount/FTE, cost variance, approved workforce capacity and national workforce planning metrics with reproducible code; no real client or bank data.
 
 ## HR Policy — Multinational Aviation Policy & Compliance Governance
 
@@ -16,7 +8,7 @@
 
 ## Talent Development — Executive Global Capability Portfolio (60 subsection projects)
 
-**[Open the Talent Development portfolio](Talent%20Development/README.md)** — 12 strategic sections, 60 standalone projects with tailored working decision artifacts and evidence capture, covering leadership, technical skills, LMS/SCORM/xAPI, succession, Emirati development, learning ROI, AI safeguards and board reporting. All scenarios are **synthetic interview case designs**, not Masdar-delivered work, current vendor confirmations or verified outcomes.
+**[Open the Talent Development portfolio](Talent%20Development/README.md)** — 12 strategic sections, 60 standalone projects with tailored working decision artifacts and evidence capture, covering leadership, technical skills, LMS/SCORM/xAPI, succession, Emirati development, learning ROI, AI safeguards and board reporting. All scenarios are **synthetic interview case designs**, not live clean-energy client work, current vendor confirmations or verified outcomes.
 
 ## NEW — Executive Talent Dashboard, Oracle Fusion HCM and Board Reporting (Interview Case)
 
@@ -28,13 +20,13 @@
 
 ## Agentic AI development — Human Capital Intelligence Agent
 
-[Open the Human Capital Intelligence Agent engineering project](Agentic%20AI%20development/Human%20Capital%20Intelligence%20Agent/) — G42 role-requirement-aligned independent prototype for six HC intelligence domains and read-only six-tool executive orchestration, guarded API/RBAC, HMAC audit, optional sovereign-compatible LLM summarisation, mocked HTTPS enterprise interfaces, automated synthetic tests, benchmark runner and agent/developer submission pack. **Not production deployed or currently eligible for an agent-only production hiring brief.**
+[Open the Human Capital Intelligence Agent engineering project](Agentic%20AI%20development/Human%20Capital%20Intelligence%20Agent/) — AI/data-engineering-role-aligned independent prototype for six HC intelligence domains and read-only six-tool executive orchestration, guarded API/RBAC, HMAC audit, optional sovereign-compatible LLM summarisation, mocked HTTPS enterprise interfaces, automated synthetic tests, benchmark runner and agent/developer submission pack. **Not production deployed or currently eligible for an agent-only production hiring brief.**
 
 ## Organizational Effectiveness — Group Organisation Design & People Governance
 
-**[Explore the Executive Director–level Organizational Effectiveness case](Organizational%20Effectiveness/README.md)** — a distinct fictional diversified-group decision-control system: Group People Strategy, scorecards, organisation restructuring, job architecture/evaluation, workforce and people-cost controls, hiring exceptions, people data reconciliation, AI workforce impact, new-entity launches, CPO/HCC advisory and OE team leadership. Includes a synthetic 3-entity case, offline Python decision-support engine and unit tests; no Dubai Holding affiliation, live system access or certified vendor grading claims.
+**[Explore the Executive Director–level Organizational Effectiveness case](Organizational%20Effectiveness/README.md)** — a distinct fictional diversified-group decision-control system: Group People Strategy, scorecards, organisation restructuring, job architecture/evaluation, workforce and people-cost controls, hiring exceptions, people data reconciliation, AI workforce impact, new-entity launches, CPO/HCC advisory and OE team leadership. Includes a synthetic 3-entity case, offline Python decision-support engine and unit tests; no named employer affiliation, live system access or certified vendor grading claims.
 
-## Workforce Transformation and AI Transformation — practical HumanEvoX case labs
+## Workforce Transformation and AI Transformation — practical independent case labs
 
 - [Workforce Transformation](Workforce%20Transformation/): eight integrated Human–AI Future of Work Architecture modules (01–08), spanning workload, role/skill redesign, employee transition, organization architecture, digital worker orchestration, workforce intelligence, product/AI solution architecture and workforce economics. Includes independent local Python prototypes, tests and an attributed UAE leadership evidence map. No live enterprise deployment or verified ROI.
 - [AI Transformation](AI%20Transformation/): synthetic enterprise AI tool-spend discovery; controlled Python permission/approval workflow; cross-functional adoption and value assurance. No live LLM, external tenant or client deployment claimed.
@@ -53,7 +45,7 @@
 
 ## Pilot Project — Agentic AI Competency Interviews & Talent Intelligence
 
-**[Independent HumanEvoX pilot: role-calibrated conversational AI, competency intelligence and evidence-based talent decisions](Pilot%20Project%20-%20Agentic%20AI%20Competency%20Interviews%20%26%20Talent%20Intelligence/)** — standalone (NOT nested in Talent Assessment). Includes public-market capability research, job-analysis/STAR/BARS skill mapping, proposed LLM/voice/ATS architecture, ethical safeguards, synthetic JSON blueprint, runnable offline Python and unit tests. **Not a live LLM, product replication, validated psychometric tool or client deployment.**
+**[Independent research pilot: role-calibrated conversational AI, competency intelligence and evidence-based talent decisions](Pilot%20Project%20-%20Agentic%20AI%20Competency%20Interviews%20%26%20Talent%20Intelligence/)** — standalone (NOT nested in Talent Assessment). Includes public-market capability research, job-analysis/STAR/BARS skill mapping, proposed LLM/voice/ATS architecture, ethical safeguards, synthetic JSON blueprint, runnable offline Python and unit tests. **Not a live LLM, product replication, validated psychometric tool or client deployment.**
 
 ## People Analytics & HR Data
 
@@ -88,11 +80,11 @@
 
 **[View executed HR policy agent, Python code, 16-scenario evaluation and test evidence](Agentic%20AI%20Application%20Testing%20%26%20Evaluation%20for%20HR%20Transformation/)** — functioning offline tool-using Python HR policy agent, six synthetic HR policies, source-grounded answers, simulated human approval routing, privacy controls, 16/16 passing authored acceptance tests and 6/6 regression tests. **Includes an OpenAI Agents SDK live-inference implementation and a manual GitHub Actions evaluator, pending API credentials; no live model run or production HRIS deployment claimed.**
 
-## NEW — Applied JD Evidence (Creatio, MoonTech and Stellar; November 2026)
+## NEW — Applied AI consulting, enablement and QA evidence
 
-- **[AI Consultant / enterprise agent solution design](24_Applied_AI_Transformation_Manager_MENA/05_Creatio_Enterprise_Agent_Consulting_and_CRM_Transformation.md)** — Creatio-aligned CRM agent consulting case, AI opportunity scoring, risk and readiness gates, executive value mapping, integration architecture and tests (synthetic, no live CRM).
-- **[Business Enablement & AI Workflow Automation](Business%20Enablement%20%26%20AI%20Workflow%20Automation/README.md)** — MoonTech-aligned OKRs, process discovery, SOP/RACI, draft-only n8n workflow, synthetic operating metrics and Python tests.
-- **[AI Testing & Quality Review — automated QA lab](28_AI_Testing_and_Quality_Review/qa_demo/README.md)** — Stellar-aligned local HTTP service, automated API regression tests, Postman, optional Playwright and CI configuration (synthetic app, not employer systems).
+- **[AI Consultant / enterprise agent solution design](24_Applied_AI_Transformation_Manager_MENA/05_Enterprise_Agent_Consulting_and_CRM_Transformation.md)** — enterprise CRM-oriented CRM agent consulting case, AI opportunity scoring, risk and readiness gates, executive value mapping, integration architecture and tests (synthetic, no live CRM).
+- **[Business Enablement & AI Workflow Automation](Business%20Enablement%20%26%20AI%20Workflow%20Automation/README.md)** — operations-aligned OKRs, process discovery, SOP/RACI, draft-only n8n workflow, synthetic operating metrics and Python tests.
+- **[AI Testing & Quality Review — automated QA lab](28_AI_Testing_and_Quality_Review/qa_demo/README.md)** — QA-aligned local HTTP service, automated API regression tests, Postman, optional Playwright and CI configuration (synthetic app, not employer systems).
 
 # START HERE — AI, HR & Technology Portfolio
 
@@ -111,7 +103,7 @@
 
 ## NEW — Global Product Training & Learning Program Management
 
-**[Open global product training and sales enablement programme case](Instructional%20Design%20and%20Talent%20Development/Global_Product_Training_and_Learning_Program_Management/)** — original fictional B2B technology launch training programme covering TNA, segmented global curriculum, practical workshops, digital lesson storyboard, SME/security approval, project lifecycle, regional stakeholder RACI, quiz and observed-competency rubric, 8-week launch plan, content maintenance/retirement, and a synthetic learner KPI calculator with unit tests. **Portfolio design and synthetic evidence only; no Lenovo or Pickado delivery, published LMS course, live pilot or measured commercial results claimed.**
+**[Open global product training and sales enablement programme case](Instructional%20Design%20and%20Talent%20Development/Global_Product_Training_and_Learning_Program_Management/)** — original fictional B2B technology launch training programme covering TNA, segmented global curriculum, practical workshops, digital lesson storyboard, SME/security approval, project lifecycle, regional stakeholder RACI, quiz and observed-competency rubric, 8-week launch plan, content maintenance/retirement, and a synthetic learner KPI calculator with unit tests. **Portfolio design and synthetic evidence only; no work delivered for a named employer, published LMS course, live pilot or measured commercial results claimed.**
 
 
 ## AI Governance, Risk & Responsible AI Portfolio
@@ -310,7 +302,7 @@ An illustrative OpenTrain-oriented HR benchmark: an AI assistant is asked to rev
 
 ## Project 44 — AI Ethics, Responsible AI & AI Governance
 
-**[Open Project 44 — AI Ethics, Responsible AI & AI Governance](AI%20Governance%2C%20Risk%20%26%20Responsible%20AI%20Portfolio/44_AI_Ethics_Responsible_AI_and_AI_Governance/)** — enterprise-wide responsible AI governance demonstrator integrating four UAE AI ethics/governance vacancy descriptions (Capgemini, Al-Futtaim/Orient, byteSpark.ai client vacancy, Q-REF), plus RTA AI quality assurance requirements. Includes governance office/charter, decision rights, AI inventory, impact assessment, privacy/DPIA, 14 AI risk scenarios, 14 controls, agentic control-plane design, model/system and vendor review, independent TEVV/fairness protocol, audit evidence, C-suite board pack, skills matrix and a runnable **synthetic deterministic Python governance gate** with unit tests. **No live AI model, real applicant data, enterprise deployment, independent audit or compliance certification claimed.**
+**[Open Project 44 — AI Ethics, Responsible AI & AI Governance](AI%20Governance%2C%20Risk%20%26%20Responsible%20AI%20Portfolio/44_AI_Ethics_Responsible_AI_and_AI_Governance/)** — enterprise-wide responsible AI governance demonstrator integrating four UAE AI ethics/governance vacancy descriptions and public AI quality assurance requirements. Includes governance office/charter, decision rights, AI inventory, impact assessment, privacy/DPIA, 14 AI risk scenarios, 14 controls, agentic control-plane design, model/system and vendor review, independent TEVV/fairness protocol, audit evidence, C-suite board pack, skills matrix and a runnable **synthetic deterministic Python governance gate** with unit tests. **No live AI model, real applicant data, enterprise deployment, independent audit or compliance certification claimed.**
 
 
 ## Project 45 — AI Lead Systems and Process
