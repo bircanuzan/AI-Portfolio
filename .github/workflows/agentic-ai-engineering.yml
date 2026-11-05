@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     defaults:
       run:
-        working-directory: Agentic-AI-Engineering-Enterprise-Workflow-Agent
+        working-directory: Agentic AI development/Agentic-AI-Engineering-Enterprise-Workflow-Agent
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
