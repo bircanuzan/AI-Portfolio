@@ -1,6 +1,6 @@
 # HR Data Analyst — 30/60/90-Day Delivery Plan
 
-Proposed onboarding workplan for a hypothetical HR MIS function. It is not a commitment made by or to ADIB.
+Proposed onboarding workplan for a hypothetical HR MIS function. It is not a commitment made by or to the bank.
 
 ## Days 1–30 | Understand, reconcile, control
 - Meet divisional HRBPs, HRMS/ITD, Talent Acquisition, Finance/Strategy and reporting governance owners.
