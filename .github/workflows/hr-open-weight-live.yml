@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - 'AI Model Training & Evaluation Freelancer Project/Agentic AI Application Testing & Evaluation for HR Transformation/run_local_model.trigger'
+      - '.github/workflows/hr-open-weight-live.yml'
 permissions:
   contents: write
 jobs:
