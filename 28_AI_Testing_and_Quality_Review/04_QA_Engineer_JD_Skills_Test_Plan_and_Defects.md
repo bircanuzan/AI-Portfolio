@@ -1,6 +1,6 @@
-# Stellar Technologies — QA Engineer JD alignment and test engineering extension
+# software quality engineering — QA Engineer JD alignment and test engineering extension
 
-**Source:** https://stellartechnologies.ae/jobs/qa-engineer/ (remote, Dubai). **Project type:** synthetic local QA lab, not a Stellar client project, real employer delivery or testing of Stellar applications.
+**Source:** published QA-engineering role (remote, Dubai). **Project type:** synthetic local QA lab, not a external employer client project, real employer delivery or testing of external employer applications.
 
 ## JD → capability → practical evidence
 | Advertised requirement | This project's artifact | Evidence / caveat |
