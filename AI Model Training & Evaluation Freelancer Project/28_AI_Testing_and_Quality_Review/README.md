@@ -12,7 +12,7 @@ Run locally: `python -m unittest qa_demo.test_agent_ops_eval -v` and `python qa_
 
 ## New JD extension — software_group QA Engineer (Dubai remote, 2 November 2026)
 
-- [JD skills mapping, test plan, requirements traceability, defect template and release gates](04_software_group_QA_Engineer_JD_Skills_Test_Plan_and_Defects.md)
+- [JD skills mapping, test plan, requirements traceability, defect template and release gates](04_QA_Engineer_JD_Skills_Test_Plan_and_Defects.md)
 - [Local HTTP API QA lab](qa_demo/README.md): Python HTTP service, automated functional/negative/integration/regression tests, Postman collection, optional Playwright browser smoke and [GitHub Actions CI](../../.github/workflows/qa-demo-ci.yml).
 - **Skills/tech from JD:** requirements-to-test coverage, manual QA documentation, Python test automation, REST/JSON and Postman, CI/CD, browser automation example, Jira-style defect and Agile triage, UAT and security boundary negative tests.
 - **Evidence honesty:** the executable application and tests are synthetic local demonstrations; no software_group software was tested. Optional Playwright/CI results are not asserted until runs are verified.
