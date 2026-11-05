@@ -1,0 +1,64 @@
+{
+  "project": "Aurora Aviation Group — synthetic global policy assurance",
+  "data_status": "FICTIONAL: simulated sign-offs are test fixtures, not legal approvals",
+  "as_of_example": "2026-11-05",
+  "financial_scenario": {
+    "hours_before": 600,
+    "hours_after": 360,
+    "hourly_loaded_cost_aed": 150,
+    "corrections_before": 90,
+    "corrections_after": 50,
+    "cost_per_correction_aed": 300,
+    "one_time_implementation_aed": 65000
+  },
+  "policies": [
+    {
+      "policy_id": "HR-POL-001",
+      "title": "Employee Handbook Version Control",
+      "country": "UAE",
+      "version": "v1.0",
+      "status": "APPROVED",
+      "effective_date": "2026-09-01",
+      "next_review": "2027-03-31",
+      "local_addendum_attached": true,
+      "legal_approval": {"simulated_signed_off": true, "reviewer": "TEST-COUNSEL-UAE", "approved_on": "2026-08-21"},
+      "payroll_impact": false,
+      "payroll_approved": false,
+      "hris_impact": true,
+      "hris_approved": true,
+      "employee_notice_approved": true
+    },
+    {
+      "policy_id": "HR-POL-014",
+      "title": "Global Flexible Working",
+      "country": "UK",
+      "version": "v0.1",
+      "status": "DRAFT",
+      "effective_date": "2027-02-01",
+      "next_review": "2027-08-01",
+      "local_addendum_attached": false,
+      "legal_approval": {"simulated_signed_off": false, "reviewer": null, "approved_on": null},
+      "payroll_impact": true,
+      "payroll_approved": false,
+      "hris_impact": true,
+      "hris_approved": false,
+      "employee_notice_approved": false
+    },
+    {
+      "policy_id": "HR-POL-009",
+      "title": "Shift Allowance Controls",
+      "country": "Singapore",
+      "version": "v2.0",
+      "status": "APPROVED",
+      "effective_date": "2026-10-01",
+      "next_review": "2027-01-15",
+      "local_addendum_attached": true,
+      "legal_approval": {"simulated_signed_off": true, "reviewer": "TEST-COUNSEL-SG", "approved_on": "2026-09-15"},
+      "payroll_impact": true,
+      "payroll_approved": false,
+      "hris_impact": true,
+      "hris_approved": true,
+      "employee_notice_approved": true
+    }
+  ]
+}
