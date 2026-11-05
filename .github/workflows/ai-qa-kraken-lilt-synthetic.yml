@@ -20,7 +20,7 @@ jobs:
         with:
           python-version: '3.11'
       - name: Verify synthetic agent gate and regression tests
-        working-directory: 28_AI_Testing_and_Quality_Review
+        working-directory: AI Model Training & Evaluation Freelancer Project/28_AI_Testing_and_Quality_Review
         run: |
           python -m unittest qa_demo.test_agent_ops_eval -v
           python qa_demo/agent_ops_eval.py qa_demo/agent_events_synthetic.json
@@ -32,7 +32,7 @@ jobs:
         with:
           python-version: '3.11'
       - name: Verify synthetic multilingual data quality
-        working-directory: 39_Human_Data_Operations_Management
+        working-directory: AI Model Training & Evaluation Freelancer Project/39_Human_Data_Operations_Management
         run: |
           python -m unittest tests.test_lilt_batch_eval -v
           python src/lilt_batch_eval.py
