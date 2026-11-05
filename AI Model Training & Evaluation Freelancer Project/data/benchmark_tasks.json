@@ -1,0 +1,154 @@
+[
+  {
+    "task_id": "B01",
+    "workflow": "Executive strategy steering committee",
+    "audience": "Fictional CEO, CFO and COO",
+    "prompt": "Create a six-slide steering committee decision deck for a 90-day controlled workflow pilot. Present three options, funding ask, KPI baseline uncertainties and a recommendation.",
+    "synthetic_inputs": {
+      "pilot_budget_usd": 300000,
+      "initial_service_volume_per_month": 1800,
+      "measured_baseline_available": false
+    },
+    "acceptance": [
+      "Clear recommendation and decision request",
+      "Six slide headlines",
+      "Assumptions vs evidence separated",
+      "Risks, owner, and next decision gate"
+    ]
+  },
+  {
+    "task_id": "B02",
+    "workflow": "Market entry and competitive positioning",
+    "audience": "Fictional strategy committee",
+    "prompt": "Compare a fictional service business entering Region East vs Region West. Build an attractiveness comparison and three strategic options. All market figures are supplied assumptions, not external facts.",
+    "synthetic_inputs": {
+      "regions": [
+        {
+          "name": "East",
+          "estimated_addressable_customers": 50000,
+          "estimated_conversion_rate": 0.02,
+          "entry_cost_usd": 220000
+        },
+        {
+          "name": "West",
+          "estimated_addressable_customers": 38000,
+          "estimated_conversion_rate": 0.035,
+          "entry_cost_usd": 310000
+        }
+      ],
+      "annual_revenue_per_customer_usd": 900
+    },
+    "acceptance": [
+      "Revenue opportunity calculations shown with caveats",
+      "Three strategic options",
+      "Competitive positioning as hypotheses",
+      "Recommended diligence list"
+    ]
+  },
+  {
+    "task_id": "B03",
+    "workflow": "Operating-model redesign",
+    "audience": "Fictional COO and service leaders",
+    "prompt": "Redesign customer intake to resolution using current handoffs, a proposed automation assistant, and human exception approval. Provide a RACI and failure pathways.",
+    "synthetic_inputs": {
+      "current_handoffs": 5,
+      "teams": [
+        "Intake",
+        "Service Operations",
+        "Risk",
+        "IT"
+      ],
+      "human_exception_approval_required": true
+    },
+    "acceptance": [
+      "As-is vs to-be workflow",
+      "Exactly one Accountable owner per decision",
+      "Automation does not approve exceptions",
+      "Controls, escalation and KPIs"
+    ]
+  },
+  {
+    "task_id": "B04",
+    "workflow": "Sensitivity-tested business case",
+    "audience": "Fictional CFO",
+    "prompt": "Produce a three-year formula-driven investment case using the assumptions file. Report NPV at 10%, simple payback and benefits sensitivity. State that assumed benefits are not verified.",
+    "synthetic_inputs": {
+      "assumptions_file": "data/business_case_assumptions.json",
+      "cash_flows_end_of_year": true
+    },
+    "acceptance": [
+      "Capex at time 0 negative",
+      "Three year cash-flow schedule",
+      "NPV and undiscounted payback cross-check",
+      "Sensitivity matrix and assumptions"
+    ]
+  },
+  {
+    "task_id": "B05",
+    "workflow": "Stakeholder interview synthesis",
+    "audience": "Fictional transformation sponsor",
+    "prompt": "Synthesize the five fictional stakeholder statements into 3-5 themes, supporting and contradicting evidence, confidence limits and specific follow-up questions.",
+    "synthetic_inputs": {
+      "interviews": [
+        {
+          "id": "I01",
+          "role": "Intake lead",
+          "note": "Most cases stall when priority definitions are unclear at handoff."
+        },
+        {
+          "id": "I02",
+          "role": "Service lead",
+          "note": "Duplicate re-entry creates delays and data discrepancies."
+        },
+        {
+          "id": "I03",
+          "role": "Risk lead",
+          "note": "Exception approvals are inconsistently logged."
+        },
+        {
+          "id": "I04",
+          "role": "IT lead",
+          "note": "We need access rules and audit logs before enabling any AI assistant."
+        },
+        {
+          "id": "I05",
+          "role": "Operations analyst",
+          "note": "The biggest delays appear to come from capacity peaks, not handoffs; we need timestamp evidence."
+        }
+      ]
+    },
+    "acceptance": [
+      "Cites interview IDs; no fabricated quotations",
+      "Includes dissent from I05",
+      "Distinguishes themes and hypothesis",
+      "Data validation agenda"
+    ]
+  },
+  {
+    "task_id": "B06",
+    "workflow": "Implementation roadmap and change",
+    "audience": "Fictional COO, CHRO and transformation PMO",
+    "prompt": "Build a controlled 30/60/90-day implementation plan for the pilot with stakeholder owners, baseline measures, risk log, communications, adoption and stop/go gates.",
+    "synthetic_inputs": {
+      "pilot_days": 90,
+      "known_risks": [
+        "low adoption",
+        "inaccurate source data",
+        "unapproved AI action",
+        "capacity constraints"
+      ],
+      "baselines_to_measure": [
+        "first response time",
+        "handoffs per case",
+        "rework rate",
+        "exception escalation rate"
+      ]
+    },
+    "acceptance": [
+      "Dependency-aware roadmap",
+      "Single accountable role per milestone",
+      "Baseline before benefit claim",
+      "Change communications, capability and escalation"
+    ]
+  }
+]

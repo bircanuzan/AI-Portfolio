@@ -1,0 +1,7 @@
+task_id,structure,evidence,quantitative,craft,implementation,governance,critical_defects,rationale
+B01,3,3,2,4,3,4,,Illustrative draft is concise; should tighten baseline uncertainty and finance bridge
+B02,3,2,3,3,2,3,,Assumed market data flagged; needs stronger competitor validation plan
+B03,4,3,3,3,4,4,,Ownership is explicit; benchmark would benefit from escalation edge cases
+B04,4,4,4,3,3,4,,Formula logic independently reproducible with synthetic inputs
+B05,3,4,3,3,3,4,,Dissent documented and all invented interview notes attributed by ID
+B06,3,3,3,3,4,4,,Change plan includes gates and baselines; communications can be segmented further

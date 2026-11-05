@@ -1,0 +1,2 @@
+defect_id,task_id,response_version,artifact_cell_or_section,category,severity,expected,observed,source_evidence,root_cause_hypothesis,fix_owner,status,rettest_result
+D-001,B04,v0,NPV!B12,formula,Critical,Discount yearly net flows,Undiscounted annual sum used,Formula audit,Missing discount factor,Reviewer,Open,Not tested

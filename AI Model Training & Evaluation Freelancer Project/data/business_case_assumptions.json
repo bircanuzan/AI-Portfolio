@@ -1,0 +1,20 @@
+{
+  "case_name": "Northstar Services Group — Workflow Pilot",
+  "currency": "USD",
+  "horizon_years": 3,
+  "upfront_investment": 300000,
+  "annual_gross_benefit_base": 220000,
+  "annual_operating_cost_base": 50000,
+  "discount_rate": 0.1,
+  "adoption_factors": [
+    0.75,
+    1,
+    1.25
+  ],
+  "cost_factors": [
+    0.9,
+    1,
+    1.2
+  ],
+  "disclaimer": "All figures are fictional assumptions, not verified financial projections."
+}
