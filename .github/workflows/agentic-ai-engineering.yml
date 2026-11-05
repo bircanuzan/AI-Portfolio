@@ -3,7 +3,7 @@ on:
   push:
     branches: [main]
     paths:
-      - 'Agentic-AI-Engineering-Enterprise-Workflow-Agent/**'
+      - 'Agentic AI development/Agentic-AI-Engineering-Enterprise-Workflow-Agent/**'
       - '.github/workflows/agentic-ai-engineering.yml'
   workflow_dispatch:
 jobs:
