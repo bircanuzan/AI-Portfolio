@@ -1,6 +1,6 @@
-# Applied AI Consulting — Creatio JD skills extension (November 2026)
+# Applied AI Consulting — Enterprise CRM consulting skills extension (November 2026)
 
-**Role benchmark:** [Creatio AI Consultant, Dubai](https://jobs.eu.lever.co/creatio/5ec0c744-2d8a-49e2-8e11-ca8396d7b968). This is an **independent synthetic consulting case**, not Creatio customer work, a Creatio platform integration, or a deployed agent.
+**Role benchmark:** a public AI consulting role. This is an **independent synthetic consulting case**, not customer delivery, a live CRM integration, or a deployed agent.
 
 ## Client problem / discovery (hypothetical UAE enterprise services team)
 CRM queues are overloaded with repeated service inquiries, document questions, customer record-update requests and exceptions. Clients want shorter time-to-answer while maintaining access controls and escalation.
