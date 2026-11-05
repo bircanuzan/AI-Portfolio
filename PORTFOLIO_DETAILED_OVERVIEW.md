@@ -15,7 +15,7 @@
 
 ## Oracle Fusion HCM
 
-[Explore Oracle Fusion HCM](Oracle%20Fusion%20HCM/) — functional HCM configuration and release governance, Oracle-specific interface engineering, and HCM-to-ERP enterprise architecture, each with distinct scopes and synthetic technical evidence.
+[Explore Oracle Fusion HCM](HR%20Technology%20%26%20Digital%20Transformation/Oracle%20Fusion%20HCM/) — functional HCM configuration and release governance, Oracle-specific interface engineering, and HCM-to-ERP enterprise architecture, each with distinct scopes and synthetic technical evidence.
 
 
 ## AI Project & Program Management
@@ -26,7 +26,7 @@
 ## Specialist project portfolios
 
 - **[Talent Assessment](Talent%20Assessment/)** — four assessment and evidence-led evaluation projects, including psychometric interpretation and assessment-centre methods.
-- **[Instructional Design and Talent Development](Instructional%20Design%20and%20Talent%20Development/)** — 16 learning design, learning measurement, capability development and enablement projects.
+- **[Instructional Design and Talent Development](Talent%20Development/Instructional%20Design%20and%20Talent%20Development/)** — 16 learning design, learning measurement, capability development and enablement projects.
 
 ## AI Adoption
 
@@ -37,7 +37,7 @@
 
 ## Change Management
 
-**[Explore Change Management](Change%20Management/)** — a separate HR programme change-management case covering stakeholder impacts, ADKAR-informed readiness, communications, adoption measures and executive governance. No real client deployment is claimed.
+**[Explore Change Management](Organizational%20Effectiveness/Change%20Management/)** — a separate HR programme change-management case covering stakeholder impacts, ADKAR-informed readiness, communications, adoption measures and executive governance. No real client deployment is claimed.
 
 
 ## AI Governance, Risk & Responsible AI Portfolio
@@ -81,18 +81,18 @@ My work focuses on applying AI, automation, analytics and HR technology to real 
 
 | # | Plain-English purpose | What it demonstrates |
 | --- | --- | --- |
-| [14](14_Machine_Learning_Training_and_Model_Evaluation/) | **Teach engineers to build and test a machine-learning model** | Python classification, accuracy/F1, tests, course and lab design |
-| [15](15_AI_DevOps_Training_CI_CD_and_Kubernetes/) | **Teach engineers to use AI safely in DevOps** | CI/CD failure diagnosis, code review, Kubernetes example, lab design |
-| [16](16_AI_Voice_Agent_for_Customer_Support/) | **Design an AI voice bot that answers customer questions** | FAQ routing, conversation tests, escalation, technical architecture |
-| [17](17_Voice_AI_Customer_Adoption_and_Analytics/) | **Help companies adopt voice AI and track business results** | Onboarding, KPI analysis, success metrics, enterprise training |
-| [18](Instructional%20Design%20and%20Talent%20Development/18_AI_Voice_Narration_for_Training_Videos/) | **Turn a written training lesson into AI narration** | Text-to-speech API demo, scripts, accessibility and audio QA |
-| [19](19_HR_Workflow_Benchmark_Design_and_AI_Answer_Grading/) | **Design HR workflow tests and score AI answers** | Multi-document payroll case, AED 12,000 gold answer and a 10-point rubric |
+| [14](AI%20Model%20Training%20%26%20Evaluation%20Freelancer%20Project/14_Machine_Learning_Training_and_Model_Evaluation/) | **Teach engineers to build and test a machine-learning model** | Python classification, accuracy/F1, tests, course and lab design |
+| [15](AI%20Model%20Training%20%26%20Evaluation%20Freelancer%20Project/15_AI_DevOps_Training_CI_CD_and_Kubernetes/) | **Teach engineers to use AI safely in DevOps** | CI/CD failure diagnosis, code review, Kubernetes example, lab design |
+| [16](Agentic%20AI%20development/Voice%20and%20Customer%20Agents/16_AI_Voice_Agent_for_Customer_Support/) | **Design an AI voice bot that answers customer questions** | FAQ routing, conversation tests, escalation, technical architecture |
+| [17](AI%20Adoption/17_Voice_AI_Customer_Adoption_and_Analytics/) | **Help companies adopt voice AI and track business results** | Onboarding, KPI analysis, success metrics, enterprise training |
+| [18](Talent%20Development/Instructional%20Design%20and%20Talent%20Development/18_AI_Voice_Narration_for_Training_Videos/) | **Turn a written training lesson into AI narration** | Text-to-speech API demo, scripts, accessibility and audio QA |
+| [19](AI%20Model%20Training%20%26%20Evaluation%20Freelancer%20Project/19_HR_Workflow_Benchmark_Design_and_AI_Answer_Grading/) | **Design HR workflow tests and score AI answers** | Multi-document payroll case, AED 12,000 gold answer and a 10-point rubric |
 
 Projects 14-18 are original portfolio demonstrations, not proof of client deployments or past engineering employment.
 
 ### Project 19 — HR Workflow Benchmark Design and AI Answer Grading
 
-[OPEN PROJECT 19: HR WORKFLOW BENCHMARK DESIGN](19_HR_Workflow_Benchmark_Design_and_AI_Answer_Grading/)
+[OPEN PROJECT 19: HR WORKFLOW BENCHMARK DESIGN](AI%20Model%20Training%20%26%20Evaluation%20Freelancer%20Project/19_HR_Workflow_Benchmark_Design_and_AI_Answer_Grading/)
 
 This is the original OpenTrain interview/application demonstration, expanded into a documented, executable benchmark. A fictional employee exit case reconciles five source records (A–E), applies an assumed monthly payroll policy, computes the approved determinable base of **AED 12,000**, flags the **AED 1,500 pending allowance**, identifies **AED 6,000 draft base overstatement**, and scores human-annotated AI answers with a **10-point objective rubric**. Includes quality gates for conflicting documents and missing policies.
 
@@ -105,37 +105,37 @@ For a plain-English overview of **all** portfolio folders, use [START HERE — p
 ### Browse Portfolio Folders
 
 - [AI-Enabled Recruitment (Healthcare)](AI-enabled%20Recruitment%20Portfolio/01_AI_Enabled_Recruitment_Healthcare/)
-- [AI-Enabled HR Transformation](02_AI_Enabled_HR_Transformation/)
+- [AI-Enabled HR Transformation](HR%20Technology%20%26%20Digital%20Transformation/02_AI_Enabled_HR_Transformation/)
 - [People Analytics & AI](People%20Analytics%20%26%20HR%20Data/03_People_Analytics_AI/)
 - [HR Technology & Digital Employee Experience](HR%20Technology%20%26%20Digital%20Transformation/04_HR_Technology_Digital_Employee_Experience/)
-- [AI Agents & HR Automation](05_AI_Agents_Chatbots_HR_Automation/)
-- [Strategic Workforce Planning](06_Workforce_Planning/)
+- [AI Agents & HR Automation](Agentic%20AI%20development/AI%20in%20HR%20%26%20Agentic%20Automation/05_AI_Agents_Chatbots_HR_Automation/)
+- [Strategic Workforce Planning](Workforce%20Transformation/06_Workforce_Planning/)
 - [Talent & Workforce Intelligence](AI-enabled%20Recruitment%20Portfolio/07_Talent_Workforce_Intelligence/)
 - [Talent Management & Assessment](Talent%20Assessment/08_Talent_Management_Assessment/)
 - [AI Automation in HR Operations](HR%20Operations%20%26%20Workflow%20Automation/09_AI_Automation_HR_Operations/)
 - [Data & Analytics for AI in HR](People%20Analytics%20%26%20HR%20Data/11_Data_Analytics_for_AI_in_HR/)
-- [Agentic AI for Full HR Lifecycle](12_Building_Agentic_AI_for_Full_HR_Lifecycle/)
-- [Oracle Fusion HCM Portfolio & Governance](Oracle%20Fusion%20HCM/13_Oracle_Fusion_HCM/)
-- [14 - Teach Machine Learning: Model Training and Evaluation](14_Machine_Learning_Training_and_Model_Evaluation/)
-- [15 - Teach DevOps: AI-Supported CI/CD and Kubernetes](15_AI_DevOps_Training_CI_CD_and_Kubernetes/)
-- [16 - Build a Voice AI Customer Support Agent](16_AI_Voice_Agent_for_Customer_Support/)
-- [17 - Measure Voice AI Customer Adoption and Results](17_Voice_AI_Customer_Adoption_and_Analytics/)
-- [18 - Produce Narrated Training Lessons with AI Voice](Instructional%20Design%20and%20Talent%20Development/18_AI_Voice_Narration_for_Training_Videos/)
-- [19 - HR Workflow Benchmark Design and AI Answer Grading](19_HR_Workflow_Benchmark_Design_and_AI_Answer_Grading/)
+- [Agentic AI for Full HR Lifecycle](Agentic%20AI%20development/AI%20in%20HR%20%26%20Agentic%20Automation/12_Building_Agentic_AI_for_Full_HR_Lifecycle/)
+- [Oracle Fusion HCM Portfolio & Governance](HR%20Technology%20%26%20Digital%20Transformation/Oracle%20Fusion%20HCM/13_Oracle_Fusion_HCM/)
+- [14 - Teach Machine Learning: Model Training and Evaluation](AI%20Model%20Training%20%26%20Evaluation%20Freelancer%20Project/14_Machine_Learning_Training_and_Model_Evaluation/)
+- [15 - Teach DevOps: AI-Supported CI/CD and Kubernetes](AI%20Model%20Training%20%26%20Evaluation%20Freelancer%20Project/15_AI_DevOps_Training_CI_CD_and_Kubernetes/)
+- [16 - Build a Voice AI Customer Support Agent](Agentic%20AI%20development/Voice%20and%20Customer%20Agents/16_AI_Voice_Agent_for_Customer_Support/)
+- [17 - Measure Voice AI Customer Adoption and Results](AI%20Adoption/17_Voice_AI_Customer_Adoption_and_Analytics/)
+- [18 - Produce Narrated Training Lessons with AI Voice](Talent%20Development/Instructional%20Design%20and%20Talent%20Development/18_AI_Voice_Narration_for_Training_Videos/)
+- [19 - HR Workflow Benchmark Design and AI Answer Grading](AI%20Model%20Training%20%26%20Evaluation%20Freelancer%20Project/19_HR_Workflow_Benchmark_Design_and_AI_Answer_Grading/)
 
 
 ### ElevenLabs-aligned voice AI portfolio demos | Projects 16-18
 
 Three independent, illustrative learning/solutions case studies inspired by public ElevenLabs product documentation and UAE job skill requirements; **not commissioned by or delivered for ElevenLabs**.
 
-- [16 — Enterprise Voice AI Agent Architecture](16_AI_Voice_Agent_for_Customer_Support/): offline Python intent routing, synthetic conversational QA, human escalation and integration design.
-- [17 — Voice AI Adoption & Enablement](17_Voice_AI_Customer_Adoption_and_Analytics/): synthetic account cohorts, Python adoption metrics, agent audit and customer workshops.
-- [18 — Text-to-Speech Course Narration](Instructional%20Design%20and%20Talent%20Development/18_AI_Voice_Narration_for_Training_Videos/): offline-by-default REST API preparation, opt-in TTS client, testing, course storyboard and localization QA.
+- [16 — Enterprise Voice AI Agent Architecture](Agentic%20AI%20development/Voice%20and%20Customer%20Agents/16_AI_Voice_Agent_for_Customer_Support/): offline Python intent routing, synthetic conversational QA, human escalation and integration design.
+- [17 — Voice AI Adoption & Enablement](AI%20Adoption/17_Voice_AI_Customer_Adoption_and_Analytics/): synthetic account cohorts, Python adoption metrics, agent audit and customer workshops.
+- [18 — Text-to-Speech Course Narration](Talent%20Development/Instructional%20Design%20and%20Talent%20Development/18_AI_Voice_Narration_for_Training_Videos/): offline-by-default REST API preparation, opt-in TTS client, testing, course storyboard and localization QA.
 
 ### Technical Learning Samples | Projects 14 and 15
 
-- [Project 14: Machine Learning Technical Training](14_Machine_Learning_Training_and_Model_Evaluation/) - lab-based course design, sklearn example, evaluation and model-card methodology.
-- [Project 15: AI / DevOps Technical Training](15_AI_DevOps_Training_CI_CD_and_Kubernetes/) - safe AI-assisted troubleshooting, CI checks and cloud/Kubernetes concepts.
+- [Project 14: Machine Learning Technical Training](AI%20Model%20Training%20%26%20Evaluation%20Freelancer%20Project/14_Machine_Learning_Training_and_Model_Evaluation/) - lab-based course design, sklearn example, evaluation and model-card methodology.
+- [Project 15: AI / DevOps Technical Training](AI%20Model%20Training%20%26%20Evaluation%20Freelancer%20Project/15_AI_DevOps_Training_CI_CD_and_Kubernetes/) - safe AI-assisted troubleshooting, CI checks and cloud/Kubernetes concepts.
 
 Both are illustrative teaching and code demonstrations, not evidence of prior production engineering experience or delivered client courses.
 
@@ -143,7 +143,7 @@ Both are illustrative teaching and code demonstrations, not evidence of prior pr
 
 A dedicated folder for Oracle Fusion HCM portfolio case studies, including enterprise roadmap, governance, UAT, vendor management, releases, SLAs and executive reporting. These are illustrative business-side simulations, not client implementation claims.
 
-[VIEW THE ORACLE FUSION HCM PORTFOLIO FOLDER](Oracle%20Fusion%20HCM/13_Oracle_Fusion_HCM/)
+[VIEW THE ORACLE FUSION HCM PORTFOLIO FOLDER](HR%20Technology%20%26%20Digital%20Transformation/Oracle%20Fusion%20HCM/13_Oracle_Fusion_HCM/)
 
 ### AI-Enabled Recruitment | Healthcare | UAE & KSA
 
@@ -182,7 +182,7 @@ The portfolio includes transformation case designs across UAE and KSA covering:
 
 The projects demonstrate practical application of Generative AI, LLMs, Microsoft Copilot, Power Automate, Power BI, People Systems and workflow automation, with human decision-making and governance embedded into the transformation approach.
 
-[VIEW THE FULL AI-ENABLED HR TRANSFORMATION PORTFOLIO (PDF)](02_AI_Enabled_HR_Transformation/independent_portfolio_AI_Enabled_HR_Transformation_Portfolio.pdf)
+[VIEW THE FULL AI-ENABLED HR TRANSFORMATION PORTFOLIO (PDF)](HR%20Technology%20%26%20Digital%20Transformation/02_AI_Enabled_HR_Transformation/independent_portfolio_AI_Enabled_HR_Transformation_Portfolio.pdf)
 
 ### People Analytics & AI | UAE & KSA
 
@@ -259,7 +259,7 @@ The projects demonstrate how Generative AI, LLMs, Microsoft Copilot, Power Autom
 
 Human-in-the-loop controls are embedded throughout. AI supports HR professionals and managers rather than independently making consequential employment decisions.
 
-[VIEW THE FULL AI AGENTS, CHATBOTS & HR AUTOMATION PORTFOLIO (PDF)](05_AI_Agents_Chatbots_HR_Automation/independent_portfolio_AI_Agents_Chatbots_HR_Automation_Portfolio.pdf)
+[VIEW THE FULL AI AGENTS, CHATBOTS & HR AUTOMATION PORTFOLIO (PDF)](Agentic%20AI%20development/AI%20in%20HR%20%26%20Agentic%20Automation/05_AI_Agents_Chatbots_HR_Automation/independent_portfolio_AI_Agents_Chatbots_HR_Automation_Portfolio.pdf)
 
 ### AI-Enabled Strategic Workforce Planning | UAE & KSA
 
@@ -284,7 +284,7 @@ The methodology connects business strategy, workforce demand, skills and capacit
 
 AI supports skills classification, assumption checking, scenario analysis, summarisation and executive decision preparation. Accountable HR and business leaders retain workforce and employment decisions.
 
-[VIEW THE FULL AI-ENABLED STRATEGIC WORKFORCE PLANNING PORTFOLIO (PDF)](06_Workforce_Planning/independent_portfolio_AI_Enabled_Strategic_Workforce_Planning_Portfolio.pdf)
+[VIEW THE FULL AI-ENABLED STRATEGIC WORKFORCE PLANNING PORTFOLIO (PDF)](Workforce%20Transformation/06_Workforce_Planning/independent_portfolio_AI_Enabled_Strategic_Workforce_Planning_Portfolio.pdf)
 
 ### Talent Intelligence & Workforce Intelligence | UAE & KSA
 
@@ -422,7 +422,7 @@ The technical portfolio includes detailed agent specifications, system prompts, 
 
 Consequential employment decisions remain human-owned. Agents support evidence preparation, analysis, workflow coordination and decision support rather than autonomously making employment decisions.
 
-[VIEW THE FULL BUILDING AGENTIC AI FOR FULL HR LIFECYCLE PORTFOLIO (PDF)](12_Building_Agentic_AI_for_Full_HR_Lifecycle/independent_portfolio_Building_Agentic_AI_for_Full_HR_Lifecycle.pdf)
+[VIEW THE FULL BUILDING AGENTIC AI FOR FULL HR LIFECYCLE PORTFOLIO (PDF)](Agentic%20AI%20development/AI%20in%20HR%20%26%20Agentic%20Automation/12_Building_Agentic_AI_for_Full_HR_Lifecycle/independent_portfolio_Building_Agentic_AI_for_Full_HR_Lifecycle.pdf)
 
 
 

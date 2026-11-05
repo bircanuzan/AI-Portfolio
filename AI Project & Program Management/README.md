@@ -5,7 +5,7 @@ HumanEvoX | A separate top-level portfolio for practical project coordination, d
 ## Four original project folders
 
 1. **[Project 27 — AI Project Documentation & Implementation Support](27_AI_Project_Documentation_and_Implementation_Support/)** — scope definition, requirements documentation, user guidance and feedback logging in an independent fictional demonstration.
-2. **[Project 38 — AI Portfolio & Governance PMO (ServiceNow, SPM)](38_AI%20Portfolio%20%26%20Governance%20PMO%20%28ServiceNow%2C%20SPM%29/)** — simulated AI demand/portfolio lifecycle with approvals, funding, RAID, UAT and benefit controls; Python data-quality dashboard and tests.
+2. **[Project 38 — AI Portfolio & Governance PMO (ServiceNow, SPM)](38_AI%20Portfolio%20%26%20Governance%20PMO%20(ServiceNow%2C%20SPM)/)** — simulated AI demand/portfolio lifecycle with approvals, funding, RAID, UAT and benefit controls; Python data-quality dashboard and tests.
 3. **[Project 40 — Technical Program Management](40_Technical_Program_Management/)** — fictional fintech integration case with roadmap, API/webhook handoffs, risks and milestones, cross-project capacity and Python health reporting.
 4. **[AI Project Portfolio Management](AI-Project-Portfolio-Management/)** — simulated regulated-payments enterprise AI portfolio intake, prioritisation, stage gates, BRD, governance, delivery readiness, executive status and benefits tracking.
 

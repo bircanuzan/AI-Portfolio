@@ -42,6 +42,6 @@ Python, standard library, CSV, JSON, versioned scenarios, qualitative risk contr
 ## Employer decision
 HOLD the intentionally flawed scoring mock; perform source/criteria validation, proxy removal, human review, accessible alternatives, documented appeal and vendor assurance before considering real tools.
 
-Related but separate: [Project 44 AI ethics](../../44_AI_Ethics_Responsible_AI_and_AI_Governance/) and [Project 53 career role map](../../53_HR_to_AI_Role_Map_and_Evidence_Lab/). This project includes **its own runnable scorer and test fixtures**, not just a re-labelled governance framework.
+Related but separate: [Project 44 AI ethics](../../AI%20Governance%2C%20Risk%20%26%20Responsible%20AI%20Portfolio/44_AI_Ethics_Responsible_AI_and_AI_Governance/) and [Project 53 career role map](../../Workforce%20Transformation/53_HR_to_AI_Role_Map_and_Evidence_Lab/). This project includes **its own runnable scorer and test fixtures**, not just a re-labelled governance framework.
 
 [AI-enabled Recruitment Portfolio index](../README.md) · [Main portfolio index](../../README.md)

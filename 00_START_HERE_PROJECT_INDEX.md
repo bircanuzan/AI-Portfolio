@@ -1,6 +1,6 @@
 ## Organizational Transformation Advisory — Integrated Enterprise Transformation Case
 
-**[Open the independent Organizational Transformation Advisory case](Organizational%20Transformation%20Advisory/)** — a distinct CEO/CHRO advisory case connecting organization redesign, a scored and evidence-gated capability gap assessment, cultural transformation, outcome-based performance framework, and HR operating-model modernization. Includes synthetic datasets, a runnable stdlib Python prioritization tool, unit tests, executive decisions and benefits governance. No client engagement or implemented financial return is claimed.
+**[Open the independent Organizational Transformation Advisory case](Organizational%20Effectiveness/Organizational%20Transformation%20Advisory/)** — a distinct CEO/CHRO advisory case connecting organization redesign, a scored and evidence-gated capability gap assessment, cultural transformation, outcome-based performance framework, and HR operating-model modernization. Includes synthetic datasets, a runnable stdlib Python prioritization tool, unit tests, executive decisions and benefits governance. No client engagement or implemented financial return is claimed.
 
 ## Talent Development — Executive Global Capability Portfolio (60 subsection projects)
 
@@ -16,19 +16,19 @@
 
 ## Agentic AI Automation
 
-[Open Agentic AI Automation](Agentic%20AI%20Automation/) — [Claude Agentic AI in HR - HR Service & Policy AI Assistants](Agentic%20AI%20Automation/Claude%20Agentic%20AI%20in%20HR%20-%20HR%20Service%20%26%20Policy%20AI%20Assistants/) brings together eight existing HR-service, policy, relations and communications projects, retaining original files and designs.
+[Open Agentic AI Automation](Agentic%20AI%20development/Agentic%20AI%20Automation/) — [Claude Agentic AI in HR - HR Service & Policy AI Assistants](Agentic%20AI%20development/Agentic%20AI%20Automation/Claude%20Agentic%20AI%20in%20HR%20-%20HR%20Service%20%26%20Policy%20AI%20Assistants/) brings together eight existing HR-service, policy, relations and communications projects, retaining original files and designs.
 
 ## AI in HR & Agentic Automation
 
-[Explore AI in HR & Agentic Automation](AI%20in%20HR%20%26%20Agentic%20Automation/) — four distinct projects covering agent design, HR-service chatbot prototypes, Copilot Studio planning and offline policy-assistant evaluation. These are prototypes/portfolio designs, not live HRIS implementations.
+[Explore AI in HR & Agentic Automation](Agentic%20AI%20development/AI%20in%20HR%20%26%20Agentic%20Automation/) — four distinct projects covering agent design, HR-service chatbot prototypes, Copilot Studio planning and offline policy-assistant evaluation. These are prototypes/portfolio designs, not live HRIS implementations.
 
 ## HRIS & HCM Systems
 
-[Explore HRIS & HCM Systems](HRIS%20%26%20HCM%20Systems/) — cross-platform requirements/UAT, SAP SuccessFactors Employee Central architecture and the vendor-neutral synthetic Python integration lab. Oracle-specific architecture is grouped under Oracle Fusion HCM.
+[Explore HRIS & HCM Systems](HR%20Technology%20%26%20Digital%20Transformation/HRIS%20%26%20HCM%20Systems/) — cross-platform requirements/UAT, SAP SuccessFactors Employee Central architecture and the vendor-neutral synthetic Python integration lab. Oracle-specific architecture is grouped under Oracle Fusion HCM.
 
 ## Pilot Project — Agentic AI Competency Interviews & Talent Intelligence
 
-**[Independent HumanEvoX pilot: role-calibrated conversational AI, competency intelligence and evidence-based talent decisions](Pilot%20Project%20-%20Agentic%20AI%20Competency%20Interviews%20%26%20Talent%20Intelligence/)** — standalone (NOT nested in Talent Assessment). Includes public-market capability research, job-analysis/STAR/BARS skill mapping, proposed LLM/voice/ATS architecture, ethical safeguards, synthetic JSON blueprint, runnable offline Python and unit tests. **Not a live LLM, product replication, validated psychometric tool or client deployment.**
+**[Independent HumanEvoX pilot: role-calibrated conversational AI, competency intelligence and evidence-based talent decisions](AI-enabled%20Recruitment%20Portfolio/Pilot%20Project%20-%20Agentic%20AI%20Competency%20Interviews%20%26%20Talent%20Intelligence/)** — standalone (NOT nested in Talent Assessment). Includes public-market capability research, job-analysis/STAR/BARS skill mapping, proposed LLM/voice/ATS architecture, ethical safeguards, synthetic JSON blueprint, runnable offline Python and unit tests. **Not a live LLM, product replication, validated psychometric tool or client deployment.**
 
 ## People Analytics & HR Data
 
@@ -46,7 +46,7 @@
 
 ## Oracle Fusion HCM
 
-[Explore Oracle Fusion HCM](Oracle%20Fusion%20HCM/) — functional HCM configuration and release governance, Oracle-specific interface engineering, and HCM-to-ERP enterprise architecture, each with distinct scopes and synthetic technical evidence.
+[Explore Oracle Fusion HCM](HR%20Technology%20%26%20Digital%20Transformation/Oracle%20Fusion%20HCM/) — functional HCM configuration and release governance, Oracle-specific interface engineering, and HCM-to-ERP enterprise architecture, each with distinct scopes and synthetic technical evidence.
 
 ## AI Project & Program Management
 
@@ -57,11 +57,11 @@
 ## Specialist project portfolios
 
 - **[Talent Assessment](Talent%20Assessment/)** — four assessment and evidence-led evaluation projects, including psychometric interpretation and assessment-centre methods.
-- **[Instructional Design and Talent Development](Instructional%20Design%20and%20Talent%20Development/)** — 16 learning design, learning measurement, capability development and enablement projects.
+- **[Instructional Design and Talent Development](Talent%20Development/Instructional%20Design%20and%20Talent%20Development/)** — 16 learning design, learning measurement, capability development and enablement projects.
 
-- [Enterprise agent consulting and CRM opportunity value mapping](24_Applied_AI_Transformation_Manager_MENA/05_enterprise_crm_Enterprise_Agent_Consulting_and_CRM_Transformation.md) — no-code/process redesign, agent architecture, APIs/MCP, scenario scoring and executive rollout proposal.
-- [Business Enablement & AI Workflow Automation](Business%20Enablement%20%26%20AI%20Workflow%20Automation/README.md) — a new parent project for operations_group-style OKRs, n8n draft workflows, SOPs, RACI, change adoption and synthetic KPI reporting.
-- [QA Engineering API Automation Lab](28_AI_Testing_and_Quality_Review/qa_demo/README.md) — software_group-style functional, API, integration and regression tests, defect template, Postman, optional Playwright and GitHub Actions CI.
+- [Enterprise agent consulting and CRM opportunity value mapping](AI%20Transformation/24_Applied_AI_Transformation_Manager_MENA/05_Enterprise_Agent_Consulting_and_CRM_Transformation.md) — no-code/process redesign, agent architecture, APIs/MCP, scenario scoring and executive rollout proposal.
+- [Business Enablement & AI Workflow Automation](AI%20Transformation/Business%20Enablement%20%26%20AI%20Workflow%20Automation/README.md) — a new parent project for operations_group-style OKRs, n8n draft workflows, SOPs, RACI, change adoption and synthetic KPI reporting.
+- [QA Engineering API Automation Lab](AI%20Model%20Training%20%26%20Evaluation%20Freelancer%20Project/28_AI_Testing_and_Quality_Review/qa_demo/README.md) — software_group-style functional, API, integration and regression tests, defect template, Postman, optional Playwright and GitHub Actions CI.
 
 **Evidence boundary:** synthetic projects, no employer client data or real-system integrations; run results must be independently verified.
 
@@ -71,7 +71,7 @@
 
 ## Change Management
 
-**[Explore Change Management](Change%20Management/)** — a separate HR programme change-management case covering stakeholder impacts, ADKAR-informed readiness, communications, adoption measures and executive governance. No real client deployment is claimed.
+**[Explore Change Management](Organizational%20Effectiveness/Change%20Management/)** — a separate HR programme change-management case covering stakeholder impacts, ADKAR-informed readiness, communications, adoption measures and executive governance. No real client deployment is claimed.
 
 
 # START HERE — AI, HR & Technology Portfolio
@@ -89,7 +89,7 @@
 
 ## NEW — Agentic AI Engineering: Enterprise Workflow Agent (HumanEvoX)
 
-**[Open the Agentic AI Engineering implementation starter](Agentic-AI-Engineering-Enterprise-Workflow-Agent/)** — Python/FastAPI document retrieval, optional live LLM adapter, configured HTTPS read-only case API, SQLite human-approval gate, n8n webhook starter, pytest cases, architecture, evaluation register, demo storyboard and paid-pilot scope. **Source-code prototype; no live LLM/n8n run or client deployment is claimed.**
+**[Open the Agentic AI Engineering implementation starter](Agentic%20AI%20development/Agentic-AI-Engineering-Enterprise-Workflow-Agent/)** — Python/FastAPI document retrieval, optional live LLM adapter, configured HTTPS read-only case API, SQLite human-approval gate, n8n webhook starter, pytest cases, architecture, evaluation register, demo storyboard and paid-pilot scope. **Source-code prototype; no live LLM/n8n run or client deployment is claimed.**
 
 
 ### Bircan Uzan | HumanEvoX
@@ -111,16 +111,16 @@ This portfolio brings together **AI-enabled HR transformation, talent intelligen
 
 ## NEW — Project 53: HR-to-AI Role Map & Evidence Lab
 
-**[Open Project 53 — HR-to-AI Role Map, Career Fit & Evidence Lab](53_HR_to_AI_Role_Map_and_Evidence_Lab/)** — six AI-adjacent HR pathways (People Analytics, HR Tech, AI-in-HR, Talent Intelligence, AI Governance, AI Enablement); an offline explainable role matcher with gap/eligibility checks; optional 60-day plan; synthetic 200-employee attrition analysis; 12-case AI screening risk register; 20-question deterministic HR policy routing evaluation; four **original Claude-compatible SKILL.md templates** (not imported/tested in Claude); and interview/CV/LinkedIn/case-study templates. **Independent original work; no real applicant, client, ATS or LLM deployment claimed.**
+**[Open Project 53 — HR-to-AI Role Map, Career Fit & Evidence Lab](Workforce%20Transformation/53_HR_to_AI_Role_Map_and_Evidence_Lab/)** — six AI-adjacent HR pathways (People Analytics, HR Tech, AI-in-HR, Talent Intelligence, AI Governance, AI Enablement); an offline explainable role matcher with gap/eligibility checks; optional 60-day plan; synthetic 200-employee attrition analysis; 12-case AI screening risk register; 20-question deterministic HR policy routing evaluation; four **original Claude-compatible SKILL.md templates** (not imported/tested in Claude); and interview/CV/LinkedIn/case-study templates. **Independent original work; no real applicant, client, ATS or LLM deployment claimed.**
 
 
 ## NEW — Three standalone HR-to-AI projects (Projects 54–56)
 
 - **[54 — Synthetic 200-Employee Attrition Analysis](People%20Analytics%20%26%20HR%20Data/54_Attrition_Analysis_200_Employee_Synthetic_Case/)** — independent CSV dataset, Python descriptive analytics with validation tests, executive results and GitHub SVG dashboard. Synthetic only.
 - **[55 — AI Recruitment Screening Risk Assessment](AI-enabled%20Recruitment%20Portfolio/55_AI_Recruitment_Screening_Risk_Assessment/)** — 16 paired hypothetical candidate tests, 14-risk register, mock flawed-vs-controlled scoring audit, Python tests and a HOLD recommendation. No real ATS/candidate assessment.
-- **[56 — HR Policy Assistant with 20-Question Evaluation](AI%20in%20HR%20%26%20Agentic%20Automation/56_HR_Policy_Assistant_20_Question_Evaluation/)** — offline deterministic Python assistant, five fictional versioned sources, evaluation evidence including preserved failures, and human escalation design. No hosted LLM/production integration.
+- **[56 — HR Policy Assistant with 20-Question Evaluation](Agentic%20AI%20development/AI%20in%20HR%20%26%20Agentic%20Automation/56_HR_Policy_Assistant_20_Question_Evaluation/)** — offline deterministic Python assistant, five fictional versioned sources, evaluation evidence including preserved failures, and human escalation design. No hosted LLM/production integration.
 
-These are **separate folder-based, reproducible projects**, expanded from the [Project 53 HR-to-AI role map and 60-day framework](53_HR_to_AI_Role_Map_and_Evidence_Lab/). Their synthetic or local-prototype status is documented.
+These are **separate folder-based, reproducible projects**, expanded from the [Project 53 HR-to-AI role map and 60-day framework](Workforce%20Transformation/53_HR_to_AI_Role_Map_and_Evidence_Lab/). Their synthetic or local-prototype status is documented.
 
 
 ---
@@ -134,28 +134,28 @@ These are **separate folder-based, reproducible projects**, expanded from the [P
 | No. | Project folder | What it means | What you will find |
 |:--:|---|---|---|
 | **01** | [Healthcare Recruitment AI](AI-enabled%20Recruitment%20Portfolio/01_AI_Enabled_Recruitment_Healthcare/) | Improve healthcare recruitment using AI | Recruitment processes, talent sourcing and case designs |
-| **02** | [HR Transformation](02_AI_Enabled_HR_Transformation/) | Redesign how HR departments work | Transformation strategies, workflows and operating models |
+| **02** | [HR Transformation](HR%20Technology%20%26%20Digital%20Transformation/02_AI_Enabled_HR_Transformation/) | Redesign how HR departments work | Transformation strategies, workflows and operating models |
 | **03** | [People Analytics & AI](People%20Analytics%20%26%20HR%20Data/03_People_Analytics_AI/) | Use workforce data to guide HR decisions | HR dashboards, workforce metrics and analytics case studies |
 | **04** | [HR Technology & Employee Experience](HR%20Technology%20%26%20Digital%20Transformation/04_HR_Technology_Digital_Employee_Experience/) | Make employee HR services easier to use | HR system journeys, self-service and digital process design |
-| **05** | [AI Agents & HR Chatbots](AI%20in%20HR%20%26%20Agentic%20Automation/05_AI_Agents_Chatbots_HR_Automation/) | Use AI assistants for everyday HR questions | Chatbot and agent workflows, controls and use cases |
-| **06** | [Workforce Planning](06_Workforce_Planning/) | Forecast the people and skills a business needs | Headcount, demand and capacity planning scenarios |
+| **05** | [AI Agents & HR Chatbots](Agentic%20AI%20development/AI%20in%20HR%20%26%20Agentic%20Automation/05_AI_Agents_Chatbots_HR_Automation/) | Use AI assistants for everyday HR questions | Chatbot and agent workflows, controls and use cases |
+| **06** | [Workforce Planning](Workforce%20Transformation/06_Workforce_Planning/) | Forecast the people and skills a business needs | Headcount, demand and capacity planning scenarios |
 | **07** | [Talent & Workforce Intelligence](AI-enabled%20Recruitment%20Portfolio/07_Talent_Workforce_Intelligence/) | Research labour markets and talent availability | Talent pools, skills supply and market mapping |
 | **08** | [Talent Management & Assessment](Talent%20Assessment/08_Talent_Management_Assessment/) | Evaluate employee and candidate capabilities | Assessment and talent management examples |
 | **09** | [HR Operations Automation](HR%20Operations%20%26%20Workflow%20Automation/09_AI_Automation_HR_Operations/) | Automate repeatable HR administration | Workflow controls and service automation examples |
 | **11** | [Data Analytics for AI in HR](People%20Analytics%20%26%20HR%20Data/11_Data_Analytics_for_AI_in_HR/) | Prepare and analyse HR data for AI | Data and analytics methods applied to HR cases |
-| **12** | [Agentic AI Across the HR Lifecycle](AI%20in%20HR%20%26%20Agentic%20Automation/12_Building_Agentic_AI_for_Full_HR_Lifecycle/) | Design multiple AI agents for HR workflows | AI agent coordination and human-approval controls |
-| **13** | [Oracle Fusion HCM](Oracle%20Fusion%20HCM/13_Oracle_Fusion_HCM/) | Plan and govern Oracle HR system projects | Roadmap, governance, testing and implementation oversight examples |
+| **12** | [Agentic AI Across the HR Lifecycle](Agentic%20AI%20development/AI%20in%20HR%20%26%20Agentic%20Automation/12_Building_Agentic_AI_for_Full_HR_Lifecycle/) | Design multiple AI agents for HR workflows | AI agent coordination and human-approval controls |
+| **13** | [Oracle Fusion HCM](HR%20Technology%20%26%20Digital%20Transformation/Oracle%20Fusion%20HCM/13_Oracle_Fusion_HCM/) | Plan and govern Oracle HR system projects | Roadmap, governance, testing and implementation oversight examples |
 
 ## Technical Training, Voice AI & AI Evaluation
 
 | No. | Project folder | What it means | What you will find |
 |:--:|---|---|---|
-| **14** | [Machine Learning Training & Model Evaluation](14_Machine_Learning_Training_and_Model_Evaluation/) | Teach engineers to train and test ML models | Python scikit-learn, model metrics and practical training labs |
-| **15** | [AI DevOps Training: CI/CD & Kubernetes](15_AI_DevOps_Training_CI_CD_and_Kubernetes/) | Teach safer AI-assisted engineering workflows | Build/test failures, CI/CD and Kubernetes training examples |
-| **16** | [AI Voice Agent for Customer Support](16_AI_Voice_Agent_for_Customer_Support/) | Design an AI assistant that answers customer calls | Conversation routing, human handoff and agent testing |
-| **17** | [Voice AI Adoption & Business Analytics](17_Voice_AI_Customer_Adoption_and_Analytics/) | Help customers adopt voice AI and measure impact | Onboarding, adoption metrics, workshops and business value |
-| **18** | [AI Voice Narration for Training Videos](Instructional%20Design%20and%20Talent%20Development/18_AI_Voice_Narration_for_Training_Videos/) | Turn technical lesson scripts into AI narration | Text-to-speech API preview and lesson production process |
-| **19** | [HR Workflow Benchmark Design & AI Answer Grading](19_HR_Workflow_Benchmark_Design_and_AI_Answer_Grading/) | Test how accurately AI handles realistic HR tasks | Five-document payroll case, correct answer, rubric and Python scoring |
+| **14** | [Machine Learning Training & Model Evaluation](AI%20Model%20Training%20%26%20Evaluation%20Freelancer%20Project/14_Machine_Learning_Training_and_Model_Evaluation/) | Teach engineers to train and test ML models | Python scikit-learn, model metrics and practical training labs |
+| **15** | [AI DevOps Training: CI/CD & Kubernetes](AI%20Model%20Training%20%26%20Evaluation%20Freelancer%20Project/15_AI_DevOps_Training_CI_CD_and_Kubernetes/) | Teach safer AI-assisted engineering workflows | Build/test failures, CI/CD and Kubernetes training examples |
+| **16** | [AI Voice Agent for Customer Support](Agentic%20AI%20development/Voice%20and%20Customer%20Agents/16_AI_Voice_Agent_for_Customer_Support/) | Design an AI assistant that answers customer calls | Conversation routing, human handoff and agent testing |
+| **17** | [Voice AI Adoption & Business Analytics](AI%20Adoption/17_Voice_AI_Customer_Adoption_and_Analytics/) | Help customers adopt voice AI and measure impact | Onboarding, adoption metrics, workshops and business value |
+| **18** | [AI Voice Narration for Training Videos](Talent%20Development/Instructional%20Design%20and%20Talent%20Development/18_AI_Voice_Narration_for_Training_Videos/) | Turn technical lesson scripts into AI narration | Text-to-speech API preview and lesson production process |
+| **19** | [HR Workflow Benchmark Design & AI Answer Grading](AI%20Model%20Training%20%26%20Evaluation%20Freelancer%20Project/19_HR_Workflow_Benchmark_Design_and_AI_Answer_Grading/) | Test how accurately AI handles realistic HR tasks | Five-document payroll case, correct answer, rubric and Python scoring |
 
 ---
 
@@ -163,47 +163,47 @@ These are **separate folder-based, reproducible projects**, expanded from the [P
 
 | No. | Project | Business problem | Deliverables |
 |:--:|---|---|---|
-| **20** | [AI Pre-Sales Architect — Azure & Oracle](20_AI_Presales_Architect_Azure_Oracle_Enterprise_Transformation/) | Design and sell enterprise cloud, data and AI transformation | Architectures, migration roadmap, RFP/SOW and estimator |
-| **21** | [Senior AI Business Analyst — Retail Processes](21_Senior_AI_Business_Analyst_Retail_Process_Reengineering/) | Redesign retail workflows and measure automation ROI | BPMN/SIPOC, As-Is/To-Be, value stream, ROI and UAT |
-| **22** | [AI Product Owner — Working Agent Prototype](22_AI_Product_Owner_Agentic_Workflow_and_Product_Delivery/) | Build, test and prioritize a safe AI product | Running Python prototype, evaluation, backlog and governance |
+| **20** | [AI Pre-Sales Architect — Azure & Oracle](Agentic%20AI%20development/Enterprise%20AI%20Solutions/20_AI_Presales_Architect_Azure_Oracle_Enterprise_Transformation/) | Design and sell enterprise cloud, data and AI transformation | Architectures, migration roadmap, RFP/SOW and estimator |
+| **21** | [Senior AI Business Analyst — Retail Processes](AI%20Transformation/Business%20Analysis/21_Senior_AI_Business_Analyst_Retail_Process_Reengineering/) | Redesign retail workflows and measure automation ROI | BPMN/SIPOC, As-Is/To-Be, value stream, ROI and UAT |
+| **22** | [AI Product Owner — Working Agent Prototype](AI%20Project%20%26%20Program%20Management/22_AI_Product_Owner_Agentic_Workflow_and_Product_Delivery/) | Build, test and prioritize a safe AI product | Running Python prototype, evaluation, backlog and governance |
 
 
 ## Projects 23 and 24 — New role-aligned cases
 
-- [23 — SAP People Intelligence, BDC and AI People Analytics Strategy](23_Strategy_Consultant_SAP_People_Intelligence_Business_Data_Cloud_AI_Driven_People_Analytics/) — CHRO vision, KPI framework, SAP solution alignment, adoption and account plan.
-- [24 — Applied AI Transformation Manager MENA](24_Applied_AI_Transformation_Manager_MENA/) — Engineering agent rollout, CoE, program governance and modelled value evidence.
+- [23 — SAP People Intelligence, BDC and AI People Analytics Strategy](People%20Analytics%20%26%20HR%20Data/23_Strategy_Consultant_SAP_People_Intelligence_Business_Data_Cloud_AI_Driven_People_Analytics/) — CHRO vision, KPI framework, SAP solution alignment, adoption and account plan.
+- [24 — Applied AI Transformation Manager MENA](AI%20Transformation/24_Applied_AI_Transformation_Manager_MENA/) — Engineering agent rollout, CoE, program governance and modelled value evidence.
 
 ## Project 25 — People Operations AI Research Contributor
 
-[Excel workforce and compensation AI evaluation sample](25_People_Operations_AI_Research_Contributor/) — six-month FTE plan, approved movement controls, compensation budget model, human-review criteria and answer key. **AI-assisted portfolio demonstration; not a valid human-authored Aptura onboarding submission.**
+[Excel workforce and compensation AI evaluation sample](AI%20Model%20Training%20%26%20Evaluation%20Freelancer%20Project/25_People_Operations_AI_Research_Contributor/) — six-month FTE plan, approved movement controls, compensation budget model, human-review criteria and answer key. **AI-assisted portfolio demonstration; not a valid human-authored Aptura onboarding submission.**
 
 ## Project 26 — HR AI & Automation Operations Lead - Mobility
 
-[Explore Project 26: EOR Mobility automation and AI governance](26_HR_AI_and_Automation_Operations_Lead_Mobility/) — privacy-aware mobility case intake, maker/checker logic, synthetic n8n workflow, KPIs, leadership/DRI rollout, and human approval.
+[Explore Project 26: EOR Mobility automation and AI governance](HR%20Operations%20%26%20Workflow%20Automation/26_HR_AI_and_Automation_Operations_Lead_Mobility/) — privacy-aware mobility case intake, maker/checker logic, synthetic n8n workflow, KPIs, leadership/DRI rollout, and human approval.
 
 ## Projects 31–33 — Skills Assessment and Digital Learning Design
 
-- **[31 — Workforce Skills Assessment & Development](Instructional%20Design%20and%20Talent%20Development/31_Workforce_Skills_Assessment_and_Development/)** — fictional operator skills matrix, practical-observation rubric, individual skill passport, gap analysis and post-training evaluation SOP.
-- **[32 — SCORM Learning Design](Instructional%20Design%20and%20Talent%20Development/32_SCORM_Learning_Design/)** — original microlearning blueprint, interactive storyboard, formative questions and LMS/SCORM acceptance test plan. **No SCORM package is represented as built or tested.**
-- **[33 — Instructional Video Design & QA](Instructional%20Design%20and%20Talent%20Development/33_Instructional_Video_Design_and_QA/)** — fictional software walkthrough storyboard, video production brief, QA checklist and realistic capacity-planning methods. **No final MP4 or high-volume production capacity is claimed.**
+- **[31 — Workforce Skills Assessment & Development](Talent%20Development/Instructional%20Design%20and%20Talent%20Development/31_Workforce_Skills_Assessment_and_Development/)** — fictional operator skills matrix, practical-observation rubric, individual skill passport, gap analysis and post-training evaluation SOP.
+- **[32 — SCORM Learning Design](Talent%20Development/Instructional%20Design%20and%20Talent%20Development/32_SCORM_Learning_Design/)** — original microlearning blueprint, interactive storyboard, formative questions and LMS/SCORM acceptance test plan. **No SCORM package is represented as built or tested.**
+- **[33 — Instructional Video Design & QA](Talent%20Development/Instructional%20Design%20and%20Talent%20Development/33_Instructional_Video_Design_and_QA/)** — fictional software walkthrough storyboard, video production brief, QA checklist and realistic capacity-planning methods. **No final MP4 or high-volume production capacity is claimed.**
 
 ## Project 34 — Business-oriented Microsoft 365 Copilot Adoption & Enablement Consultant
 
 **[Open Project 34: Business-oriented Microsoft 365 Copilot Adoption & Enablement Consultant](AI%20Adoption/34_Business_Oriented_Microsoft_365_Copilot_Adoption_and_Enablement_Consultant/)** — executive discovery, Outlook/Teams/Word/PowerPoint/Excel/OneDrive/SharePoint use cases, interactive workshop guides, instructional design, champions, Copilot readiness and governance, a 30/60/90-day adoption plan and synthetic KPI evaluation.
 
-**Duplicate avoided:** [Project 30 — Business Process Mapping, Analysis & AI Transformation](30_Business_Process_Mapping_Analysis_and_AI_Transformation/) already documents AS-IS/TO-BE, AI opportunities and business requirements; [Project 21](21_Senior_AI_Business_Analyst_Retail_Process_Reengineering/) includes BPMN 2.0 modelling.
+**Duplicate avoided:** [Project 30 — Business Process Mapping, Analysis & AI Transformation](AI%20Transformation/30_Business_Process_Mapping_Analysis_and_AI_Transformation/) already documents AS-IS/TO-BE, AI opportunities and business requirements; [Project 21](AI%20Transformation/Business%20Analysis/21_Senior_AI_Business_Analyst_Retail_Process_Reengineering/) includes BPMN 2.0 modelling.
 
 ## Project 35 — Modern Workplace Solutioning Lead
 
-**[Open Project 35: Modern Workplace Solutioning](35_Modern_Workplace_Solutioning/)** — comprehensive C-suite workplace consulting case across service desk, DEX, devices/DaaS, identity, M365, AVD and Windows 365, ServiceNow/ITSM, managed services operating models, SLA/XLA, commercial models, transition and transformation, AI/Copilot, and value measurement. Includes a synthetic 3-year business-case calculator and unit tests.
+**[Open Project 35: Modern Workplace Solutioning](AI%20Adoption/35_Modern_Workplace_Solutioning/)** — comprehensive C-suite workplace consulting case across service desk, DEX, devices/DaaS, identity, M365, AVD and Windows 365, ServiceNow/ITSM, managed services operating models, SLA/XLA, commercial models, transition and transformation, AI/Copilot, and value measurement. Includes a synthetic 3-year business-case calculator and unit tests.
 
 **Different from [Project 34 — Copilot adoption](AI%20Adoption/34_Business_Oriented_Microsoft_365_Copilot_Adoption_and_Enablement_Consultant/):** Project 35 builds an end-to-end Modern Workplace managed-services solution; Project 34 designs business-user Copilot workshops and adoption.
 
 ## Project 36 — Human Data Operations Management
 
-**[Open Project 36 — Human Data Operations Management](36_Human_Data_Operations_Management/)** — end-to-end AI training/evaluation data operations: synthetic data collection, six-class annotation guidelines, two independent label passes, inter-rater agreement and Cohen's kappa, gold adjudication, privacy/security controls, operational KPI dashboards, executable Python quality audits and unit tests.
+**[Open Project 36 — Human Data Operations Management](AI%20Model%20Training%20%26%20Evaluation%20Freelancer%20Project/36_Human_Data_Operations_Management/)** — end-to-end AI training/evaluation data operations: synthetic data collection, six-class annotation guidelines, two independent label passes, inter-rater agreement and Cohen's kappa, gold adjudication, privacy/security controls, operational KPI dashboards, executable Python quality audits and unit tests.
 
-**Distinct from [Project 25 — People Operations AI Research Contributor](25_People_Operations_AI_Research_Contributor/):** Project 25 focuses on Excel workforce-planning tasks and answer grading; Project 36 focuses on **managing people and workflows that create reliable annotated datasets**.
+**Distinct from [Project 25 — People Operations AI Research Contributor](AI%20Model%20Training%20%26%20Evaluation%20Freelancer%20Project/25_People_Operations_AI_Research_Contributor/):** Project 25 focuses on Excel workforce-planning tasks and answer grading; Project 36 focuses on **managing people and workflows that create reliable annotated datasets**.
 
 ## Project 38 — Assessment Center Assessor
 
@@ -213,7 +213,7 @@ These are **separate folder-based, reproducible projects**, expanded from the [P
 
 ## Featured Project — HR Workflow Benchmark Design
 
-**[19 — HR Workflow Benchmark Design & AI Answer Grading](19_HR_Workflow_Benchmark_Design_and_AI_Answer_Grading/)**
+**[19 — HR Workflow Benchmark Design & AI Answer Grading](AI%20Model%20Training%20%26%20Evaluation%20Freelancer%20Project/19_HR_Workflow_Benchmark_Design_and_AI_Answer_Grading/)**
 
 An illustrative OpenTrain-oriented HR benchmark: an AI assistant is asked to review five fictional employee and payroll records, calculate an answer under the stated company policy and identify pending approvals. The repository includes the **gold-standard answer, 10-point rubric, sample errors, review safeguards and structured Python scoring demo**.
 
@@ -240,7 +240,7 @@ An illustrative OpenTrain-oriented HR benchmark: an AI assistant is asked to rev
 
 ## Project 48 — Change Management in HR Program
 
-**[Open Project 48 — Change Management in HR Program](Change%20Management/48_Change_Management_in_HR_Program/)** — an independent, fictional UAE HR employee self-service and case-management transformation programme. Includes change charter, stakeholder and role impact assessment, ADKAR-informed readiness instrument, communications and culture plan, resistance/risk and champions, 90-day cutover and hypercare roadmap, adoption KPI/benefits dashboard, executive steering pack, plus synthetic impact and adoption data. Inspired by UAE change-management job requirements from Zayed University, wasl and an historical ACCBC posting. **No live employer project, software deployment, Prosci certification, employee survey, or achieved outcomes are claimed.**
+**[Open Project 48 — Change Management in HR Program](Organizational%20Effectiveness/Change%20Management/48_Change_Management_in_HR_Program/)** — an independent, fictional UAE HR employee self-service and case-management transformation programme. Includes change charter, stakeholder and role impact assessment, ADKAR-informed readiness instrument, communications and culture plan, resistance/risk and champions, 90-day cutover and hypercare roadmap, adoption KPI/benefits dashboard, executive steering pack, plus synthetic impact and adoption data. Inspired by UAE change-management job requirements from Zayed University, wasl and an historical ACCBC posting. **No live employer project, software deployment, Prosci certification, employee survey, or achieved outcomes are claimed.**
 
 
 ## Project 49 — Psychometric Assessment & Talent Evaluation
@@ -249,9 +249,9 @@ An illustrative OpenTrain-oriented HR benchmark: an AI assistant is asked to rev
 
 ## Project 51 — Enterprise AI & Smart Data | Governance, BI & Analytics
 
-**[Open Project 51 — Enterprise AI & Smart Data | Governance, BI & Analytics](51_Enterprise_AI_and_Smart_Data_Governance_BI_Analytics/)** — Transguard Senior Manager AI & Smart Data JD-aligned fictional UAE insurance use case. **Runnable synthetic Python/scikit-learn claims-review routing demo and data-quality tests**, plus Azure Data Factory/Databricks/Synapse/ADLS/AML/Microsoft Purview reference architecture, data fabric/mesh, master-data and BI examples, AI/BI CoE charter, responsible-AI control register, and a conservative ROI/vetting model. **No live insurer data, Azure deployment, Microsoft Power BI execution, production model results, or certifications are claimed.**
+**[Open Project 51 — Enterprise AI & Smart Data | Governance, BI & Analytics](AI%20Governance%2C%20Risk%20%26%20Responsible%20AI%20Portfolio/51_Enterprise_AI_and_Smart_Data_Governance_BI_Analytics/)** — Transguard Senior Manager AI & Smart Data JD-aligned fictional UAE insurance use case. **Runnable synthetic Python/scikit-learn claims-review routing demo and data-quality tests**, plus Azure Data Factory/Databricks/Synapse/ADLS/AML/Microsoft Purview reference architecture, data fabric/mesh, master-data and BI examples, AI/BI CoE charter, responsible-AI control register, and a conservative ROI/vetting model. **No live insurer data, Azure deployment, Microsoft Power BI execution, production model results, or certifications are claimed.**
 
 
 ## Project 42 — Human–AI Workforce Intelligence Dashboards
 
-**[Open Project 42 dashboards](42_Human-AI_Workforce_Design_and_Agent_Governance/dashboards/README.md)** — Three original executive visuals and a self-contained HTML dashboard: 28 actual local JavaScript rule-engine test records (**26/28 full passes; release HOLD**), an explicitly illustrative human–AI operating-model capacity scenario and an evidence-first recruitment audit framework. Includes [client-pain hypotheses, methodology, tools and results](42_Human-AI_Workforce_Design_and_Agent_Governance/DASHBOARD_METHODOLOGY.md). **Not a client deployment, measured hiring/financial benefit, Copilot Studio, Power BI or LLM test.**
+**[Open Project 42 dashboards](Workforce%20Transformation/42_Human-AI_Workforce_Design_and_Agent_Governance/dashboards/README.md)** — Three original executive visuals and a self-contained HTML dashboard: 28 actual local JavaScript rule-engine test records (**26/28 full passes; release HOLD**), an explicitly illustrative human–AI operating-model capacity scenario and an evidence-first recruitment audit framework. Includes [client-pain hypotheses, methodology, tools and results](Workforce%20Transformation/42_Human-AI_Workforce_Design_and_Agent_Governance/DASHBOARD_METHODOLOGY.md). **Not a client deployment, measured hiring/financial benefit, Copilot Studio, Power BI or LLM test.**

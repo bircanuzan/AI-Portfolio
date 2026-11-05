@@ -2,7 +2,7 @@
 
 **Independent design/build laboratory:** A *conceptual* enterprise SaaS workspace that helps CHROs and CTOs connect business outcomes, work/task maps, workforce scenarios and controlled AI use-case proposals.
 
-**Distinct role:** Product and engineering bridge. Existing [Project 22](../../22_AI_Product_Owner_Agentic_Workflow_and_Product_Delivery/) tests a single HR service workflow; this project specifies a **multi-module enterprise workforce intelligence product** and a narrow runnable *product discovery-to-backlog slice*.
+**Distinct role:** Product and engineering bridge. Existing [Project 22](../../AI%20Project%20%26%20Program%20Management/22_AI_Product_Owner_Agentic_Workflow_and_Product_Delivery/) tests a single HR service workflow; this project specifies a **multi-module enterprise workforce intelligence product** and a narrow runnable *product discovery-to-backlog slice*.
 
 ## Deliverables
 - [Customer/product discovery, personas, stories and product roadmap](01_Product_Discovery_and_Prototype_Plan.md).
@@ -29,4 +29,4 @@ From repository root:
 
 **Evidence boundary:** No live SaaS backend, UI, LLM, Microsoft/Oracle/Workday/SAP integration, API server, production AI agent or actual enterprise customer usage. The OpenAPI file is a **design contract**, not a running service. Example scores are synthetic triage values with human gates, not measured ROI.
 
-[Master portfolio](../README.md) · [AI Solutions Engineering](../../AI%20Solutions%20Engineering/)
+[Master portfolio](../README.md) · [AI Solutions Engineering](../../Agentic%20AI%20development/AI%20Solutions%20Engineering/)

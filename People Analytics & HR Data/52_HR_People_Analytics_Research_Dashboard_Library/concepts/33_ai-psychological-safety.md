@@ -51,6 +51,6 @@ The executive SVG was produced as a standalone artifact; the collection also con
 **Not delivered:** evidence of changed employee outcomes, return on investment, causal impact, hiring validity or tested enterprise deployment.  
 **Next validation:** request a defined scope and ethically obtained, approved data; independently validate the baseline and the role-relevant metric before a client-facing claim.
 
-Related project: [Project 42 Human–AI Workforce Design and Agent Governance](../../../42_Human-AI_Workforce_Design_and_Agent_Governance/), which separately contains real execution traces from a **local deterministic rules-engine test**, not a live LLM pilot.
+Related project: [Project 42 Human–AI Workforce Design and Agent Governance](../../../Workforce%20Transformation/42_Human-AI_Workforce_Design_and_Agent_Governance/), which separately contains real execution traces from a **local deterministic rules-engine test**, not a live LLM pilot.
 
 © 2026 HumanEvoX / Bircan Uzan. Not affiliated with or endorsed by Nicolas Behbahani.

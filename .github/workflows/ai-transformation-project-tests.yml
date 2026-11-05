@@ -2,11 +2,11 @@ name: AI Transformation Project - local integration tests
 on:
   push:
     paths:
-      - "AI Transformation Project/**"
+      - "AI Transformation/AI Transformation Project/**"
       - ".github/workflows/ai-transformation-project-tests.yml"
   pull_request:
     paths:
-      - "AI Transformation Project/**"
+      - "AI Transformation/AI Transformation Project/**"
   workflow_dispatch:
 jobs:
   integration:
@@ -19,8 +19,8 @@ jobs:
         with:
           python-version: "3.11"
       - name: Test local business integrations
-        working-directory: AI Transformation Project/01_Customer_Operations_Agent_Business_System_Integration
+        working-directory: AI Transformation/AI Transformation Project/01_Customer_Operations_Agent_Business_System_Integration
         run: python -m unittest -v test_lab
       - name: Run actual end-to-end demo
-        working-directory: AI Transformation Project/01_Customer_Operations_Agent_Business_System_Integration
+        working-directory: AI Transformation/AI Transformation Project/01_Customer_Operations_Agent_Business_System_Integration
         run: python demo.py

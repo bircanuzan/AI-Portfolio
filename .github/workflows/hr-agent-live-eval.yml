@@ -45,6 +45,6 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: hr-agent-live-evidence
-          path: Agentic AI Application Testing & Evaluation for HR Transformation/evidence/live_evaluation_results.json
+          path: AI Model Training & Evaluation Freelancer Project/Agentic AI Application Testing & Evaluation for HR Transformation/evidence/live_evaluation_results.json
           retention-days: 7
           if-no-files-found: ignore

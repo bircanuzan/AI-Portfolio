@@ -24,4 +24,4 @@ python -m unittest discover -s "AI Adoption/34_Business_Oriented_Microsoft_365_C
 python "AI Adoption/AI Platform Training & Onboarding - Contact Center/training_metrics.py"
 ```
 
-[Repository home](../README.md) · [Change Management](../Change%20Management/)
+[Repository home](../README.md) · [Change Management](../Organizational%20Effectiveness/Change%20Management/)

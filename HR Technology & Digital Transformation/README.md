@@ -21,10 +21,10 @@
 - **Self-Service:** employee-facing in-memory browser demo and safe routing; not an operational HR system or AI agent.
 
 ## Related independent portfolio categories
-- [HRIS & HCM Systems](../HRIS%20%26%20HCM%20Systems/) — master data, effective dates, cross-platform requirements and integrations.
-- [Oracle Fusion HCM](../Oracle%20Fusion%20HCM/) — Oracle-specific HCM case work.
+- [HRIS & HCM Systems](HRIS%20%26%20HCM%20Systems/) — master data, effective dates, cross-platform requirements and integrations.
+- [Oracle Fusion HCM](Oracle%20Fusion%20HCM/) — Oracle-specific HCM case work.
 - [HR Operations & Workflow Automation](../HR%20Operations%20%26%20Workflow%20Automation/) — operational controls, payroll checks and workflow automation.
-- [Agentic AI Automation](../Agentic%20AI%20Automation/) — LLM/agent orchestration and tests.
+- [Agentic AI Automation](../Agentic%20AI%20development/Agentic%20AI%20Automation/) — LLM/agent orchestration and tests.
 - [People Analytics & HR Data](../People%20Analytics%20%26%20HR%20Data/) — analytical models and reporting.
 
 **Evidence boundary:** All five new projects are self-directed fictional case studies, with synthetic inputs. The selection calculator and portal are local demonstrations; no vendor, employer tenant, real employee record, production implementation or measured client benefit is claimed.

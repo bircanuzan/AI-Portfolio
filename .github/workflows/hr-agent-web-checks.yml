@@ -2,17 +2,17 @@ name: HR Agent Web App - Tests
 on:
   push:
     paths:
-      - 'Agentic AI Application Testing & Evaluation for HR Transformation/service/**'
-      - 'Agentic AI Application Testing & Evaluation for HR Transformation/tests/**'
-      - 'Agentic AI Application Testing & Evaluation for HR Transformation/requirements-service.txt'
-      - 'Agentic AI Application Testing & Evaluation for HR Transformation/agent.py'
-      - 'Agentic AI Application Testing & Evaluation for HR Transformation/policies.json'
+      - 'AI Model Training & Evaluation Freelancer Project/Agentic AI Application Testing & Evaluation for HR Transformation/service/**'
+      - 'AI Model Training & Evaluation Freelancer Project/Agentic AI Application Testing & Evaluation for HR Transformation/tests/**'
+      - 'AI Model Training & Evaluation Freelancer Project/Agentic AI Application Testing & Evaluation for HR Transformation/requirements-service.txt'
+      - 'AI Model Training & Evaluation Freelancer Project/Agentic AI Application Testing & Evaluation for HR Transformation/agent.py'
+      - 'AI Model Training & Evaluation Freelancer Project/Agentic AI Application Testing & Evaluation for HR Transformation/policies.json'
       - 'render.yaml'
   pull_request:
     paths:
-      - 'Agentic AI Application Testing & Evaluation for HR Transformation/service/**'
-      - 'Agentic AI Application Testing & Evaluation for HR Transformation/tests/**'
-      - 'Agentic AI Application Testing & Evaluation for HR Transformation/requirements-service.txt'
+      - 'AI Model Training & Evaluation Freelancer Project/Agentic AI Application Testing & Evaluation for HR Transformation/service/**'
+      - 'AI Model Training & Evaluation Freelancer Project/Agentic AI Application Testing & Evaluation for HR Transformation/tests/**'
+      - 'AI Model Training & Evaluation Freelancer Project/Agentic AI Application Testing & Evaluation for HR Transformation/requirements-service.txt'
 permissions:
   contents: read
 jobs:
@@ -21,7 +21,7 @@ jobs:
     timeout-minutes: 10
     defaults:
       run:
-        working-directory: 'Agentic AI Application Testing & Evaluation for HR Transformation'
+        working-directory: 'AI Model Training & Evaluation Freelancer Project/Agentic AI Application Testing & Evaluation for HR Transformation'
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5

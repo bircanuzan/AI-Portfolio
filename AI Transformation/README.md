@@ -33,6 +33,6 @@ python "AI Transformation/02_Controlled_Human_AI_Workflow_Pilot/src/controlled_w
 python -m unittest discover -s "AI Transformation/02_Controlled_Human_AI_Workflow_Pilot/tests" -v
 ```
 
-Related existing categories (not relocated or duplicated): [AI Integration Engineering](../AI%20Integration%20Engineering/), [AI Adoption](../AI%20Adoption/), [Project 24 enterprise transformation](../24_Applied_AI_Transformation_Manager_MENA/), [Human–AI Workforce Governance](../42_Human-AI_Workforce_Design_and_Agent_Governance/), [Workforce Transformation companion](../Workforce%20Transformation/).
+Related existing categories (not relocated or duplicated): [AI Integration Engineering](../Agentic%20AI%20development/AI%20Integration%20Engineering/), [AI Adoption](../AI%20Adoption/), [Project 24 enterprise transformation](24_Applied_AI_Transformation_Manager_MENA/), [Human–AI Workforce Governance](../Workforce%20Transformation/42_Human-AI_Workforce_Design_and_Agent_Governance/), [Workforce Transformation companion](../Workforce%20Transformation/).
 
 **CV-safe description:** "Designed a synthetic enterprise AI transformation portfolio with spend and adoption diagnostics, an offline permission-and-approval workflow prototype, and cross-functional rollout/quality governance."

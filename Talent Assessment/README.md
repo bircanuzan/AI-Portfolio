@@ -21,4 +21,4 @@ A curated HumanEvoX portfolio of four distinct evidence-based **Talent Assessmen
 - Psychometric-style exercises are based on invented inputs; no proprietary publisher tests or test-user certifications are claimed.
 - Individual employment decisions require professional review and appropriate legal, privacy and fairness safeguards.
 
-[Back to main portfolio](../README.md) | [Instructional Design and Talent Development](../Instructional%20Design%20and%20Talent%20Development/)
+[Back to main portfolio](../README.md) | [Instructional Design and Talent Development](../Talent%20Development/Instructional%20Design%20and%20Talent%20Development/)

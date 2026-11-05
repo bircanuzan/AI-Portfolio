@@ -30,4 +30,4 @@ From repository root:
 
 **Evidence limits:** This is a transparent *illustrative scoring exercise*, not an optimization algorithm, operating model approved by any enterprise, or measured productivity gain. No layoffs/HR decisions are made by software.
 
-[Workforce Transformation home](../README.md) · [Human–AI agent governance evidence](../../42_Human-AI_Workforce_Design_and_Agent_Governance/)
+[Workforce Transformation home](../README.md) · [Human–AI agent governance evidence](../42_Human-AI_Workforce_Design_and_Agent_Governance/)

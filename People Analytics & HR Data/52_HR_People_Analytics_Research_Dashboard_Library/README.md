@@ -26,7 +26,7 @@
 - [All 60 illustrated individual dashboard pages](concepts/) — markdown pages preview the original chart files directly on GitHub.
 - [SVG dashboard gallery](dashboards/) — images displayed on GitHub without an external application.
 - [Research and implementation method](METHODOLOGY.md).
-- [Existing evidence-based Project 42](../../42_Human-AI_Workforce_Design_and_Agent_Governance/) — a different, existing project with 28 **real local software-execution** records and a release HOLD recommendation.
+- [Existing evidence-based Project 42](../../Workforce%20Transformation/42_Human-AI_Workforce_Design_and_Agent_Governance/) — a different, existing project with 28 **real local software-execution** records and a release HOLD recommendation.
 
 ## Dashboard catalogue — each concept has its own dashboard
 
