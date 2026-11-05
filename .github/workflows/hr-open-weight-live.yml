@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
   push:
     paths:
-      - 'Agentic AI Application Testing & Evaluation for HR Transformation/run_local_model.trigger'
+      - 'AI Model Training & Evaluation Freelancer Project/Agentic AI Application Testing & Evaluation for HR Transformation/run_local_model.trigger'
 permissions:
   contents: write
 jobs:
@@ -55,7 +55,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: hr-qwen-real-model-evidence
-          path: 'Agentic AI Application Testing & Evaluation for HR Transformation/evidence/local_llm_results.json'
+          path: 'AI Model Training & Evaluation Freelancer Project/Agentic AI Application Testing & Evaluation for HR Transformation/evidence/local_llm_results.json'
           retention-days: 14
           if-no-files-found: ignore
       - name: Commit successful synthetic evidence to GitHub
@@ -63,7 +63,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add "Agentic AI Application Testing & Evaluation for HR Transformation/evidence/local_llm_results.json"
+          git add "AI Model Training & Evaluation Freelancer Project/Agentic AI Application Testing & Evaluation for HR Transformation/evidence/local_llm_results.json"
           if git diff --cached --quiet; then
             echo "Evidence unchanged"
           else
