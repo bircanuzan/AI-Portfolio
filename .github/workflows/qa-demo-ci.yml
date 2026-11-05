@@ -2,15 +2,15 @@ name: AI Consulting, Business Enablement and QA Project Tests
 on:
   push:
     paths:
-      - '28_AI_Testing_and_Quality_Review/**'
-      - '24_Applied_AI_Transformation_Manager_MENA/**'
-      - 'Business Enablement & AI Workflow Automation/**'
+      - 'AI Model Training & Evaluation Freelancer Project/28_AI_Testing_and_Quality_Review/**'
+      - 'AI Transformation/24_Applied_AI_Transformation_Manager_MENA/**'
+      - 'AI Transformation/Business Enablement & AI Workflow Automation/**'
       - '.github/workflows/qa-demo-ci.yml'
   pull_request:
     paths:
-      - '28_AI_Testing_and_Quality_Review/**'
-      - '24_Applied_AI_Transformation_Manager_MENA/**'
-      - 'Business Enablement & AI Workflow Automation/**'
+      - 'AI Model Training & Evaluation Freelancer Project/28_AI_Testing_and_Quality_Review/**'
+      - 'AI Transformation/24_Applied_AI_Transformation_Manager_MENA/**'
+      - 'AI Transformation/Business Enablement & AI Workflow Automation/**'
       - '.github/workflows/qa-demo-ci.yml'
 jobs:
   project-regression:
@@ -25,8 +25,8 @@ jobs:
         with:
           python-version: '3.11'
       - name: Verify synthetic QA API
-        run: python -m unittest discover -s 28_AI_Testing_and_Quality_Review/qa_demo -p 'test_api.py' -v
+        run: python -m unittest discover -s AI Model Training & Evaluation Freelancer Project/28_AI_Testing_and_Quality_Review/qa_demo -p 'test_api.py' -v
       - name: Verify enterprise AI opportunity scoring
-        run: python -m unittest discover -s 24_Applied_AI_Transformation_Manager_MENA/tests -p 'test_enterprise_crm_opportunity_scoring.py' -v
+        run: python -m unittest discover -s AI Transformation/24_Applied_AI_Transformation_Manager_MENA/tests -p 'test_enterprise_crm_opportunity_scoring.py' -v
       - name: Verify synthetic OKR/KPI analysis
-        run: python -m unittest discover -s 'Business Enablement & AI Workflow Automation/tests' -p 'test_enablement_dashboard.py' -v
+        run: python -m unittest discover -s 'AI Transformation/Business Enablement & AI Workflow Automation/tests' -p 'test_enablement_dashboard.py' -v
