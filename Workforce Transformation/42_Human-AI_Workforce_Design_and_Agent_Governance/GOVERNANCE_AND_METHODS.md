@@ -49,6 +49,6 @@
 | Authentication, PII handling and compliance | **Not tested** | Access control, DLP, DPIA/legal review and independent penetration assessment |
 
 ## Current release decision
-**HOLD.** Two false-negative intent matches exist and Microsoft tenant execution, privacy assessment, independent QA and production controls have not been completed. Observed outputs are captured in [Project 43 evidence](../43_Microsoft_Copilot_Studio_HR_Service_Agent_Prototype/evidence/2026-10-29_test_run.json). Earlier [12-row CSV](data/agent_assessment_cases.csv) remains a separate, hand-authored **synthetic scoring exercise** and must not be presented as model test evidence.
+**HOLD.** Two false-negative intent matches exist and Microsoft tenant execution, privacy assessment, independent QA and production controls have not been completed. Observed outputs are captured in [Project 43 evidence](../../Agentic%20AI%20development/AI%20in%20HR%20%26%20Agentic%20Automation/43_Microsoft_Copilot_Studio_HR_Service_Agent_Prototype/evidence/2026-10-29_test_run.json). Earlier [12-row CSV](data/agent_assessment_cases.csv) remains a separate, hand-authored **synthetic scoring exercise** and must not be presented as model test evidence.
 
 References: https://www.nist.gov/itl/ai-risk-management-framework ; https://learn.microsoft.com/en-us/microsoft-copilot-studio/ ; https://learn.microsoft.com/en-us/power-automate/
