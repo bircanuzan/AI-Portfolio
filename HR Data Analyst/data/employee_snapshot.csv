@@ -1,0 +1,10 @@
+employee_id,division,as_of,status,fte,emiratisation_group,annual_cost_aed
+SYN001,Finance,2026-10-31,Active,1,Emirati,280000
+SYN002,Finance,2026-10-31,Active,1,Other,300000
+SYN003,Finance,2026-10-31,Active,1,Emirati,240000
+SYN004,Technology,2026-10-31,Active,1,Other,360000
+SYN005,Technology,2026-10-31,Active,1,Other,310000
+SYN006,Retail,2026-10-31,Active,1,Emirati,220000
+SYN007,Retail,2026-10-31,Active,1,Other,190000
+SYN008,Retail,2026-10-31,Active,1,Other,195000
+SYN009,Retail,2026-10-31,Inactive,0.5,Other,100000
