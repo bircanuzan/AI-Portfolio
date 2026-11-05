@@ -21,7 +21,7 @@ python -m unittest discover -s tests -v
 ```
 
 - [Architecture and full pipeline](engineering/docs/ARCHITECTURE.md)
-- [ai_enterprise requirement-by-requirement skill mapping](engineering/docs/ai_enterprise_SKILL_MATRIX.md)
+- [ai_enterprise requirement-by-requirement skill mapping](engineering/docs/ROLE_SKILL_MATRIX.md)
 - [Actual recorded Python evaluation results](engineering/evidence/2026-10-30_python_local_evaluation.json)
 - [Executed local HTTP smoke evidence](engineering/evidence/local_http_smoke.json)
 - [Cloud integrations and limits](engineering/docs/CLOUD_DEPLOYMENT.md)
