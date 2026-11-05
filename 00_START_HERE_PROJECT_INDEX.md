@@ -59,7 +59,7 @@
 - **[Talent Assessment](Talent%20Assessment/)** — four assessment and evidence-led evaluation projects, including psychometric interpretation and assessment-centre methods.
 - **[Instructional Design and Talent Development](Talent%20Development/Instructional%20Design%20and%20Talent%20Development/)** — 16 learning design, learning measurement, capability development and enablement projects.
 
-- [Enterprise agent consulting and CRM opportunity value mapping](24_Applied_AI_Transformation_Manager_MENA/05_enterprise_crm_Enterprise_Agent_Consulting_and_CRM_Transformation.md) — no-code/process redesign, agent architecture, APIs/MCP, scenario scoring and executive rollout proposal.
+- [Enterprise agent consulting and CRM opportunity value mapping](AI%20Transformation/24_Applied_AI_Transformation_Manager_MENA/05_Enterprise_Agent_Consulting_and_CRM_Transformation.md) — no-code/process redesign, agent architecture, APIs/MCP, scenario scoring and executive rollout proposal.
 - [Business Enablement & AI Workflow Automation](AI%20Transformation/Business%20Enablement%20%26%20AI%20Workflow%20Automation/README.md) — a new parent project for operations_group-style OKRs, n8n draft workflows, SOPs, RACI, change adoption and synthetic KPI reporting.
 - [QA Engineering API Automation Lab](AI%20Model%20Training%20%26%20Evaluation%20Freelancer%20Project/28_AI_Testing_and_Quality_Review/qa_demo/README.md) — software_group-style functional, API, integration and regression tests, defect template, Postman, optional Playwright and GitHub Actions CI.
 
