@@ -6,7 +6,7 @@
 - [20 fictional input prompts + independently authored expected routes](data/hr_policy_20_evaluation_cases.csv)
 - [Offline deterministic Python router and evaluator](scripts/policy_evaluator.py)
 - [Reference-rule execution summary and individual cases](evidence/local_deterministic_evaluation.json)
-- Related independently developed [Project 43 HR service agent](../43_Microsoft_Copilot_Studio_HR_Service_Agent_Prototype/)
+- Related independently developed [Project 43 HR service agent](../../Agentic%20AI%20development/AI%20in%20HR%20%26%20Agentic%20Automation/43_Microsoft_Copilot_Studio_HR_Service_Agent_Prototype/)
 
 **Local system design:** rule-based route selection with five fictional policy topics: leave, sick leave, remote work, payroll cycle and overtime. Sensitive or third-party employee information gets a REFUSE result; explicit policy exceptions/harassment/appeals get ESCALATE; unknown questions are not hallucinated.
 
