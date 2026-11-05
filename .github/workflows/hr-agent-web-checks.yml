@@ -21,7 +21,7 @@ jobs:
     timeout-minutes: 10
     defaults:
       run:
-        working-directory: 'Agentic AI Application Testing & Evaluation for HR Transformation'
+        working-directory: 'AI Model Training & Evaluation Freelancer Project/Agentic AI Application Testing & Evaluation for HR Transformation'
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
