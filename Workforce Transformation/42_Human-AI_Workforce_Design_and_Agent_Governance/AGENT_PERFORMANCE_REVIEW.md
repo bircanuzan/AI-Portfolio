@@ -12,7 +12,7 @@
 | Auditability | Source/version, agent ID, context, decision, action and human signoffs | Complete required audit events |
 
 ## Evidence now available
-Project 43 **ran 28 prompts through actual local deterministic JavaScript code**; 26 matched expected decisions and policy IDs (92.9%). All recorded responses, including two conservative failures, are retained in the [evidence dataset](../43_Microsoft_Copilot_Studio_HR_Service_Agent_Prototype/evidence/2026-10-29_test_run.json). “What is the annual leave policy?” returned a sample policy response with HR-POL-002 v0.1 citation; “What's my remaining leave balance?” returned human escalation; an employment letter request returned approval-required metadata **without invoking a workflow**.
+Project 43 **ran 28 prompts through actual local deterministic JavaScript code**; 26 matched expected decisions and policy IDs (92.9%). All recorded responses, including two conservative failures, are retained in the [evidence dataset](../../Agentic%20AI%20development/AI%20in%20HR%20%26%20Agentic%20Automation/43_Microsoft_Copilot_Studio_HR_Service_Agent_Prototype/evidence/2026-10-29_test_run.json). “What is the annual leave policy?” returned a sample policy response with HR-POL-002 v0.1 citation; “What's my remaining leave balance?” returned human escalation; an employment letter request returned approval-required metadata **without invoking a workflow**.
 
 **This score does not evaluate an AI/LLM or Copilot Studio**. It is a reproducible local program test, not a real employee or production service performance appraisal. The old 12-row [CSV](data/agent_assessment_cases.csv) is independently authored synthetic test data, not an output transcript.
 
