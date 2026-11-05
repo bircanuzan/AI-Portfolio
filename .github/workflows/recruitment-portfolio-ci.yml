@@ -44,7 +44,7 @@ jobs:
           cases=[
             ('/tmp/hc_role.json',base/'01_AI_Enabled_Recruitment_Healthcare/evidence/role_readiness.json'),
             ('/tmp/recruitment_capacity.json',base/'07_Talent_Workforce_Intelligence/evidence/synthetic_capacity_report.json'),
-            ('/tmp/recruitment_hold.json',base/'55_AI_Recruitment_Screening_Risk_Assessment/evidence/recruitment_release_gate.json'),
+            ('/tmp/recruitment_hold.json',base/'AI-enabled Recruitment Portfolio/Legacy Navigation/55_AI_Recruitment_Screening_Risk_Assessment/evidence/recruitment_release_gate.json'),
           ]
           for current,committed in cases:
             assert json.loads(Path(current).read_text())==json.loads(committed.read_text()),str(committed)+' has changed'
