@@ -2,7 +2,7 @@
 
 **Project type:** Independent portfolio / illustrative operating model (2026)  
 **Context:** UAE multi-account employer / contact-centre-style workforce  
-**Status:** Proposed design and sample controls; **not** a production implementation at sector_organization.  
+**Status:** Proposed design and sample controls; **not** a production implementation for an employer.  
 **Prepared by:** Bircan Uzan | HumanEvoX
 
 ## Objective
@@ -23,9 +23,9 @@ Build a repeatable and auditable HR Shared Services framework linking recruitmen
 - [Sample recruitment & joining tracker](samples/recruitment_onboarding_tracker_SAMPLE.csv)
 
 ## Experience basis and integrity
-Bircan's **delivered work** includes operational leadership at sector_organization Outsourcing (10-person team, approximately 210 enterprise accounts), regional recruitment/workforce delivery at sector_organization, HR programme governance, stakeholder coordination, vendor controls and Oracle HCM experience. Templates in this folder are independent design artifacts informed by that experience. They **do not** claim direct employment at sector_organization, direct government submission of visa cases, or a deployed immigration IT system.
+Bircan's **delivered work** includes operational leadership at an outsourcing services provider (10-person team, approximately 210 enterprise accounts), regional recruitment/workforce delivery, HR programme governance, stakeholder coordination, vendor controls and Oracle HCM experience. Templates in this folder are independent design artifacts informed by that experience. They **do not** claim delivery for the employer whose vacancy informed this example, direct government submission of visa cases, or a deployed immigration IT system.
 
 ## Privacy, policy and legal boundaries
 All sample records are fictitious and contain no passport, Emirates ID or other personal documents. UAE-specific regulations, processing thresholds, free-zone rules, and government pathways must be validated by authorised PRO, HR Legal and the relevant authority before implementation. Never store live identity documents in a public GitHub repository.
 
-**Job alignment:** HR Shared Services Supervisor - sector_organization Dubai, requisition R1774165. [Employer vacancy](https://cnx.wd1.myworkdayjobs.com/external_global/job/ARE-Dubai---Property-BCB2-515-Dubai-CommerCity/HR-Shared-Services-Supervisor_R1774165).
+**Role alignment:** UAE HR Shared Services Supervisor — PRO and immigration coordination, employee administration, recruitment, service KPIs and workforce readiness.
