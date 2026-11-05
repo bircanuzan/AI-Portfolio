@@ -3,11 +3,11 @@ name: Responsible AI Governance - Risk-to-Release Assurance
 on:
   push:
     paths:
-      - "Responsible AI & AI Governance/**"
+      - "AI Governance, Risk & Responsible AI Portfolio/Responsible AI & AI Governance/**"
       - ".github/workflows/responsible-ai-governance-control-plane.yml"
   pull_request:
     paths:
-      - "Responsible AI & AI Governance/**"
+      - "AI Governance, Risk & Responsible AI Portfolio/Responsible AI & AI Governance/**"
   workflow_dispatch:
 
 jobs:
@@ -21,9 +21,9 @@ jobs:
         with:
           python-version: "3.11"
       - name: Run control plane unit and negative tests
-        run: python -m unittest discover -s "Responsible AI & AI Governance/01_AI_Factory_Governance_and_Agentic_Control_Plane/tests" -v
+        run: python -m unittest discover -s "AI Governance, Risk & Responsible AI Portfolio/Responsible AI & AI Governance/01_AI_Factory_Governance_and_Agentic_Control_Plane/tests" -v
       - name: Produce evidence-linked synthetic board pack
-        run: python "Responsible AI & AI Governance/01_AI_Factory_Governance_and_Agentic_Control_Plane/src/board_report.py" evidence
+        run: python "AI Governance, Risk & Responsible AI Portfolio/Responsible AI & AI Governance/01_AI_Factory_Governance_and_Agentic_Control_Plane/src/board_report.py" evidence
       - name: Preserve synthetic audit and board artifacts
         uses: actions/upload-artifact@v4
         with:
