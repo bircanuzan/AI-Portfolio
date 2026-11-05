@@ -2,13 +2,13 @@ name: AI QA and data-ops synthetic portfolio checks
 on:
   push:
     paths:
-      - '28_AI_Testing_and_Quality_Review/**'
-      - '39_Human_Data_Operations_Management/**'
+      - 'AI Model Training & Evaluation Freelancer Project/28_AI_Testing_and_Quality_Review/**'
+      - 'AI Model Training & Evaluation Freelancer Project/39_Human_Data_Operations_Management/**'
       - '.github/workflows/ai-qa-kraken-lilt-synthetic.yml'
   pull_request:
     paths:
-      - '28_AI_Testing_and_Quality_Review/**'
-      - '39_Human_Data_Operations_Management/**'
+      - 'AI Model Training & Evaluation Freelancer Project/28_AI_Testing_and_Quality_Review/**'
+      - 'AI Model Training & Evaluation Freelancer Project/39_Human_Data_Operations_Management/**'
       - '.github/workflows/ai-qa-kraken-lilt-synthetic.yml'
   workflow_dispatch:
 jobs:
