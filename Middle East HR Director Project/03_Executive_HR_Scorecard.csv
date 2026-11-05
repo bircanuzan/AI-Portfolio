@@ -1,0 +1,13 @@
+Domain,KPI,Definition,Frequency,Owner,Data_source,Initial_baseline,Target_or_tolerance,Escalation
+Workforce,Critical role vacancy rate,Open business-critical roles / approved critical roles,Monthly,Regional HR and Talent Acquisition,Approved position register,TBD,TBD,Regional GM and CHRO
+Workforce,Workforce plan variance,Actual FTE less approved FTE by country and function,Monthly,HR and Finance,HRIS and finance plan,TBD,TBD,Finance and Regional GM
+Recruitment,Time to fill critical roles,Median days from approved requisition to accepted offer,Monthly,Talent Acquisition,ATS,TBD,TBD,Regional HR Director
+Operations,Onboarding readiness rate,Joiners with mandatory checks completed before start / total joiners,Monthly,HR Operations,Onboarding tracker,TBD,TBD,HR Director and HSE as relevant
+Compliance,Documentation exceptions,Count of unresolved mandatory employee document gaps,Weekly,HR Operations,Validated local records,TBD,Zero for critical cases,Legal and HR Director
+Employee relations,Overdue ER actions,ER actions past the agreed response deadline,Weekly,Regional HR,Restricted ER register,TBD,Zero critical overdue,Legal / Compliance
+Talent,Succession readiness coverage,Critical roles with documented ready-now or development candidates / total critical roles,Quarterly,Talent Management,Succession plan,TBD,TBD,CHRO
+Retention,Regrettable attrition,Voluntary departures in agreed critical groups / average FTE in those groups,Quarterly,Regional HR,HRIS exit data,TBD,TBD,Regional GM
+Capability,Priority skills gap closure,Agreed capability actions completed / actions planned,Quarterly,L&D and Business,Capability plan,TBD,TBD,Regional GM
+Data,HRIS data completeness,Required country-level fields accurate and populated / audited records,Monthly,HRIS and HR Ops,Workday or equivalent,TBD,TBD,Global HRIS
+Reward,Reward-cycle exceptions,Unapproved or unresolved annual reward exceptions,During cycle,Global C&B and Regional HR,Reward-cycle log,TBD,Zero material exceptions,Global C&B / CHRO
+Engagement,Engagement action completion,Agreed actions completed / committed actions,Quarterly,Regional HR and Managers,Engagement action tracker,TBD,TBD,Regional GM
