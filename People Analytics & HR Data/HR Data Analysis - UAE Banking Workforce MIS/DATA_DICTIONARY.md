@@ -1,6 +1,6 @@
 # HR MIS Data Dictionary and Data Lineage
 
-**Case**: fictional October 2026 UAE-bank month-end. This dictionary is a proposed specification, not an ADIB or CBUAE data standard.
+**Case**: fictional October 2026 UAE-bank month-end. This dictionary is a proposed specification, not an the bank or CBUAE data standard.
 
 ## Grains and primary keys
 | Source | Grain | Primary key | Required fields | Control |
