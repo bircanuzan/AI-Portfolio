@@ -16,10 +16,10 @@ jobs:
         with:
           python-version: '3.11'
       - name: Run offline regression tests first
-        working-directory: 'Agentic AI Application Testing & Evaluation for HR Transformation'
+        working-directory: 'AI Model Training & Evaluation Freelancer Project/Agentic AI Application Testing & Evaluation for HR Transformation'
         run: python -m unittest discover -s tests -v
       - name: Download public Apache 2.0 Qwen quantized model
-        working-directory: 'Agentic AI Application Testing & Evaluation for HR Transformation'
+        working-directory: 'AI Model Training & Evaluation Freelancer Project/Agentic AI Application Testing & Evaluation for HR Transformation'
         run: |
           mkdir -p models
           curl --fail --location --retry 3 --retry-all-errors --connect-timeout 30 --max-time 480 \
@@ -27,7 +27,7 @@ jobs:
             "https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct-GGUF/resolve/main/qwen2.5-1.5b-instruct-q4_k_m.gguf"
           test "$(stat -c%s models/qwen.gguf)" -gt 1000000000
       - name: Start real language model with llama.cpp CPU server
-        working-directory: 'Agentic AI Application Testing & Evaluation for HR Transformation'
+        working-directory: 'AI Model Training & Evaluation Freelancer Project/Agentic AI Application Testing & Evaluation for HR Transformation'
         run: |
           docker run -d --rm --name hr-qwen-demo \
             -p 127.0.0.1:8080:8080 \
@@ -44,7 +44,7 @@ jobs:
           docker logs hr-qwen-demo || true
           exit 1
       - name: Evaluate real model completions and policy guardrails
-        working-directory: 'Agentic AI Application Testing & Evaluation for HR Transformation'
+        working-directory: 'AI Model Training & Evaluation Freelancer Project/Agentic AI Application Testing & Evaluation for HR Transformation'
         env:
           LOCAL_LLM_ENDPOINT: http://127.0.0.1:8080/v1/chat/completions
           LOCAL_LLM_MODEL: hr-qwen
