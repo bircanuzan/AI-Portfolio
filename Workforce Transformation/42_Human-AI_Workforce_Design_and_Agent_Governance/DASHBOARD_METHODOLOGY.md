@@ -17,7 +17,7 @@ These are **problem hypotheses**; no client interviews or customer discovery are
 
 ## 2. Evidence and methodology
 
-**Observed source:** [Project 43 — local HR service engine test evidence](../43_Microsoft_Copilot_Studio_HR_Service_Agent_Prototype/evidence/2026-10-29_test_run.json), captured 2026-10-29; source includes expected outcome, actual decision, source ID, human flag, external-action flag and a pass/fail adjudication for **28 authored prompts**.
+**Observed source:** [Project 43 — local HR service engine test evidence](../../Agentic%20AI%20development/AI%20in%20HR%20%26%20Agentic%20Automation/43_Microsoft_Copilot_Studio_HR_Service_Agent_Prototype/evidence/2026-10-29_test_run.json), captured 2026-10-29; source includes expected outcome, actual decision, source ID, human flag, external-action flag and a pass/fail adjudication for **28 authored prompts**.
 
 **Actual technology evaluated:** a locally executed, deterministic JavaScript rules engine, *not* a generative AI model, Microsoft Copilot Studio deployment or employee-facing product. No real personal data, employee records or external operations.
 
