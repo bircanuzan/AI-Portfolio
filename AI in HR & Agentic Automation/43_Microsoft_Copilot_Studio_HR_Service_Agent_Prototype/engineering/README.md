@@ -1,10 +1,10 @@
-# Project 43 engineering implementation — G42 / Inception42 Data Engineer skill map
+# Project 43 engineering implementation — ai_enterprise / ai_enterprise Data Engineer skill map
 
 **HR Service Agent | Python · SQL · local RAG/vector retrieval · REST API · governance · optional OpenAI/LangChain, Microsoft Foundry, n8n and Databricks**
 
 **Status (30 Oct 2026):** The offline engineering build and unit tests were executed with **synthetic UAE professional-services HR policies**. External OpenAI, Microsoft Foundry, n8n and Databricks workflows are **coded/integrated as optional adapters or prepared import artifacts but have not been provisioned, invoked or verified against live services**. This is *not* a production AI agent, client engagement, certified governance system or evidence of years of data engineering employment. AI-assisted source authoring is acknowledged.
 
-**Role reference:** [Inception42 / G42 — Data Engineer, 9 Oct 2026](https://jobs.g42.ai/Inception42/job/Abu-Dhabi-Data-Engineer-Abu/733373322/). It requests scalable ETL/ELT, Python, SQL/PySpark, agents on Azure Agent Foundry/OpenAI/LangChain/n8n, RAG/embeddings/vector and knowledge graphs, REST APIs, Databricks/Fabric and CI/CD/MLOps. This portfolio illustrates *selected concepts*; it does not satisfy production experience or all listed requirements.
+**Role reference:** [ai_enterprise / ai_enterprise — Data Engineer, 9 Oct 2026](https://jobs.ai_enterprise.ai/ai_enterprise/job/Abu-Dhabi-Data-Engineer-Abu/733373322/). It requests scalable ETL/ELT, Python, SQL/PySpark, agents on Azure Agent Foundry/OpenAI/LangChain/n8n, RAG/embeddings/vector and knowledge graphs, REST APIs, Databricks/Fabric and CI/CD/MLOps. This portfolio illustrates *selected concepts*; it does not satisfy production experience or all listed requirements.
 
 ## Reproduce the executed offline system (Python 3.10+, standard library only)
 
@@ -45,7 +45,7 @@ The API only binds to **127.0.0.1** and is **not ready for public access**. `/re
 
 ## Optional real-model / cloud integration paths — NOT executed here
 
-| Technology requested in G42 vacancy | Integration artifact | What it would take to verify |
+| Technology requested in ai_enterprise vacancy | Integration artifact | What it would take to verify |
 |---|---|---|
 | OpenAI + LangChain | `integrations/openai_langchain.py` implements `ChatOpenAI`, prompt chain, optional `OpenAIEmbeddings` and local-vector storage | API key, paid API usage, first real output/transcript, independent grading |
 | Azure AI Foundry / Foundry Agent Service | `integrations/azure/foundry_agent.py` provisions/invokes a versioned hosted agent using `AIProjectClient` and Entra auth | Real Azure subscription, Foundry project, deployment, RBAC, verified successful run and logs |
@@ -62,7 +62,7 @@ See [`evidence/2026-10-30_python_local_evaluation.json`](evidence/2026-10-30_pyt
 
 ## Read next
 
-- [G42 requirement-by-requirement skill mapping](docs/G42_SKILL_MATRIX.md)
+- [ai_enterprise requirement-by-requirement skill mapping](docs/ai_enterprise_SKILL_MATRIX.md)
 - [Architecture, data flow and technical decisions](docs/ARCHITECTURE.md)
 - [Evidence register, test protocol and limitations](docs/EVIDENCE_REGISTER.md)
 - [Security and agent governance (NIST AI RMF conceptual alignment)](docs/GOVERNANCE_SECURITY.md)

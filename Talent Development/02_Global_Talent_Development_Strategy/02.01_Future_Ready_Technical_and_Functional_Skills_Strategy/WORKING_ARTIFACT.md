@@ -1,7 +1,7 @@
 # Clean Energy Capability Demand Map
 **Project:** 02.01 — Future-Ready Technical and Functional Skills Strategy
 
-> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at Masdar.
+> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at clean_energy_group.
 
 ## Executive decision
 Define future proficiency requirements by job family technology and project stage.
@@ -14,7 +14,7 @@ Define future proficiency requirements by job family technology and project stag
 | Business problem | Solar wind BESS and hydrogen expansion changes technical and corporate skill demand |
 | Decision supported | Define future proficiency requirements by job family technology and project stage |
 | Proposed approach | Skills taxonomy; interviews; demand scenarios |
-| Mandatory validation | No inferred headcount is presented as actual Masdar payroll |
+| Mandatory validation | No inferred headcount is presented as actual clean_energy_group payroll |
 | Primary effectiveness measure | Priority future capabilities with a validated supply plan |
 | Executive owner | Business sponsor with Head of Talent Development as process owner |
 | Implementation status | Design / decision proposal — not implemented |

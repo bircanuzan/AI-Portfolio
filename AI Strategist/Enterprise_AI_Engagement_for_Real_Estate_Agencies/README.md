@@ -1,6 +1,6 @@
 # Enterprise AI Engagement: Lead-to-Viewing Productivity
 
-**Portfolio demonstration — synthetic data; not affiliated with Property Finder.**
+**Portfolio demonstration — synthetic data; not affiliated with sector_organization.**
 
 **Business sponsor:** hypothetical agency CEO. **Pod:** one engagement lead / AI product owner, two forward-deployed engineers (integration and workflow), shared analytics partner. **Pilot window:** 12 weeks, conditional on approved access and privacy review.
 

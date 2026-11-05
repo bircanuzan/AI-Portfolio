@@ -1,6 +1,6 @@
 # 10.04 — Handle Change Fatigue and Trust After AI Rollout
 
-**Portfolio status:** original strategy/design case with a worked artifact; synthetic clean-energy scenario; not a deployed Masdar system.
+**Portfolio status:** original strategy/design case with a worked artifact; synthetic clean-energy scenario; not a deployed clean_energy_group system.
 
 ## The business mandate
 Employees fear an AI learning recommendation engine will determine promotions. The proposed executive intervention is: **Explain model scope choice rights and human approvals then phase adoption**.
@@ -11,7 +11,7 @@ Employees fear an AI learning recommendation engine will determine promotions. T
 - [Shared case assumptions](../../00_SYNTHETIC_CASE_AND_EVIDENCE_BOUNDARY.md).
 
 ## Methods and proposed tools
-Prosci ADKAR; listening sessions; UX feedback. Technology references are proposed integration/assessment options only; current Masdar systems and software licenses are unverified.
+Prosci ADKAR; listening sessions; UX feedback. Technology references are proposed integration/assessment options only; current clean_energy_group systems and software licenses are unverified.
 
 ## Outcomes to demonstrate
 **Primary KPI:** Trust pulse and successful voluntary use. An authentic claim requires a signed baseline, real measured outcome, confounder assessment and owner approval.

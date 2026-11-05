@@ -1,7 +1,7 @@
 # Graduate Rotations and Competency Milestones
 **Project:** 09.01 — Emirati Graduate Development Programme
 
-> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at Masdar.
+> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at clean_energy_group.
 
 ## Executive decision
 Design supervised rotations and assessed milestones before placement.

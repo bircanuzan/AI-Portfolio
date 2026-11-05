@@ -1,4 +1,4 @@
-"""Offline MoonTech-inspired enablement metrics from SYNTHETIC campaign rows."""
+"""Offline operations_group-inspired enablement metrics from SYNTHETIC campaign rows."""
 from pathlib import Path
 import csv
 import json

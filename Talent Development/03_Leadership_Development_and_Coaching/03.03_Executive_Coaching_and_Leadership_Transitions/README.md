@@ -1,6 +1,6 @@
 # 03.03 — Executive Coaching and Leadership Transitions
 
-**Portfolio status:** original strategy/design case with a worked artifact; synthetic clean-energy scenario; not a deployed Masdar system.
+**Portfolio status:** original strategy/design case with a worked artifact; synthetic clean-energy scenario; not a deployed clean_energy_group system.
 
 ## The business mandate
 A new country head inherits cross-border stakeholders and unclear decision rights. The proposed executive intervention is: **Agree sponsor objectives confidentiality boundaries and transition milestones**.
@@ -11,7 +11,7 @@ A new country head inherits cross-border stakeholders and unclear decision right
 - [Shared case assumptions](../../00_SYNTHETIC_CASE_AND_EVIDENCE_BOUNDARY.md).
 
 ## Methods and proposed tools
-ICF-aligned coaching; 360 feedback; stakeholder mapping. Technology references are proposed integration/assessment options only; current Masdar systems and software licenses are unverified.
+ICF-aligned coaching; 360 feedback; stakeholder mapping. Technology references are proposed integration/assessment options only; current clean_energy_group systems and software licenses are unverified.
 
 ## Outcomes to demonstrate
 **Primary KPI:** Achievement of agreed transition deliverables. An authentic claim requires a signed baseline, real measured outcome, confounder assessment and owner approval.

@@ -1,6 +1,6 @@
 # AI Platform Training & Onboarding — Contact Center
 
-**Project type:** Original simulated enterprise onboarding package for AI image/video creative workflows. **No Concentrix affiliation, actual production onboarding, tested third-party model output, or completed platform certifications are claimed.**
+**Project type:** Original simulated enterprise onboarding package for AI image/video creative workflows. **No sector_organization affiliation, actual production onboarding, tested third-party model output, or completed platform certifications are claimed.**
 
 ## Scenario and goal
 A fictional UAE contact-center customer-support team has to create safe, brand-consistent visual and short-form training assets in an approved AI creative platform. The training specialist must onboard agents, teach prompting and media review, detect poor generations, escalate product defects, and hand off only competent agents to Operations.

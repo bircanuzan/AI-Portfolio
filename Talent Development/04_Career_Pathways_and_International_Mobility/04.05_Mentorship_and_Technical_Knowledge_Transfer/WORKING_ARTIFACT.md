@@ -1,7 +1,7 @@
 # Critical Expertise Transfer Plan
 **Project:** 04.05 — Mentorship and Technical Knowledge Transfer
 
-> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at Masdar.
+> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at clean_energy_group.
 
 ## Executive decision
 Record tacit knowledge and pair apprentices with measurable demonstrations.

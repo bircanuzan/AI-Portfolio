@@ -2,7 +2,7 @@
 
 Part of the HumanEvoX AI in HR portfolio. This folder is the navigation home for the talent & workforce intelligence case-study collection.
 
-**Portfolio PDF:** [Open the full portfolio](HumanEvoX_Talent_Workforce_Intelligence_Portfolio.pdf)
+**Portfolio PDF:** [Open the full portfolio](independent_portfolio_Talent_Workforce_Intelligence_Portfolio.pdf)
 
 > The original PDF is preserved inside this project folder. This is a business-side portfolio; it does not assert hands-on HRIS configuration or systems integration.
 

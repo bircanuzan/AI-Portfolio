@@ -1,7 +1,7 @@
 # Behaviourally Anchored Competency Dictionary
 **Project:** 05.02 — Behavioural Competency and Leadership Behaviours
 
-> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at Masdar.
+> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at clean_energy_group.
 
 ## Executive decision
 Write level-specific behavior indicators grounded in real work.
@@ -13,7 +13,7 @@ Write level-specific behavior indicators grounded in real work.
 |---|---|
 | Business problem | Cross-border projects require consistent accountability and stakeholder behaviors |
 | Decision supported | Write level-specific behavior indicators grounded in real work |
-| Proposed approach | BARS; role interviews; optional Korn Ferry reference |
+| Proposed approach | BARS; role interviews; optional sector_organization reference |
 | Mandatory validation | Avoid cultural stereotypes in behavior standards |
 | Primary effectiveness measure | Behavior rubric reliability across assessors |
 | Executive owner | Business sponsor with Head of Talent Development as process owner |

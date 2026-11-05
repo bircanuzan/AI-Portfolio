@@ -1,7 +1,7 @@
 # Coaching and Action-Learning Network Design
 **Project:** 03.05 — Coaching Culture Peer Mentoring and Action Learning
 
-> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at Masdar.
+> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at clean_energy_group.
 
 ## Executive decision
 Create peer sets and documented real-problem experiments.

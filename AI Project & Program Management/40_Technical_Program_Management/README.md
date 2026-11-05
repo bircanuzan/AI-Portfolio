@@ -49,6 +49,6 @@ The CLI reads CSV registers, calculates milestone adherence, open overdue work, 
 - **Ethics:** No synthetic examples are presented as live fraud-prevention accuracy, SOC certification, regulatory validation or proprietary architecture.
 
 ## CV alignment
-The tailored CV for this vacancy documents enterprise governance, cross-functional delivery, requirements gathering, cloud applications experience at Oracle and payment-system exposure at HSBC. This project shows how those **transferable** capabilities could be used in a technical financial-risk integration setting.
+The tailored CV for this vacancy documents enterprise governance, cross-functional delivery, requirements gathering, cloud applications experience at Oracle and payment-system exposure at sector_organization. This project shows how those **transferable** capabilities could be used in a technical financial-risk integration setting.
 
 [Project collection](../README.md) · [Back to portfolio index](../../README.md) · [HumanEvoX](https://humanevox.com)

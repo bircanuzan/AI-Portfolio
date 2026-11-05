@@ -11,7 +11,7 @@ A curated HumanEvoX portfolio of sixteen independent **Instructional Design, Lea
 - [32_SCORM_Learning_Design](32_SCORM_Learning_Design/)
 - [33_Instructional_Video_Design_and_QA](33_Instructional_Video_Design_and_QA/)
 - [Global_Product_Training_and_Learning_Program_Management](Global_Product_Training_and_Learning_Program_Management/)
-- [Instructional-Design-Digital-Learning-EFS-Portfolio-2026](Instructional-Design-Digital-Learning-EFS-Portfolio-2026/)
+- [Instructional-Design-Digital-Learning-service_operations-Portfolio-2026](Instructional-Design-Digital-Learning-service_operations-Portfolio-2026/)
 
 ## Learning and talent development workflow designs
 

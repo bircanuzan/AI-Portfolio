@@ -1,6 +1,6 @@
 # 02.03 — Diagnose Learning Demand Before Selecting Courses
 
-**Portfolio status:** original strategy/design case with a worked artifact; synthetic clean-energy scenario; not a deployed Masdar system.
+**Portfolio status:** original strategy/design case with a worked artifact; synthetic clean-energy scenario; not a deployed clean_energy_group system.
 
 ## The business mandate
 A solar team requests negotiation training after recurrent procurement delays. The proposed executive intervention is: **Test whether the problem is a skill gap or a procurement workflow failure before purchasing courses**.
@@ -11,7 +11,7 @@ A solar team requests negotiation training after recurrent procurement delays. T
 - [Shared case assumptions](../../00_SYNTHETIC_CASE_AND_EVIDENCE_BOUNDARY.md).
 
 ## Methods and proposed tools
-Performance consulting; stakeholder interviews; 5 Whys. Technology references are proposed integration/assessment options only; current Masdar systems and software licenses are unverified.
+Performance consulting; stakeholder interviews; 5 Whys. Technology references are proposed integration/assessment options only; current clean_energy_group systems and software licenses are unverified.
 
 ## Outcomes to demonstrate
 **Primary KPI:** Percentage of requests with confirmed root cause. An authentic claim requires a signed baseline, real measured outcome, confounder assessment and owner approval.

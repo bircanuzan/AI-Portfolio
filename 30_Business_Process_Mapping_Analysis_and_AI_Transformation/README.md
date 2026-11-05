@@ -1,4 +1,4 @@
-## Linked new applied business-enablement project — MoonTech Business Enablement Specialist
+## Linked new applied business-enablement project — operations_group Business Enablement Specialist
 
 - [Business Enablement & AI Workflow Automation](../Business%20Enablement%20%26%20AI%20Workflow%20Automation/README.md): a separate cross-functional creator-commerce *synthetic* operating case building on this project's process mapping and opportunity assessment.
 - New competencies: quarterly OKR cascade and check-ins, SOPs and RACI ownership, CRM/marketing SaaS handoffs, n8n low-code draft workflow, Zapier/Make implementation mapping, KPI reporting with Python, adoption workshops and operating cadence.

@@ -13,9 +13,9 @@
 Who can authorize what a digital worker is allowed to do, how is its output checked, when should it hand back to a human, and how is its performance monitored, suspended or retired?
 
 ## Leadership research alignment
-- G42 discussions: agent job descriptions, permissions, probation, performance reviews and enduring human accountability.
+- ai_enterprise discussions: agent job descriptions, permissions, probation, performance reviews and enduring human accountability.
 - CHRO discussions: override, escalation, audit trail and redesigning managers to supervise human-agent teams.
-- ADNOC company-level initiatives: employee-built agent ecosystems and marketplaces; this exercise **does not claim ADNOC participation, access to OpenAI Frontier or production integration**.
+- sector_organization company-level initiatives: employee-built agent ecosystems and marketplaces; this exercise **does not claim sector_organization participation, access to OpenAI Frontier or production integration**.
 - MOHRE context: data integrity and fair, accountable workforce-facing processes.
 
 ## Demonstration

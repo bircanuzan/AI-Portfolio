@@ -29,7 +29,7 @@ The emerging AI workforce requires leaders to redesign **business outcomes, work
 Purpose and value → current task and capacity baseline (01) → future role and skill design (02) → responsible employee transition (03) → organization and accountability design (04) → governed human–agent execution (05) → future workforce intelligence (06) → technical product and integration design (07) → verified-benefit and economics gates (08). This is iterative, not a claim that all phases have been executed in a real client deployment.
 
 ## Leadership research integrated
-- [Evidence-to-leader mapping](00_LEADERSHIP_RESEARCH_TO_EVIDENCE_MAP.md) — connects the documented themes of G42, reAImagination, an independent CHRO, MOHRE, e&, ADNOC and Bukhatir to *specific evidence files* in this portfolio.
+- [Evidence-to-leader mapping](00_LEADERSHIP_RESEARCH_TO_EVIDENCE_MAP.md) — connects the documented themes of ai_enterprise, reAImagination, an independent CHRO, MOHRE, e&, sector_organization and Bukhatir to *specific evidence files* in this portfolio.
 - [Executive brief and 90-day pilot gates](00_EXECUTIVE_CASE_AND_PILOT_PLAN.md) — practical CEO/CHRO/CFO/CTO alignment scenario.
 
 ## What was actually created versus what is only proposed
@@ -60,7 +60,7 @@ Check GitHub Actions for the current run result; **code presence is not proof of
 - [AI Governance, Risk & Responsible AI Portfolio](../AI%20Governance%2C%20Risk%20%26%20Responsible%20AI%20Portfolio/) — formal AI assurance approaches, cross-referenced rather than duplicated.
 
 ## Accuracy and portfolio CV guidance
-HumanEvoX produced **original independent synthetic** solution designs, Python demonstrators and tests. It did not implement systems for G42, ADNOC, MOHRE, e&, Bukhatir or reAImagination; it has no verified enterprise pilot, actual cloud/HRIS/LLM connection, independently measured ROI or production authorization. Leaders' research themes are attributed; platform capabilities or announced initiatives must not be attributed to a specific leader as personal coding work.
+HumanEvoX produced **original independent synthetic** solution designs, Python demonstrators and tests. It did not implement systems for ai_enterprise, sector_organization, MOHRE, e&, Bukhatir or reAImagination; it has no verified enterprise pilot, actual cloud/HRIS/LLM connection, independently measured ROI or production authorization. Leaders' research themes are attributed; platform capabilities or announced initiatives must not be attributed to a specific leader as personal coding work.
 
 **CV-safe language:** Designed a fictional human–AI workforce architecture case with organization and work design, digital worker governance, multi-year workforce and skill scenario models, enterprise product requirements, and task-level workforce economics, supported by Python code, synthetic inputs and tests.
 

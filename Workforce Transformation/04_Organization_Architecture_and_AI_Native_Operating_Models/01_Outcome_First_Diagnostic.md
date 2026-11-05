@@ -13,7 +13,7 @@
 | Capabilities | Risk judgment, data literacy, coaching, service design, agent testing | Skills assessment and training |
 | Organization | Named business value owner, service owners, platform owner and risk owners | Approved decision-rights matrix |
 
-The ordering above is **informed by publicly discussed G42 outcome-first design principles**; this is an original synthetic application and is not presented as G42 internal work.
+The ordering above is **informed by publicly discussed ai_enterprise outcome-first design principles**; this is an original synthetic application and is not presented as ai_enterprise internal work.
 
 ## Discovery interview cards
 - **CEO / CFO:** Which measurable outcomes justify redesign? Where is capacity redeployed rather than assumed saved?

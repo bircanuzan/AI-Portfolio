@@ -8,7 +8,7 @@ Make AI a governed component of the enterprise operating model, rather than a co
 ## Initial discovery questions
 Interview Engineering, Architecture, Product, QA, Commercial, Security, Compliance, Customer Success and select consenting clients. Map **outcomes -> processes -> tasks -> data -> decision rights -> AI vs human allocation**. Capture software delivery lead time, QA escape rate, manual KYB handling time and tool spend.
 
-## Portfolio prioritization (illustrative, not actual norbloc priorities)
+## Portfolio prioritization (illustrative, not actual sector_organization priorities)
 | Opportunity | Value hypothesis | Dependency | Starting recommendation |
 |---|---|---|---|
 | Code assistance | Reduce routine coding and documentation cycle time | secure code policies, IP controls, pilot champions | pilot |

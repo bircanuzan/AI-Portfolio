@@ -1,7 +1,7 @@
 # Successor Readiness Sprint Plan
 **Project:** 08.03 — Successor Development and Readiness Acceleration
 
-> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at Masdar.
+> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at clean_energy_group.
 
 ## Executive decision
 Assign acting responsibilities sponsor checkpoints and evidence-based review.

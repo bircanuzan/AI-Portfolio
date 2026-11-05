@@ -17,7 +17,7 @@ Annual 3-year scenario cycle; monthly actual vs plan; quarterly rolling forecast
 - Workforce bridge = start FTE + approved hires – forecast exits ± internal transfers. Track exact position and entity lineage.
 
 ## Case constraints
-Fictional Group approved positions by entity: Corporate 5, Investment 3, Infrastructure 3. The sample contains **9 active position records**, six filled. The budget and grade settings are illustrative, not Dubai Holding costs. The engine explicitly calculates each entity run-rate and flags when the model's approved record count exceeds cap or cost exceeds budget.
+Fictional Group approved positions by entity: Corporate 5, Investment 3, Infrastructure 3. The sample contains **9 active position records**, six filled. The budget and grade settings are illustrative, not sector_organization costs. The engine explicitly calculates each entity run-rate and flags when the model's approved record count exceeds cap or cost exceeds budget.
 
 ## Scenarios to present
 - **Base:** hold current positions, fill only approved critical vacancies.

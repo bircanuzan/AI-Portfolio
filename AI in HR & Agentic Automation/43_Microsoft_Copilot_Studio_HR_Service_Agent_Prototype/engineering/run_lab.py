@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Run the G42-aligned local demo without third-party packages."""
+"""Run the ai_enterprise-aligned local demo without third-party packages."""
 import argparse
 import hashlib
 import json

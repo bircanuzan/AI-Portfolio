@@ -1,7 +1,7 @@
 # Three-Year Build Buy Borrow Bot Scenario
 **Project:** 08.05 — Strategic Workforce Planning for Clean Energy Transition
 
-> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at Masdar.
+> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at clean_energy_group.
 
 ## Executive decision
 Compare hiring reskilling contractors and approved automation on cost speed and risk.

@@ -1,8 +1,8 @@
 # HR Operations Manager ( in-charge of HR Systems, Analytics & Automation)
 
-**Role-aligned independent portfolio | Al Ramz Corporation P.J.S.C. vacancy | UAE financial-services scenario | 3 November 2026**
+**Role-aligned independent portfolio | sector_organization Corporation P.J.S.C. vacancy | UAE financial-services scenario | 3 November 2026**
 
-> **Evidence standard:** This is an original, fictional case built with synthetic employee/payroll data. It demonstrates an operating model, reproducible offline control checks, Power BI measure specifications, a process redesign and test cases. It is **not** an Al Ramz implementation, bank/HRMS integration, live payroll operation, professional legal opinion, Power BI tenant deployment, or proof of holding a prior HR Operations Manager appointment.
+> **Evidence standard:** This is an original, fictional case built with synthetic employee/payroll data. It demonstrates an operating model, reproducible offline control checks, Power BI measure specifications, a process redesign and test cases. It is **not** an sector_organization implementation, bank/HRMS integration, live payroll operation, professional legal opinion, Power BI tenant deployment, or proof of holding a prior HR Operations Manager appointment.
 
 ## Executive challenge
 Assume a growing UAE financial-services employer has fragmented employee lifecycle records, inconsistent payroll exception handling, untracked end-of-service (EOS) handoffs, insufficient audit trails and limited people reporting. Design an HR Operations control tower that enables safe business decisions without giving AI authority over pay, entitlements or employment outcomes.
@@ -17,7 +17,7 @@ Assume a growing UAE financial-services employer has fragmented employee lifecyc
 | Governance and data integrity | [Control register and UAT](05_Risk_Governance_and_UAT.md) | RBAC, segregation of duties, audit logs, UAE privacy law considerations |
 | Financial-services HR operations leadership | [90-day implementation and interview case](06_30_60_90_Day_Plan_and_Interview_Case.md) | Stakeholder governance, risk-based prioritisation, KPIs, adoption |
 
-## Reproducible mini-demonstration (offline, not connected to Al Ramz)
+## Reproducible mini-demonstration (offline, not connected to sector_organization)
 Run from this project directory with Python 3.10+; no packages, secrets or network access:
 ```bash
 python demo/hr_ops_control_tower.py
@@ -27,7 +27,7 @@ The script reads `demo/employees.csv` and `demo/payroll_batch.csv`, checks HRMS-
 
 ## Professional evidence boundary
 - Relevant background: large-scale workforce operations, recruitment delivery, leadership/capability programmes, HR technology functional discovery and process design.
-- New case-study artefacts: original synthetic demonstration and business-side operating model. Avoid describing as previous financial-services HRMS ownership or actual Al Ramz client work.
+- New case-study artefacts: original synthetic demonstration and business-side operating model. Avoid describing as previous financial-services HRMS ownership or actual sector_organization client work.
 - Financial-sector emphasis: controls, dual authorisation, auditable exception closure, HR/payroll/IT/Compliance ownership and sensitive-data minimisation.
 
 ## Reused work, not duplicated

@@ -1,6 +1,6 @@
-# Dubai Holding Executive Director — Organisation Effectiveness | Requirements Traceability
+# sector_organization Executive Director — Organisation Effectiveness | Requirements Traceability
 
-The supplied job description is only an external role-requirements reference. The case **does not represent Dubai Holding data, consultancy work or employment**.
+The supplied job description is only an external role-requirements reference. The case **does not represent sector_organization data, consultancy work or employment**.
 
 | Role accountability | Evidence here | Decision artifact |
 |---|---|---|

@@ -1,6 +1,6 @@
 # AI Portfolio & Governance PMO (ServiceNow, SPM)
 
-**Project 38 | Dubai Holding role-aligned, fictional enterprise AI portfolio case | Bircan Uzan | 29 October 2026**
+**Project 38 | sector_organization role-aligned, fictional enterprise AI portfolio case | Bircan Uzan | 29 October 2026**
 
 > **Scope truth:** This is an original **ServiceNow Strategic Portfolio Management (SPM)-aligned simulation** using synthetic CSV records and standard-library Python. It is **not** a configured ServiceNow instance, live integration, product certification, client engagement or evidence of production ServiceNow SPM administration. The example SPM field mappings and stage gates require validation against the actual licensed ServiceNow release, modules, ACLs and local configuration.
 
@@ -41,8 +41,8 @@ The evaluator reads CSVs from the project directory regardless of working direct
 The sample dataset deliberately includes a missing approval, stale milestone and funding shortfall. These are not errors in a real organisation; they are test cases for raising the governance issues a Portfolio Manager should identify.
 
 ## References
-- Dubai Holding role description (LinkedIn employer post): https://ae.linkedin.com/jobs/view/ai-portfolio-governance-manager-at-dubai-holding-4472128390
+- sector_organization role description (LinkedIn employer post): https://ae.linkedin.com/jobs/view/ai-portfolio-governance-manager-at-sector_organization-4472128390
 - ServiceNow official project and portfolio funding: https://www.servicenow.com/docs/r/it-business-management/project-management/c_ProjectAndPortfolioFunding.html
 - ServiceNow CIS-SPM scope and exam blueprint: https://learning.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0011561
 
-*Independent portfolio demonstration — not affiliated with Dubai Holding or ServiceNow.*
+*Independent portfolio demonstration — not affiliated with sector_organization or ServiceNow.*

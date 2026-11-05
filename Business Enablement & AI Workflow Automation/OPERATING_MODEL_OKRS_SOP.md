@@ -1,7 +1,7 @@
 # Operating model, quarterly OKRs, process map and SOPs (synthetic)
 
 ## Team context / discovery
-Sales receives creator-marketing campaign briefs; operations checks completeness; creator team matches profiles; brand lead approves shortlist; execution monitors delivery; finance/data team validates conversion attribution. This is a **generic synthetic scenario**, not MoonTech's proprietary operations.
+Sales receives creator-marketing campaign briefs; operations checks completeness; creator team matches profiles; brand lead approves shortlist; execution monitors delivery; finance/data team validates conversion attribution. This is a **generic synthetic scenario**, not operations_group's proprietary operations.
 
 Ask owners: Which campaign attributes are compulsory? Current CRM data quality? How are approvals logged? Who owns creator eligibility? Average time in each stage? Missing-brief and rework rates? Which attribution data can be independently verified? Are consumer and creator consent standards documented?
 

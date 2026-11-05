@@ -1,7 +1,7 @@
 # Role-Based Adaptive Learning Journey Blueprint
 **Project:** 06.02 — Personalized Learning Journeys
 
-> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at Masdar.
+> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at clean_energy_group.
 
 ## Executive decision
 Sequence verified prerequisites assessments and experiential assignments.

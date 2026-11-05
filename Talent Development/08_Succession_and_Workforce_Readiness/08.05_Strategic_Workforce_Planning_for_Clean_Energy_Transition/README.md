@@ -1,6 +1,6 @@
 # 08.05 — Strategic Workforce Planning for Clean Energy Transition
 
-**Portfolio status:** original strategy/design case with a worked artifact; synthetic clean-energy scenario; not a deployed Masdar system.
+**Portfolio status:** original strategy/design case with a worked artifact; synthetic clean-energy scenario; not a deployed clean_energy_group system.
 
 ## The business mandate
 Storage expansion raises future commissioning and analytics demand. The proposed executive intervention is: **Compare hiring reskilling contractors and approved automation on cost speed and risk**.
@@ -11,7 +11,7 @@ Storage expansion raises future commissioning and analytics demand. The proposed
 - [Shared case assumptions](../../00_SYNTHETIC_CASE_AND_EVIDENCE_BOUNDARY.md).
 
 ## Methods and proposed tools
-Demand forecasting; supply model; Python/Excel candidate. Technology references are proposed integration/assessment options only; current Masdar systems and software licenses are unverified.
+Demand forecasting; supply model; Python/Excel candidate. Technology references are proposed integration/assessment options only; current clean_energy_group systems and software licenses are unverified.
 
 ## Outcomes to demonstrate
 **Primary KPI:** Scenario-adjusted talent readiness at project gate. An authentic claim requires a signed baseline, real measured outcome, confounder assessment and owner approval.

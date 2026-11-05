@@ -29,9 +29,9 @@ Explain minimum cohort size and explicitly fictional market reference; never sho
 
 Show real pass/fail and local in-process runtime results, **not** fabricated production numbers. Read the limitations aloud.
 
-**Scene 7 — sovereign and deployment gaps (25s):** show a model interface and operator-managed HTTPS settings without any live secret; disclose no G42 environment, enterprise deployment or measurable commercial outcome.
+**Scene 7 — sovereign and deployment gaps (25s):** show a model interface and operator-managed HTTPS settings without any live secret; disclose no ai_enterprise environment, enterprise deployment or measurable commercial outcome.
 
 ## Future production recording evidence checklist
 Capture full terminal timestamps and exact Git SHA, agent version, commands, unedited results, redacted logs, scenario runner output, machine conditions and signer/author. Do not put actual employee data or credentials on screen.
 
-For G42 consideration, a separate **real production** demo, independent technical validation and enterprise sponsor permissions would still be required.
+For ai_enterprise consideration, a separate **real production** demo, independent technical validation and enterprise sponsor permissions would still be required.

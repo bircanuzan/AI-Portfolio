@@ -1,6 +1,6 @@
 # Synthetic KYB exception-routing prototype
 
-A minimal, reproducible Python standard-library example for an **AI-ready** KYC/KYB workflow. It intentionally does not call live AI APIs or represent deployed norbloc functionality.
+A minimal, reproducible Python standard-library example for an **AI-ready** KYC/KYB workflow. It intentionally does not call live AI APIs or represent deployed sector_organization functionality.
 
 ## What is real in this example
 - Runs deterministic field validation against structured records using synthetic entities.

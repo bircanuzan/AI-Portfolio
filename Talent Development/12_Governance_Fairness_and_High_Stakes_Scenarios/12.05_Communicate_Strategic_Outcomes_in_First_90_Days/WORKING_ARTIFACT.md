@@ -1,7 +1,7 @@
 # 30-60-90 Executive Talent Transition Brief
 **Project:** 12.05 — Communicate Strategic Outcomes in First 90 Days
 
-> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at Masdar.
+> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at clean_energy_group.
 
 ## Executive decision
 Deliver diagnostic by day 60 and seek approval for funded 12-month plan by day 90.

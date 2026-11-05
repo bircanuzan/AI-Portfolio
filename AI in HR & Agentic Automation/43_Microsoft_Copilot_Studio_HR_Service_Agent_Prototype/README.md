@@ -1,14 +1,14 @@
-# Microsoft Copilot Studio — HR Service Agent & G42-Aligned AI/Data Engineering Lab
+# Microsoft Copilot Studio — HR Service Agent & ai_enterprise-Aligned AI/Data Engineering Lab
 
 **Project 43 | HumanEvoX | 30 October 2026**
 
 > **Current evidence status:** Working **local** JavaScript and Python/SQLite HR-policy prototypes, reproducible evaluation harness, local REST service and authored operational governance. OpenAI/LangChain, Microsoft Foundry (Azure Agent Foundry), n8n, PySpark/Databricks, Microsoft Fabric and Copilot Studio remain **optional integration code or implementation designs, not tested cloud deployments**. No enterprise customer, production AI model, paid API invocation, Azure resource, actual employee data, real human approval, or employment outcome is claimed.
 
-## NEW — G42-aligned Python and data-engineering implementation
+## NEW — ai_enterprise-aligned Python and data-engineering implementation
 
 **[Open the engineering project — Python, SQL, RAG, REST, OpenAI/LangChain, Azure Foundry, n8n, PySpark, CI/CD](engineering/README.md)**
 
-This second phase is mapped directly to the official [Inception42 / G42 Data Engineer vacancy dated 9 October 2026](https://jobs.g42.ai/Inception42/job/Abu-Dhabi-Data-Engineer-Abu/733373322/). Its goal is to translate an HR service and agent-governance problem into a more technical demonstration: source-quality ETL, SQLite storage, small local vector index, versioned citations, decision routing, human queue, REST API, unit tests and real executed evaluation records.
+This second phase is mapped directly to the official [ai_enterprise / ai_enterprise Data Engineer vacancy dated 9 October 2026](https://jobs.ai_enterprise.ai/ai_enterprise/job/Abu-Dhabi-Data-Engineer-Abu/733373322/). Its goal is to translate an HR service and agent-governance problem into a more technical demonstration: source-quality ETL, SQLite storage, small local vector index, versioned citations, decision routing, human queue, REST API, unit tests and real executed evaluation records.
 
 **What can be rerun today:**
 
@@ -21,7 +21,7 @@ python -m unittest discover -s tests -v
 ```
 
 - [Architecture and full pipeline](engineering/docs/ARCHITECTURE.md)
-- [G42 requirement-by-requirement skill mapping](engineering/docs/G42_SKILL_MATRIX.md)
+- [ai_enterprise requirement-by-requirement skill mapping](engineering/docs/ai_enterprise_SKILL_MATRIX.md)
 - [Actual recorded Python evaluation results](engineering/evidence/2026-10-30_python_local_evaluation.json)
 - [Executed local HTTP smoke evidence](engineering/evidence/local_http_smoke.json)
 - [Cloud integrations and limits](engineering/docs/CLOUD_DEPLOYMENT.md)

@@ -1,7 +1,7 @@
 # Learning Segmentation Matrix
 **Project:** 02.02 — Segment Global Learning by Employee Level and Function
 
-> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at Masdar.
+> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at clean_energy_group.
 
 ## Executive decision
 Offer differentiated development architecture by grade role and location.

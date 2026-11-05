@@ -1,7 +1,7 @@
 # 72-Hour Capability Incident Response Playbook
 **Project:** 12.04 — Respond to Urgent New Skill Needs or Disruption
 
-> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at Masdar.
+> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at clean_energy_group.
 
 ## Executive decision
 Identify affected tasks activate technical SMEs and verify staff readiness.

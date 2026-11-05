@@ -4,7 +4,7 @@
 
 **Format:** full instructional design document with audience analysis, ADDIE framework, Bloom objectives, screen-by-screen storyboard, audio/visual directions, scenario branching, assessment blueprint, accessibility, SME review and publishing checklist.
 
-**Hypothetical use case:** converting a service request escalation SOP into job-relevant learning for a facilities services workforce. This is not an EFS procedure.
+**Hypothetical use case:** converting a service request escalation SOP into job-relevant learning for a facilities services workforce. This is not an service_operations procedure.
 
 **Portfolio contribution disclosure:** original AI-assisted demonstration prepared for candidate review. No previous client commission or individual prior Storyline authoring is implied.
 

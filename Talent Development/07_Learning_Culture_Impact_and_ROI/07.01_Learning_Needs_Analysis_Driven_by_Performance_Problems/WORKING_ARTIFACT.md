@@ -1,7 +1,7 @@
 # Operational Performance Root-Cause Study
 **Project:** 07.01 — Learning Needs Analysis Driven by Performance Problems
 
-> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at Masdar.
+> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at clean_energy_group.
 
 ## Executive decision
 Compare process defects tool constraints and skill evidence before intervention.

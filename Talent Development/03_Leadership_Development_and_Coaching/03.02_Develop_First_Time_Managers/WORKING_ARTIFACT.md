@@ -1,7 +1,7 @@
 # New Manager 90-Day Transition Kit
 **Project:** 03.02 — Develop First-Time Managers
 
-> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at Masdar.
+> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at clean_energy_group.
 
 ## Executive decision
 Use manager scenarios delegation practice and checkpoints at 30 60 90 days.

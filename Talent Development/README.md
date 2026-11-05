@@ -20,7 +20,7 @@
 
 ## Distinctiveness from existing repo projects
 This folder is the *executive operating architecture*: strategy, decision rights, business cases, policies, assurance gates, and portfolio governance. Existing technical projects remain at their canonical locations:
-- [Oracle Fusion HCM reporting / executive board dashboard](../Executive%20Talent%20Dashboard%20in%20Power%20BI%20and%20Board%20Presentation/02_Executive_Talent_Dashboard_Oracle_Fusion_HCM/) — reporting demonstration, **not** Masdar's verified reporting software.
+- [Oracle Fusion HCM reporting / executive board dashboard](../Executive%20Talent%20Dashboard%20in%20Power%20BI%20and%20Board%20Presentation/02_Executive_Talent_Dashboard_Oracle_Fusion_HCM/) — reporting demonstration, **not** clean_energy_group's verified reporting software.
 - [SCORM learning design](../Instructional%20Design%20and%20Talent%20Development/32_SCORM_Learning_Design/) — technical content package examples.
 - [Instructional Design and Talent Development](../Instructional%20Design%20and%20Talent%20Development/) — existing LXD materials.
 - [Talent Assessment](../Talent%20Assessment/) — existing assessment portfolio.
@@ -36,6 +36,6 @@ This folder is the *executive operating architecture*: strategy, decision rights
 1. Open one decision project relevant to the question.
 2. Explain its **problem, data inputs, root cause, intervention options, governance, decision and measurable outcomes**.
 3. Demonstrate the artifact while explicitly distinguishing illustrative assumptions from real delivery evidence.
-4. For reporting questions, link to the pre-existing Oracle-style demo instead of claiming production Oracle or Masdar PMR access.
+4. For reporting questions, link to the pre-existing Oracle-style demo instead of claiming production Oracle or clean_energy_group PMR access.
 
 **Naming note:** Subsection 01.01 title is inferred for structural continuity; 01.02–12.05 follow the subsection topics discussed in the interview preparation. Section 03.05 correctly covers **Coaching Culture, Peer Mentoring and Action Learning**, not learning ROI.

@@ -1,7 +1,7 @@
 # Five-Level Leadership Curriculum Blueprint
 **Project:** 03.01 — Leadership Architecture Emerging to Executive
 
-> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at Masdar.
+> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at clean_energy_group.
 
 ## Executive decision
 Specify progression stages competencies experiences and assessment gates.
@@ -13,7 +13,7 @@ Specify progression stages competencies experiences and assessment gates.
 |---|---|
 | Business problem | Engineering subject-matter experts need leadership pathways without a single generic course |
 | Decision supported | Specify progression stages competencies experiences and assessment gates |
-| Proposed approach | Korn Ferry Leadership Architect as optional reference; 70-20-10 |
+| Proposed approach | sector_organization Leadership Architect as optional reference; 70-20-10 |
 | Mandatory validation | External frameworks require licenses where applicable |
 | Primary effectiveness measure | Leadership pipeline coverage by level |
 | Executive owner | Business sponsor with Head of Talent Development as process owner |

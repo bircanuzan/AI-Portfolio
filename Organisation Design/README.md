@@ -1,8 +1,8 @@
 # Organisation Design | Global Job Architecture & Governance
 
-**Role alignment:** dnata / Emirates Group — Organisation Design Manager (24-Month Fixed-Term Assignment). Independently constructed job-description-informed project.
+**Role alignment:** sector_organization / Emirates Group — Organisation Design Manager (24-Month Fixed-Term Assignment). Independently constructed job-description-informed project.
 
-**Status:** Portfolio design and runnable synthetic data-validation prototype. **Not an Emirates Group/dnata engagement, approved grading scheme, live HRIS rollout, proprietary methodology licence or claimed implementation result.**
+**Status:** Portfolio design and runnable synthetic data-validation prototype. **Not an Emirates Group/sector_organization engagement, approved grading scheme, live HRIS rollout, proprietary methodology licence or claimed implementation result.**
 
 ## Executive problem
 Multi-country businesses inherit inconsistent job titles, job descriptions, grades, local naming practices and reporting lines. This project demonstrates how to design **one governed global job architecture with deliberate market exceptions**, implemented through phased role mapping, job-evaluation calibration, HRIS controls, change management and sustainable handover.
@@ -22,4 +22,4 @@ Multi-country businesses inherit inconsistent job titles, job descriptions, grad
 [Global Job Architecture and Organisation Design Transformation](Global_Job_Architecture_Multi_Country_24_Month_Program/README.md)
 
 ## Intellectual property / qualifications note
-Korn Ferry Hay and Mercer IPE are recognized methodologies but require appropriately trained evaluators and licensed methodology access where applicable. This project demonstrates method-aware **factor-based calibration planning** using an **original, non-proprietary illustrative rubric**. It does not claim Hay/IPE certification, licensed scoring, or actual assessment of dnata roles.
+sector_organization Hay and Mercer IPE are recognized methodologies but require appropriately trained evaluators and licensed methodology access where applicable. This project demonstrates method-aware **factor-based calibration planning** using an **original, non-proprietary illustrative rubric**. It does not claim Hay/IPE certification, licensed scoring, or actual assessment of sector_organization roles.

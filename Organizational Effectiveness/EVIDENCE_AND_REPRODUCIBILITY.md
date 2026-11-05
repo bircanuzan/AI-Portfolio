@@ -3,7 +3,7 @@
 ## Source and originality
 - Input: role description supplied in this conversation on 3 November 2026.
 - Original work: fictional Cedar Gulf Group, authored case data, frameworks, decision-control logic and unit-test specifications.
-- No Dubai Holding internal information, pay data, organisation charts, proprietary grade conventions, policy thresholds or employee records.
+- No sector_organization internal information, pay data, organisation charts, proprietary grade conventions, policy thresholds or employee records.
 - References to Mercer IPE, Aon and named enterprise software are contextual examples, **not licensed implementation evidence**.
 
 ## Reproduction

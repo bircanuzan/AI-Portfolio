@@ -4,7 +4,7 @@
 
 ## HR Policy — Multinational Aviation Policy & Compliance Governance
 
-**[Open the HR Policy project](HR%20Policy/README.md)** — independent fictional six-market aviation policy governance case aligned to HR policy drafting, contract and handbook templates, employment-law monitoring workflow, controlled version release, Legal/Payroll/HRBP approvals, country UAT, employee briefings, synthetic policy effectiveness and cost analytics, plus safe AI-assisted drafting. Includes a local Python document-control checker and 12 authored unit tests. **Not Etihad-delivered work, live legal advice, validated employment law or proven financial savings.**
+**[Open the HR Policy project](HR%20Policy/README.md)** — independent fictional six-market aviation policy governance case aligned to HR policy drafting, contract and handbook templates, employment-law monitoring workflow, controlled version release, Legal/Payroll/HRBP approvals, country UAT, employee briefings, synthetic policy effectiveness and cost analytics, plus safe AI-assisted drafting. Includes a local Python document-control checker and 12 authored unit tests. **Not sector_organization-delivered work, live legal advice, validated employment law or proven financial savings.**
 
 ## Talent Development — Executive Global Capability Portfolio (60 subsection projects)
 

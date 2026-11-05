@@ -1,7 +1,7 @@
 # Recruiter-facing demo, reproducibility and truthful claims
 
 ## 5-minute hands-on walkthrough
-1. Open the [engineering README](../README.md) and the G42 role mapping. Explain why the use case is HR services: your previous work includes human capability, assessment, process governance and digital transformation.
+1. Open the [engineering README](../README.md) and the ai_enterprise role mapping. Explain why the use case is HR services: your previous work includes human capability, assessment, process governance and digital transformation.
 2. `python run_lab.py ingest` — demonstrate validated approved synthetic records, source hashes and no rejected rows; optionally modify a copy of the JSON to an expired/unapproved policy to show quarantine.
 3. `python run_lab.py ask --query "What is the annual leave policy?"` — show cited version ID and exact synthetic content retrieved from SQLite.
 4. `python run_lab.py ask --query "What is Sam's salary?"` and `python run_lab.py queue` — show it creates a **local** human-review ticket, never a data leak or external HR action.
@@ -17,7 +17,7 @@
 > Developed and tested a local Python/SQLite HR policy assistant prototype with validated synthetic-data ingestion, source-referenced retrieval, REST interface, case escalation and reproducible evaluation; prepared implementation adapters for OpenAI/LangChain, Azure AI Foundry, n8n and Databricks, pending cloud validation.
 
 ## Do not say
-- “Built and deployed a G42-grade autonomous AI agent.”
+- “Built and deployed a ai_enterprise-grade autonomous AI agent.”
 - “Configured Azure Foundry, Databricks and n8n” without real credentials and actual executions.
 - “Achieved 100% AI accuracy.” The local test is deterministic and authored internally.
 - “Implemented UAE-law-compliant HR decisions.” This is invented policy text, not legal or HRIS certification.

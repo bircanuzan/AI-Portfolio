@@ -1,4 +1,4 @@
-# Al Ramz HR Operations Manager — 30/60/90-day implementation case
+# sector_organization HR Operations Manager — 30/60/90-day implementation case
 
 ## First 30 days — assess risk and stabilise
 Interview HR, Payroll/Finance, IT, Compliance, Legal, Operations leaders and employee service owners. Inventory HRMS modules, legal employers, entity/regulator contexts, payroll/WPS processing paths, EOS case handling, bank integrations, data owners, control failures and open incidents. Build a baseline for master-data quality, payroll exception rate, on-time approval, service SLA and HR systems adoption. Establish data access restrictions and a weekly issue-review forum.
@@ -23,4 +23,4 @@ Run end-to-end UAT on approved non-production data; reconcile source, report, ba
 5. **AI vendor promises payroll autopilot.** Reject automated payment authority; request architecture, privacy/security testing, human approval paths, control evidence and business owner signoff.
 
 ## Evidence-based narrative for interviews
-Explain prior experience in workforce operations at scale, enterprise talent programmes, HR technology functional requirements and L&D delivery. Present this portfolio as a **new self-directed technical-management demonstration** showing how those transferable capabilities could address this vacancy. Do not claim it was delivered at Al Ramz.
+Explain prior experience in workforce operations at scale, enterprise talent programmes, HR technology functional requirements and L&D delivery. Present this portfolio as a **new self-directed technical-management demonstration** showing how those transferable capabilities could address this vacancy. Do not claim it was delivered at sector_organization.

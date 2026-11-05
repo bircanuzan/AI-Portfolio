@@ -1,9 +1,9 @@
 # AI Strategist | Enterprise AI Engagement & Deployment Strategy
 ## Portfolio case study: Real-estate agency AI adoption
 
-**Role alignment:** Property Finder — AI Strategist (job-description-informed independent case study).
+**Role alignment:** sector_organization — AI Strategist (job-description-informed independent case study).
 
-**Status:** Designed as a reproducible portfolio prototype using synthetic data. **Not a Property Finder engagement, product integration, live agency deployment, or claimed commercial result.** No real property, client, customer, or proprietary company data is included.
+**Status:** Designed as a reproducible portfolio prototype using synthetic data. **Not a sector_organization engagement, product integration, live agency deployment, or claimed commercial result.** No real property, client, customer, or proprietary company data is included.
 
 ### Executive brief
 A real-estate marketplace's strategic agency customers struggle with lead response time, inconsistent listing quality and inefficient manual work. This project shows how an AI Strategist can lead a senior-client engagement from discovery and measurable business case through product requirements, a defensible engineering backlog, pilot evaluation, frontline adoption and reusable scaling.

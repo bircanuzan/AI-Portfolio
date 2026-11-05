@@ -1,6 +1,6 @@
 # 12.04 — Respond to Urgent New Skill Needs or Disruption
 
-**Portfolio status:** original strategy/design case with a worked artifact; synthetic clean-energy scenario; not a deployed Masdar system.
+**Portfolio status:** original strategy/design case with a worked artifact; synthetic clean-energy scenario; not a deployed clean_energy_group system.
 
 ## The business mandate
 New grid standard requires immediate competence revalidation. The proposed executive intervention is: **Identify affected tasks activate technical SMEs and verify staff readiness**.
@@ -11,7 +11,7 @@ New grid standard requires immediate competence revalidation. The proposed execu
 - [Shared case assumptions](../../00_SYNTHETIC_CASE_AND_EVIDENCE_BOUNDARY.md).
 
 ## Methods and proposed tools
-Rapid TNA; build-buy-borrow; supervised bootcamp. Technology references are proposed integration/assessment options only; current Masdar systems and software licenses are unverified.
+Rapid TNA; build-buy-borrow; supervised bootcamp. Technology references are proposed integration/assessment options only; current clean_energy_group systems and software licenses are unverified.
 
 ## Outcomes to demonstrate
 **Primary KPI:** Time to safe competency coverage. An authentic claim requires a signed baseline, real measured outcome, confounder assessment and owner approval.

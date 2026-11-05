@@ -34,7 +34,7 @@ This reads the synthetic CSV and outputs completion, pre/post change, proficienc
 
 ## Employer-relevant evidence
 HBMSU: learner analysis, academic outcomes, Bloom alignment, formative/summative assessment, accreditation/QA, accessibility, adaptive paths, learning analytics.  
-Concentrix: trainer/SME coordination, job aids, practice, feedback loops and measured readiness.
+sector_organization: trainer/SME coordination, job aids, practice, feedback loops and measured readiness.
 
 ## Next real-world validation
 Obtain SME review, build one accessible module in an authorized LMS, conduct 3–5-user pilot, capture consented learning results, save version history, and replace synthetic data with verified anonymous pilot evidence.

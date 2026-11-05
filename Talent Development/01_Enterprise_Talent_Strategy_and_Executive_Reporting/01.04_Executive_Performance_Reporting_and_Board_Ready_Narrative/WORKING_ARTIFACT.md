@@ -1,7 +1,7 @@
 # PMR-Style Talent Executive Decision Pack
 **Project:** 01.04 — Executive Performance Reporting and Board-Ready Narrative
 
-> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at Masdar.
+> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at clean_energy_group.
 
 ## Executive decision
 Escalate concentration risk with a decision request and funded mitigation.
@@ -14,7 +14,7 @@ Escalate concentration risk with a decision request and funded mitigation.
 | Business problem | Succession coverage rises while two overseas project director roles remain uncovered |
 | Decision supported | Escalate concentration risk with a decision request and funded mitigation |
 | Proposed approach | Oracle OTBI-style scorecards; Analytics Publisher-style reports; board slides |
-| Mandatory validation | Masdar PMR software not publicly identified; synthetic only |
+| Mandatory validation | clean_energy_group PMR software not publicly identified; synthetic only |
 | Primary effectiveness measure | Critical role succession coverage and unresolved decision age |
 | Executive owner | Business sponsor with Head of Talent Development as process owner |
 | Implementation status | Design / decision proposal — not implemented |

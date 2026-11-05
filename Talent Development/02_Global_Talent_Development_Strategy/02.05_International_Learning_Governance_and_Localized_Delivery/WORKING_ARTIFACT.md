@@ -1,7 +1,7 @@
 # Global-to-Local Learning Governance Playbook
 **Project:** 02.05 — International Learning Governance and Localized Delivery
 
-> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at Masdar.
+> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at clean_energy_group.
 
 ## Executive decision
 Centralize standards and localize delivery with named approvals.

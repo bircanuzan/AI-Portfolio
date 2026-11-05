@@ -1,7 +1,7 @@
 # Energy Role Competency and Proficiency Matrix
 **Project:** 05.01 — Technical Competency Models Across Energy Divisions
 
-> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at Masdar.
+> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at clean_energy_group.
 
 ## Executive decision
 Define observable four-level proficiency by discipline and task.

@@ -1,6 +1,6 @@
 # 05 | 30/60/90-Day Executive HR Strategy & Planning Roadmap
 
-**Status:** Proposed entry plan for a hypothetical UAE bank; not executed at ADIB.
+**Status:** Proposed entry plan for a hypothetical UAE bank; not executed at fictional_bank.
 
 | Period | Priority | Deliverables | Executive decision |
 |---|---|---|---|

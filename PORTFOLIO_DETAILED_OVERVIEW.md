@@ -161,7 +161,7 @@ The portfolio demonstrates practical application of:
 - Human-in-the-loop AI workflows
 - AI and technology integration across recruitment delivery
 
-[VIEW THE FULL HEALTHCARE RECRUITMENT PORTFOLIO (PDF)](AI-enabled%20Recruitment%20Portfolio/01_AI_Enabled_Recruitment_Healthcare/HumanEvoX_AI_Healthcare_Recruitment_Portfolio.pdf)
+[VIEW THE FULL HEALTHCARE RECRUITMENT PORTFOLIO (PDF)](AI-enabled%20Recruitment%20Portfolio/01_AI_Enabled_Recruitment_Healthcare/independent_portfolio_AI_Healthcare_Recruitment_Portfolio.pdf)
 
 ### AI-Enabled HR Transformation | UAE & KSA
 
@@ -182,7 +182,7 @@ The portfolio includes transformation case designs across UAE and KSA covering:
 
 The projects demonstrate practical application of Generative AI, LLMs, Microsoft Copilot, Power Automate, Power BI, People Systems and workflow automation, with human decision-making and governance embedded into the transformation approach.
 
-[VIEW THE FULL AI-ENABLED HR TRANSFORMATION PORTFOLIO (PDF)](02_AI_Enabled_HR_Transformation/HumanEvoX_AI_Enabled_HR_Transformation_Portfolio.pdf)
+[VIEW THE FULL AI-ENABLED HR TRANSFORMATION PORTFOLIO (PDF)](02_AI_Enabled_HR_Transformation/independent_portfolio_AI_Enabled_HR_Transformation_Portfolio.pdf)
 
 ### People Analytics & AI | UAE & KSA
 
@@ -209,7 +209,7 @@ The projects demonstrate practical application of Power BI, DAX, Power Query, Ex
 
 AI is positioned as a decision-support layer for classification, summarisation, pattern detection and insight generation, with data governance, privacy, validation and human accountability embedded into the analytics approach.
 
-[VIEW THE FULL PEOPLE ANALYTICS & AI PORTFOLIO (PDF)](People%20Analytics%20%26%20HR%20Data/03_People_Analytics_AI/HumanEvoX_People_Analytics_AI_Portfolio.pdf)
+[VIEW THE FULL PEOPLE ANALYTICS & AI PORTFOLIO (PDF)](People%20Analytics%20%26%20HR%20Data/03_People_Analytics_AI/independent_portfolio_People_Analytics_AI_Portfolio.pdf)
 
 ### HR Technology, Digital Employee Experience & Automation | UAE & KSA
 
@@ -234,7 +234,7 @@ The projects demonstrate HR-side technology transformation through process and j
 
 Technical HRIS/HCM implementation, configuration, data migration and systems integration are intentionally outside the scope of this portfolio.
 
-[VIEW THE FULL HR TECHNOLOGY, DIGITAL EMPLOYEE EXPERIENCE & AUTOMATION PORTFOLIO (PDF)](HR%20Technology%20%26%20Digital%20Transformation/04_HR_Technology_Digital_Employee_Experience/HumanEvoX_HR_Technology_Digital_Employee_Experience_Automation_Portfolio.pdf)
+[VIEW THE FULL HR TECHNOLOGY, DIGITAL EMPLOYEE EXPERIENCE & AUTOMATION PORTFOLIO (PDF)](HR%20Technology%20%26%20Digital%20Transformation/04_HR_Technology_Digital_Employee_Experience/independent_portfolio_HR_Technology_Digital_Employee_Experience_Automation_Portfolio.pdf)
 
 ### AI Agents, Chatbots & HR Automation | UAE & KSA
 
@@ -259,7 +259,7 @@ The projects demonstrate how Generative AI, LLMs, Microsoft Copilot, Power Autom
 
 Human-in-the-loop controls are embedded throughout. AI supports HR professionals and managers rather than independently making consequential employment decisions.
 
-[VIEW THE FULL AI AGENTS, CHATBOTS & HR AUTOMATION PORTFOLIO (PDF)](05_AI_Agents_Chatbots_HR_Automation/HumanEvoX_AI_Agents_Chatbots_HR_Automation_Portfolio.pdf)
+[VIEW THE FULL AI AGENTS, CHATBOTS & HR AUTOMATION PORTFOLIO (PDF)](05_AI_Agents_Chatbots_HR_Automation/independent_portfolio_AI_Agents_Chatbots_HR_Automation_Portfolio.pdf)
 
 ### AI-Enabled Strategic Workforce Planning | UAE & KSA
 
@@ -284,7 +284,7 @@ The methodology connects business strategy, workforce demand, skills and capacit
 
 AI supports skills classification, assumption checking, scenario analysis, summarisation and executive decision preparation. Accountable HR and business leaders retain workforce and employment decisions.
 
-[VIEW THE FULL AI-ENABLED STRATEGIC WORKFORCE PLANNING PORTFOLIO (PDF)](06_Workforce_Planning/HumanEvoX_AI_Enabled_Strategic_Workforce_Planning_Portfolio.pdf)
+[VIEW THE FULL AI-ENABLED STRATEGIC WORKFORCE PLANNING PORTFOLIO (PDF)](06_Workforce_Planning/independent_portfolio_AI_Enabled_Strategic_Workforce_Planning_Portfolio.pdf)
 
 ### Talent Intelligence & Workforce Intelligence | UAE & KSA
 
@@ -309,7 +309,7 @@ AI supports market classification, skills taxonomy normalisation, evidence struc
 
 The approach connects external talent-market evidence with recruitment strategy, workforce planning, skills strategy and Build/Buy/Borrow decisions.
 
-[VIEW THE FULL TALENT & WORKFORCE INTELLIGENCE PORTFOLIO (PDF)](AI-enabled%20Recruitment%20Portfolio/07_Talent_Workforce_Intelligence/HumanEvoX_Talent_Workforce_Intelligence_Portfolio.pdf)
+[VIEW THE FULL TALENT & WORKFORCE INTELLIGENCE PORTFOLIO (PDF)](AI-enabled%20Recruitment%20Portfolio/07_Talent_Workforce_Intelligence/independent_portfolio_Talent_Workforce_Intelligence_Portfolio.pdf)
 
 ### AI-Enabled Talent Management & Assessment | UAE & KSA
 
@@ -334,7 +334,7 @@ AI supports evidence preparation, synthesis, skills intelligence, matching, deve
 
 The approach connects validated evidence and structured assessment with calibration, succession, development, mobility and measurable talent actions.
 
-[VIEW THE FULL AI-ENABLED TALENT MANAGEMENT & ASSESSMENT PORTFOLIO (PDF)](Talent%20Assessment/08_Talent_Management_Assessment/HumanEvoX_AI_Enabled_Talent_Management_Assessment_Portfolio.pdf)
+[VIEW THE FULL AI-ENABLED TALENT MANAGEMENT & ASSESSMENT PORTFOLIO (PDF)](Talent%20Assessment/08_Talent_Management_Assessment/independent_portfolio_AI_Enabled_Talent_Management_Assessment_Portfolio.pdf)
 
 ### AI Automation in HR Operations | UAE & KSA
 
@@ -369,7 +369,7 @@ Technologies include Microsoft Power Automate, Copilot, Copilot Studio, approved
 
 The portfolio focuses on HR/business transformation, process ownership, requirements, controls, UAT, adoption and measurable benefits. Technical HRIS implementation, configuration, data migration and cross-system integration are outside the claimed scope.
 
-[VIEW THE FULL AI AUTOMATION IN HR OPERATIONS PORTFOLIO (PDF)](HR%20Operations%20%26%20Workflow%20Automation/09_AI_Automation_HR_Operations/HumanEvoX_AI_Automation_in_HR_Operations_Portfolio.pdf)
+[VIEW THE FULL AI AUTOMATION IN HR OPERATIONS PORTFOLIO (PDF)](HR%20Operations%20%26%20Workflow%20Automation/09_AI_Automation_HR_Operations/independent_portfolio_AI_Automation_in_HR_Operations_Portfolio.pdf)
 
 ### Data & Analytics for AI in HR | SQL, Python & Power BI
 
@@ -393,7 +393,7 @@ The repository uses a fully synthetic HR dataset and does not contain real emplo
 
 Technical artifacts include SQL queries, Python analytics code, DAX measures, a synthetic HR dataset and an analytical workbook.
 
-[VIEW THE DATA & ANALYTICS FOR AI IN HR PORTFOLIO (PDF)](People%20Analytics%20%26%20HR%20Data/11_Data_Analytics_for_AI_in_HR/HumanEvoX_Data_Analytics_for_AI_in_HR_Portfolio.pdf)
+[VIEW THE DATA & ANALYTICS FOR AI IN HR PORTFOLIO (PDF)](People%20Analytics%20%26%20HR%20Data/11_Data_Analytics_for_AI_in_HR/independent_portfolio_Data_Analytics_for_AI_in_HR_Portfolio.pdf)
 
 ### Building Agentic AI for Full HR Lifecycle
 
@@ -422,7 +422,7 @@ The technical portfolio includes detailed agent specifications, system prompts, 
 
 Consequential employment decisions remain human-owned. Agents support evidence preparation, analysis, workflow coordination and decision support rather than autonomously making employment decisions.
 
-[VIEW THE FULL BUILDING AGENTIC AI FOR FULL HR LIFECYCLE PORTFOLIO (PDF)](12_Building_Agentic_AI_for_Full_HR_Lifecycle/HumanEvoX_Building_Agentic_AI_for_Full_HR_Lifecycle.pdf)
+[VIEW THE FULL BUILDING AGENTIC AI FOR FULL HR LIFECYCLE PORTFOLIO (PDF)](12_Building_Agentic_AI_for_Full_HR_Lifecycle/independent_portfolio_Building_Agentic_AI_for_Full_HR_Lifecycle.pdf)
 
 
 
@@ -469,6 +469,6 @@ Managing Director | People Systems & Analytics | AI-Enabled HR Transformation & 
 
 18 years of corporate experience, including 13 years across end-to-end HR and HR Transformation and 3 years focused on AI in HR, People Systems & Analytics.
 
-Experience includes Korn Ferry, Oracle, HSBC, TASC Outsourcing and Knowledge Group Consulting (arm of Abu Dhabi University).
+Experience includes sector_organization, Oracle, sector_organization, sector_organization Outsourcing and sector_organization Consulting (arm of Abu Dhabi University).
 
 This repository will continue to expand with practical projects and case studies across AI in HR, People Analytics, People Systems, HR Transformation and HR automation.

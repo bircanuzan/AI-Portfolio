@@ -1,5 +1,5 @@
 # Regulatory screening, sovereign AI and AI Factory governance
-**Purpose:** close cross-role knowledge requirements in Capgemini, byteSpark and Al-Futtaim; original design only.
+**Purpose:** close cross-role knowledge requirements in sector_organization, sector_organization and sector_organization; original design only.
 
 ## Framework vs legal obligation
 | Instrument | Nature | Action in a UAE enterprise |

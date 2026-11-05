@@ -1,5 +1,5 @@
 # 11 — Team Leadership Vendors and Operations
-> **Independent portfolio design** for a fictional international clean-energy company, structured around the Masdar Head of Talent Development interview capability areas. Not an assertion of work delivered to Masdar.
+> **Independent portfolio design** for a fictional international clean-energy company, structured around the clean_energy_group Head of Talent Development interview capability areas. Not an assertion of work delivered to clean_energy_group.
 
 **Purpose:** Talent team, vendor governance and portfolio controls.
 

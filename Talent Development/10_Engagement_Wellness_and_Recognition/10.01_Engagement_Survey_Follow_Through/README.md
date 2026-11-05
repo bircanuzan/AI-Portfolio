@@ -1,6 +1,6 @@
 # 10.01 — Engagement Survey Follow-Through
 
-**Portfolio status:** original strategy/design case with a worked artifact; synthetic clean-energy scenario; not a deployed Masdar system.
+**Portfolio status:** original strategy/design case with a worked artifact; synthetic clean-energy scenario; not a deployed clean_energy_group system.
 
 ## The business mandate
 Survey results show weak confidence in career conversations in one division. The proposed executive intervention is: **Validate themes assign owner and publish response to employees**.
@@ -11,7 +11,7 @@ Survey results show weak confidence in career conversations in one division. The
 - [Shared case assumptions](../../00_SYNTHETIC_CASE_AND_EVIDENCE_BOUNDARY.md).
 
 ## Methods and proposed tools
-Survey analysis; focus groups; quarterly pulses. Technology references are proposed integration/assessment options only; current Masdar systems and software licenses are unverified.
+Survey analysis; focus groups; quarterly pulses. Technology references are proposed integration/assessment options only; current clean_energy_group systems and software licenses are unverified.
 
 ## Outcomes to demonstrate
 **Primary KPI:** Commitments completed and pulse improvement. An authentic claim requires a signed baseline, real measured outcome, confounder assessment and owner approval.

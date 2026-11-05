@@ -1,6 +1,6 @@
 # 12.02 — Manage Perceived Bias in Promotion and Succession
 
-**Portfolio status:** original strategy/design case with a worked artifact; synthetic clean-energy scenario; not a deployed Masdar system.
+**Portfolio status:** original strategy/design case with a worked artifact; synthetic clean-energy scenario; not a deployed clean_energy_group system.
 
 ## The business mandate
 Two equally qualified candidates allege inconsistent promotion scoring. The proposed executive intervention is: **Preserve evidence run independent review and correct substantiated defects**.
@@ -11,7 +11,7 @@ Two equally qualified candidates allege inconsistent promotion scoring. The prop
 - [Shared case assumptions](../../00_SYNTHETIC_CASE_AND_EVIDENCE_BOUNDARY.md).
 
 ## Methods and proposed tools
-Employee Relations; independent panel; adverse-impact review. Technology references are proposed integration/assessment options only; current Masdar systems and software licenses are unverified.
+Employee Relations; independent panel; adverse-impact review. Technology references are proposed integration/assessment options only; current clean_energy_group systems and software licenses are unverified.
 
 ## Outcomes to demonstrate
 **Primary KPI:** Fairness findings resolved and appeal quality. An authentic claim requires a signed baseline, real measured outcome, confounder assessment and owner approval.

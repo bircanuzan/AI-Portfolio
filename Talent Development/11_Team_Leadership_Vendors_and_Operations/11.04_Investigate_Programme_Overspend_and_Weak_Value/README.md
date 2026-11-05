@@ -1,6 +1,6 @@
 # 11.04 — Investigate Programme Overspend and Weak Value
 
-**Portfolio status:** original strategy/design case with a worked artifact; synthetic clean-energy scenario; not a deployed Masdar system.
+**Portfolio status:** original strategy/design case with a worked artifact; synthetic clean-energy scenario; not a deployed clean_energy_group system.
 
 ## The business mandate
 A vendor-led programme exceeds plan and fails to improve capability. The proposed executive intervention is: **Reconcile invoices scope and benefit evidence then recommend stop redesign or continue**.
@@ -11,7 +11,7 @@ A vendor-led programme exceeds plan and fails to improve capability. The propose
 - [Shared case assumptions](../../00_SYNTHETIC_CASE_AND_EVIDENCE_BOUNDARY.md).
 
 ## Methods and proposed tools
-Budget variance; earned value where appropriate; vendor review. Technology references are proposed integration/assessment options only; current Masdar systems and software licenses are unverified.
+Budget variance; earned value where appropriate; vendor review. Technology references are proposed integration/assessment options only; current clean_energy_group systems and software licenses are unverified.
 
 ## Outcomes to demonstrate
 **Primary KPI:** Forecast-at-completion variance and realized benefits. An authentic claim requires a signed baseline, real measured outcome, confounder assessment and owner approval.

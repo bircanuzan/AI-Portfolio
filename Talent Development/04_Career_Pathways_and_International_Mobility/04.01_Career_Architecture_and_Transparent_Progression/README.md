@@ -1,6 +1,6 @@
 # 04.01 — Career Architecture and Transparent Progression
 
-**Portfolio status:** original strategy/design case with a worked artifact; synthetic clean-energy scenario; not a deployed Masdar system.
+**Portfolio status:** original strategy/design case with a worked artifact; synthetic clean-energy scenario; not a deployed clean_energy_group system.
 
 ## The business mandate
 A senior grid engineer wants growth without becoming a people manager. The proposed executive intervention is: **Build lateral vertical and expert routes with published entry standards**.
@@ -11,7 +11,7 @@ A senior grid engineer wants growth without becoming a people manager. The propo
 - [Shared case assumptions](../../00_SYNTHETIC_CASE_AND_EVIDENCE_BOUNDARY.md).
 
 ## Methods and proposed tools
-Job families; Mercer IPE or Korn Ferry Hay optional; proficiency levels. Technology references are proposed integration/assessment options only; current Masdar systems and software licenses are unverified.
+Job families; Mercer IPE or sector_organization Hay optional; proficiency levels. Technology references are proposed integration/assessment options only; current clean_energy_group systems and software licenses are unverified.
 
 ## Outcomes to demonstrate
 **Primary KPI:** Employee career clarity and internal progression. An authentic claim requires a signed baseline, real measured outcome, confounder assessment and owner approval.

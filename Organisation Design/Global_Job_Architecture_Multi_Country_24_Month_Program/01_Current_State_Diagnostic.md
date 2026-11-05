@@ -4,7 +4,7 @@
 Inventory role/organisation data before designing a taxonomy. Trace legal entities, countries, HRIS structures, payroll grades, reporting relationships, job descriptions, union/collective agreements where applicable, and workforce planning dependencies.
 
 ## Sample multi-country case
-Three synthetic markets **Market A / B / C**, not actual dnata organisation designs. Local titles such as "Station Lead", "Duty Manager" and "Customer Operations Supervisor" can refer to dissimilar decision scope. A single title string cannot establish an equivalence or grade.
+Three synthetic markets **Market A / B / C**, not actual sector_organization organisation designs. Local titles such as "Station Lead", "Duty Manager" and "Customer Operations Supervisor" can refer to dissimilar decision scope. A single title string cannot establish an equivalence or grade.
 
 ## Required extracts
 | Data set | Minimum fields | Owner |

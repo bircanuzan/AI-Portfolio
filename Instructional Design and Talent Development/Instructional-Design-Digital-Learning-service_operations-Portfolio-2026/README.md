@@ -1,6 +1,6 @@
-# ⭐ Instructional Design & Digital Learning | EFS-Relevant Portfolio Samples (2026)
+# ⭐ Instructional Design & Digital Learning | service_operations-Relevant Portfolio Samples (2026)
 
-Three **original, AI-assisted demonstration projects** designed around corporate workforce learning needs. These are newly created portfolio samples for review, **not client-commissioned work or evidence of completed employment assignments**. No EFS proprietary documents were used; processes and examples are hypothetical. Candidate should review/validate all content prior to submitting it as a personal portfolio.
+Three **original, AI-assisted demonstration projects** designed around corporate workforce learning needs. These are newly created portfolio samples for review, **not client-commissioned work or evidence of completed employment assignments**. No service_operations proprietary documents were used; processes and examples are hypothetical. Candidate should review/validate all content prior to submitting it as a personal portfolio.
 
 ## Portfolio index
 1. [Interactive eLearning: Facilities Service Request Triage](01-Interactive-eLearning-Service-Request-Triage/README.md) — fully working browser-based decision-based HTML module with formative feedback, final assessment and optional SCORM 1.2 API hooks.
@@ -13,4 +13,4 @@ Three **original, AI-assisted demonstration projects** designed around corporate
 
 **Individual contribution statement:** AI-assisted drafts and code were generated collaboratively in ChatGPT for the portfolio owner to review, test, adapt and approve. This accurately identifies the use of generative AI; it does not claim prior independent Articulate development or client production deployment.
 
-**Role alignment:** EFS Instructional Design & Digital Learning Specialist — eLearning, storyboarding, microlearning, assessments, SOP conversion, SME validation, content governance, accessibility and LMS-readiness.
+**Role alignment:** service_operations Instructional Design & Digital Learning Specialist — eLearning, storyboarding, microlearning, assessments, SOP conversion, SME validation, content governance, accessibility and LMS-readiness.

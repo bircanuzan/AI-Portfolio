@@ -1,7 +1,7 @@
 # Executive Integration and Coaching Contract
 **Project:** 03.03 — Executive Coaching and Leadership Transitions
 
-> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at Masdar.
+> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at clean_energy_group.
 
 ## Executive decision
 Agree sponsor objectives confidentiality boundaries and transition milestones.

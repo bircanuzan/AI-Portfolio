@@ -1,6 +1,6 @@
-# Etihad HR Policy Role — Requirements to Independent Portfolio Evidence
+# sector_organization HR Policy Role — Requirements to Independent Portfolio Evidence
 
-The job advert is used solely as a **capability benchmark**. None of these deliverables is presented as an Etihad internal project, an employment-law credential or live implementation.
+The job advert is used solely as a **capability benchmark**. None of these deliverables is presented as an sector_organization internal project, an employment-law credential or live implementation.
 
 | Role accountability / qualification | Work sample / location | Demonstrated skill | Unverified evidence / limitation |
 |---|---|---|---|
@@ -21,4 +21,4 @@ The job advert is used solely as a **capability benchmark**. None of these deliv
 ## Evidence declaration for CV/interviews
 Suggested accurate description: **“Designed an independent multinational HR policy governance portfolio case covering policy and contract-template lifecycle, six-market legal-review controls, HRIS/payroll UAT, change adoption, quantified synthetic business case and safe AI drafting protocol.”**
 
-Avoid claiming: “Led Etihad policy transformation,” “approved UAE/KSA/UK/German/Indian/Singapore employment contracts,” “implemented SAP SuccessFactors,” “delivered AED 48K savings” or “qualified employment lawyer.” These claims are unsupported by this portfolio.
+Avoid claiming: “Led sector_organization policy transformation,” “approved UAE/KSA/UK/German/Indian/Singapore employment contracts,” “implemented SAP SuccessFactors,” “delivered AED 48K savings” or “qualified employment lawyer.” These claims are unsupported by this portfolio.

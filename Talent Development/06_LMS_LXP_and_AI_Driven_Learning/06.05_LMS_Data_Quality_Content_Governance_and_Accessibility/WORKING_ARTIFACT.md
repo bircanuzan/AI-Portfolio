@@ -1,7 +1,7 @@
 # SCORM xAPI Content Quality and WCAG Checklist
 **Project:** 06.05 — LMS Data Quality Content Governance and Accessibility
 
-> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at Masdar.
+> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at clean_energy_group.
 
 ## Executive decision
 Test SCORM status track versions and remediate WCAG failures.

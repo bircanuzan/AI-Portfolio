@@ -1,6 +1,6 @@
 # 04 | GCHRO Executive Scorecard & KPI Dictionary
 
-**Status:** Illustrative scorecard; no ADIB performance data or bank-approved targets.
+**Status:** Illustrative scorecard; no fictional_bank performance data or bank-approved targets.
 
 ## Executive scorecard design
 A single monthly/quarterly board-facing view should separate **results, leading indicators, risk and economics**. Every KPI has a numerator, denominator, period, source, owner and exception policy.
@@ -32,7 +32,7 @@ A single monthly/quarterly board-facing view should separate **results, leading 
 ## Example escalation logic
 - Trigger an **amber review** when an agreed KPI departs from the plan or deteriorates across two periods.
 - Trigger **red escalation** for a material control failure, unapproved spending, privacy concern or compliance obligation.
-- Thresholds require GCHRO/Finance/Risk approval; none are claimed as ADIB standards.
+- Thresholds require GCHRO/Finance/Risk approval; none are claimed as fictional_bank standards.
 
 ## Data quality
 Denominators must be effective-dated; distinguish employees, positions, FTE and requisitions; exclude duplicate HRIS records; reconcile totals to payroll and Finance. Include a versioned KPI catalogue and restatement log.

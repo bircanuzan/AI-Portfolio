@@ -1,7 +1,7 @@
 # Learning Demand Intake and Triage Form
 **Project:** 02.03 — Diagnose Learning Demand Before Selecting Courses
 
-> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at Masdar.
+> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at clean_energy_group.
 
 ## Executive decision
 Test whether the problem is a skill gap or a procurement workflow failure before purchasing courses.

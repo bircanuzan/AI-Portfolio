@@ -1,7 +1,7 @@
 # Kirkpatrick Learning Transfer Evaluation Plan
 **Project:** 07.02 — Measure Learning Effectiveness Beyond Completion
 
-> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at Masdar.
+> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at clean_energy_group.
 
 ## Executive decision
 Set baseline practical assessment observation and business-result measures.

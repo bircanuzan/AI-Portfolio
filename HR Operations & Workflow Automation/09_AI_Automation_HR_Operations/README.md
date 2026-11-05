@@ -1,6 +1,6 @@
 # AI Automation in HR Operations
 
-[Portfolio PDF](HumanEvoX_AI_Automation_in_HR_Operations_Portfolio.pdf)
+[Portfolio PDF](independent_portfolio_AI_Automation_in_HR_Operations_Portfolio.pdf)
 
 [Back to HR Operations & Workflow Automation](../README.md) · [Full portfolio index](../../README.md)
 

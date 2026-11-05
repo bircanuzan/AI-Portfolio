@@ -16,7 +16,7 @@ A fictitious group CPO asks whether 0.8 FTE of HR workload can be reallocated wi
 - **Actual:** a running observe → select tool → validate → execute → observe → replan → finish loop, permission enforcement, tool schemas, repeat-call limit, step limit, tests, evidence trace and a working optional LLM provider interface.
 - **Offline demonstration uses a deterministic policy**, not a live LLM. Its decisions are conditional on observations but do **not** demonstrate language-model reasoning.
 - **Optional live:** `OpenAICompatiblePolicy` accepts an explicitly configured HTTPS, host-allowlisted Chat Completions endpoint, API key and model ID, and proposes a single next tool each turn. Unallowed tool names, invalid arguments, repeated calls, incomplete evidence, unsafe goals and unauthorized roles are refused by the runner. **This mode has not been invoked or validated against a live model.**
-- **Not built or claimed:** real HRIS connection, production OIDC, immutable enterprise audit, production hosting, independent client reference, measured savings, signed-off job architecture, workforce implementation or G42 production qualification.
+- **Not built or claimed:** real HRIS connection, production OIDC, immutable enterprise audit, production hosting, independent client reference, measured savings, signed-off job architecture, workforce implementation or ai_enterprise production qualification.
 
 ## Reproduce (Python 3.11+, from project root)
 ```bash

@@ -1,6 +1,6 @@
 # 05.05 — Evidence-Based Talent Reviews and Calibration
 
-**Portfolio status:** original strategy/design case with a worked artifact; synthetic clean-energy scenario; not a deployed Masdar system.
+**Portfolio status:** original strategy/design case with a worked artifact; synthetic clean-energy scenario; not a deployed clean_energy_group system.
 
 ## The business mandate
 Business leaders disagree on readiness ratings for a global project director. The proposed executive intervention is: **Require documented performance competency aspiration and context evidence**.
@@ -11,7 +11,7 @@ Business leaders disagree on readiness ratings for a global project director. Th
 - [Shared case assumptions](../../00_SYNTHETIC_CASE_AND_EVIDENCE_BOUNDARY.md).
 
 ## Methods and proposed tools
-Talent review pack; assessor calibration; access logging. Technology references are proposed integration/assessment options only; current Masdar systems and software licenses are unverified.
+Talent review pack; assessor calibration; access logging. Technology references are proposed integration/assessment options only; current clean_energy_group systems and software licenses are unverified.
 
 ## Outcomes to demonstrate
 **Primary KPI:** Calibration exception resolution and decision traceability. An authentic claim requires a signed baseline, real measured outcome, confounder assessment and owner approval.

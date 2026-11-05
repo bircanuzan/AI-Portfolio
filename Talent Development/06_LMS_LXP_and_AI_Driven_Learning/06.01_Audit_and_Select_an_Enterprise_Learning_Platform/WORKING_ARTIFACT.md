@@ -1,7 +1,7 @@
 # LMS LXP RFP and Proof-of-Concept Scorecard
 **Project:** 06.01 — Audit and Select an Enterprise Learning Platform
 
-> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at Masdar.
+> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at clean_energy_group.
 
 ## Executive decision
 Evaluate integration security multilingual access licensing and reporting before selecting.
@@ -14,7 +14,7 @@ Evaluate integration security multilingual access licensing and reporting before
 | Business problem | Multi-country learning records are fragmented across local tools |
 | Decision supported | Evaluate integration security multilingual access licensing and reporting before selecting |
 | Proposed approach | Cornerstone; Degreed; Workday; Oracle Learning as candidates |
-| Mandatory validation | Vendor selection does not imply Masdar uses any candidate |
+| Mandatory validation | Vendor selection does not imply clean_energy_group uses any candidate |
 | Primary effectiveness measure | Weighted requirement fulfillment and proof-of-concept pass rate |
 | Executive owner | Business sponsor with Head of Talent Development as process owner |
 | Implementation status | Design / decision proposal — not implemented |

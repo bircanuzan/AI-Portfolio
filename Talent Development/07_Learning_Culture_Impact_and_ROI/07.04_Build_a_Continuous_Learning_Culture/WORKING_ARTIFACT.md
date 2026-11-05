@@ -1,7 +1,7 @@
 # Learning in the Flow of Work Operating Rituals
 **Project:** 07.04 — Build a Continuous-Learning Culture
 
-> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at Masdar.
+> **Independent, interview-aligned sample work product — SYNTHETIC.** This does not describe completed work at clean_energy_group.
 
 ## Executive decision
 Set short learning windows and peer knowledge sharing linked to real tasks.

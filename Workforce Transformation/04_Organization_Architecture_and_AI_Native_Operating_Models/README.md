@@ -12,7 +12,7 @@ After routine work changes with AI, what should the *organization* look like? Th
 - Candidate design architectures; *no* organization charts, employee decisions or real company data were generated from live systems.
 
 ## Scope and leader-linked research
-The G42 leadership research describes an **outcome-first** sequence (purpose -> value -> outcomes -> work -> human+AI -> capabilities -> organization), and the CHRO research stresses escalation, overrides, management redesign and preserving early-career development. These are **attributed research themes, not methodologies claimed as ours or real G42 engagements**.
+The ai_enterprise leadership research describes an **outcome-first** sequence (purpose -> value -> outcomes -> work -> human+AI -> capabilities -> organization), and the CHRO research stresses escalation, overrides, management redesign and preserving early-career development. These are **attributed research themes, not methodologies claimed as ours or real ai_enterprise engagements**.
 
 ## Process
 1. Clarify enterprise outcomes and non-delegable decisions.

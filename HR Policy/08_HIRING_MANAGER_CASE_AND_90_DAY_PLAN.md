@@ -1,6 +1,6 @@
 # 08 | Hiring-Manager Case Study and First 90 Days
 
-**Independent fictional scenario for a multinational airline; Etihad role requirements used as an external benchmark only.**
+**Independent fictional scenario for a multinational airline; sector_organization role requirements used as an external benchmark only.**
 
 ## Leadership decision: approve a controlled HR policy modernization
 ### Challenge

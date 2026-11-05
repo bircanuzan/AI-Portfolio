@@ -3,8 +3,8 @@
 **[NEW: Human–AI Workforce Design Architect with native LLM tool-calling runtime](WORKFORCE_ARCHITECT_AGENT.md)** — implements an OpenAI Responses API plan→function call→observation→replan→submit loop, 7-task work design, scenario stress tests and future organization role validation. **GitHub Actions uses an explicitly scripted model stub, not real LLM inference.** Live model invocation is available only with operator-provided API credentials; no live result claimed.
 
 **Author:** HumanEvoX independent engineering and HR transformation portfolio  
-**Agent version:** 0.2.0 (synthetic engineering prototype) | **Role requirements reference:** G42 Human Capital Intelligence Agent (AI Agents Only)  
-**Status: runnable read-only agent and API prototype using fictional aggregate data. NOT production deployed, NOT G42-qualified, NOT submitted.**
+**Agent version:** 0.2.0 (synthetic engineering prototype) | **Role requirements reference:** ai_enterprise Human Capital Intelligence Agent (AI Agents Only)  
+**Status: runnable read-only agent and API prototype using fictional aggregate data. NOT production deployed, NOT ai_enterprise-qualified, NOT submitted.**
 
 ## Working agent-runtime developer demonstration (separate from analytics slide demo)
 
@@ -43,7 +43,7 @@ This is a **bounded, auditable multi-tool Human Capital intelligence service** t
 - [Security / Responsible AI](docs/SECURITY_RESPONSIBLE_AI.md) — role and entity scoping, personal-data controls, audit, review responsibilities and threats.
 - [Integration contract](docs/INTEGRATION_SPEC.md) — read-only mock-tested HTTPS adapter for HRIS, ATS, payroll, talent and workforce systems.
 - [Human–AI Workforce Redesign case, methods and safeguards](docs/HUMAN_AI_WORKFORCE_REDESIGN.md) — actual runnable task-to-job-to-future-structure scenario with illustrative role profiles, capacity reallocation and governance.
-- [Production requirements](docs/PRODUCTION_READINESS.md) — explicit blockers to G42 eligibility and a staging/probation plan.
+- [Production requirements](docs/PRODUCTION_READINESS.md) — explicit blockers to ai_enterprise eligibility and a staging/probation plan.
 - [Evaluation](docs/EVALUATION_AND_METRICS.md) and [verified execution evidence](evidence/EXECUTION_EVIDENCE.md) — 67 automated tests and 12/12 original numeric benchmark scenarios verified in GitHub Actions; local latency figures reflect only in-process runs.
 - [Watch the Agent Work — committed MP4](https://github.com/bircanuzan/AI-in-HR-Portfolio/blob/main/Agentic%20AI%20development/Human%20Capital%20Intelligence%20Agent/demo/Human_Capital_Intelligence_Agent_Synthetic_Demo.mp4) — a new 1080×1350 portrait video generated from actual execution of the HR intelligence and workforce redesign simulation, saved in this GitHub folder. **Not a production screencast.** [Recording plan](docs/WATCH_THE_AGENT_WORK.md).
 - [Submission evidence checklist](docs/SUBMISSION_CHECKLIST.md) and [version history](docs/VERSION_HISTORY.md).
@@ -77,7 +77,7 @@ The API refuses unauthenticated calls, wrong roles and entities, unexpected JSON
 The authenticated API exposes `workforce_redesign` for group-scoped synthetic scenarios and also POST `/v1/agent/orchestrate` for an authorised people leader. A safe aggregate question such as `Review recruiting and headcount` selects the Talent Acquisition and Workforce Intelligence tools, executes them locally and returns a source-grounded plan and audit reference. Unsafe, identifying and state-changing prompts are refused. See `src/hcia/planner.py` and `tests/test_orchestrator_api.py`.
 
 ## Model integration
-The analytics engine runs offline without an LLM. An optional operator-approved OpenAI-compatible/sovereign HTTPS endpoint may propose a strictly allowlisted **1–3 step tool plan** and/or summarise synthetic aggregate results. The model never executes a tool directly, cannot edit computed numbers or approve HR outcomes, and outputs require independent validation. No G42 sovereign endpoint or live model inference has been used in this demonstration.
+The analytics engine runs offline without an LLM. An optional operator-approved OpenAI-compatible/sovereign HTTPS endpoint may propose a strictly allowlisted **1–3 step tool plan** and/or summarise synthetic aggregate results. The model never executes a tool directly, cannot edit computed numbers or approve HR outcomes, and outputs require independent validation. No ai_enterprise sovereign endpoint or live model inference has been used in this demonstration.
 
 ## Important distinction
 The job posting explicitly rejects prototypes and demands **enterprise production references, empirical benchmarks, security review, demonstration video and controlled probation**. This repository provides the first technical foundation and reproducible **local** evidence, not those qualifications. It would be misleading to submit this as a deployed agent today.

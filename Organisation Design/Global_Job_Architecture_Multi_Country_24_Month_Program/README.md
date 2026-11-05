@@ -1,6 +1,6 @@
 # Global Job Architecture and Organisation Design Transformation
 
-**Independent 24-month implementation simulation** inspired by the requirements of an international aviation-services organisation. No dnata or Emirates Group internal information was used.
+**Independent 24-month implementation simulation** inspired by the requirements of an international aviation-services organisation. No sector_organization or Emirates Group internal information was used.
 
 ## Target outcomes
 1. Clear job family/subfamily taxonomy across operations, commercial, technology and corporate functions.
