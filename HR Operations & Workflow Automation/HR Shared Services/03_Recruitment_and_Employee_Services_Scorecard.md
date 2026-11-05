@@ -30,4 +30,4 @@
 ## Example reporting narrative
 'Week 1 showed a hypothetical joining-readiness shortfall concentrated in two accounts. Proposed response: confirm document dependency owners, bring forward pre-boarding checks, and assign a daily cross-functional exception review. Escalate any work-authorisation uncertainty to qualified specialists.'
 
-All values and workflow narratives are **illustrative**, not sector_organization operational results.
+All values and workflow narratives are **illustrative**, not actual employer operational results.
