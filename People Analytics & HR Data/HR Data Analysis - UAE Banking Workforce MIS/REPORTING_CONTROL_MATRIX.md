@@ -1,6 +1,6 @@
 # Monthly HR MIS and Workforce Planning — Reporting Control Matrix
 
-**Design**: hypothetical regulated financial-services HR team. Approval roles below are illustrative; do not infer ADIB's actual operating model.
+**Design**: hypothetical regulated financial-services HR team. Approval roles below are illustrative; do not infer the bank's actual operating model.
 
 | Step | Trigger | Maker | Checker / approver | Evidence | Failure / escalation |
 |---|---|---|---|---|---|
