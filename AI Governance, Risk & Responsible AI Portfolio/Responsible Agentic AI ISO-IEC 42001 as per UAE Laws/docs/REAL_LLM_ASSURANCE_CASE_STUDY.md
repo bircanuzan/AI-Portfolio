@@ -7,8 +7,8 @@
 - Execution: **2026-11-02T12:58:49Z**, 3 actual language-model completions, 6 total synthetic workflow checks.
 - The application separately selected an approved deterministic **served answer** and preserved the model's **raw draft** for review. *Do not confuse the safe answer with the actual model output.*
 - No production deployment, live candidate/employee information, external candidate messaging, actual access-controlled HRIS, model service operated for a client, or actual HumanEvoX customer governance engagement is evidenced.
-- Primary run artifact: [raw output and trace evidence](../../../Agentic%20AI%20Application%20Testing%20%26%20Evaluation%20for%20HR%20Transformation/evidence/first_run_qwen_0_5b.json).
-- Engineering findings: [original evaluation narrative](../../../Agentic%20AI%20Application%20Testing%20%26%20Evaluation%20for%20HR%20Transformation/evidence/REAL_MODEL_FINDINGS.md).
+- Primary run artifact: [raw output and trace evidence](../../../AI%20Model%20Training%20%26%20Evaluation%20Freelancer%20Project/Agentic%20AI%20Application%20Testing%20%26%20Evaluation%20for%20HR%20Transformation/evidence/first_run_qwen_0_5b.json).
+- Engineering findings: [original evaluation narrative](../../../AI%20Model%20Training%20%26%20Evaluation%20Freelancer%20Project/Agentic%20AI%20Application%20Testing%20%26%20Evaluation%20for%20HR%20Transformation/evidence/REAL_MODEL_FINDINGS.md).
 
 ## Evidence analysis — what happened versus what a governance reviewer would require
 | Finding | Run case | Raw observed LLM behavior | Why it matters | Suggested control | Disposition |

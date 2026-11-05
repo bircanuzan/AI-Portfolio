@@ -15,7 +15,7 @@ HumanEvoX | Five project collections, including a new ISO/IEC 42001 agentic-gove
 
 ## NEW — Real-model assurance work and practical employment bridge
 
-The ISO/IEC 42001 learning lab now links to **real (synthetic-data) LLM output evidence** from the separate [HR policy model experiment](../Agentic%20AI%20Application%20Testing%20%26%20Evaluation%20for%20HR%20Transformation/evidence/first_run_qwen_0_5b.json).
+The ISO/IEC 42001 learning lab now links to **real (synthetic-data) LLM output evidence** from the separate [HR policy model experiment](../AI%20Model%20Training%20%26%20Evaluation%20Freelancer%20Project/Agentic%20AI%20Application%20Testing%20%26%20Evaluation%20for%20HR%20Transformation/evidence/first_run_qwen_0_5b.json).
 
 - [Evidence-backed Responsible AI assessment and open CAPAs](Responsible%20Agentic%20AI%20ISO-IEC%2042001%20as%20per%20UAE%20Laws/docs/REAL_LLM_ASSURANCE_CASE_STUDY.md) — three observed raw model response defects, three host-only control cases, proposed corrections and a HOLD decision for external release.
 - [Governance career-entry plan + proposed HumanEvoX paid pilot](Responsible%20Agentic%20AI%20ISO-IEC%2042001%20as%20per%20UAE%20Laws/docs/RESPONSIBLE_AI_CAREER_ENTRY_AND_PAID_PILOT.md) — honest practice-to-employment path for AI governance analyst and assurance positions.

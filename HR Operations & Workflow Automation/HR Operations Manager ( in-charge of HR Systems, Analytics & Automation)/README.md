@@ -34,7 +34,7 @@ The script reads `demo/employees.csv` and `demo/payroll_batch.csv`, checks HRMS-
 - [Prior runnable UAE financial-services HRMS & payroll pre-release checks](../09_AI_Automation_HR_Operations/HRMS_Payroll_Controls_and_People_Analytics_UAE_Financial_Services/README.md)
 - [Project 41: workflow mapping and Power Automate](../41_HR_Operations_Process_Mapping_Workflow_Automation_Power_Automate/README.md)
 - [People Analytics & HR Data portfolio](../../People%20Analytics%20%26%20HR%20Data/README.md)
-- [Oracle Fusion HCM portfolio](../../Oracle%20Fusion%20HCM/README.md)
+- [Oracle Fusion HCM portfolio](../../HR%20Technology%20%26%20Digital%20Transformation/Oracle%20Fusion%20HCM/README.md)
 
 **Regulatory sources reviewed:** [UAE Government — wages/WPS, updated 5 Jun 2026](https://u.ae/en/information-and-services/jobs/employment-in-the-private-sector/payment-of-wages), [UAE Government — end of service, updated 6 Oct 2025](https://u.ae/en/information-and-services/jobs/employment-in-the-private-sector/end-of-service-benefits-for-employees-in-the-private-sector), [UAE Government — PDPL](https://u.ae/en/about-the-uae/digital-uae/data/data-protection-laws). The suitability of each control must be revalidated against the actual employing legal entity, regulated activity, applicable labour regime and approved contracts before any deployment.
 

@@ -20,9 +20,9 @@
 
 ## Distinctiveness from existing repo projects
 This folder is the *executive operating architecture*: strategy, decision rights, business cases, policies, assurance gates, and portfolio governance. Existing technical projects remain at their canonical locations:
-- [Oracle Fusion HCM reporting / executive board dashboard](../Executive%20Talent%20Dashboard%20in%20Power%20BI%20and%20Board%20Presentation/02_Executive_Talent_Dashboard_Oracle_Fusion_HCM/) — reporting demonstration, **not** clean_energy_group's verified reporting software.
-- [SCORM learning design](../Instructional%20Design%20and%20Talent%20Development/32_SCORM_Learning_Design/) — technical content package examples.
-- [Instructional Design and Talent Development](../Instructional%20Design%20and%20Talent%20Development/) — existing LXD materials.
+- [Oracle Fusion HCM reporting / executive board dashboard](../People%20Analytics%20%26%20HR%20Data/Executive%20Talent%20Dashboard%20in%20Power%20BI%20and%20Board%20Presentation/02_Executive_Talent_Dashboard_Oracle_Fusion_HCM/) — reporting demonstration, **not** clean_energy_group's verified reporting software.
+- [SCORM learning design](Instructional%20Design%20and%20Talent%20Development/32_SCORM_Learning_Design/) — technical content package examples.
+- [Instructional Design and Talent Development](Instructional%20Design%20and%20Talent%20Development/) — existing LXD materials.
 - [Talent Assessment](../Talent%20Assessment/) — existing assessment portfolio.
 - [Workforce Transformation](../Workforce%20Transformation/) — existing workforce and AI architecture models.
 

@@ -51,12 +51,12 @@ Repository CI runs tests for Modules 01, 04, 05, 06, 07 and 08, plus existing co
 Check GitHub Actions for the current run result; **code presence is not proof of tests having passed**.
 
 ## Nonduplication map — existing specialist categories retained
-- [Project 42 Human–AI Workforce Design & Agent Governance](../42_Human-AI_Workforce_Design_and_Agent_Governance/) — focused HR agent competence, governance and specific existing evaluation evidence; **Module 05** instead covers multi-agent organizational orchestration.
-- [AI Adoption](../AI%20Adoption/) and [Change Management](../Change%20Management/) — enterprise adoption, enablement and communication; **Module 03** integrates the workforce transition.
+- [Project 42 Human–AI Workforce Design & Agent Governance](42_Human-AI_Workforce_Design_and_Agent_Governance/) — focused HR agent competence, governance and specific existing evaluation evidence; **Module 05** instead covers multi-agent organizational orchestration.
+- [AI Adoption](../AI%20Adoption/) and [Change Management](../Organizational%20Effectiveness/Change%20Management/) — enterprise adoption, enablement and communication; **Module 03** integrates the workforce transition.
 - [People Analytics & HR Data](../People%20Analytics%20%26%20HR%20Data/) — dashboard and descriptive analytics; **Module 06** focuses on longer-horizon decision scenarios.
-- [Organizational Development](../Organizational%20Development/) — wider organizational effectiveness roadmap; **Module 04** is the narrower AI-native organization architecture.
+- [Organizational Development](../Organizational%20Effectiveness/Organizational%20Development/) — wider organizational effectiveness roadmap; **Module 04** is the narrower AI-native organization architecture.
 - [AI Transformation](../AI%20Transformation/) — AI tool/subscription governance and rollout; **Module 07** designs an enterprise workforce intelligence product.
-- [Oracle Solution Architecture](../Oracle%20Solution%20Architecture/) and [HRIS & HCM Systems](../HRIS%20%26%20HCM%20Systems/) — implementation/integration learning, not replicated.
+- [Oracle Solution Architecture](../Oracle%20Solution%20Architecture/) and [HRIS & HCM Systems](../HR%20Technology%20%26%20Digital%20Transformation/HRIS%20%26%20HCM%20Systems/) — implementation/integration learning, not replicated.
 - [AI Governance, Risk & Responsible AI Portfolio](../AI%20Governance%2C%20Risk%20%26%20Responsible%20AI%20Portfolio/) — formal AI assurance approaches, cross-referenced rather than duplicated.
 
 ## Accuracy and portfolio CV guidance

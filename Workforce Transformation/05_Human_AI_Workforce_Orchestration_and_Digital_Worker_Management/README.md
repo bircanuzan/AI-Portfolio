@@ -1,6 +1,6 @@
 # 05 — Human–AI Workforce Orchestration & Digital Worker Management
 
-**Case:** Fictional Atlas UAE Shared Services uses multiple narrowly scoped digital worker *candidates* alongside HR service owners and analysts. This module explores **operational coordination and management**, not the single HR-agent competency assessment already in [Project 42](../../42_Human-AI_Workforce_Design_and_Agent_Governance/).
+**Case:** Fictional Atlas UAE Shared Services uses multiple narrowly scoped digital worker *candidates* alongside HR service owners and analysts. This module explores **operational coordination and management**, not the single HR-agent competency assessment already in [Project 42](../42_Human-AI_Workforce_Design_and_Agent_Governance/).
 
 ## Principal deliverables
 - [Digital worker lifecycle, agent register and access matrix](01_Digital_Worker_Lifecycle_and_Register.md).
@@ -26,4 +26,4 @@ From root:
 
 **Evidence:** Executable local policy **simulation**, not an LLM, agent orchestrator, Microsoft tenant, HRIS integration or tested multi-agent deployment. No real employee, candidate or customer information.
 
-[Portfolio home](../README.md) · [Existing agent evaluation laboratory](../../42_Human-AI_Workforce_Design_and_Agent_Governance/)
+[Portfolio home](../README.md) · [Existing agent evaluation laboratory](../42_Human-AI_Workforce_Design_and_Agent_Governance/)

@@ -43,4 +43,4 @@ Input/request class, authenticated user role, agent lifecycle state, policy vers
 No high-severity unauthorized actions, pre-agreed decision quality thresholds on independently labeled holdouts, tested human escalation, privacy/security approval, rollback rehearsal, training, business acceptance and budgeted oversight. **No universal threshold is claimed here.**
 
 ## Work division
-Existing [Project 42](../../42_Human-AI_Workforce_Design_and_Agent_Governance/) evaluates an HR service agent's competency and governance concepts. **This project** designs multiple agent identities and shared operational routing, with explicit enforcement of status, allowed task classes and owner escalation.
+Existing [Project 42](../42_Human-AI_Workforce_Design_and_Agent_Governance/) evaluates an HR service agent's competency and governance concepts. **This project** designs multiple agent identities and shared operational routing, with explicit enforcement of status, allowed task classes and owner escalation.

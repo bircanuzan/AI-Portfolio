@@ -64,4 +64,4 @@ All original PDFs, files and 20 project directories are preserved. No live Claud
 
 Project 55 provides an executable deterministic mock screening audit using fictional candidates, Python source and tests; it is not a live ATS or model deployment. The Claude-compatible projects are workflow designs with synthetic exercises, not verified Claude runs or live client work. All hiring decisions remain human-owned.
 
-[Main portfolio index](../README.md) | [Claude AI HR master index](../Claude%20AI%20in%20HR%20-%20Portfolio%20Index/)
+[Main portfolio index](../README.md) | [Claude AI HR master index](../Agentic%20AI%20development/Claude%20HR%20Skills/Claude%20AI%20in%20HR%20-%20Portfolio%20Index/)
