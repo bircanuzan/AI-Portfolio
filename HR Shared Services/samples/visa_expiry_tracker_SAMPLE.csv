@@ -1,0 +1,4 @@
+case_id,anonymous_worker_id,entity,case_type,authority_category,expiry_date,status,case_owner,last_checked,next_action,escalation_flag
+DEMO-V001,DEMO-W001,Entity A,Emirates ID,ICP,2026-12-15,Review required,PRO Owner A,2026-11-05,Verify documents with authorised PRO,No
+DEMO-V002,DEMO-W002,Entity B,Residence renewal,GDRFA,2026-11-30,Pending specialist validation,PRO Owner B,2026-11-05,Confirm correct legal filing pathway,Yes
+DEMO-V003,DEMO-W003,Entity A,Work permit,MOHRE where applicable,2027-01-22,Monitoring,PRO Owner A,2026-11-05,Confirm renewal schedule,No
