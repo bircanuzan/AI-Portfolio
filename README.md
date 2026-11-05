@@ -1,3 +1,7 @@
+## HR Data Analyst — Banking Workforce MIS & Headcount Planning (Independent Case)
+
+**[Open the HR Data Analyst portfolio](HR%20Data%20Analyst/README.md)** — fictional UAE regulated-financial-services data lab with monthly headcount/FTE validation, Finance-aligned budget and cost variance, approved-versus-pending manpower requests, illustrative Emiratisation-target gaps, executive MIS/control matrix, Excel/Power BI/SQL specification, an offline Python analyser and authored regression tests. **Synthetic inputs only; not ADIB delivery, live HRMS data or a CBUAE filing.**
+
 ## AI Model Training & Evaluation Freelancer Project — Independent Consulting Deliverable Lab
 
 **[Open the 21-file project](AI%20Model%20Training%20%26%20Evaluation%20Freelancer%20Project/README.md)** — six management consulting benchmarks covering steering committee decks, market-entry analysis, target operating models, sensitivity-tested business cases, stakeholder synthesis and change roadmaps. Includes a 100-point human-review rubric, critical-defect gates, financial model, editable Office sample generator and deterministic unit tests. **All materials are fictional independent work samples; no paid model-training engagement, model quality uplift or client deployment is claimed.**
