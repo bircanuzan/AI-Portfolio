@@ -1,3 +1,7 @@
+## AI Model Training & Evaluation Freelancer Project — Independent Consulting Deliverable Lab
+
+**[Open the 21-file project](AI%20Model%20Training%20%26%20Evaluation%20Freelancer%20Project/README.md)** — six management consulting benchmarks covering steering committee decks, market-entry analysis, target operating models, sensitivity-tested business cases, stakeholder synthesis and change roadmaps. Includes a 100-point human-review rubric, critical-defect gates, financial model, editable Office sample generator and deterministic unit tests. **All materials are fictional independent work samples; no paid model-training engagement, model quality uplift or client deployment is claimed.**
+
 ## HR Policy — Multinational Aviation Policy & Compliance Governance
 
 **[Open the HR Policy project](HR%20Policy/README.md)** — independent fictional six-market aviation policy governance case aligned to HR policy drafting, contract and handbook templates, employment-law monitoring workflow, controlled version release, Legal/Payroll/HRBP approvals, country UAT, employee briefings, synthetic policy effectiveness and cost analytics, plus safe AI-assisted drafting. Includes a local Python document-control checker and 12 authored unit tests. **Not Etihad-delivered work, live legal advice, validated employment law or proven financial savings.**
