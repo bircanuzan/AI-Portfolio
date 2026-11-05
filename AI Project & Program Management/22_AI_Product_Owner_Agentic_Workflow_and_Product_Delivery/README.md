@@ -1,6 +1,6 @@
 ## Cross-role enhancement — enterprise_crm AI Consultant / enterprise agent specifications
 
-- [enterprise_crm-oriented discovery, value-mapping and CRM agent implementation specification](../24_Applied_AI_Transformation_Manager_MENA/05_enterprise_crm_Enterprise_Agent_Consulting_and_CRM_Transformation.md), plus its synthetic prioritization script and tests.
+- [enterprise_crm-oriented discovery, value-mapping and CRM agent implementation specification](../../AI%20Transformation/24_Applied_AI_Transformation_Manager_MENA/05_Enterprise_Agent_Consulting_and_CRM_Transformation.md), plus its synthetic prioritization script and tests.
 - Enhances this product-owner case with customer discovery, executive value narrative, CRM/ERP/API/MCP interface requirements, adoption planning and explicit source/approval boundaries. It remains a fictional, independent exercise with no deployed enterprise_crm solution.
 
 # Project 22 — AI Product Owner | Agentic Workflow Discovery, Prototype & Product Delivery
