@@ -1,6 +1,6 @@
 ## New JD extension — enterprise_crm AI Consultant (Dubai, 2 November 2026)
 
-- [Enterprise AI discovery, CRM agent architecture, integration requirements, executive value story, and responsible rollout](05_enterprise_crm_Enterprise_Agent_Consulting_and_CRM_Transformation.md)
+- [Enterprise AI discovery, CRM agent architecture, integration requirements, executive value story, and responsible rollout](05_Enterprise_Agent_Consulting_and_CRM_Transformation.md)
 - [Synthetic AI opportunity assessment data](data/enterprise_crm_synthetic_opportunities.csv), [explainable Python priority scoring](src/enterprise_crm_opportunity_scoring.py) and [regression tests](tests/test_enterprise_crm_opportunity_scoring.py)
 - **Skills/tech from JD:** business discovery, value mapping, AI agent architecture, process redesign, CRM/ERP/SaaS APIs and MCP-style integration concepts, user stories, executive communication, UAT, adoption and outcome measurement.
 - **Evidence honesty:** scoring code is runnable and data synthetic; there is no enterprise_crm tenant access, real customer engagement, deployed agent or measured business ROI.
