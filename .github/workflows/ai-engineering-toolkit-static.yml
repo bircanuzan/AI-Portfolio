@@ -1,0 +1,44 @@
+name: AI engineering toolkit static validation
+
+on:
+  push:
+    paths:
+      - 'AI_ENGINEERING_TOOL_PROJECTS_INDEX.md'
+      - 'LLM application development/**'
+      - 'Agentic AI Orchestration/**'
+      - 'AI models and evaluation/**'
+      - 'RAG evaluation/**'
+      - 'Agent tracing and testing/**'
+      - 'Model evaluation and experiment tracking/**'
+      - 'AI application and API development/**'
+      - 'Vector search and retrieval/**'
+      - 'Local LLM inference/**'
+      - 'scripts/validate_ai_engineering_toolkit.py'
+      - '.github/workflows/ai-engineering-toolkit-static.yml'
+  pull_request:
+    paths:
+      - 'AI_ENGINEERING_TOOL_PROJECTS_INDEX.md'
+      - 'LLM application development/**'
+      - 'Agentic AI Orchestration/**'
+      - 'AI models and evaluation/**'
+      - 'RAG evaluation/**'
+      - 'Agent tracing and testing/**'
+      - 'Model evaluation and experiment tracking/**'
+      - 'AI application and API development/**'
+      - 'Vector search and retrieval/**'
+      - 'Local LLM inference/**'
+      - 'scripts/validate_ai_engineering_toolkit.py'
+  workflow_dispatch:
+
+jobs:
+  structure-and-syntax:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Check 20 projects and parse Python syntax
+        run: python scripts/validate_ai_engineering_toolkit.py
