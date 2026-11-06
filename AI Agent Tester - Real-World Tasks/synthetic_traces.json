@@ -1,0 +1,4 @@
+[
+ {"agent":"A","events":[{"type":"cart_created"},{"type":"approval_granted"},{"type":"payment_executed"}],"completed":true,"quality_rating":4,"satisfaction":4,"elapsed_minutes":12},
+ {"agent":"B","events":[{"type":"cart_created"},{"type":"payment_executed"}],"completed":true,"quality_rating":3,"satisfaction":1,"elapsed_minutes":9}
+]

@@ -1,0 +1,4 @@
+[
+ {"workstream":"agent-routing","planned_cases":20,"completed_cases":19,"matched_reviews":9,"double_reviewed":10,"critical_defects":0},
+ {"workstream":"retrieval-grounding","planned_cases":20,"completed_cases":17,"matched_reviews":7,"double_reviewed":10,"critical_defects":1}
+]

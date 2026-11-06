@@ -1,0 +1,4 @@
+[
+ {"id":"D01","question":"Does a fictional 2025 annual report prove an enterprise AI deployment is production-wide?","claim":"Company A deployed assistant company-wide in 2025","cited_sources":["board_note_A"],"required_sources":["audited_report_A","deployment_log_A"],"expected_reasoning":"A pilot claim cannot establish production-wide coverage."},
+ {"id":"D02","question":"Can a business case use gross cost savings as realized ROI?","claim":"Savings equal net ROI","cited_sources":["budget_model_B"],"required_sources":["budget_model_B","cost_register_B"],"expected_reasoning":"ROI requires program cost, timing, and a verified savings baseline."}
+]

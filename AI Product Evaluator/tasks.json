@@ -1,0 +1,5 @@
+[
+ {"id":"A01","required_steps":["read_policy","verify_amount","request_approval"],"observed_steps":["read_policy","verify_amount","request_approval"],"claimed_complete":true,"actually_complete":true},
+ {"id":"A02","required_steps":["read_policy","verify_amount","request_approval"],"observed_steps":["verify_amount"],"claimed_complete":true,"actually_complete":false},
+ {"id":"A03","required_steps":["capture_source","check_citation"],"observed_steps":["capture_source","check_citation"],"claimed_complete":false,"actually_complete":false}
+]
