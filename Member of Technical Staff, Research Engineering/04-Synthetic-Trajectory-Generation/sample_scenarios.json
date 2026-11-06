@@ -1,0 +1,38 @@
+{
+  "project": "Synthetic Trajectory Generation",
+  "simulated_inquiry": "Model-training data needs clearly labeled successes, failures and terminal states for quality review.",
+  "expected_outcomes": [
+    "Targets: 100% complete required schema; 0 trajectories continuing after terminal event."
+  ],
+  "observations": [
+    {
+      "run_id": "synthetic-001",
+      "required_steps": [
+        "define_task",
+        "execute_check",
+        "record_evidence"
+      ],
+      "performed_steps": [
+        "define_task",
+        "execute_check",
+        "record_evidence"
+      ],
+      "reported_complete": true,
+      "actual_complete": true
+    },
+    {
+      "run_id": "synthetic-002",
+      "required_steps": [
+        "define_task",
+        "execute_check",
+        "record_evidence"
+      ],
+      "performed_steps": [
+        "define_task",
+        "record_evidence"
+      ],
+      "reported_complete": true,
+      "actual_complete": false
+    }
+  ]
+}

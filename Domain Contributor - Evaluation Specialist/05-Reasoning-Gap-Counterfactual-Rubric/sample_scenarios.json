@@ -1,0 +1,38 @@
+{
+  "project": "Reasoning Gap & Counterfactual Rubric",
+  "simulated_inquiry": "A model gives the correct answer for the wrong reason and fails when a material assumption changes.",
+  "expected_outcomes": [
+    "Target 100% counterfactual pairs scored; critical error gate on unsupported certainty."
+  ],
+  "observations": [
+    {
+      "run_id": "synthetic-001",
+      "required_steps": [
+        "define_task",
+        "execute_check",
+        "record_evidence"
+      ],
+      "performed_steps": [
+        "define_task",
+        "execute_check",
+        "record_evidence"
+      ],
+      "reported_complete": true,
+      "actual_complete": true
+    },
+    {
+      "run_id": "synthetic-002",
+      "required_steps": [
+        "define_task",
+        "execute_check",
+        "record_evidence"
+      ],
+      "performed_steps": [
+        "define_task",
+        "record_evidence"
+      ],
+      "reported_complete": true,
+      "actual_complete": false
+    }
+  ]
+}

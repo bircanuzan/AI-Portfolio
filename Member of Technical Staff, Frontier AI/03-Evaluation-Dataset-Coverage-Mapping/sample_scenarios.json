@@ -1,0 +1,38 @@
+{
+  "project": "Evaluation Dataset Coverage Mapping",
+  "simulated_inquiry": "Collected training examples overrepresent easy cases while missing escalation and edge-case behaviors.",
+  "expected_outcomes": [
+    "Illustrative target ≥5 cases per critical bucket; 0 untracked categories."
+  ],
+  "observations": [
+    {
+      "run_id": "synthetic-001",
+      "required_steps": [
+        "define_task",
+        "execute_check",
+        "record_evidence"
+      ],
+      "performed_steps": [
+        "define_task",
+        "execute_check",
+        "record_evidence"
+      ],
+      "reported_complete": true,
+      "actual_complete": true
+    },
+    {
+      "run_id": "synthetic-002",
+      "required_steps": [
+        "define_task",
+        "execute_check",
+        "record_evidence"
+      ],
+      "performed_steps": [
+        "define_task",
+        "record_evidence"
+      ],
+      "reported_complete": true,
+      "actual_complete": false
+    }
+  ]
+}

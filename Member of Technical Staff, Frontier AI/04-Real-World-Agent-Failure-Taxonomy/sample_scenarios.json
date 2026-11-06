@@ -1,0 +1,38 @@
+{
+  "project": "Real-World Agent Failure Taxonomy",
+  "simulated_inquiry": "Agent task failures are logged as generic unsuccessful runs with no causal distinction.",
+  "expected_outcomes": [
+    "Target 100% failed runs assigned an evidence-linked category; critical privacy events escalated."
+  ],
+  "observations": [
+    {
+      "run_id": "synthetic-001",
+      "required_steps": [
+        "define_task",
+        "execute_check",
+        "record_evidence"
+      ],
+      "performed_steps": [
+        "define_task",
+        "execute_check",
+        "record_evidence"
+      ],
+      "reported_complete": true,
+      "actual_complete": true
+    },
+    {
+      "run_id": "synthetic-002",
+      "required_steps": [
+        "define_task",
+        "execute_check",
+        "record_evidence"
+      ],
+      "performed_steps": [
+        "define_task",
+        "record_evidence"
+      ],
+      "reported_complete": true,
+      "actual_complete": false
+    }
+  ]
+}

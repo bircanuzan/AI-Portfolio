@@ -1,12 +1,33 @@
-# Domain Contributor - Evaluation Specialist | Evidence-Based AI Answer Challenge
+# Primary-Source Sufficiency Challenge
 
-**Portfolio status:** Independent synthetic domain assessment project; no claim of formal legal advice, production RLHF, or externally validated model improvement.
+> **Evidence classification:** Independent HumanEvoX / freelance portfolio case study based on a simulated inquiry. Not a paid commission or verified production deployment. Acceptance KPIs are proposed benchmarks unless stated otherwise; no actual model lift, client SLA or production outcome is asserted.
 
-## Domain focus
-Technology industry history and enterprise business/finance reasoning, leveraging sector familiarity from prior enterprise roles. Design subtle questions with source evidence, ambiguity flags and differentiated partial-credit rationales.
+## Client Inquiry (simulated)
+A model treats a fictional board memo as proof of enterprise-wide deployment without corresponding independent evidence.
 
-**Files:** scenario_bank.json, verify_claims.py and TASK_AND_ACCEPTANCE.md.
+## Our Methodology / Tech Used
+Require two distinct primary-source types and inspect claim-to-source coverage; document missing citations and uncertainty.
 
-**Run:** `python verify_claims.py` to evaluate whether stated source identifiers match a locally curated synthetic evidence registry. Source assertions are deliberately fictional for demo and **not** real-world citations. Real evaluation requires authoritative primary-source checks.
+**Project tools and methods:** Python 3, JSON, source registry, rubric.
 
-**Review output:** weighted reasoning rubric, source-to-claim map, reason for failure, uncertainty record and revision recommendation.
+## Result (KPI / SLA / Metrics)
+Target 100% source-to-claim traceability; 0 conclusions stronger than available evidence.
+
+**Delivery status:** Published task design, sample artifacts and a small evaluation prototype. Unless reproducibility evidence is attached, evaluation and engine/model performance remain unverified.
+
+**Proposed service-level target (not a contracted or achieved SLA):** record the test setup, expected/actual outcome, failure severity and supporting evidence within one business day after execution. For any high-risk control bypass, stop and escalate immediately.
+
+## Acceptance & evidence register
+- Trace input scenario to expected state, exact observed evidence and any unresolved disagreement.
+- Document test environment, synthetic-data provenance, version/seed when relevant, and follow-up actions.
+- Treat automated check results as narrow validation of the supplied data/schema, not proof of expert model correctness.
+
+## Five case studies in this role portfolio
+1. [Primary-Source Sufficiency Challenge](https://github.com/bircanuzan/AI-in-HR-Portfolio/tree/main/Domain%20Contributor%20-%20Evaluation%20Specialist)
+2. [Publication-Date & Source-Provenance Audit](https://github.com/bircanuzan/AI-in-HR-Portfolio/tree/main/Domain%20Contributor%20-%20Evaluation%20Specialist/02-Publication-Date-Source-Provenance-Audit)
+3. [Conflicting-Source Reconciliation](https://github.com/bircanuzan/AI-in-HR-Portfolio/tree/main/Domain%20Contributor%20-%20Evaluation%20Specialist/03-Conflicting-Source-Reconciliation)
+4. [Financial Business-Case Cross-Checks](https://github.com/bircanuzan/AI-in-HR-Portfolio/tree/main/Domain%20Contributor%20-%20Evaluation%20Specialist/04-Financial-Business-Case-Cross-Checks)
+5. [Reasoning Gap & Counterfactual Rubric](https://github.com/bircanuzan/AI-in-HR-Portfolio/tree/main/Domain%20Contributor%20-%20Evaluation%20Specialist/05-Reasoning-Gap-Counterfactual-Rubric)
+
+## Limitations
+Synthetic claim/source fixtures do not constitute verified legal, investment, financial or academic source research; authoritative citations are required in real assessments.

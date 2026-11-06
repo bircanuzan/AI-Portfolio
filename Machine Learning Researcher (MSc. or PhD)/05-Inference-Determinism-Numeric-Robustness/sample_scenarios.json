@@ -1,0 +1,38 @@
+{
+  "project": "Inference Determinism & Numeric Robustness",
+  "simulated_inquiry": "A model's inference pathway returns inconsistent results or non-finite values on edge inputs.",
+  "expected_outcomes": [
+    "Targets: 0 non-finite predictions for valid fixtures; identical repeated input = identical output."
+  ],
+  "observations": [
+    {
+      "run_id": "synthetic-001",
+      "required_steps": [
+        "define_task",
+        "execute_check",
+        "record_evidence"
+      ],
+      "performed_steps": [
+        "define_task",
+        "execute_check",
+        "record_evidence"
+      ],
+      "reported_complete": true,
+      "actual_complete": true
+    },
+    {
+      "run_id": "synthetic-002",
+      "required_steps": [
+        "define_task",
+        "execute_check",
+        "record_evidence"
+      ],
+      "performed_steps": [
+        "define_task",
+        "record_evidence"
+      ],
+      "reported_complete": true,
+      "actual_complete": false
+    }
+  ]
+}

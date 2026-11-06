@@ -1,0 +1,38 @@
+{
+  "project": "Anomaly Reporting & Regression Triage",
+  "simulated_inquiry": "A QA lead needs to identify recurring model failures and prioritize them by severity.",
+  "expected_outcomes": [
+    "Target 100% incidents with a category, severity and reproducer; proposed 1-business-day report SLA."
+  ],
+  "observations": [
+    {
+      "run_id": "synthetic-001",
+      "required_steps": [
+        "define_task",
+        "execute_check",
+        "record_evidence"
+      ],
+      "performed_steps": [
+        "define_task",
+        "execute_check",
+        "record_evidence"
+      ],
+      "reported_complete": true,
+      "actual_complete": true
+    },
+    {
+      "run_id": "synthetic-002",
+      "required_steps": [
+        "define_task",
+        "execute_check",
+        "record_evidence"
+      ],
+      "performed_steps": [
+        "define_task",
+        "record_evidence"
+      ],
+      "reported_complete": true,
+      "actual_complete": false
+    }
+  ]
+}

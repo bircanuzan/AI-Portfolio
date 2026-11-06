@@ -1,0 +1,38 @@
+{
+  "project": "Usage-Limit & Retry Protocol",
+  "simulated_inquiry": "An evaluator must repeat a model test after a platform usage reset without merging evidence from separate attempts.",
+  "expected_outcomes": [
+    "Target 0 duplicate attempt IDs, 100% retry traceability, 100% reset-reason capture."
+  ],
+  "observations": [
+    {
+      "run_id": "synthetic-001",
+      "required_steps": [
+        "define_task",
+        "execute_check",
+        "record_evidence"
+      ],
+      "performed_steps": [
+        "define_task",
+        "execute_check",
+        "record_evidence"
+      ],
+      "reported_complete": true,
+      "actual_complete": true
+    },
+    {
+      "run_id": "synthetic-002",
+      "required_steps": [
+        "define_task",
+        "execute_check",
+        "record_evidence"
+      ],
+      "performed_steps": [
+        "define_task",
+        "record_evidence"
+      ],
+      "reported_complete": true,
+      "actual_complete": false
+    }
+  ]
+}
