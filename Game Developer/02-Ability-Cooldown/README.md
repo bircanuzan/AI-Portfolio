@@ -1,21 +1,23 @@
-# Gameplay ability cooldown / state handling
+# Ability Cooldown and Input State
 
-**Evidence:** New independent Godot 4 learning/assessment prototype designed for a micro1-style challenge; NOT professional game-studio delivery or verified engine playtest.
+**Evidence classification:** Independently developed portfolio demonstration based on a **simulated** client/producer inquiry, not commissioned commercial work, a shipped game, or a paid SLA. Acceptance KPIs are targets unless explicitly labeled as measured. Godot editor/visual playtesting has not been verified.
 
-## Objective
-Implement a cooldown-bound ability: activate on a single button press, ignore subsequent requests during cooldown, then restore availability.
+## Client Inquiry
+Simulated designer inquiry: prevent a player ability from spamming while a cooldown is active, without losing clear on-screen status.
 
-## Reviewer workflow
-1. Attach ability.gd to a Godot 4 Node2D instance.
-2. Map ui_accept to Space (Godot defaults are usually configured).
-3. Run test scene with Label node named Status.
-4. Compare cooldown behavior against acceptance checks.
+## Our Methodology / Tech Used
+Use Godot 4, GDScript, a frame-delta cooldown counter, Input.is_action_just_pressed and a Status Label. Document ready/cooldown transitions and reproducible hold/rapid-press scenarios.
 
-## Acceptance checks
-- Initial state READY; first press switches to COOLING DOWN.
-- Holding Space never causes repeated activations.
-- Pressing during cooldown does not trigger activation.
-- After 2 seconds, ability returns to READY; can activate again.
+**Technical components:** Godot 4 | GDScript | Input API | frame delta | Label.
 
-## Limitations
-GDScript script + task specification, no verified end-to-end playtest recorded.
+## Result (KPI / SLA / Metrics)
+Acceptance KPI targets: 2.0-second cooldown after activation; 0 additional activations while cooling down; a second activation accepted only when timer returns to zero. Engine execution remains pending. Proposed QA SLA: same-business-day defect report after test execution; not a delivered client SLA.
+
+## Evidence and Delivery Status
+Published GDScript ability.gd and reviewer test instructions. No independently verified frame-time benchmark or engine recording is claimed.
+
+## Reproduction / Evaluation
+Follow the source files and task acceptance guide in this folder. Capture the input sequence, actual on-screen state, screenshot or screen recording, severity, and pass/fail rationale. Escalate any discrepancy; do not mark simulated targets as achieved.
+
+## Related portfolio
+[Game Developer project collection](https://github.com/bircanuzan/AI-in-HR-Portfolio/tree/main/Game%20Developer).
