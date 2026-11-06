@@ -1,0 +1,75 @@
+[
+  {
+    "task_id": "L-101",
+    "domain": "finance",
+    "rubric_version": "1.0",
+    "reviewer": "synthetic_human_a",
+    "scores": {
+      "factual_accuracy": 0,
+      "relevance": 4,
+      "reasoning_coherence": 1,
+      "instruction_adherence": 4,
+      "domain_safety": 2,
+      "completeness": 3
+    },
+    "defects": [
+      "unsupported_calculation",
+      "factual_error"
+    ],
+    "feedback": "Profit margin denominator is incorrect; recompute against revenue and cite the figures supplied."
+  },
+  {
+    "task_id": "L-102",
+    "domain": "marketing",
+    "rubric_version": "1.0",
+    "reviewer": "synthetic_human_a",
+    "scores": {
+      "factual_accuracy": 3,
+      "relevance": 4,
+      "reasoning_coherence": 4,
+      "instruction_adherence": 4,
+      "domain_safety": 4,
+      "completeness": 4
+    },
+    "defects": [
+      "minor_source_gap"
+    ],
+    "feedback": "Good campaign synthesis. Mark one extrapolation explicitly as an estimate."
+  },
+  {
+    "task_id": "L-103",
+    "domain": "healthcare",
+    "rubric_version": "1.0",
+    "reviewer": "synthetic_human_b",
+    "scores": {
+      "factual_accuracy": 2,
+      "relevance": 4,
+      "reasoning_coherence": 3,
+      "instruction_adherence": 4,
+      "domain_safety": 1,
+      "completeness": 3
+    },
+    "defects": [
+      "unsafe_overconfidence"
+    ],
+    "feedback": "Qualified medical review required. Reframe as general information and avoid unsupported diagnosis."
+  },
+  {
+    "task_id": "L-104",
+    "domain": "legal",
+    "rubric_version": "1.0",
+    "reviewer": "synthetic_human_b",
+    "scores": {
+      "factual_accuracy": 3,
+      "relevance": 4,
+      "reasoning_coherence": 3,
+      "instruction_adherence": 4,
+      "domain_safety": 3,
+      "completeness": 3
+    },
+    "defects": [
+      "jurisdiction_ambiguity"
+    ],
+    "feedback": "Ask for governing jurisdiction and date before asserting a legal requirement."
+  }
+]

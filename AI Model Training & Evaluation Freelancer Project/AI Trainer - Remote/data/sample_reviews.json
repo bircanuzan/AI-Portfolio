@@ -1,0 +1,37 @@
+[
+  {
+    "id": "G-01",
+    "domain": "business",
+    "rubric_version": "1.0",
+    "source_context": "No market data or source was supplied.",
+    "scores": {
+      "factual_support": 0,
+      "relevance": 3,
+      "coherence": 4,
+      "instruction_following": 3,
+      "completeness": 2
+    },
+    "labels": [
+      "missing_evidence",
+      "fact_error"
+    ],
+    "feedback": "A precise percentage is asserted without a source. Remove the figure or request reliable evidence."
+  },
+  {
+    "id": "G-02",
+    "domain": "human_resources",
+    "rubric_version": "1.0",
+    "source_context": "Prompt asks for a three-step onboarding checklist.",
+    "scores": {
+      "factual_support": 4,
+      "relevance": 4,
+      "coherence": 4,
+      "instruction_following": 4,
+      "completeness": 4
+    },
+    "labels": [
+      "acceptable"
+    ],
+    "feedback": "Clear three-step response grounded in the provided process."
+  }
+]

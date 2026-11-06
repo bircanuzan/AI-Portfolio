@@ -1,0 +1,16 @@
+{
+  "dimensions": [
+    "task_clear",
+    "context_sufficient",
+    "format_defined",
+    "verification_plan",
+    "privacy_and_approval"
+  ],
+  "anchors": {
+    "0": "not addressed",
+    "1": "partially addressed",
+    "2": "explicitly addressed"
+  },
+  "pass_threshold": 8,
+  "note": "Demonstration checklist only, not evidence of learning impact or training delivery."
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "C-01",
+    "text": "The policy explains annual leave.",
+    "language": "en",
+    "domain": "hr",
+    "source": "synthetic",
+    "annotation_a": "policy",
+    "annotation_b": "policy"
+  },
+  {
+    "id": "C-02",
+    "text": "The policy explains annual leave.",
+    "language": "en",
+    "domain": "hr",
+    "source": "synthetic",
+    "annotation_a": "policy",
+    "annotation_b": "policy"
+  },
+  {
+    "id": "C-03",
+    "text": "Müşteri hizmetleri başvuruyu inceler.",
+    "language": "tr",
+    "domain": "operations",
+    "source": "synthetic",
+    "annotation_a": "process",
+    "annotation_b": "process"
+  },
+  {
+    "id": "C-04",
+    "text": "  ",
+    "language": "en",
+    "domain": "operations",
+    "source": "synthetic",
+    "annotation_a": "process",
+    "annotation_b": "policy"
+  },
+  {
+    "id": "C-05",
+    "text": "A report summarizes onboarding trends.",
+    "language": "en",
+    "domain": "research",
+    "source": "",
+    "annotation_a": "summary",
+    "annotation_b": "summary"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "id": "F-01",
+    "type": "profit_margin",
+    "revenue": 100000,
+    "net_income": 12500,
+    "claimed_margin_percent": 14.3,
+    "expected_margin_percent": 12.5
+  },
+  {
+    "id": "F-02",
+    "type": "balance_sheet",
+    "assets": 200000,
+    "liabilities": 85000,
+    "equity": 115000
+  },
+  {
+    "id": "F-03",
+    "type": "reconciliation",
+    "invoice_id": "I-100",
+    "invoice_amount": 15000,
+    "bank_receipt_amount": 14000,
+    "expected_outstanding": 1000
+  },
+  {
+    "id": "F-04",
+    "type": "entity_mismatch",
+    "invoice_candidate_id": "C-120",
+    "bank_receipt_candidate_id": "C-121"
+  }
+]
