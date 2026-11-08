@@ -2,6 +2,12 @@
 
 **Research-engineering portfolio:** self-directed Python reinforcement-learning and AI evaluation demonstrations. These are educational and synthetic examples, not paid micro1 projects, verified production deployments, model fine-tuning, or evidence of published frontier RL research.
 
+## RL Environment Development — Application Summary
+
+Yes. I have independently developed Python-based reinforcement learning environments, including a custom GridWorld using tabular Q-learning, reward functions, state transitions, episode pipelines, and automated verification. My portfolio includes reproducible training experiments, synthetic trajectory generation, and benchmarking trained policies against random baselines, supported by 12 automated tests.
+
+*Scope: independent, educational tabular RL work; not a claim of production-scale RL engineering, deep RL model fine-tuning or professional research deployment.*
+
 ## Featured runnable project
 **[06 - Reproducible RL Research Workbench](https://github.com/bircanuzan/AI-in-HR-Portfolio/tree/main/Member%20of%20Technical%20Staff%2C%20Research%20Engineering/06-Reproducible-RL-Research-Workbench)** - a 4x4 self-contained RL environment, seeded tabular Q-learning trainer, synthetic episode generator, independent verifier, release-oriented metrics and benchmark comparing trained to random policies. Local reference: **12/12 unittest checks passed; 100/100 trained-policy success vs 48/100 random; 20/20 synthetic episodes replay-verified**. Results apply strictly to this toy environment.
 
