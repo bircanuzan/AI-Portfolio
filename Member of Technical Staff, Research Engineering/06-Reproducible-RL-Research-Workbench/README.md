@@ -3,6 +3,12 @@
 
 > **Evidence boundary:** This is a small self-directed, locally executed *tabular Q-learning* experiment, not a commissioned client project, large-scale reinforcement-learning infrastructure, published external benchmark, or fine-tuning of a neural network or language model.
 
+## RL Environment Development — Application Summary
+
+Yes. I have independently developed Python-based reinforcement learning environments, including a custom GridWorld using tabular Q-learning, reward functions, state transitions, episode pipelines, and automated verification. My portfolio includes reproducible training experiments, synthetic trajectory generation, and benchmarking trained policies against random baselines, supported by 12 automated tests.
+
+*Scope: independent, educational tabular RL work; not a claim of production-scale RL engineering, deep RL model fine-tuning or professional research deployment.*
+
 ## Client Inquiry (simulated)
 A research team needs a self-contained RL environment that can yield reproducible, inspectable training episodes. Each experiment should define a reward function and terminal-state rules, generate synthetic data, verify every event transition, train an agent, and compare its capability to a baseline. Research results must have clear reproducibility metadata and should not be presented as generalizable until independently evaluated.
 
