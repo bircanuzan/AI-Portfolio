@@ -1,33 +1,19 @@
-# Tabular RL Gridworld / Reproducible Training
+# Member of Technical Staff, Research Engineering
 
-> **Evidence classification:** Independent HumanEvoX / freelance portfolio case study based on a simulated inquiry. Not a paid commission or verified production deployment. Acceptance KPIs are proposed benchmarks unless stated otherwise; no actual model lift, client SLA or production outcome is asserted.
+**Research-engineering portfolio:** self-directed Python reinforcement-learning and AI evaluation demonstrations. These are educational and synthetic examples, not paid micro1 projects, verified production deployments, model fine-tuning, or evidence of published frontier RL research.
 
-## Client Inquiry (simulated)
-A toy agent needs a deterministic environment and reward function with a replayable training loop.
+## Featured runnable project
+**[06 - Reproducible RL Research Workbench](https://github.com/bircanuzan/AI-in-HR-Portfolio/tree/main/Member%20of%20Technical%20Staff%2C%20Research%20Engineering/06-Reproducible-RL-Research-Workbench)** - a 4x4 self-contained RL environment, seeded tabular Q-learning trainer, synthetic episode generator, independent verifier, release-oriented metrics and benchmark comparing trained to random policies. Local reference: **12/12 unittest checks passed; 100/100 trained-policy success vs 48/100 random; 20/20 synthetic episodes replay-verified**. Results apply strictly to this toy environment.
 
-## Our Methodology / Tech Used
-Implement a five-state 1D gridworld, Q-learning updates, fixed seed and greedy evaluation using standard-library Python.
+## Other independent studies
+1. **[Tabular RL Gridworld](https://github.com/bircanuzan/AI-in-HR-Portfolio/tree/main/Member%20of%20Technical%20Staff%2C%20Research%20Engineering/toy_rl.py)** - original 1D Q-learning teaching example and state/reward contract.
+2. **[Reward Function Invariants](https://github.com/bircanuzan/AI-in-HR-Portfolio/tree/main/Member%20of%20Technical%20Staff%2C%20Research%20Engineering/02-Reward-Function-Invariants)** - terminal and invalid-action reward consistency.
+3. **[Episode Replay and Seed Reproducibility](https://github.com/bircanuzan/AI-in-HR-Portfolio/tree/main/Member%20of%20Technical%20Staff%2C%20Research%20Engineering/03-Episode-Replay-Seed-Reproducibility)** - event integrity and fixed-seed tests.
+4. **[Synthetic Trajectory Generation](https://github.com/bircanuzan/AI-in-HR-Portfolio/tree/main/Member%20of%20Technical%20Staff%2C%20Research%20Engineering/04-Synthetic-Trajectory-Generation)** - training-data schema and episode validity.
+5. **[RL Benchmark and Generalization Gate](https://github.com/bircanuzan/AI-in-HR-Portfolio/tree/main/Member%20of%20Technical%20Staff%2C%20Research%20Engineering/05-RL-Benchmark-Generalization-Gate)** - coverage, baseline and benchmark-release criteria.
 
-**Project tools and methods:** Python 3, tabular Q-learning, random seeding.
-
-## Result (KPI / SLA / Metrics)
-Targets: reach state 4 within 20 steps; deterministic repeated seeded runs; 0 invalid states.
-
-**Delivery status:** Published task design, sample artifacts and a small evaluation prototype. Unless reproducibility evidence is attached, evaluation and engine/model performance remain unverified.
-
-**Proposed service-level target (not a contracted or achieved SLA):** record the test setup, expected/actual outcome, failure severity and supporting evidence within one business day after execution. For any high-risk control bypass, stop and escalate immediately.
-
-## Acceptance & evidence register
-- Trace input scenario to expected state, exact observed evidence and any unresolved disagreement.
-- Document test environment, synthetic-data provenance, version/seed when relevant, and follow-up actions.
-- Treat automated check results as narrow validation of the supplied data/schema, not proof of expert model correctness.
-
-## Five case studies in this role portfolio
-1. [Tabular RL Gridworld / Reproducible Training](https://github.com/bircanuzan/AI-in-HR-Portfolio/tree/main/Member%20of%20Technical%20Staff%2C%20Research%20Engineering)
-2. [Reward Function Invariants](https://github.com/bircanuzan/AI-in-HR-Portfolio/tree/main/Member%20of%20Technical%20Staff%2C%20Research%20Engineering/02-Reward-Function-Invariants)
-3. [Episode Replay & Seed Reproducibility](https://github.com/bircanuzan/AI-in-HR-Portfolio/tree/main/Member%20of%20Technical%20Staff%2C%20Research%20Engineering/03-Episode-Replay-Seed-Reproducibility)
-4. [Synthetic Trajectory Generation](https://github.com/bircanuzan/AI-in-HR-Portfolio/tree/main/Member%20of%20Technical%20Staff%2C%20Research%20Engineering/04-Synthetic-Trajectory-Generation)
-5. [RL Benchmark & Generalization Gate](https://github.com/bircanuzan/AI-in-HR-Portfolio/tree/main/Member%20of%20Technical%20Staff%2C%20Research%20Engineering/05-RL-Benchmark-Generalization-Gate)
+## Case-study format
+Each project documents **Client Inquiry (simulated)**, **Our Methodology / Tech Used**, and **Result (KPI, SLA, Metrics)**. Project targets are identified as proposed until executed and measured. Reference benchmark code, results, and repeat instructions are supplied inside the runnable workbench.
 
 ## Limitations
-Toy RL and evaluation examples do not establish deep RL training expertise, production ML infrastructure, open-source fine-tuning or published benchmark improvements.
+No GPU model training, distributed rollout system, large-scale RL training, neural policy fine-tuning, public paper or externally validated frontier-model improvement is claimed.

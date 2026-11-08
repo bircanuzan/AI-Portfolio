@@ -1,0 +1,44 @@
+{
+  "classification": "independent educational tabular RL simulation",
+  "environment": "GridWorld 4x4; 2 walls; horizon 30; reward +1 goal/-0.02 step/-0.1 invalid/-0.3 timeout",
+  "algorithm": "tabular q-learning; seed 7; 4500 episodes",
+  "python": "3.13.5",
+  "training": {
+    "episodes": 4500,
+    "terminal_successes": 4496,
+    "total_steps": 24431,
+    "training_success_rate": 0.9991
+  },
+  "benchmark": {
+    "q_learning": {
+      "successes": 100,
+      "steps": 350,
+      "episodes": 100,
+      "valid": 100,
+      "success_rate": 1,
+      "avg_steps": 3.5,
+      "verification_rate": 1
+    },
+    "random": {
+      "successes": 48,
+      "steps": 2327,
+      "episodes": 100,
+      "valid": 100,
+      "success_rate": 0.48,
+      "avg_steps": 23.27,
+      "verification_rate": 1
+    }
+  },
+  "synthetic_dataset": {
+    "episodes": 20,
+    "transitions": 70,
+    "sha256": "8e307a02837bc33303b6adf1bfa5c8ca765dc43c6267cd4132fcb731fbf72d56",
+    "replay_verified": true
+  },
+  "limits": [
+    "not deep RL",
+    "not fine-tuning a neural model",
+    "not scalable RL production infrastructure",
+    "not external peer-reviewed benchmark"
+  ]
+}
