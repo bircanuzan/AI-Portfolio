@@ -2,6 +2,16 @@
 
 **Evidence standard:** Separate what is concretely implemented here from career claims. This repository is a real, versioned GitHub codebase. This project is a small synthetic reference application and **does not prove prior ownership of a complex production service**.
 
+## Verified GitHub execution — 9 November 2026
+
+- **Real Git branch and review diff:** [Pull request #5](https://github.com/bircanuzan/AI-in-HR-Portfolio/pull/5), merged by squash commit [d6a22d5](https://github.com/bircanuzan/AI-in-HR-Portfolio/commit/d6a22d5610d012403c9704f9a46dfc8532180e97).
+- **Evaluation CI:** [successful GitHub Actions run #12](https://github.com/bircanuzan/AI-in-HR-Portfolio/actions/runs/42582559552), both Python 3.11 and Python 3.12 jobs successful. Prior run logs explicitly recorded **29 passing unit tests** on Python 3.11 and produced the same benchmark pipeline.
+- **Repository-wide taxonomy and link audit:** [successful audit run #84](https://github.com/bircanuzan/AI-in-HR-Portfolio/actions/runs/42582559583). The taxonomy now has an explicit approved role-project allowlist while preserving a fatal check on unknown roots.
+- **Tested local fixture performance:** synthetic reference patch **10/10 (100/100)**; synthetic tax-order bug **8/10 (75/100)**; synthetic rounding bug **9/10 (90/100)**. These are executable candidate-patch fixture results, **not** real AI model leaderboard scores.
+- **Artifacts:** The evaluation workflow uploads JSON benchmark output and repository inventory for each Python version. Inspect its Actions run artifacts to independently verify outputs and source revision.
+
+These links establish actual versioned commits, a PR, CI executions and test evidence, **not** a claim that the code was deployed to a commercial production system.
+
 ## Implemented and verifiable
 
 | Engineering requirement | Evidence you can inspect |
