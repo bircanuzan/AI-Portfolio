@@ -67,4 +67,4 @@ HumanEvoX produced **original independent synthetic** solution designs, Python d
 
 ## Agentic engineering link (distinct from workforce analytics)
 
-[Human–AI Workforce Design Architect — Native LLM Tool-Calling Runtime](../Agentic%20AI%20development/Human%20Capital%20Intelligence%20Agent/WORKFORCE_ARCHITECT_AGENT.md) extends the existing Human Capital Intelligence Agent with a Responses API tool-use loop, role architecture redesign, task assignments, reporting graph validation, human governance and synthetic execution tests. **The scripted CI model is not a real LLM demonstration; live mode requires an operator-supplied API key and separate verification.**
+[Human–AI Workforce Design Architect — Native LLM Tool-Calling Runtime](../Agentic%20AI%20development/AI-Human%20Organizational%20Design/WORKFORCE_ARCHITECT_AGENT.md) extends the existing Human Capital Intelligence Agent with a Responses API tool-use loop, role architecture redesign, task assignments, reporting graph validation, human governance and synthetic execution tests. **The scripted CI model is not a real LLM demonstration; live mode requires an operator-supplied API key and separate verification.**
