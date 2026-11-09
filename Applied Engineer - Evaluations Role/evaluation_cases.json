@@ -1,0 +1,12 @@
+[
+  {"id":"PR101-C01","category":"happy_path","input":{"lines":[{"unit_price":"1.00","quantity":3},{"unit_price":"2.50","quantity":2}],"tax_rate":"0","discount_rate":"0"},"expected":{"subtotal":"8.00","discount":"0.00","tax":"0.00","total":"8.00"}},
+  {"id":"PR101-C02","category":"discount_tax_order","input":{"lines":[{"unit_price":"19.99","quantity":2},{"unit_price":"5.00","quantity":1}],"tax_rate":"0.05","discount_rate":"0.10"},"expected":{"subtotal":"44.98","discount":"4.50","tax":"2.02","total":"42.50"}},
+  {"id":"PR101-C03","category":"discount_tax_order","input":{"lines":[{"unit_price":"20.00","quantity":1}],"tax_rate":"0.10","discount_rate":"0.25"},"expected":{"subtotal":"20.00","discount":"5.00","tax":"1.50","total":"16.50"}},
+  {"id":"PR101-C04","category":"rounding","input":{"lines":[{"unit_price":"0.30","quantity":1}],"tax_rate":"0.05","discount_rate":"0"},"expected":{"subtotal":"0.30","discount":"0.00","tax":"0.02","total":"0.32"}},
+  {"id":"PR101-C05","category":"rounding","input":{"lines":[{"unit_price":"2.05","quantity":1}],"tax_rate":"0.05","discount_rate":"0"},"expected":{"subtotal":"2.05","discount":"0.00","tax":"0.10","total":"2.15"}},
+  {"id":"PR101-C06","category":"validation","input":{"lines":[{"unit_price":"5.00","quantity":1}],"tax_rate":"0.05","discount_rate":"1.5"},"expected":{"raises":"ValueError"}},
+  {"id":"PR101-C07","category":"validation","input":{"lines":[{"unit_price":"5.00","quantity":0}],"tax_rate":"0.05","discount_rate":"0"},"expected":{"raises":"ValueError"}},
+  {"id":"PR101-C08","category":"validation","input":{"lines":[{"unit_price":"-2.00","quantity":1}],"tax_rate":"0.05","discount_rate":"0"},"expected":{"raises":"ValueError"}},
+  {"id":"PR101-C09","category":"validation","input":{"lines":[],"tax_rate":"0.05","discount_rate":"0"},"expected":{"raises":"ValueError"}},
+  {"id":"PR101-C10","category":"regression","input":{"lines":[{"unit_price":"0.01","quantity":2}],"tax_rate":"0","discount_rate":"0"},"expected":{"subtotal":"0.02","discount":"0.00","tax":"0.00","total":"0.02"}}
+]
