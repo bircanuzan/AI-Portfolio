@@ -8,7 +8,7 @@
 
 A source-controlled mini codebase that converts a **synthetic pull-request requirement (PR-101)** into an executable AI-coding evaluation suite. It tests invoice discount/tax ordering, decimal precision, input validation and backward compatibility. Two intentionally faulty candidates create **observable, independently reproducible regressions**; a deterministic evaluator reports exact expected-versus-observed evidence, weighted rubric scores and environment-vs-candidate failure classifications.
 
-The repository-root [GitHub Actions workflow](../.github/workflows/applied-engineer-evaluations.yml) runs the full pipeline on Python 3.11 and 3.12 and archives machine-readable artifacts. Consult the live [Actions page](../../actions/workflows/applied-engineer-evaluations.yml) before claiming CI is green.
+The repository-root [GitHub Actions workflow](../.github/workflows/applied-engineer-evaluations.yml) runs the full pipeline on Python 3.11 and 3.12 and archives machine-readable artifacts. Consult the live [Actions page](https://github.com/bircanuzan/AI-in-HR-Portfolio/actions/workflows/applied-engineer-evaluations.yml) before claiming CI is green.
 
 ## Role requirements mapped to inspectable evidence
 
