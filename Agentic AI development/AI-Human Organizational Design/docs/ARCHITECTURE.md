@@ -1,4 +1,6 @@
-# Technical architecture & operational boundary
+# AI-Human Organizational Design — technical architecture & operational boundary
+
+The expanded synthetic cross-domain workbench is in `src/hcia/organization_platform.py`; this diagram documents the original bounded HC analytics implementation and should not be interpreted as showing a live enterprise deployment.
 
 ## Logical components
 

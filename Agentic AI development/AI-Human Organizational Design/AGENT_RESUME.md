@@ -1,6 +1,8 @@
-# AI Agent Résumé — Human Capital Intelligence Agent
+# AI Agent Résumé — AI-Human Organizational Design
 
-**Agent identifier:** HCIA-DEV-001 | **Version:** 0.2.0 | **Current eligibility:** prototype, **not** production-qualified  
+**Expanded product modules:** [Product feature architecture](docs/PRODUCT_FEATURE_ARCHITECTURE.md) and [G42 readiness](docs/G42_SUBMISSION_READINESS.md) (under the adjacent `docs/` folder). New digital-agent lifecycle records are *draft design entries only*.
+
+**Agent identifier:** AHOD-DEV-001 | **Version:** 0.2.0 | **Current eligibility:** prototype, **not** production-qualified  
 **Developer/portfolio author:** HumanEvoX (see developer profile)  
 **Mission:** Governed, explainable, read-only cross-functional Human Capital intelligence for a multi-entity enterprise.
 
@@ -36,7 +38,7 @@
 See evaluation plan and executed CI/test artifacts when available. Tests evaluate synthetic fixtures; benchmark timing measures **in-process Python execution only**. No measured HR productivity/time saving, external LLM reliability, production SLA, ai_enterprise trial or bias evaluation across real employee groups has occurred.
 
 ## Deployment and references
-**Production deployments:** none claimed. **Client organisations:** none claimed. **Enterprise integrations:** mock-tested contract only. **Testimonials:** none supplied. **Video demo:** [Synthetic MP4 hosted in the project GitHub folder](https://github.com/bircanuzan/AI-in-HR-Portfolio/blob/main/Agentic%20AI%20development/Human%20Capital%20Intelligence%20Agent/demo/Human_Capital_Intelligence_Agent_Synthetic_Demo.mp4), built from actual local code outputs; not a production deployment recording.
+**Production deployments:** none claimed. **Client organisations:** none claimed. **Enterprise integrations:** mock-tested contract only. **Testimonials:** none supplied. **Video demo:** [Synthetic MP4 hosted in the project GitHub folder](https://github.com/bircanuzan/AI-in-HR-Portfolio/blob/main/Agentic%20AI%20development/AI-Human%20Organizational%20Design/demo/Human_Capital_Intelligence_Agent_Synthetic_Demo.mp4), built from actual local code outputs; not a production deployment recording.
 
 ## Known failure modes
 Unreconciled/missing HRIS data; nonrepresentative hiring and employer-brand samples; small pay cohorts; inconsistent aggregate definitions; role/identity misuse; audit database outage; external model latency or invented summary; unsafe HR impact extrapolation. Mitigations: validation, provenance, suppression, fail-closed access, human approval, explicit model fallback and real deployment gates.

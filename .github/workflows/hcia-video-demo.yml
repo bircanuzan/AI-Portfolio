@@ -3,7 +3,7 @@ on:
   push:
     branches: [main]
     paths:
-      - 'Agentic AI development/Human Capital Intelligence Agent/scripts/render_demo.py'
+      - 'Agentic AI development/AI-Human Organizational Design/scripts/render_demo.py'
       - '.github/workflows/hcia-video-demo.yml'
   workflow_dispatch:
 permissions:
@@ -22,15 +22,15 @@ jobs:
       - name: Verify ffmpeg available
         run: python -c 'import imageio_ffmpeg; print(imageio_ffmpeg.get_ffmpeg_exe())'
       - name: Render actual synthetic agent outputs into a labelled MP4
-        working-directory: Agentic AI development/Human Capital Intelligence Agent
+        working-directory: Agentic AI development/AI-Human Organizational Design
         run: python scripts/render_demo.py
       - name: Commit synthetic video to the portfolio
         run: |
-          src="Agentic AI development/Human Capital Intelligence Agent/demo/generated/human_capital_intelligence_agent_synthetic_demo.mp4"
-          dest="Agentic AI development/Human Capital Intelligence Agent/demo/Human_Capital_Intelligence_Agent_Synthetic_Demo.mp4"
+          src="Agentic AI development/AI-Human Organizational Design/demo/generated/human_capital_intelligence_agent_synthetic_demo.mp4"
+          dest="Agentic AI development/AI-Human Organizational Design/demo/Human_Capital_Intelligence_Agent_Synthetic_Demo.mp4"
           cp "$src" "$dest"
-          captions_src="Agentic AI development/Human Capital Intelligence Agent/demo/generated/linkedin_captions.srt"
-          captions_dest="Agentic AI development/Human Capital Intelligence Agent/demo/LinkedIn_Captions.srt"
+          captions_src="Agentic AI development/AI-Human Organizational Design/demo/generated/linkedin_captions.srt"
+          captions_dest="Agentic AI development/AI-Human Organizational Design/demo/LinkedIn_Captions.srt"
           cp "$captions_src" "$captions_dest"
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -44,5 +44,5 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: hcia-watch-the-agent-work-synthetic-video
-          path: Agentic AI development/Human Capital Intelligence Agent/demo/generated/human_capital_intelligence_agent_synthetic_demo.mp4
+          path: Agentic AI development/AI-Human Organizational Design/demo/generated/human_capital_intelligence_agent_synthetic_demo.mp4
           retention-days: 30
