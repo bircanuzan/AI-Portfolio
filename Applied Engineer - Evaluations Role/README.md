@@ -20,7 +20,7 @@ The repository-root [GitHub Actions workflow](../.github/workflows/applied-engin
 | Python coding, code quality and test engineering | [Reference module](src/invoice.py), [two regression-inducing patches](src/candidate_agents.py), [unit tests](tests/test_invoice.py) | Working project-specific reference code |
 | Turn PRs into executable coding-agent evaluations | [PR-101 specification](docs/PR-101-Evaluation-Task.md), [10 objective test oracles](evaluation_cases.json), [benchmark CLI](benchmark.py) | Synthetic PR, suitable as a reusable pattern |
 | Agent evaluation and model benchmarking | [Deterministic evaluation engine](src/eval_engine.py) and [candidate patch implementations](src/candidate_agents.py) | **Three synthetic candidate patches** — no real model comparisons claimed |
-| Rubrics, judgment, evidence, failure analysis | [Versioned weighted rubric](rubric.json), [failure analysis](docs/FAILURE-ANALYSIS.md), explicit expected vs observed and failure taxonomy | Machine-checkable factual rubrics; qualitative model grading requires further work |
+| Rubrics, judgment, evidence, failure analysis | [Versioned weighted rubric](rubric.json), [failure analysis](docs/FAILURE-ANALYSIS.md), explicit expected vs observed and failure taxonomy | Machine-checkable rubric plus [source-citation validation](src/review_validator.py), [qualitative schema](rubrics/qualitative_review.json), [review protocol](docs/LLM-JUDGE-PROTOCOL.md); no external judge invoked |
 | Reproducibility and experiment artifacts | [CI script](scripts/ci.sh) creates `artifacts/benchmark-results.json` and `artifacts/repository-audit.json` | Deterministic local evaluation; commit SHA included when run in Git checkout |
 
 ## Quick start
@@ -58,20 +58,24 @@ Applied Engineer - Evaluations Role/
 ├── benchmark.py
 ├── evaluation_cases.json
 ├── rubric.json
+├── rubrics/qualitative_review.json
 ├── src/
 │   ├── invoice.py
 │   ├── candidate_agents.py
-│   └── eval_engine.py
+│   ├── eval_engine.py
+│   └── review_validator.py
 ├── tests/
 │   ├── test_invoice.py
-│   └── test_eval_engine.py
+│   ├── test_eval_engine.py
+│   └── test_review_validator.py
 ├── scripts/
 │   ├── ci.sh
 │   └── repository_audit.py
 └── docs/
     ├── PR-101-Evaluation-Task.md
     ├── FAILURE-ANALYSIS.md
-    └── GIT-CI-EVIDENCE.md
+    ├── GIT-CI-EVIDENCE.md
+    └── LLM-JUDGE-PROTOCOL.md
 
 # At repository root:
 .github/workflows/applied-engineer-evaluations.yml
