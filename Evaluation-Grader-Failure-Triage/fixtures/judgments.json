@@ -1,0 +1,8 @@
+[
+  {"case_id":"T01","environment_ok":true,"oracle_pass":true,"grader_pass":true},
+  {"case_id":"T02","environment_ok":true,"oracle_pass":false,"grader_pass":false},
+  {"case_id":"T03","environment_ok":true,"oracle_pass":false,"grader_pass":true},
+  {"case_id":"T04","environment_ok":true,"oracle_pass":true,"grader_pass":false},
+  {"case_id":"T05","environment_ok":false,"oracle_pass":false,"grader_pass":false},
+  {"case_id":"T06","environment_ok":false,"oracle_pass":true,"grader_pass":true}
+]
