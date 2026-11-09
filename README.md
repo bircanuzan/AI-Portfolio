@@ -26,6 +26,10 @@ a named employer or a commissioned client deployment.** Read each project for it
 | [AI Model Training & Evaluation Freelancer Project](AI%20Model%20Training%20%26%20Evaluation%20Freelancer%20Project/) | AI/LLM quality assurance, evaluation, benchmarking, ML and dataset operations. |
 | [AI Project & Program Management](AI%20Project%20%26%20Program%20Management/) | AI portfolio/PMO delivery, prioritization, roadmaps, agile product ownership and risk control. |
 
+## Role-specific engineering evidence
+
+- **[Applied Engineer — Evaluations Role](Applied%20Engineer%20-%20Evaluations%20Role/):** source-controlled Python evaluation workbench, synthetic PR-to-benchmark task, executable regression tests, weighted rubrics, failure triage and [GitHub Actions CI](.github/workflows/applied-engineer-evaluations.yml). The [evidence-and-review PR](https://github.com/bircanuzan/AI-in-HR-Portfolio/pull/5) shows a real branch, proposed code changes and automated checks. This is an independent demonstration, not a claim of production AI-agent deployments.
+
 ## How to assess the work
 
 - **CHRO lens:** business outcomes, workforce economics, leadership capability, fairness, national workforce planning, human decision rights and governance.
