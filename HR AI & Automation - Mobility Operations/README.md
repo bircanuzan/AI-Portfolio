@@ -56,7 +56,10 @@ The prototype intentionally uses deterministic specialist logic rather than clai
 | Data-minimized, structured audit output and run summary | `src/mobility_pipeline.py` | Implemented |
 | Automated control and edge-case tests | `tests/test_mobility_pipeline.py` | Implemented; execute locally to validate |
 | SQL KPIs for service performance and governance | `sql/mobility_ops_metrics.sql` | Reference queries |
+| TypeScript webhook event-normalization and privacy-dispatch example | `integration/typescript_webhook_adapter.ts` | Source example only; not deployed or execution-validated |
 | n8n/webhook/API orchestration | `integration/n8n_blueprint.md` | Design only |
+| Make, Zapier and Retool workflow / approval comparisons | `integration/platform_choices_and_approval_design.md` | Architecture evaluation, not implemented |
+| Requirements engineering / operational problem-to-system mapping | `docs/operational_requirements_and_skills.md` | Documented with traceable acceptance criteria |
 | Security, threat model and controls | `docs/architecture_and_controls.md` | Design |
 | Baseline/target evaluation, rollout and change plan | `docs/evaluation_and_rollout.md` | Proposed, not measured |
 
@@ -88,14 +91,30 @@ Expected output: for each synthetic case, a non-sensitive case ID, classificatio
 | --- | --- |
 | Process redesign, DRI ownership | `docs/evaluation_and_rollout.md` phases, RACI, gates |
 | HRIS/case/payroll integration | `integration/n8n_blueprint.md`, event contracts |
-| Low-code and scripting | n8n design plus working Python orchestration |
+| Low-code and scripting | Python source and unit tests; typed TypeScript webhook example; n8n blueprint; Make/Zapier/Retool architecture assessment (not deployed) |
 | Multi-agent maker/checker, approvals | `src/mobility_pipeline.py`, unit tests |
 | Guardrails, retries, fallbacks | `docs/architecture_and_controls.md`, test cases |
 | Tracing, RBAC, privacy/audit | minimized JSON audit schema, threat model |
 | SQL/BI operational dashboards | `sql/mobility_ops_metrics.sql` |
 | Team training, adoption, governance | `docs/evaluation_and_rollout.md` |
 
-## 7. Example case studies
+## 7. Application screening capabilities — evidence-based mapping
+
+The following matrix responds to the **HR AI & Automation Operations Lead – Mobility** screening topics without conflating a portfolio prototype with previously delivered client work.
+
+| Screening requirement / skill | Evidence in this portfolio | Evidence boundary |
+| --- | --- | --- |
+| Independently translate an operational problem into system requirements | `docs/operational_requirements_and_skills.md`: problem statement, user story, acceptance criteria, non-functional requirements, traceability matrix | Independent representative problem, not proof of a prior-employer implementation |
+| Personally build or configure low-code workflows (n8n, Make, Zapier, Retool) | `integration/n8n_blueprint.md` and `integration/platform_choices_and_approval_design.md` document workflow and platform selection | **Blueprints only** here; do not describe these as configured live workflows |
+| Self-directed technical/systems/automation learning | Python maker/checker demo, unit tests, SQL reference, independently authored TypeScript adapter and systems-integration design | Evidences prototype engineering; separate evidence needed for historical employer-based claim |
+| Design around sensitive data, access controls, auditability and compliance | Python strict schema/PII flag/minimized audit; `docs/architecture_and_controls.md`; approval matrix, RBAC/ABAC, GDPR/jurisdiction considerations | Some controls coded; production IAM, logging immutability and compliance sign-offs are proposed |
+| Light scripting and custom agents/integrations with Python or TypeScript | `src/mobility_pipeline.py` and `integration/typescript_webhook_adapter.ts` | Python code plus TS source example; not a production integrated service |
+
+**Relevant technology keywords:** **Python 3, TypeScript, n8n, Make, Zapier, Retool, REST APIs, JSON, webhooks, OAuth2, SQL, HRIS, EOR mobility, AI agent orchestration, maker/checker validation, human-in-the-loop approvals, RBAC, ABAC, audit trails, GDPR-aware design, idempotency, exceptions and retries, unit tests, requirements engineering, stakeholder workflows, change adoption and operational analytics.**
+
+**Demonstrated vs considered:** Python logic/tests and TypeScript event-normalization source are present in this repository. n8n, Make, Zapier, Retool and production HRIS/payroll connectors are comparison/design artifacts only. No real employee data or claimed customer business outcomes.
+
+## 8. Example case studies
 
 **A. Immigration document completeness (synthetic):** A case is missing a document. Specialist recommends a checklist follow-up; checker allows a draft instruction only. An immigration decision or filing cannot be automated; a qualified Mobility/Legal owner reviews the case.
 
@@ -103,10 +122,10 @@ Expected output: for each synthetic case, a non-sensitive case ID, classificatio
 
 **C. Low-risk knowledge routing (synthetic):** A general approved-policy FAQ request can be routed to a policy queue with an evidence-citation requirement; no bespoke legal/immigration advice is issued.
 
-## 8. Technology footprint
+## 9. Technology footprint
 
-**Implemented:** Python 3, standard-library dataclasses, JSON, deterministic rule engine, unittest, structured logs, synthetic fixtures.  
-**Reference architecture:** n8n, webhook/event gateway, REST/JSON APIs, OAuth2/service identity, HRIS, payroll, case management, relational SQL, Tableau/Sigma/Power BI, encrypted secret storage and observability. No claim of live deployment of these reference systems.
+**Implemented in the codebase:** Python 3, standard-library dataclasses, JSON, deterministic rule engine, unittest, minimized structured audits and synthetic fixtures. **Additional authored source example:** TypeScript event validation and privacy dispatch gate (`integration/typescript_webhook_adapter.ts`; no demonstrated runtime/deployment).  
+**Reference architecture / compared tooling:** n8n, Make, Zapier, Retool, webhook/event gateway, REST/JSON APIs, OAuth2/service identity, HRIS, payroll, case management, relational SQL, Tableau/Sigma/Power BI, encrypted secret storage and observability. No claim of live deployment of these reference systems.
 
 **Portfolio:** [AI-in-HR-Portfolio](https://github.com/bircanuzan/AI-in-HR-Portfolio)
 
