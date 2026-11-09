@@ -1,0 +1,36 @@
+name: Coding Agent Evaluation Labs
+on:
+  push:
+    paths:
+      - 'Coding-Agent-PR-Regression-Benchmark/**'
+      - 'Evaluation-Grader-Failure-Triage/**'
+      - '.github/workflows/coding-agent-evaluation-labs.yml'
+  pull_request:
+    paths:
+      - 'Coding-Agent-PR-Regression-Benchmark/**'
+      - 'Evaluation-Grader-Failure-Triage/**'
+      - '.github/workflows/coding-agent-evaluation-labs.yml'
+  workflow_dispatch:
+
+jobs:
+  evaluate:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        python-version: ['3.10', '3.11', '3.12']
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+      - name: PR benchmark tests
+        working-directory: Coding-Agent-PR-Regression-Benchmark
+        run: |
+          python -m unittest discover -s tests -p 'test_*.py' -v
+          python benchmark.py
+      - name: Grader triage tests
+        working-directory: Evaluation-Grader-Failure-Triage
+        run: |
+          python -m unittest discover -s tests -p 'test_*.py' -v
+          python triage.py
