@@ -1,0 +1,17 @@
+{
+  "rubric_id": "PR101-source-grounded-human-or-LLM-review-v1",
+  "mode": "review-record validation; no external LLM execution",
+  "criteria": {
+    "implementation-explanation": "Reviewer correctly explains algorithm and changed code with source line citations.",
+    "test-adequacy": "Reviewer identifies acceptance and regression tests with exact test path/line evidence.",
+    "security-and-scope": "Reviewer flags over-broad changes or unsafe assumptions without unsupported claims.",
+    "root-cause-analysis": "Reviewer ties a failure to observable source and reproducible test outcomes.",
+    "abstention": "Reviewer abstains when the supplied sources do not support a conclusion."
+  },
+  "guardrails": [
+    "Require path, line number and exact quote for pass/fail decisions.",
+    "Reject citations that do not exist in the current checkout.",
+    "Human adjudication required for disputed, ambiguous or qualitative outcomes.",
+    "Do not replace executable regression tests with an LLM confidence score."
+  ]
+}
