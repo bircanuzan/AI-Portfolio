@@ -51,4 +51,4 @@ python -m src.hcia.workforce_design
 python -m unittest discover -s tests -v
 ```
 
-**Portfolio relationship:** the [Organizational Effectiveness](../../../Organizational%20Effectiveness/) folder develops the Group-level structural governance model. [Workforce Transformation](../../../Workforce%20Transformation/) covers wider Human–AI workforce architecture. This Human Capital Intelligence Agent module creates a **standalone executable task-to-role-to-structure capacity decision chain** for the short engineering demo.
+**Portfolio relationship:** the [Organizational Effectiveness](../../../Organizational%20Effectiveness/) folder develops the Group-level structural governance model. [Workforce Transformation](../../../Workforce%20Transformation/) covers wider Human–AI workforce architecture. This AI-Human Organizational Design module creates a **standalone executable task-to-role-to-structure capacity decision chain** for the short engineering demo.

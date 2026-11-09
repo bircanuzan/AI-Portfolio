@@ -1,8 +1,8 @@
-# Human–AI Workforce Design Architect Agent — Native LLM Tool Calling
+# AI-Human Organizational Design — Native Tool-Calling Workforce Architect
 
 **THIS is the agent developer implementation** for designing human/agent task allocations, future job roles and organizational structures — **not** the unrelated interactive workforce analytics dashboard.
 
-Integrated into the existing **Human Capital Intelligence Agent** project, not a duplicate top-level portfolio project. It reuses the actual tested [workforce redesign engine](src/hcia/workforce_design.py) and synthetic [task and org architecture fixture](data/synthetic_workforce_redesign.json).
+Integrated into the existing **AI-Human Organizational Design** project, not a duplicate top-level portfolio project. It reuses the actual tested [workforce redesign engine](src/hcia/workforce_design.py) and synthetic [task and org architecture fixture](data/synthetic_workforce_redesign.json).
 
 ## Critical evidence distinction
 
@@ -39,7 +39,7 @@ The model can select a tool and scenario multiplier dynamically, redesign all ei
 
 ## Run the **offline model-protocol stub** (no model inference)
 
-From \`Agentic AI development/Human Capital Intelligence Agent\`:
+From \`Agentic AI development/AI-Human Organizational Design\`:
 
     python -m src.hcia.workforce_architect --demo --out demo/workforce_design_stub_trace.json
     python -m unittest tests.test_workforce_architect_agent -v

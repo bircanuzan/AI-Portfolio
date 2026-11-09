@@ -1,6 +1,6 @@
 # Production-readiness gap analysis | ai_enterprise AI Agent invitation
 
-**Verdict: NOT ELIGIBLE as of 3 November 2026.** The posting requires a previously deployed, production-operating enterprise AI agent. The current work is a local prototype and can only support an engineering roadmap, not an eligible submission.
+**Original verdict: NOT ELIGIBLE as of 3 November 2026. Still NOT eligible as of 9 November 2026; see [updated G42 checklist](G42_SUBMISSION_READINESS.md).** The posting requires a previously deployed, production-operating enterprise AI agent. The current work is a local prototype and can only support an engineering roadmap, not an eligible submission.
 
 | ai_enterprise acceptance criterion | Actual status | Required evidence |
 |---|---|---|

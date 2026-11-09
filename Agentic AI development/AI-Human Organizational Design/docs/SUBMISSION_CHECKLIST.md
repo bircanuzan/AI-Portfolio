@@ -1,4 +1,6 @@
-# AI-Agent-only application pack | Status and provenance
+# AI-Human Organizational Design | G42 agent submission status
+
+The [current G42 readiness checklist](G42_SUBMISSION_READINESS.md) supersedes this historical inventory.
 
 | Submission artefact | File / evidence | Status |
 |---|---|---|
