@@ -1,0 +1,42 @@
+name: Applied Engineer - Evaluations CI
+
+on:
+  push:
+    paths:
+      - 'Applied Engineer - Evaluations Role/**'
+      - '.github/workflows/applied-engineer-evaluations.yml'
+  pull_request:
+    paths:
+      - 'Applied Engineer - Evaluations Role/**'
+      - '.github/workflows/applied-engineer-evaluations.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  regression-and-benchmark:
+    name: Python ${{ matrix.python-version }} | Tests and benchmark
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    strategy:
+      fail-fast: false
+      matrix:
+        python-version: ['3.11', '3.12']
+    steps:
+      - name: Check out complete repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+      - name: Run compile, unittest, benchmark, evidence audit
+        shell: bash
+        run: bash 'Applied Engineer - Evaluations Role/scripts/ci.sh'
+      - name: Upload machine-readable evaluation evidence
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: applied-evaluations-python-${{ matrix.python-version }}
+          path: Applied Engineer - Evaluations Role/artifacts/*.json
+          if-no-files-found: warn
