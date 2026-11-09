@@ -1,0 +1,6 @@
+id,business_unit,initiative,strategy,benefits_evidence,feasibility,controls,adoption,effort_fte_months,blocker
+WB-01,Transaction Banking,Trade Document Triage,5,3,3,3,4,12,control review
+WB-02,Corporate Banking,Relationship Workflow,5,4,4,4,4,10,shared integration capacity
+WB-03,Treasury,Treasury Exception Monitoring,4,3,3,1,3,9,model risk approval
+WB-04,Institutional Banking,Onboarding Workflow,4,4,3,4,4,11,shared integration capacity
+WB-05,Global Markets,Management Intelligence Dashboard,3,3,4,3,4,5,data lineage
