@@ -1,0 +1,14 @@
+{
+  "rubric_id": "PR101-v1",
+  "scope": "synthetic local patch evaluation; independent portfolio demonstration",
+  "pass_threshold": 95,
+  "category_weights": {
+    "happy_path": 20,
+    "discount_tax_order": 25,
+    "rounding": 20,
+    "validation": 25,
+    "regression": 10
+  },
+  "scoring": "Per-category percentage of independent fixture assertions passed, times the fixed category weight. Scores are local test coverage only, not real-world model quality.",
+  "evidence_policy": "Require case ID, explicit expected/observed output, failure classification; do not call environment failures model faults without review."
+}
