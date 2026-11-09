@@ -1,0 +1,68 @@
+[
+  {
+    "event_id": "evt-001",
+    "case_id": "MOB-101",
+    "tenant_id": "synthetic-tenant",
+    "category": "immigration_document",
+    "jurisdiction": "AE",
+    "source": "portal",
+    "contains_sensitive_data": false,
+    "document_complete": false
+  },
+  {
+    "event_id": "evt-002",
+    "case_id": "MOB-102",
+    "tenant_id": "synthetic-tenant",
+    "category": "payroll_mismatch",
+    "jurisdiction": "GB",
+    "source": "case_management",
+    "contains_sensitive_data": false,
+    "effective_date_mismatch": true
+  },
+  {
+    "event_id": "evt-003",
+    "case_id": "MOB-103",
+    "tenant_id": "synthetic-tenant",
+    "category": "policy_question",
+    "jurisdiction": "DE",
+    "source": "portal",
+    "contains_sensitive_data": false,
+    "approved_policy_id": "POLICY-GEN-001"
+  },
+  {
+    "event_id": "evt-004",
+    "case_id": "MOB-104",
+    "tenant_id": "synthetic-tenant",
+    "category": "case_routing",
+    "jurisdiction": "AE",
+    "source": "case_management",
+    "contains_sensitive_data": false
+  },
+  {
+    "event_id": "evt-005",
+    "case_id": "MOB-105",
+    "tenant_id": "synthetic-tenant",
+    "category": "identity_change",
+    "jurisdiction": "FR",
+    "source": "hris",
+    "contains_sensitive_data": true
+  },
+  {
+    "event_id": "evt-006",
+    "case_id": "MOB-106",
+    "tenant_id": "synthetic-tenant",
+    "category": "policy_question",
+    "jurisdiction": "GB",
+    "source": "portal",
+    "contains_sensitive_data": false
+  },
+  {
+    "event_id": "evt-007",
+    "case_id": "MOB-107",
+    "tenant_id": "synthetic-tenant",
+    "category": "unknown_new_type",
+    "jurisdiction": "SA",
+    "source": "portal",
+    "contains_sensitive_data": false
+  }
+]
