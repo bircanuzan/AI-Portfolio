@@ -24,6 +24,27 @@ CATEGORY_NAMES = {
     "Workforce Transformation",
 }
 INFRA = {".github", ".claude", "scripts", "docs"}
+# Approved role-specific technical evidence projects coexist with the 15
+# canonical capability categories. Unknown roots remain fatal.
+ROLE_PROJECT_ROOTS = {
+    "AI Agent Tester - Real-World Tasks",
+    "AI Product Evaluator",
+    "AI application and API development",
+    "AI models and evaluation",
+    "Agent tracing and testing",
+    "Agentic AI Orchestration",
+    "Applied Engineer - Evaluations Role",
+    "Domain Contributor - Evaluation Specialist",
+    "Game Developer",
+    "LLM application development",
+    "Local LLM inference",
+    "Machine Learning Researcher (MSc. or PhD)",
+    "Member of Technical Staff, Frontier AI",
+    "Member of Technical Staff, Research Engineering",
+    "Model evaluation and experiment tracking",
+    "RAG evaluation",
+    "Vector search and retrieval",
+}
 
 
 def list_paths():
@@ -100,7 +121,7 @@ def main():
     files, dirs = list_paths()
     current_roots = {p.split("/")[0] for p in files if "/" in p}
     missing = sorted(CATEGORY_NAMES - current_roots)
-    extra = sorted(current_roots - CATEGORY_NAMES - INFRA)
+    extra = sorted(current_roots - CATEGORY_NAMES - INFRA - ROLE_PROJECT_ROOTS)
     missing_readme = sorted(c for c in CATEGORY_NAMES if c + "/README.md" not in files)
     checked, broken = validate_links(files, dirs)
     print(f"Portfolio hierarchy: {len(CATEGORY_NAMES)} capability roots, {len(files)} files, {checked} resolvable-style links checked")
