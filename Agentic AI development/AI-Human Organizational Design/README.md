@@ -4,6 +4,8 @@
 
 **Status: synthetic engineering prototype, not a deployed enterprise agent.**
 
+**New integrated design workbench:** `python -m src.hcia.organization_platform` — work and task intelligence, job/skills architecture, organizational digital twin, candidate agent lifecycle records, scenario capacity net of review, separate workforce analytics, optional hypothetical economics, and human-approval HOLD. See [feature architecture](docs/PRODUCT_FEATURE_ARCHITECTURE.md), [G42 readiness](docs/G42_SUBMISSION_READINESS.md), and [platform choice](docs/DEVELOPMENT_STACK_AND_SOVEREIGN_COMPATIBILITY.md).
+
 This renamed product preserves previous Human Capital Intelligence Agent engineering and evidence. Its Python import namespace remains `src.hcia` for compatibility. New product capabilities are added under the new directory; historical tests and demos remain labelled synthetic.
 
 
