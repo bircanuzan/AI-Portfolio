@@ -2,13 +2,13 @@ name: Human-AI Workforce Architect Native Tool-Use Tests
 on:
   push:
     paths:
-      - "Agentic AI development/Human Capital Intelligence Agent/src/hcia/workforce_architect.py"
-      - "Agentic AI development/Human Capital Intelligence Agent/tests/test_workforce_architect_agent.py"
-      - "Agentic AI development/Human Capital Intelligence Agent/WORKFORCE_ARCHITECT_AGENT.md"
+      - "Agentic AI development/AI-Human Organizational Design/src/hcia/workforce_architect.py"
+      - "Agentic AI development/AI-Human Organizational Design/tests/test_workforce_architect_agent.py"
+      - "Agentic AI development/AI-Human Organizational Design/WORKFORCE_ARCHITECT_AGENT.md"
       - ".github/workflows/workforce-architect-agent.yml"
   pull_request:
     paths:
-      - "Agentic AI development/Human Capital Intelligence Agent/**"
+      - "Agentic AI development/AI-Human Organizational Design/**"
   workflow_dispatch:
 jobs:
   validate-native-tool-runtime:
@@ -17,7 +17,7 @@ jobs:
       contents: read
     defaults:
       run:
-        working-directory: Agentic AI development/Human Capital Intelligence Agent
+        working-directory: Agentic AI development/AI-Human Organizational Design
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -31,6 +31,6 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: workforce-architect-scripted-provider-not-live-llm
-          path: Agentic AI development/Human Capital Intelligence Agent/demo/workforce_design_stub_trace.json
+          path: Agentic AI development/AI-Human Organizational Design/demo/workforce_design_stub_trace.json
           retention-days: 30
           if-no-files-found: error

@@ -1,4 +1,4 @@
-name: Human Capital Intelligence Agent — Offline Quality Gates
+name: AI-Human Organizational Design — Offline Quality Gates
 on:
   push:
     branches: [main]
@@ -22,19 +22,19 @@ jobs:
         with:
           python-version: '3.11'
       - name: Install
-        working-directory: Agentic AI development/Human Capital Intelligence Agent
+        working-directory: Agentic AI development/AI-Human Organizational Design
         run: pip install -r requirements.txt
       - name: Unit security and analytical tests
-        working-directory: Agentic AI development/Human Capital Intelligence Agent
+        working-directory: Agentic AI development/AI-Human Organizational Design
         run: python -m unittest discover -s tests -v
       - name: Scenario performance benchmark
-        working-directory: Agentic AI development/Human Capital Intelligence Agent
+        working-directory: Agentic AI development/AI-Human Organizational Design
         run: python scripts/benchmark.py > benchmark-results.json
       - name: Show benchmark result
-        working-directory: Agentic AI development/Human Capital Intelligence Agent
+        working-directory: Agentic AI development/AI-Human Organizational Design
         run: cat benchmark-results.json
       - name: Publish workflow artifact (synthetic benchmark only)
         uses: actions/upload-artifact@v4
         with:
           name: hcia-synthetic-evidence
-          path: Agentic AI development/Human Capital Intelligence Agent/benchmark-results.json
+          path: Agentic AI development/AI-Human Organizational Design/benchmark-results.json
