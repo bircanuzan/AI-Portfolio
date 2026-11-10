@@ -9,3 +9,11 @@
 **Evidence note:** Current repository contains *separate* LangGraph conditional-approval, MCP tool-server and LangSmith tracing examples. Their combination into a unified multi-turn tool-calling copilot is an architecture/prototype direction, not a verified shipped agent. Do not characterize the separate samples as one finished production product.
 
 **Capability signals:** LangGraph StateGraph, safe tool use, explicit termination, retries/fallbacks, decision tracing, human oversight. New answers should be added with the same evidence boundary; never fabricate commercial deliveries or metrics.
+
+## Q2 — Most advanced agentic workflow and multi-turn context
+**Question:** What is the most advanced agentic workflow you've built from scratch? Describe your approach to managing long-term context retention and state across multi-turn interactions.
+
+**Interview answer:**
+> I developed a prototype Human Capital Intelligence Agent combining LLM-driven analysis, multi-step workflows, tool integration, and human-in-the-loop decision controls. For multi-turn state management, my architecture separates short-term conversation history from persistent structured memory, using session identifiers, state checkpoints, and retrieval-based context recovery. To prevent context drift, I use summarization, relevance-based retrieval, bounded context windows, and explicit state validation, with access controls for sensitive data.
+
+**Evidence boundary:** This describes a prototype and a state-management architecture approach, not a verified production deployment. Long-term memory, session checkpoint persistence, context recovery, and access-control mechanisms must be tested and evidenced before presenting them as implemented capabilities.
