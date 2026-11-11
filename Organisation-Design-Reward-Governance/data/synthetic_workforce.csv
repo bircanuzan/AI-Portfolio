@@ -1,0 +1,10 @@
+employee_id,department,category,grade,status,hris_base,payroll_base,payroll_allowances,finance_monthly_total,monthly_budget,market_midpoint,sti_target_pct,performance_multiplier,sti_requested,sti_approved,prepared_by,approved_by
+E001,Development,Professional,G6,Active,22000,22000,5000,27000,28000,24000,0.10,1.00,26400,Yes,HR_A,HR_Director
+E002,Development,Manager,G8,Active,38000,38000,8000,46000,45500,40000,0.15,1.10,75240,Yes,HR_A,Group_HR
+E003,Finance,Professional,G6,Active,26000,26000,5000,31000,33000,25000,0.10,0.90,28080,Yes,HR_A,Finance_Director
+E004,Finance,Manager,G8,Active,40000,40000,8500,48500,50000,42000,0.15,1.00,72000,Yes,HR_A,Group_HR
+E005,Operations,Professional,G5,Active,18500,18500,4000,22500,23000,20000,0.08,1.00,17760,Yes,HR_B,HR_Director
+E006,Operations,Manager,G8,Active,21000,24000,7000,30000,28000,28000,0.10,1.00,28800,Yes,HR_B,Group_HR
+E007,Strategy,Professional,G6,Active,23000,23000,5000,28000,28000,24000,0.10,1.00,27600,No,HR_B,
+E008,Strategy,Manager,G8,Active,44000,44000,9000,53000,50000,46000,0.15,1.00,79200,Yes,HR_B,HR_B
+E009,Operations,Professional,G6,Active,15000,15000,3500,18500,21000,22000,0.10,1.00,18000,Yes,HR_A,HR_Director
