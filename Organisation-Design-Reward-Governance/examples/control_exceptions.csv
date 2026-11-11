@@ -1,0 +1,10 @@
+employee_id,control,severity,detail
+E002,COST-01,Medium,Payroll total exceeds monthly workforce budget by 500.00
+E006,RECON-01,High,HRIS base 21000.00 differs from payroll base 24000.00
+E006,RECON-02,High,Payroll total 31000.00 differs from Finance total 30000.00
+E006,COST-01,Medium,Payroll total exceeds monthly workforce budget by 3000.00
+E007,DOA-01,High,STI requested without recorded approval
+E007,DOA-02,High,Missing designated approver
+E008,COST-01,Medium,Payroll total exceeds monthly workforce budget by 3000.00
+E008,SOD-01,High,Preparer is the same person as approver
+E009,REWARD-01,Review,Compa-ratio 0.68 outside synthetic review band
