@@ -28,3 +28,7 @@ Design and evaluate dependable text-classification, entity-extraction, semantic 
 | Operations | p95 latency, review turnaround, PII leakage incidents and escalation resolution |
 
 **Evidence required before claiming results:** annotated test dataset, clear rubric, scripts/notebooks, evaluation outputs and limitations.
+
+## Executable portfolio projects
+
+- **[NLP Corpus Evaluation & Linguistic Dataset Quality Assurance](NLP%20Corpus%20Evaluation%20%26%20Linguistic%20Dataset%20Quality%20Assurance/):** Python standard-library audit of an English/Turkish synthetic corpus; detects duplicates, corrupted encoding, possible PII, entity-offset issues and annotator disagreement, reports Cohen's kappa, and includes regression tests and a formal acceptance rubric. Independently built demo, not a client deployment.
