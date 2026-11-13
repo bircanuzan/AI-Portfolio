@@ -32,3 +32,5 @@ Design and evaluate dependable text-classification, entity-extraction, semantic 
 ## Executable portfolio projects
 
 - **[NLP Corpus Evaluation & Linguistic Dataset Quality Assurance](NLP%20Corpus%20Evaluation%20%26%20Linguistic%20Dataset%20Quality%20Assurance/):** Python standard-library audit of an English/Turkish synthetic corpus; detects duplicates, corrupted encoding, possible PII, entity-offset issues and annotator disagreement, reports Cohen's kappa, and includes regression tests and a formal acceptance rubric. Independently built demo, not a client deployment.
+
+- **[Turkish Language AI Evaluator](Turkish%20Language%20AI%20Evaluator/):** independent Turkish AI-content evaluation demonstration covering message drift, hallucinations, factual grounding, cultural nuance, structured reviewer feedback, synthetic test cases, and Python QA summaries. No company/client affiliation or benchmark performance claimed.
