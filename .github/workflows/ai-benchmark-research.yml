@@ -1,0 +1,28 @@
+name: AI Benchmark Research - QA
+
+on:
+  push:
+    paths:
+      - 'AI Portfolio/AI Benchmark Research/**'
+      - '.github/workflows/ai-benchmark-research.yml'
+  workflow_dispatch:
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: 'AI Portfolio/AI Benchmark Research'
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Run benchmark grader unit tests
+        run: python -m unittest discover -s tests -v
+      - name: Replay explicitly synthetic records
+        run: python src/evaluate.py --tasks data/benchmark_tasks.jsonl --runs data/synthetic_model_runs.jsonl --output benchmark_report.json
+      - uses: actions/upload-artifact@v4
+        with:
+          name: ai-benchmark-synthetic-replay
+          path: 'AI Portfolio/AI Benchmark Research/benchmark_report.json'
