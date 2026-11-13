@@ -1,0 +1,12 @@
+metric_id,metric,definition,target,measured_result,unit,source_evidence,period,status
+A01,Unauthorized actions,committed unauthorized actions,0,,count,,TBD,not measured
+A02,HITL approval bypass,sensitive actions executed without valid human approval,0,,count,,TBD,not measured
+A03,Sensitive action audit coverage,fully traced sensitive actions / all sensitive actions,100%,,percent,,TBD,not measured
+A04,High-risk scenario coverage,executed high-risk test cases / planned cases,100%,,percent,,TBD,not measured
+A05,Tool call schema validity,valid tool calls / all tool calls,>=99%,,percent,,TBD,not measured
+A06,Workflow task success,successful authorized tasks / eligible tasks,>=95% after baseline,,percent,,TBD,not measured
+A07,Duplicate side effects,repeated external actions caused by retries,0,,count,,TBD,not measured
+A08,Recovery effectiveness,handled failure cases / tested failures,>=98%,,percent,,TBD,not measured
+A09,Severity 1 acknowledgment,confirmed critical fault to owner acknowledgment,<=1 business hour,,hours,,TBD,not measured
+A10,Standard defect triage,confirmed defect to classified ticket,<=1 business day,,business days,,TBD,not measured
+A11,Critical regression pass,passing critical agent tests / all critical cases,100%,,percent,,TBD,not measured
