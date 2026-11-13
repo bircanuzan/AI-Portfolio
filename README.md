@@ -28,6 +28,10 @@ a named employer or a commissioned client deployment.** Read each project for it
 
 ## Role-specific engineering evidence
 
+- **[LM Evaluation & Benchmark Testing](AI%20Portfolio/LM%20Evaluation%20%26%20Benchmark%20Testing/):** AI/LLM quality evaluation, evidence-led rubric design, benchmark methodology, red-teaming, root-cause triage and proposed SLA/KPI scorecard. *Reference blueprint; targets are not measured outcomes.*
+- **[Agentic AI Testing & Human-in-the-Loop Governance](AI%20Portfolio/Agentic%20AI%20Testing%20%26%20Human-in-the-Loop%20Governance/):** agent behavior testing, authorization/approval gates, multi-step traceability, prompt-injection and tool-failure testing, human oversight, proposed metrics and release controls. *Reference blueprint; targets are not measured outcomes.*
+
+
 - **[AI Benchmark Research](AI%20Portfolio/AI%20Benchmark%20Research/):** source-verified factual tasks, web research/OSINT protocol, red-team patterns, observable tool-trace QA, Python grading, synthetic replay, peer-review rubric and [automated test workflow](.github/workflows/ai-benchmark-research.yml). Independent demonstration; no real frontier-model failure claims.
 
 
