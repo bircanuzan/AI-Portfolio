@@ -28,6 +28,9 @@ a named employer or a commissioned client deployment.** Read each project for it
 
 ## Role-specific engineering evidence
 
+- **[AI Benchmark Research](AI%20Portfolio/AI%20Benchmark%20Research/):** source-verified factual tasks, web research/OSINT protocol, red-team patterns, observable tool-trace QA, Python grading, synthetic replay, peer-review rubric and [automated test workflow](.github/workflows/ai-benchmark-research.yml). Independent demonstration; no real frontier-model failure claims.
+
+
 - **[Applied Engineer — Evaluations Role](Applied%20Engineer%20-%20Evaluations%20Role/):** source-controlled Python evaluation workbench, synthetic PR-to-benchmark task, executable regression tests, weighted rubrics, failure triage and [GitHub Actions CI](.github/workflows/applied-engineer-evaluations.yml). The [evidence-and-review PR](https://github.com/bircanuzan/AI-in-HR-Portfolio/pull/5) shows a real branch, proposed code changes and automated checks. This is an independent demonstration, not a claim of production AI-agent deployments.
 
 ## How to assess the work
