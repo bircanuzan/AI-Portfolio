@@ -1,0 +1,8 @@
+{"id":"EN-001","language":"en","domain":"HR operations","register":"business","source":"synthetic","text":"Please update my leave balance for next month.","annotations":{"a":"leave","b":"leave"},"entities":[]}
+{"id":"EN-002","language":"en","domain":"talent acquisition","register":"business","source":"synthetic","text":"The candidate requested a second interview.","annotations":{"a":"recruitment","b":"recruitment"},"entities":[]}
+{"id":"EN-003","language":"en","domain":"HR operations","register":"business","source":"synthetic","text":"Please update my leave balance for next month.","annotations":{"a":"leave","b":"leave"},"entities":[]}
+{"id":"EN-004","language":"en","domain":"support","register":"informal","source":"synthetic","text":"My e-mail is demo@example.test and I cannot log in.","annotations":{"a":"access","b":"access"},"entities":[]}
+{"id":"TR-001","language":"tr","domain":"HR operations","register":"business","source":"synthetic","text":"İzin bakiyemi gelecek ay için günceller misiniz?","annotations":{"a":"leave","b":"leave"},"entities":[]}
+{"id":"TR-002","language":"tr","domain":"talent acquisition","register":"business","source":"synthetic","text":"Aday ikinci bir görüşme talep etti.","annotations":{"a":"recruitment","b":"recruitment"},"entities":[]}
+{"id":"TR-003","language":"tr","domain":"support","register":"informal","source":"synthetic","text":"Sisteme giremiyorum, şifremi sıfırlayın.","annotations":{"a":"access","b":"other"},"entities":[]}
+{"id":"TR-004","language":"tr","domain":"support","register":"informal","source":"synthetic","text":"Bozuk karakter � nedeniyle metin okunmuyor.","annotations":{"a":"other","b":"other"},"entities":[]}
