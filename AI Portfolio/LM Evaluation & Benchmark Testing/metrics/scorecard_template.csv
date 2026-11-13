@@ -1,0 +1,11 @@
+metric_id,metric,definition,target,measured_result,unit,source_evidence,period,status
+E01,Evaluation case coverage,priority requirements tested / priority requirements,100%,,percent,,TBD,not measured
+E02,Benchmark completeness,cases with valid schema and evidence / all cases,>=98%,,percent,,TBD,not measured
+E03,Reference provenance,factual cases with verified sources / all factual cases,100%,,percent,,TBD,not measured
+E04,Reviewer agreement,weighted Cohen kappa on double-labeled subset,>=0.75,,kappa,,TBD,not measured
+E05,Annotation acceptance,accepted review samples / all samples,>=97%,,percent,,TBD,not measured
+E06,Critical regression pass,passing critical cases / critical total,100%,,percent,,TBD,not measured
+E07,Severity 1 acknowledgment,confirmed critical defect to owner acknowledgment,<=4 business hours,,hours,,TBD,not measured
+E08,Standard defect triage,confirmed defect to categorized ticket,<=1 business day,,business days,,TBD,not measured
+E09,On-time reporting,reports delivered on time / reports due,>=95%,,percent,,TBD,not measured
+E10,Data handling incidents,confirmed unauthorized disclosures,0,,count,,TBD,not measured
