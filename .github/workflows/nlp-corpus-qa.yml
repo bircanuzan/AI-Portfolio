@@ -1,0 +1,28 @@
+name: NLP Corpus Evaluation QA
+on:
+  push:
+    paths:
+      - "AI Portfolio/Natural Language Processing (NLP)/NLP Corpus Evaluation & Linguistic Dataset Quality Assurance/**"
+      - ".github/workflows/nlp-corpus-qa.yml"
+  workflow_dispatch:
+
+jobs:
+  validate-synthetic-nlp-corpus:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Run regression tests and generate report
+        shell: bash
+        run: |
+          cd "AI Portfolio/Natural Language Processing (NLP)/NLP Corpus Evaluation & Linguistic Dataset Quality Assurance"
+          python -m unittest discover -s tests -v
+          python corpus_quality.py --output reports/quality_report.json
+          python -c 'import json; r=json.load(open("reports/quality_report.json")); assert r["dataset_type"] == "synthetic demonstration"; assert r["release_decision"] == "HOLD_FOR_REVIEW"; assert r["records"] == 8'
+      - name: Archive synthetic QA report
+        uses: actions/upload-artifact@v4
+        with:
+          name: nlp-corpus-synthetic-qa-report
+          path: "AI Portfolio/Natural Language Processing (NLP)/NLP Corpus Evaluation & Linguistic Dataset Quality Assurance/reports/quality_report.json"
