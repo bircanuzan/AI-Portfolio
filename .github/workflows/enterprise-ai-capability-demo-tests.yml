@@ -1,0 +1,27 @@
+name: Enterprise AI Capability Demo Tests
+
+on:
+  push:
+    paths:
+      - 'AI Portfolio/04_Data_Engineering_and_Data_Foundations/**'
+      - 'AI Portfolio/09_AI_Cost_and_Usage_Optimisation/**'
+      - '.github/workflows/enterprise-ai-capability-demo-tests.yml'
+  pull_request:
+    paths:
+      - 'AI Portfolio/04_Data_Engineering_and_Data_Foundations/**'
+      - 'AI Portfolio/09_AI_Cost_and_Usage_Optimisation/**'
+      - '.github/workflows/enterprise-ai-capability-demo-tests.yml'
+  workflow_dispatch:
+
+jobs:
+  local-demos:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Data quality, ingestion and lineage tests
+        run: python -m unittest discover -s "AI Portfolio/04_Data_Engineering_and_Data_Foundations/Data_Quality_Lineage_and_Ingestion/tests" -v
+      - name: AI cost and usage ledger tests
+        run: python -m unittest discover -s "AI Portfolio/09_AI_Cost_and_Usage_Optimisation/Model_Usage_Ledger_and_Budget_Guardrails/tests" -v
