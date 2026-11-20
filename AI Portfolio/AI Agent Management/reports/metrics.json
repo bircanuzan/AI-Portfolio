@@ -1,0 +1,19 @@
+{
+  "dataset": "synthetic offline fixtures",
+  "cases": 20,
+  "outcome_and_output_matches": 20,
+  "outcome_and_output_accuracy": 1.0,
+  "status_counts": {
+    "completed": 7,
+    "review": 4,
+    "rejected": 5,
+    "quarantined": 2,
+    "failed": 1,
+    "duplicate": 1
+  },
+  "completion_rate": 0.35,
+  "total_simulated_attempts": 13,
+  "live_model_calls": 0,
+  "external_writes": 0,
+  "business_savings": "not measured"
+}

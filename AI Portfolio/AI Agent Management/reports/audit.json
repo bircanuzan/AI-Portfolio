@@ -1,0 +1,197 @@
+[
+  {
+    "task_id": "1",
+    "status": "completed",
+    "reason": "local_simulation",
+    "attempts": 1,
+    "result": {
+      "queue": "operations"
+    },
+    "previous_hash": "GENESIS",
+    "hash": "8d08fb8ae775eeca5265ff12c31f575b02f1171ce2de63bf7d31c44f0064f3f5"
+  },
+  {
+    "task_id": "2",
+    "status": "completed",
+    "reason": "local_simulation",
+    "attempts": 1,
+    "result": {
+      "queue": "exceptions"
+    },
+    "previous_hash": "8d08fb8ae775eeca5265ff12c31f575b02f1171ce2de63bf7d31c44f0064f3f5",
+    "hash": "bfec9e14c74b7ba7b5c4c6165ed9d58fdae13746f12157d68902895a2e10cb18"
+  },
+  {
+    "task_id": "3",
+    "status": "completed",
+    "reason": "local_simulation",
+    "attempts": 1,
+    "result": {
+      "reference": "REF-1024"
+    },
+    "previous_hash": "bfec9e14c74b7ba7b5c4c6165ed9d58fdae13746f12157d68902895a2e10cb18",
+    "hash": "32b960891d955ef8635680f6a7c5ed6999b645c4220abfdea29517501226bfd9"
+  },
+  {
+    "task_id": "4",
+    "status": "completed",
+    "reason": "local_simulation",
+    "attempts": 1,
+    "result": {
+      "proposal": "next_available_review_slot",
+      "external_write": false
+    },
+    "previous_hash": "32b960891d955ef8635680f6a7c5ed6999b645c4220abfdea29517501226bfd9",
+    "hash": "6567f7527ac9e129d66ca50096c2698eae319920e287ee36cb0869196f883742"
+  },
+  {
+    "task_id": "5",
+    "status": "completed",
+    "reason": "local_simulation",
+    "attempts": 1,
+    "result": {
+      "check": "reference_present"
+    },
+    "previous_hash": "6567f7527ac9e129d66ca50096c2698eae319920e287ee36cb0869196f883742",
+    "hash": "3b88fdc4437d641b407095db0737e2b913129c4c8e1b594173cc0aec88157b57"
+  },
+  {
+    "task_id": "6",
+    "status": "completed",
+    "reason": "local_simulation",
+    "attempts": 1,
+    "result": {
+      "check": "reference_absent"
+    },
+    "previous_hash": "3b88fdc4437d641b407095db0737e2b913129c4c8e1b594173cc0aec88157b57",
+    "hash": "6777ae7d94d9f121c0cf5d4507d711cf36d9636da462075b8d812acc983788cf"
+  },
+  {
+    "task_id": "7",
+    "status": "review",
+    "reason": "human_approval_required",
+    "attempts": 0,
+    "result": null,
+    "previous_hash": "6777ae7d94d9f121c0cf5d4507d711cf36d9636da462075b8d812acc983788cf",
+    "hash": "a4b5394cb35b531e0242267d18acd8121a5067af8cfb6f6190b5ad8406e2987b"
+  },
+  {
+    "task_id": "8",
+    "status": "review",
+    "reason": "human_approval_required",
+    "attempts": 0,
+    "result": null,
+    "previous_hash": "a4b5394cb35b531e0242267d18acd8121a5067af8cfb6f6190b5ad8406e2987b",
+    "hash": "ee59f9218d96bfcd46bc05d4661e5207db8c9fcb8b1e1716d75d36be01b53054"
+  },
+  {
+    "task_id": "9",
+    "status": "rejected",
+    "reason": "tool_not_allowed",
+    "attempts": 0,
+    "result": null,
+    "previous_hash": "ee59f9218d96bfcd46bc05d4661e5207db8c9fcb8b1e1716d75d36be01b53054",
+    "hash": "8bcd1e9f3f36299cb859a5810477fa9add15b60ff3d95e256c973080a2305c8e"
+  },
+  {
+    "task_id": "10",
+    "status": "rejected",
+    "reason": "missing_document",
+    "attempts": 0,
+    "result": null,
+    "previous_hash": "8bcd1e9f3f36299cb859a5810477fa9add15b60ff3d95e256c973080a2305c8e",
+    "hash": "4e275aa326c206dbec63b65de5e1e027df77443d61c80241ec72937208fe0a3b"
+  },
+  {
+    "task_id": "11",
+    "status": "quarantined",
+    "reason": "suspicious_document",
+    "attempts": 0,
+    "result": null,
+    "previous_hash": "4e275aa326c206dbec63b65de5e1e027df77443d61c80241ec72937208fe0a3b",
+    "hash": "c54051d38285d96139e3c61b5d4c1a472546b08402801f7595b99641cfeba24d"
+  },
+  {
+    "task_id": "12",
+    "status": "completed",
+    "reason": "local_simulation",
+    "attempts": 3,
+    "result": {
+      "queue": "operations"
+    },
+    "previous_hash": "c54051d38285d96139e3c61b5d4c1a472546b08402801f7595b99641cfeba24d",
+    "hash": "ff177672decfdfa84f45cd6988b8bc100026a2cf3eb3601bdd67d8b25e364815"
+  },
+  {
+    "task_id": "13",
+    "status": "failed",
+    "reason": "retry_budget_exhausted",
+    "attempts": 3,
+    "result": null,
+    "previous_hash": "ff177672decfdfa84f45cd6988b8bc100026a2cf3eb3601bdd67d8b25e364815",
+    "hash": "4813a522100fefca6faf6847812c56c996f24594af5f469c41e3a134e8416476"
+  },
+  {
+    "task_id": "14",
+    "status": "review",
+    "reason": "missing_reference",
+    "attempts": 1,
+    "result": null,
+    "previous_hash": "4813a522100fefca6faf6847812c56c996f24594af5f469c41e3a134e8416476",
+    "hash": "44558541df59abfa88d623f688e714d951e35bc7b7efc376101e2dcc6cfb28de"
+  },
+  {
+    "task_id": "15",
+    "status": "rejected",
+    "reason": "invalid_confidence",
+    "attempts": 0,
+    "result": null,
+    "previous_hash": "44558541df59abfa88d623f688e714d951e35bc7b7efc376101e2dcc6cfb28de",
+    "hash": "ffebb0b802aead3e0b5618d391daf34a92ae3b923d20983554400cbbea90d536"
+  },
+  {
+    "task_id": "1",
+    "status": "duplicate",
+    "reason": "idempotency_guard",
+    "attempts": 0,
+    "result": null,
+    "previous_hash": "ffebb0b802aead3e0b5618d391daf34a92ae3b923d20983554400cbbea90d536",
+    "hash": "b1f093a6fa91225b4d8f42ca40230e4709f06a1a01a2761df22bb8202d56d33c"
+  },
+  {
+    "task_id": "17",
+    "status": "review",
+    "reason": "human_approval_required",
+    "attempts": 0,
+    "result": null,
+    "previous_hash": "b1f093a6fa91225b4d8f42ca40230e4709f06a1a01a2761df22bb8202d56d33c",
+    "hash": "64bfbf33b035de053cc0056981860a9ac065c4196023a42921e372c7f275db7b"
+  },
+  {
+    "task_id": "18",
+    "status": "rejected",
+    "reason": "invalid_confidence",
+    "attempts": 0,
+    "result": null,
+    "previous_hash": "64bfbf33b035de053cc0056981860a9ac065c4196023a42921e372c7f275db7b",
+    "hash": "5256c7477da48609d71dfd914eb1ee453b57b3ccb93c5240544b343f95f9b392"
+  },
+  {
+    "task_id": "19",
+    "status": "rejected",
+    "reason": "invalid_retry_fixture",
+    "attempts": 0,
+    "result": null,
+    "previous_hash": "5256c7477da48609d71dfd914eb1ee453b57b3ccb93c5240544b343f95f9b392",
+    "hash": "80e81f3a526647b24ed16c5d72f323b8dd2354835667877698ebd8b8829a7924"
+  },
+  {
+    "task_id": "20",
+    "status": "quarantined",
+    "reason": "suspicious_document",
+    "attempts": 0,
+    "result": null,
+    "previous_hash": "80e81f3a526647b24ed16c5d72f323b8dd2354835667877698ebd8b8829a7924",
+    "hash": "f63a747aa38d343d391cddb926c19b62aef88d836aef2660ce35f051c29ce969"
+  }
+]
