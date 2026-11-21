@@ -16,6 +16,13 @@ Select a domain below, then open an individual project subfolder. Projects are i
 | Technology Architecture & Systems Integration | [Open 4 project entries](08_Technology_Architecture_and_Integration/) |
 | AI Cost & Usage Optimisation | [Open 4 project entries](09_AI_Cost_and_Usage_Optimisation/) |
 
+## Engineering delivery reference collections
+
+- [RAG, APIs and orchestration frameworks](RAG%2C%20APIs%20and%20orchestration%20frameworks/) — enterprise RAG and governed agent/API workflow architecture (2 reference projects).
+- [Agile/Scrum engineering](Agile-Scrum%20engineering/) — AI engineering sprint delivery and evaluation release gates (2 reference projects).
+
+These four new entries are design-stage reference projects, with proposed KPIs rather than measured results.
+
 ## Capability areas that cut across the domains
 
 **AI evaluation, training and testing** spans governance, generative AI, machine learning and agents. **Human–AI workforce design** is also represented in the separate HR portfolio; those assets are not duplicated.
