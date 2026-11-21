@@ -35,7 +35,7 @@ def whole_number(value: str, field: str) -> int:
 
 
 def money(amount: Decimal) -> str:
-    return f"\${amount:,.2f}"
+    return "$" + f"{amount:,.2f}"
 
 
 def build_report(registry: list[dict[str, str]], usage: list[dict[str, str]]) -> str:
