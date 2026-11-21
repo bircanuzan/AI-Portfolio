@@ -34,3 +34,9 @@ These four new entries are design-stage reference projects, with proposed KPIs r
 - The two new runnable projects use entirely fictional data and local standard-library Python.
 
 [AI in HR portfolio](../AI%20in%20HR%20Portfolio/) · [Repository home](../)
+
+## Cross-domain management project
+
+- **[AI Solutions Management](AI%20Solutions%20Management/)** — multi-entity AI product ownership, tool register, vendor/licensing decisions, Security/Legal/DPO gates, rollouts, adoption, support escalation, and a runnable synthetic cost/usage/ROI report.
+
+This project is an independent reference blueprint and does not assert client deployment or verified commercial savings.

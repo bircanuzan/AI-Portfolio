@@ -1,0 +1,4 @@
+candidate,business_fit_25pct,security_25pct,privacy_20pct,integration_10pct,support_10pct,commercial_10pct,mandatory_gates_met,notes
+Vendor A,5,4,4,4,3,3,Yes,Synthetic demonstration only
+Vendor B,4,5,5,3,4,4,Yes,Synthetic demonstration only
+Vendor C,5,2,2,5,4,5,No,Unacceptable security/privacy irrespective of weighted total

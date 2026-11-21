@@ -1,0 +1,5 @@
+tool_id,month,licensed_seats,active_users,monthly_spend_usd,hours_saved_per_active_user,loaded_hourly_rate_usd
+AI-001,2026-10,40,28,1600,1.6,45
+AI-002,2026-10,12,8,480,1.5,45
+AI-003,2026-10,25,15,750,1.3,45
+AI-004,2026-10,20,12,600,1.2,45

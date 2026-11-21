@@ -1,0 +1,5 @@
+tool_id,platform,provider,business_owner,use_case,data_classification,approval_status,security_review,legal_review,dpo_review,renewal_date,seat_limit,assumed_seat_rate_usd
+AI-001,Claude,Anthropic,Enterprise Operations,Internal knowledge,Internal,Approved,Yes,Yes,Yes,2027-01-31,40,40
+AI-002,Synthesia,Synthesia,Learning & Communications,Training video,Internal,Approved,Yes,Yes,Yes,2027-02-28,12,40
+AI-003,Telnyx,Telnyx,Customer Operations,Voice & messaging,Restricted,Conditional,Yes,Yes,Pending,2027-03-31,25,30
+AI-004,Midjourney,Midjourney,Brand Studio,Visual ideation,Public,Approved,Yes,Yes,Yes,2027-01-15,20,30
