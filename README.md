@@ -7,6 +7,7 @@ This repository combines professional experience summaries, independently built 
 ## Start here
 
 - **[Enterprise AI Portfolio — nine capability domains](AI%20Portfolio/README.md)** — strategy and ROI; governance; training; data foundations; analytics and ML; generative AI; agentic AI; architecture; cost and usage optimisation.
+- **[AI Model Training, Expert Feedback & Model Improvement](AI%20Portfolio/AI%20model%20training%2C%20expert%20feedback%2C%20and%20model%20improvement/)** — eight independent role-based technical and domain-expert training/evaluation demonstrations, including SFT and RLHF educational implementations.
 - **[AI in HR Portfolio](AI%20in%20HR%20Portfolio/README.md)** — human capital intelligence, talent/recruitment, workforce transformation, HR technology and analytics.
 - **[AI Ghostwriting](AI%20Ghostwriting/README.md)** — separate editorial and content portfolio.
 
