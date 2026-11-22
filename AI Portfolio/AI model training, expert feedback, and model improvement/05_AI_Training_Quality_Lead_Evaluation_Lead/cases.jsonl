@@ -1,0 +1,6 @@
+{"id":"QA-001","domain":"factuality","reviewer_a":2,"reviewer_b":2,"adjudicated":2,"severity":"low"}
+{"id":"QA-002","domain":"privacy","reviewer_a":2,"reviewer_b":0,"adjudicated":0,"severity":"critical"}
+{"id":"QA-003","domain":"relevance","reviewer_a":1,"reviewer_b":1,"adjudicated":1,"severity":"medium"}
+{"id":"QA-004","domain":"schema","reviewer_a":2,"reviewer_b":1,"adjudicated":1,"severity":"medium"}
+{"id":"QA-005","domain":"instruction","reviewer_a":0,"reviewer_b":0,"adjudicated":0,"severity":"high"}
+{"id":"QA-006","domain":"groundedness","reviewer_a":1,"reviewer_b":2,"adjudicated":1,"severity":"low"}
