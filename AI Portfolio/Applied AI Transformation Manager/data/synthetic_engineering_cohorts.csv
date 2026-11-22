@@ -1,0 +1,4 @@
+account,eligible_engineers,activated_engineers,tasks_per_active_engineer_week,baseline_minutes_per_task,human_minutes_after_success,task_success_share,review_minutes_per_attempt,rework_share_of_successful_tasks,rework_minutes_per_reworked_task,exception_share,exception_minutes_per_exception,oversight_hours_month,monthly_agent_license_usd,monthly_enablement_support_usd,loaded_hourly_rate_usd,baseline_measured,independent_quality_gate,security_signoff,executive_approval
+Fictional UAE Banking Group,1200,450,4,72,18,0.72,6,0.12,30,0.15,14,100,25000,6000,75,false,false,true,false
+Fictional KSA Telecom,1800,850,5,50,20,0.60,8,0.24,35,0.18,20,250,50000,9000,65,false,false,false,false
+Fictional GCC Software Group,600,220,8,38,11,0.80,4,0.10,12,0.08,12,50,18000,3000,70,false,true,true,false
