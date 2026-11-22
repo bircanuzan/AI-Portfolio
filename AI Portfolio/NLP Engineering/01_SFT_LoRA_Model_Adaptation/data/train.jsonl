@@ -1,0 +1,18 @@
+{"id":"TR-001","message":"My invoice shows two charges for the same subscription.","intent":"billing"}
+{"id":"TR-002","message":"Can you explain the additional tax on this receipt?","intent":"billing"}
+{"id":"TR-003","message":"I need a copy of last month's payment receipt.","intent":"billing"}
+{"id":"TR-004","message":"Why was my card billed after I cancelled?","intent":"billing"}
+{"id":"TR-005","message":"The refund has not reached my account.","intent":"billing"}
+{"id":"TR-006","message":"Can I change the billing address on my account?","intent":"billing"}
+{"id":"TR-007","message":"The app freezes after I tap sign in.","intent":"technical"}
+{"id":"TR-008","message":"I see a server error when submitting the form.","intent":"technical"}
+{"id":"TR-009","message":"The password reset page will not load.","intent":"technical"}
+{"id":"TR-010","message":"My dashboard is blank on the mobile app.","intent":"technical"}
+{"id":"TR-011","message":"The integration fails with a timeout error.","intent":"technical"}
+{"id":"TR-012","message":"The export button returns a broken file.","intent":"technical"}
+{"id":"TR-013","message":"What is the tallest mountain in South America?","intent":"unknown"}
+{"id":"TR-014","message":"Recommend a recipe for mushroom soup.","intent":"unknown"}
+{"id":"TR-015","message":"Please write a poem about a sunrise.","intent":"unknown"}
+{"id":"TR-016","message":"Where can I find train schedules for Paris?","intent":"unknown"}
+{"id":"TR-017","message":"What movies are showing this evening?","intent":"unknown"}
+{"id":"TR-018","message":"How do I grow tomatoes on a balcony?","intent":"unknown"}
