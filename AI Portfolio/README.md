@@ -16,6 +16,10 @@ Select a domain below, then open an individual project subfolder. Projects are i
 | Technology Architecture & Systems Integration | [Open 4 project entries](08_Technology_Architecture_and_Integration/) |
 | AI Cost & Usage Optimisation | [Open 4 project entries](09_AI_Cost_and_Usage_Optimisation/) |
 
+## Project Management - AI Evaluation
+
+**[Open standalone project and Python evaluation suite](Project%20Management%20-%20AI%20Evaluation/)** — six synthetic PM reasoning cases with reference calculations for schedule, cost, capacity, risk, Scrum planning and change governance; human-review rubrics and test coverage. Not a live LLM quality result.
+
 ## AI model training, expert feedback, and model improvement
 
 **[Explore 8 role-based AI model training projects](AI%20model%20training%2C%20expert%20feedback%2C%20and%20model%20improvement/)** — domain-expert AI Trainer; LLM Evaluator; AI Agent Evaluator; RLHF Preference Evaluator; AI Training Quality Lead; AI Red Teaming; AI Training Data Quality; and SFT/LLM Fine-Tuning. Each entry includes synthetic case data, a reproducible demonstration script, methodology, technical skills and measurement plan. The RLHF mini-lab is educational, while SFT/LoRA model training is an optional script **not** claimed as executed.
