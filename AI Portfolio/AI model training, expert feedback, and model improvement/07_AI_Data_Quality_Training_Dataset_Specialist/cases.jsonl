@@ -1,0 +1,8 @@
+{"id":"DS-001","split":"train","label":"billing","message":"Where is my refund?"}
+{"id":"DS-002","split":"train","label":"technical","message":"The app freezes during login."}
+{"id":"DS-003","split":"validation","label":"billing","message":"Where is my refund?"}
+{"id":"DS-004","split":"test","label":"unknown","message":"How do I plant lavender?"}
+{"id":"DS-005","split":"train","label":"other","message":"What is this service?"}
+{"id":"DS-006","split":"train","label":"technical","message":"Do not send this to example@example.com"}
+{"id":"DS-007","split":"test","label":"technical","message":"The API call times out."}
+{"id":"DS-007","split":"validation","label":"technical","message":"Service dashboard is broken."}
