@@ -6,6 +6,8 @@ Exploratory analysis, ML baselines, data and model evaluation, experiment tracki
 
 ## Projects
 
+- **[Machine Learning Frameworks & LLM Inference Lab](Machine_Learning_Frameworks_and_LLM_Inference_Lab/)** — NumPy/SciPy baseline, optional PyTorch/JAX training examples, and vLLM/SGLang/llama.cpp serving test client (educational; deployment not verified).
+
 - **[Machine Learning Research & Evaluation](Machine_Learning_Research_and_Evaluation/)** — Executable, synthetic-data Python baseline comparison, classification metrics, reproducibility and subgroup diagnostics.
 
 - **[AI Model Evaluation](AI_Model_Evaluation/)** — Synthetic model evaluation, classifier and forecasting demonstration projects.
