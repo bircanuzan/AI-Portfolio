@@ -20,6 +20,10 @@ Select a domain below, then open an individual project subfolder. Projects are i
 
 **[Open standalone project and Python evaluation suite](Project%20Management%20-%20AI%20Evaluation/)** — six synthetic PM reasoning cases with reference calculations for schedule, cost, capacity, risk, Scrum planning and change governance; human-review rubrics and test coverage. Not a live LLM quality result.
 
+## Instructional Design Expert
+
+**[View project and executable evaluation suite](Instructional%20Design%20Expert/)** — original learning-experience AI evaluation case study covering learning objectives, assessment validity, accessibility, digital delivery, pedagogical evidence, human rubrics and synthetic Python/JSONL QA. No commissioned client work or measured model results implied.
+
 ## AI model training, expert feedback, and model improvement
 
 **[Explore 8 role-based AI model training projects](AI%20model%20training%2C%20expert%20feedback%2C%20and%20model%20improvement/)** — domain-expert AI Trainer; LLM Evaluator; AI Agent Evaluator; RLHF Preference Evaluator; AI Training Quality Lead; AI Red Teaming; AI Training Data Quality; and SFT/LLM Fine-Tuning. Each entry includes synthetic case data, a reproducible demonstration script, methodology, technical skills and measurement plan. The RLHF mini-lab is educational, while SFT/LoRA model training is an optional script **not** claimed as executed.
