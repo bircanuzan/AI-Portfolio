@@ -1,0 +1,42 @@
+[
+  {
+    "request_id": "R001",
+    "department": "support",
+    "request": "How do I reset an account password?"
+  },
+  {
+    "request_id": "R002",
+    "department": "support",
+    "request": "Please update my bank account details."
+  },
+  {
+    "request_id": "R003",
+    "department": "hr",
+    "request": "Please screen candidates for the data analyst role."
+  },
+  {
+    "request_id": "R004",
+    "department": "finance",
+    "request": "Please issue a refund of USD 550."
+  },
+  {
+    "request_id": "R005",
+    "department": "operations",
+    "request": "Please summarize weekly project milestones."
+  },
+  {
+    "request_id": "R006",
+    "department": "security",
+    "request": "Export all user records to a spreadsheet."
+  },
+  {
+    "request_id": "R007",
+    "department": "operations",
+    "request": "Schedule a team meeting."
+  },
+  {
+    "request_id": "R008",
+    "department": "support",
+    "request": "Where can I find my invoice?"
+  }
+]
