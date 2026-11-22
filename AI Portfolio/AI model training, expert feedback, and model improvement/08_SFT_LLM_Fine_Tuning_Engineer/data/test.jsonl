@@ -1,0 +1,6 @@
+{"id":"TE-001","message":"The subscription amount differs from my quoted price.","intent":"billing"}
+{"id":"TE-002","message":"I need confirmation that my refund was issued.","intent":"billing"}
+{"id":"TE-003","message":"My login screen keeps spinning forever.","intent":"technical"}
+{"id":"TE-004","message":"The API endpoint responds with status 503.","intent":"technical"}
+{"id":"TE-005","message":"Help me plan a weekend hike.","intent":"unknown"}
+{"id":"TE-006","message":"What is the capital city of Peru?","intent":"unknown"}
