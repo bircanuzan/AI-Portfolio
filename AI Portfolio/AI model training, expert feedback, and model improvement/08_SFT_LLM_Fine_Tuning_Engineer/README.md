@@ -29,7 +29,18 @@ Exact intent accuracy, JSON-schema validity, unknown-label recall, training cost
 - `data/train.jsonl`, `data/validation.jsonl`, `data/test.jsonl` — synthetic support-intent examples, with a locked test split
 - `README.md` — business requirement, workflow, measurable indicators, and limitations
 
-**Run:** Python 3.10+, from this directory: `python train_lora.py`. Project 08's full LoRA training requires optional packages and model weights.
+**Run / verify:** Python 3.10+, from this directory:
+
+```bash
+python validate_data.py
+python -m unittest -v test_validate_data.py
+# Optional actual model training (downloads model weights and needs compute):
+pip install -r requirements.txt
+python train_lora.py --output-dir outputs/sft_adapter
+python evaluate_model.py --adapter outputs/sft_adapter --output outputs/eval.json
+```
+
+This is an implemented **training script**, not evidence that a LoRA model has been trained or that its performance improved. Report numeric metrics only after actually running the experiment.
 
 ## Commercial relevance / interview framing
 
