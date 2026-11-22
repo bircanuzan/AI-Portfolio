@@ -6,6 +6,8 @@ Exploratory analysis, ML baselines, data and model evaluation, experiment tracki
 
 ## Projects
 
+- **[Machine Learning Research & Evaluation](Machine_Learning_Research_and_Evaluation/)** — Executable, synthetic-data Python baseline comparison, classification metrics, reproducibility and subgroup diagnostics.
+
 - **[AI Model Evaluation](AI_Model_Evaluation/)** — Synthetic model evaluation, classifier and forecasting demonstration projects.
 - **[Machine Learning Projects](Machine_Learning_Projects/)** — ML portfolio source collection with reproducibility and evidence limitations.
 - **[Experiment Tracking](Experiment_Tracking/)** — MLflow/W&B-style example experiment records and quality thresholds.
