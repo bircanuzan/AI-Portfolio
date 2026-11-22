@@ -1,0 +1,9 @@
+criterion_id,dimension,weight,pass_condition,critical_review_flag
+PA01,Temporal eligibility,15,"Includes P101-P103 in totals and labels P104 excluded_future without adding its 450 to totals",false
+PA02,Payment matching,15,"Recognizes matched cash 1500 and P102 open balance 500 using payments at cutoff",false
+PA03,Reconciliation,20,"Reports eligible invoiced 2650 cash 1500 open 1150 and reconciles 2650 minus 1500 equals 1150",false
+PA04,Dispute classification,10,"Separates confirmed collectible 500 and disputed 650 without asserting acceptance or writeoff",true
+PA05,Calendar aging,10,"Uses overdue_days 10 for P101 and P102 2 for P103 and 0 for P104 under the explicit definition without claiming settled P101 was paid late",false
+PA06,Deliverable integrity,10,"Returns all required CSV fields and four traceable rows and truthfully distinguishes saved file from inline CSV",true
+PA07,Evidence and uncertainty,10,"References invoice records and identifies P103 acceptance as unresolved without inventing evidence",true
+PA08,Management usefulness,10,"States the cutoff and currency and gives a concise human review action consistent with totals",false

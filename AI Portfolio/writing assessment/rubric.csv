@@ -1,0 +1,6 @@
+criterion_id,dimension,weight,score_1,score_3,score_5
+WA01,Factual accuracy and support,30,"Major fabricated or contradicted claims","Mostly grounded with one material unsupported inference","All substantive claims supported and uncertainty preserved"
+WA02,Instruction adherence,25,"Misses most required elements or format","Meets several elements but misses one material requirement","Meets length audience metrics limitation and practical next step"
+WA03,Clarity and coherence,20,"Difficult to follow or internally incoherent","Understandable but contains ambiguity or unnecessary repetition","Precise concise logically organized and internally consistent"
+WA04,Tone and audience suitability,15,"Inappropriate or misleading tone for managers","Partly appropriate but promotional or overly technical","Measured professional language fully suited to managers"
+WA05,Practical usefulness,10,"Unsafe or unusable recommendation unsupported by evidence","Partly actionable but missing important safeguards","Clear feasible next action proportional to evidence with human oversight"
