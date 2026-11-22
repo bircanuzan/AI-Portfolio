@@ -1,0 +1,6 @@
+{"id":"EV-001","prompt":"I was charged twice.","expected_intent":"billing","response":"{\"intent\":\"billing\"}","human_quality":2,"notes":"Correct strict schema and label."}
+{"id":"EV-002","prompt":"My login screen is blank.","expected_intent":"technical","response":"{\"intent\":\"technical\"}","human_quality":2,"notes":"Correct strict schema and label."}
+{"id":"EV-003","prompt":"How do I cook risotto?","expected_intent":"unknown","response":"{\"intent\":\"billing\"}","human_quality":0,"notes":"Wrong intent."}
+{"id":"EV-004","prompt":"I need a refund.","expected_intent":"billing","response":"{\"intent\":\"billing\",\"text\":\"Please wait\"}","human_quality":1,"notes":"Extra unsupported key."}
+{"id":"EV-005","prompt":"Reset link times out.","expected_intent":"technical","response":"Technical error","human_quality":0,"notes":"Unstructured non-JSON response."}
+{"id":"EV-006","prompt":"Find a nearby bookstore.","expected_intent":"unknown","response":"{\"intent\":\"unknown\"}","human_quality":2,"notes":"Valid out-of-scope escalation label."}
