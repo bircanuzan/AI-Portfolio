@@ -21,6 +21,10 @@ This collection addresses **training AI models, not training people**. It demons
 
 - **[Project Management - AI Evaluation](../Project%20Management%20-%20AI%20Evaluation/)** — PMBOK/Agile/Scrum, scheduling, risk, staffing, EVM and stakeholder-change scenarios with independently calculated references and authored good/bad responses. This project is a separate cross-domain demonstration, not a ninth role folder.
 
+## Additional professional subject-matter evaluation project
+
+- **[Instructional Design Expert](../Instructional%20Design%20Expert/)** — independent learning design, digital accessibility and assessment evaluation with fictional expert examples, Python test harness and human-review rubric.
+
 ## Two technical concepts you asked to learn
 
 - **SFT (supervised fine-tuning):** shows an existing model many examples of a prompt and its desired correct response. See project 08. Optional LoRA adaptation is implemented in [the related NLP Engineering SFT lab](../NLP%20Engineering/01_SFT_LoRA_Model_Adaptation/), with synthetic training data and evaluation code.
