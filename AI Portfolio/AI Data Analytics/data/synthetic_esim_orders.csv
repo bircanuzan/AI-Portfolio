@@ -1,0 +1,10 @@
+order_id,order_date,country,channel,product,units,revenue_usd,cost_usd,data_gb,returning_customer
+ORD-001,2026-10-01,UAE,web,eSIM,1,20.00,9.00,3.0,false
+ORD-002,2026-10-02,Turkey,app,eSIM,2,45.00,20.00,8.0,true
+ORD-003,2026-10-03,UK,affiliate,eSIM,1,30.00,12.00,5.0,false
+ORD-004,2026-10-04,UAE,app,international_SIM,1,35.00,15.00,10.0,true
+ORD-005,2026-11-01,Turkey,web,eSIM,1,25.00,10.00,5.0,false
+ORD-006,2026-11-02,UK,app,eSIM,1,40.00,16.00,12.0,true
+ORD-006,2026-11-02,UK,app,eSIM,1,40.00,16.00,12.0,true
+ORD-007,2026-11-03,,web,eSIM,1,30.00,10.00,5.0,false
+ORD-008,2026-11-04,UAE,web,eSIM,1,-5.00,2.00,2.0,false
