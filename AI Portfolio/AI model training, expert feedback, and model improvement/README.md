@@ -17,6 +17,10 @@ This collection addresses **training AI models, not training people**. It demons
 7. [AI Data Quality / Training Dataset Specialist](07_AI_Data_Quality_Training_Dataset_Specialist/) — Quality-check a synthetic AI-training dataset for labeling errors, duplicates, schema problems, privacy-looking markers and split leakage.
 8. [SFT / LLM Fine-Tuning Engineer](08_SFT_LLM_Fine_Tuning_Engineer/) — Adapt a small pretrained language model to produce strict JSON support-intent labels using supervised examples, with a baseline-versus-adapter comparison.
 
+## Additional role-specific project
+
+- **[Project Management - AI Evaluation](../Project%20Management%20-%20AI%20Evaluation/)** — PMBOK/Agile/Scrum, scheduling, risk, staffing, EVM and stakeholder-change scenarios with independently calculated references and authored good/bad responses. This project is a separate cross-domain demonstration, not a ninth role folder.
+
 ## Two technical concepts you asked to learn
 
 - **SFT (supervised fine-tuning):** shows an existing model many examples of a prompt and its desired correct response. See project 08. Optional LoRA adaptation is implemented in [the related NLP Engineering SFT lab](../NLP%20Engineering/01_SFT_LoRA_Model_Adaptation/), with synthetic training data and evaluation code.
