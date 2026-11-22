@@ -1,0 +1,36 @@
+name: People Operations AI Research Contributor — Headcount and Compensation Evaluation
+
+on:
+  push:
+    paths:
+      - "AI in HR Portfolio/People Operations AI Research Contributor/**"
+      - ".github/workflows/people-operations-ai-research-contributor.yml"
+  pull_request:
+    paths:
+      - "AI in HR Portfolio/People Operations AI Research Contributor/**"
+  workflow_dispatch:
+
+jobs:
+  headcount-compensation-evaluation:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Run People Operations headcount and comp tests
+        run: python -m unittest discover -s "AI in HR Portfolio/People Operations AI Research Contributor/tests" -v
+      - name: Generate synthetic reference answer
+        run: python "AI in HR Portfolio/People Operations AI Research Contributor/src/headcount_eval.py" --output reference.json
+      - name: Grade independently generated reference
+        run: python "AI in HR Portfolio/People Operations AI Research Contributor/src/headcount_eval.py" --grade reference.json --output grading_report.json
+      - name: Publish reference and rubric evidence
+        uses: actions/upload-artifact@v4
+        with:
+          name: people-operations-synthetic-evaluation
+          path: |
+            reference.json
+            grading_report.json
+          if-no-files-found: error
