@@ -26,7 +26,7 @@ Exact intent accuracy, JSON-schema validity, unknown-label recall, training cost
 ## Portfolio deliverables
 
 - `train_lora.py` — real optional lora fine-tuning example (requires ml dependencies); dataset and checks supplied
-- `cases.jsonl` — entirely synthetic scenarios, annotations, traces or evaluation examples
+- `data/train.jsonl`, `data/validation.jsonl`, `data/test.jsonl` — synthetic support-intent examples, with a locked test split
 - `README.md` — business requirement, workflow, measurable indicators, and limitations
 
 **Run:** Python 3.10+, from this directory: `python train_lora.py`. Project 08's full LoRA training requires optional packages and model weights.
