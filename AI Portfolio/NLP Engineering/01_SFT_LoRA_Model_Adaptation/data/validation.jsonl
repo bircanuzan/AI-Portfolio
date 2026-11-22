@@ -1,0 +1,6 @@
+{"id":"VA-001","message":"Please clarify a fee that appeared on my latest statement.","intent":"billing"}
+{"id":"VA-002","message":"The receipt includes a duplicate service charge.","intent":"billing"}
+{"id":"VA-003","message":"An error code appears when I upload a document.","intent":"technical"}
+{"id":"VA-004","message":"I cannot connect the mobile app to my profile.","intent":"technical"}
+{"id":"VA-005","message":"Tell me a joke about a friendly robot.","intent":"unknown"}
+{"id":"VA-006","message":"Which planet has the most moons?","intent":"unknown"}
