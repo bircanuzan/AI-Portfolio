@@ -1,0 +1,32 @@
+name: Applied AI Transformation Manager — Net Value Scenario Tests
+
+on:
+  push:
+    paths:
+      - "AI Portfolio/Applied AI Transformation Manager/**"
+      - ".github/workflows/applied-ai-transformation-manager-tests.yml"
+  pull_request:
+    paths:
+      - "AI Portfolio/Applied AI Transformation Manager/**"
+  workflow_dispatch:
+
+jobs:
+  synthetic-net-value-lab:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Validate synthetic model and governance test cases
+        run: python -m unittest discover -s "AI Portfolio/Applied AI Transformation Manager/tests" -v
+      - name: Generate illustrative JSON scenario results
+        run: python "AI Portfolio/Applied AI Transformation Manager/src/net_value.py" > scenario_results.json
+      - name: Upload synthetic run output
+        uses: actions/upload-artifact@v4
+        with:
+          name: applied-ai-transformation-synthetic-scenarios
+          path: scenario_results.json
+          if-no-files-found: error
