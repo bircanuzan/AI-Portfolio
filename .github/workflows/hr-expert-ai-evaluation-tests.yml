@@ -1,0 +1,31 @@
+name: HR Expert AI Evaluation — Synthetic Rubric Tests
+
+on:
+  push:
+    paths:
+      - "AI in HR Portfolio/AI Evaluation - Human Resources Expertise/**"
+      - ".github/workflows/hr-expert-ai-evaluation-tests.yml"
+  pull_request:
+    paths:
+      - "AI in HR Portfolio/AI Evaluation - Human Resources Expertise/**"
+  workflow_dispatch:
+
+jobs:
+  hr-domain-evals:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Run synthetic HR model-output evaluation tests
+        run: python -m unittest discover -s "AI in HR Portfolio/AI Evaluation - Human Resources Expertise/tests" -v
+      - name: Generate synthetic evaluation report
+        run: python "AI in HR Portfolio/AI Evaluation - Human Resources Expertise/src/hr_evaluation.py" > hr_eval_report.json
+      - uses: actions/upload-artifact@v4
+        with:
+          name: hr-ai-evaluation-synthetic-report
+          path: hr_eval_report.json
+          if-no-files-found: error
