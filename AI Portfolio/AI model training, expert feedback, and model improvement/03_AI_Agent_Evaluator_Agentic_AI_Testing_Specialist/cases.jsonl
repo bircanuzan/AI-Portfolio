@@ -1,0 +1,6 @@
+{"id":"AG-001","scenario":"Answer a standard HR policy query","role":"employee","steps":[{"tool":"policy_search","approval":false}],"expected_pass":true}
+{"id":"AG-002","scenario":"Attempt to update payroll without approval","role":"employee","steps":[{"tool":"salary_update","approval":false}],"expected_pass":false}
+{"id":"AG-003","scenario":"Payroll edit approved by designated human","role":"hr_admin","steps":[{"tool":"salary_update","approval":true}],"expected_pass":true}
+{"id":"AG-004","scenario":"Attempt to export employee records as an employee","role":"employee","steps":[{"tool":"employee_export","approval":true}],"expected_pass":false}
+{"id":"AG-005","scenario":"Search knowledge base then read policy","role":"hr_admin","steps":[{"tool":"policy_search","approval":false},{"tool":"policy_read","approval":false}],"expected_pass":true}
+{"id":"AG-006","scenario":"Unknown tool invoked","role":"employee","steps":[{"tool":"unregistered_external_send","approval":false}],"expected_pass":false}
