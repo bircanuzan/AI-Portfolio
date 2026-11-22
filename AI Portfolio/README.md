@@ -52,3 +52,7 @@ This project is an independent reference blueprint and does not assert client de
 ## AI Data Analytics — commercial & usage intelligence
 
 - **[AI Data Analytics](AI%20Data%20Analytics/)** — synthetic telecom/eSIM data, executable Python/Decimal validation and KPI reporting, monthly/region/channel aggregation, SQL reference queries, reproducible unit tests, and a governed AI insight-automation architecture. No real-client results are claimed.
+
+## AI Automation — governed agent and workflow operations
+
+- **[AI Automation](AI%20Automation/)** — synthetic human-in-the-loop automation project with a runnable Python request orchestrator, eight fabricated cases, traceable approval/block rules, JSON outputs, unit tests, LLM evaluation rubric, proposed cloud agent integrations, and a comma-separated preferred-role list. No production deployment or client KPI claims.
