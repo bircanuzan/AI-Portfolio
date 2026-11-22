@@ -48,3 +48,7 @@ These four new entries are design-stage reference projects, with proposed KPIs r
 - **[AI Solutions Management](AI%20Solutions%20Management/)** — multi-entity AI product ownership, tool register, vendor/licensing decisions, Security/Legal/DPO gates, rollouts, adoption, support escalation, and a runnable synthetic cost/usage/ROI report.
 
 This project is an independent reference blueprint and does not assert client deployment or verified commercial savings.
+
+## AI Data Analytics — commercial & usage intelligence
+
+- **[AI Data Analytics](AI%20Data%20Analytics/)** — synthetic telecom/eSIM data, executable Python/Decimal validation and KPI reporting, monthly/region/channel aggregation, SQL reference queries, reproducible unit tests, and a governed AI insight-automation architecture. No real-client results are claimed.
