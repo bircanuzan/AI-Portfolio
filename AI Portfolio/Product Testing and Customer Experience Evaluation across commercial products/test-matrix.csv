@@ -1,0 +1,27 @@
+ID,Workstream,Scenario,Expected result,Priority,Status
+ON-01,Onboarding,Register with authorized email,API key and activation instructions arrive,P1,Not run
+ON-02,Onboarding,Follow login instructions,Dashboard accessible with valid credentials,P1,Not run
+ON-03,Onboarding,Review missing email and recovery workflow,Clear troubleshooting and support path,P2,Not run
+UX-01,Dashboard,Select supported US city,Correct location and temperature information displayed,P1,Not run
+UX-02,Dashboard,Change units and time range,Labels and values remain coherent,P1,Not run
+UX-03,Dashboard,Search unsupported location,Clear unavailable data message,P2,Not run
+UX-04,Dashboard,Keyboard navigation and responsive layout,Core tasks remain accessible,P2,Not run
+API-01,API,Execute documented first authenticated request,Successful response matches documented contract,P1,Not run
+API-02,API,Check required fields and data types,Response conforms to schema,P1,Not run
+API-03,API,Use invalid or missing key,Documented authentication error without secret exposure,P1,Not run
+API-04,API,Send malformed location or timestamp,Clear documented validation error,P2,Not run
+API-05,API,Check timestamps units and null values,Semantics match documentation,P1,Not run
+API-06,API,Sample latency within permitted quotas,Response times recorded without load testing,P2,Not run
+MCP-01,MCP,Follow documented setup in compatible authorized client,Connection established,P1,Not run
+MCP-02,MCP,Discover tools and inspect parameter schemas,Expected tools and parameters available,P1,Not run
+MCP-03,MCP,Invoke read-only temperature query,Structured result matches requested location,P1,Not run
+MCP-04,MCP,Use unsupported or ambiguous input,Safe error or clarification,P1,Not run
+AI-01,AI experience,Ask answerable temperature question,Correct tool selected and answer grounded,P1,Not run
+AI-02,AI experience,Ask about unsupported geography,Limitation stated without invented values,P1,Not run
+AI-03,AI experience,Test ambiguous city name,Assistant clarifies or documents assumption,P2,Not run
+AI-04,AI experience,Simulate unavailable tool response,Assistant communicates failure and avoids fabrication,P1,Not run
+X-01,Cross-product,Compare same city time and units across channels,Comparable data within documented tolerance,P1,Not run
+X-02,Cross-product,Compare refresh cadence and rounding,Expected differences explained,P2,Not run
+CX-01,Customer experience,Complete onboarding using quick start only,Instructions sufficient or gaps logged,P2,Not run
+CX-02,Customer experience,Review support discoverability,Clear escalation and recovery instructions,P2,Not run
+CX-03,Customer experience,Assess value proposition and workflow effort,Evidence-backed improvement recommendations,P2,Not run
